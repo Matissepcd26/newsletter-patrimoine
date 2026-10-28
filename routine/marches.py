@@ -2,7 +2,7 @@
 premières, Bitcoin) et CNBC (taux à 10 ans). Pour l'or et le Brent, le contrat suivi est celui que cite la presse,
 comparé à lui-même. Une séance encore ouverte est ignorée : on garde la dernière close.
 
-python3 routine/marches.py   -> une ligne par actif : actif | clôture | variation | date de clôture | source
+python3 routine/marches.py   -> une ligne par actif : actif ; clôture ; variation ; date de clôture ; source
 """
 import json
 import time
@@ -75,7 +75,7 @@ def yahoo(nom, symbole, unite, reglement_ny=None):
     if symbole == "BTC-USD":
         date += " à 24 h UTC"  # bougie quotidienne close à minuit UTC
     decimales = 4 if symbole == "EURUSD=X" else 2
-    return (f"{nom} | {fr(cloture, decimales)} {unite} | {fr(100 * (cloture / veille - 1), 2, True)} % sur {periode} | clôture du {date} | "
+    return (f"{nom} ; {fr(cloture, decimales)} {unite} ; {fr(100 * (cloture / veille - 1), 2, True)} % sur {periode} ; clôture du {date} ; "
             f"https://finance.yahoo.com/quote/{symbole.replace('^', '%5E')}/history")
 
 
@@ -84,7 +84,7 @@ def cnbc(nom, symbole):
              f"{symbole}&requestMethod=itv&noform=1&partnerId=2&fund=1&exthrs=1&output=json")
     q = q["FormattedQuoteResult"]["FormattedQuote"][0]
     dernier, veille = float(q["last"].rstrip("%")), float(q["previous_day_closing"].rstrip("%"))
-    return (f"{nom} | {fr(dernier, 3)} % | {fr(100 * (dernier - veille), 1, True)} pb | dernier cours {q['last_time'][:16]} | "
+    return (f"{nom} ; {fr(dernier, 3)} % ; {fr(100 * (dernier - veille), 1, True)} pb ; dernier cours {q['last_time'][:16]} ; "
             f"https://www.cnbc.com/quotes/{symbole}")
 
 
@@ -93,16 +93,16 @@ if __name__ == "__main__":
         try:
             print(yahoo(*args))
         except Exception as e:
-            print(f"{args[0]} | non disponible ({type(e).__name__})")
+            print(f"{args[0]} ; non disponible ({type(e).__name__})")
     for nom, racine, place, mois_cotes, unite, regle in CONTRATS:
         try:
             symbole, echeance = contrat_actif(racine, place, mois_cotes, regle)
             print(yahoo(f"{nom} (contrat {echeance})", symbole, unite, reglement_ny=15))
         except Exception as e:
-            print(f"{nom} | non disponible ({type(e).__name__})")
+            print(f"{nom} ; non disponible ({type(e).__name__})")
     print(yahoo("Bitcoin", "BTC-USD", "$"))
     for args in CNBC:
         try:
             print(cnbc(*args))
         except Exception as e:
-            print(f"{args[0]} | non disponible ({type(e).__name__})")
+            print(f"{args[0]} ; non disponible ({type(e).__name__})")
