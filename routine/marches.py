@@ -4,6 +4,8 @@ comparé à lui-même. Une séance encore ouverte est ignorée : on garde la der
 
 python3 routine/marches.py   -> une ligne par actif : actif ; clôture ; variation ; date de clôture ; source
 """
+import csv
+import io
 import json
 import time
 import urllib.request
@@ -11,7 +13,7 @@ from datetime import datetime, time as heure, timezone
 from zoneinfo import ZoneInfo
 
 YAHOO = [("CAC 40", "^FCHI", "pts"), ("S&P 500", "^GSPC", "pts"), ("Nasdaq Composite", "^IXIC", "pts"),
-         ("Euro Stoxx 50", "^STOXX50E", "pts"), ("EUR/USD", "EURUSD=X", "")]
+         ("Euro Stoxx 50", "^STOXX50E", "pts")]
 # Futures : racine Yahoo, place, mois d'échéance cotés, unité, règle de la presse (or : échéance la plus
 # active ; Brent : échéance la plus proche encore cotée).
 CONTRATS = [("Or", "GC", "CMX", (2, 4, 6, 8, 10, 12), "$/once", "active"),
@@ -74,9 +76,23 @@ def yahoo(nom, symbole, unite, reglement_ny=None):
     date = datetime.fromtimestamp(t, ZoneInfo("America/New_York") if reglement_ny else timezone.utc).strftime("%d/%m/%Y")
     if symbole == "BTC-USD":
         date += " à 24 h UTC"  # bougie quotidienne close à minuit UTC
-    decimales = 4 if symbole == "EURUSD=X" else 2
+    decimales = 2
     return (f"{nom} ; {fr(cloture, decimales)} {unite} ; {fr(100 * (cloture / veille - 1), 2, True)} % sur {periode} ; clôture du {date} ; "
             f"https://finance.yahoo.com/quote/{symbole.replace('^', '%5E')}/history")
+
+
+def bce():
+    """EUR/USD : taux de référence officiel de la BCE (la « clôture » quotidienne de Yahoo est un cours d'ouverture)."""
+    requete = urllib.request.Request("https://data-api.ecb.europa.eu/service/data/EXR/D.USD.EUR.SP00.A"
+                                     "?lastNObservations=6&format=csvdata", headers={"User-Agent": "Mozilla/5.0"})
+    lignes = list(csv.DictReader(io.StringIO(urllib.request.urlopen(requete, timeout=20).read().decode())))
+    semaine = datetime.now(ZoneInfo("Europe/Paris")).weekday() >= 5
+    reference, dernier = lignes[0 if semaine else -2], lignes[-1]
+    v, r = float(dernier["OBS_VALUE"]), float(reference["OBS_VALUE"])
+    date = datetime.strptime(dernier["TIME_PERIOD"], "%Y-%m-%d").strftime("%d/%m/%Y")
+    return (f"EUR/USD (taux de référence BCE) ; {fr(v, 4)} ; {fr(100 * (v / r - 1), 2, True)} % sur "
+            f"{'la semaine' if semaine else 'la séance'} ; taux du {date} ; "
+            "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html")
 
 
 def cnbc(nom, symbole):
@@ -101,6 +117,10 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"{nom} ; non disponible ({type(e).__name__})")
     print(yahoo("Bitcoin", "BTC-USD", "$"))
+    try:
+        print(bce())
+    except Exception as e:
+        print(f"EUR/USD ; non disponible ({type(e).__name__})")
     for args in CNBC:
         try:
             print(cnbc(*args))
