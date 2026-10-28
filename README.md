@@ -10,7 +10,7 @@ Newsletter patrimoniale quotidienne pour un étudiant de M2 Gestion de patrimoin
 
 ## Archives
 
-Toutes les newsletters et leurs fiches Focus, classées par thème et consultables avec une recherche : <https://matissepcd26.github.io/newsletter-patrimoine/>. Après chaque envoi, la routine les ajoute sur la branche `claude/archives`, publiée par GitHub Pages.
+Toutes les newsletters et leurs fiches Focus, classées par thème et consultables avec une recherche : <https://le-coffre-patrimoine.vercel.app> (relais Vercel de GitHub Pages). Après chaque envoi, la routine les ajoute sur la branche `claude/archives`, publiée par GitHub Pages.
 
 ## Qualité
 
