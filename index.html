@@ -3,15 +3,19 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Le Coffre | Archives du Café Patrimoine</title>
+<title>Le Coffre</title>
 <meta name="description" content="Archives de la newsletter patrimoniale quotidienne et fiches Focus M2 classées par thème.">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css">
 <link rel="stylesheet" href="styles.css">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="logo.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="theme-color" content="#16301f">
 </head>
 <body>
 <div class="gate" id="entree" hidden>
   <div class="gate-art">
-    <strong>Le Coffre</strong>
+    <img src="logo.svg" alt="Le Coffre" width="52" height="52">
     <div><h1>Ouvre ton coffre.</h1><p>Chaque édition du Café Patrimoine, ses fiches Focus et les sources de chaque chiffre, rangées au même endroit.</p></div>
     <p class="meta" style="color:inherit;opacity:.7">Archives réservées au lecteur de la newsletter.</p>
   </div>
@@ -29,12 +33,12 @@
 </div>
 <div class="shell">
   <aside class="side">
-    <a class="brand" href="#/"><strong>Le Coffre</strong><span>Archives du Café Patrimoine</span></a>
+    <a class="brand" href="#/"><img src="logo.svg" alt="" width="40" height="40"><strong class="lbl">Le Coffre</strong></a>
     <nav class="nav" aria-label="Navigation principale">
-      <a href="#/" data-vue="accueil"><i class="ph ph-house"></i>Accueil</a>
-      <a href="#/fiches" data-vue="fiches"><i class="ph ph-cards"></i>Fiches Focus</a>
-      <a href="#/historique" data-vue="historique"><i class="ph ph-calendar-blank"></i>Historique</a>
-      <a href="#/a-propos" data-vue="a-propos"><i class="ph ph-info"></i>À propos</a>
+      <a href="#/" data-vue="accueil"><i class="ph ph-house"></i><span class="lbl">Accueil</span></a>
+      <a href="#/fiches" data-vue="fiches"><i class="ph ph-cards"></i><span class="lbl">Fiches Focus</span></a>
+      <a href="#/historique" data-vue="historique"><i class="ph ph-calendar-blank"></i><span class="lbl">Historique</span></a>
+      <a href="#/a-propos" data-vue="a-propos"><i class="ph ph-info"></i><span class="lbl">À propos</span></a>
     </nav>
     <div class="side-themes" id="themes-lateraux"></div>
     <div class="profil" id="profil"></div>

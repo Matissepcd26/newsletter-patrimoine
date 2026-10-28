@@ -66,6 +66,7 @@ function saisie(ev) {
 }
 
 async function init() {
+  if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
   addEventListener("hashchange", route);
   try { profil = JSON.parse(localStorage.getItem(PROFIL) || sessionStorage.getItem(PROFIL)); } catch { profil = null; }
   $("#formulaire").addEventListener("submit", ouvrir);
