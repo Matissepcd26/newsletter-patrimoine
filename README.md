@@ -4,9 +4,16 @@ Newsletter patrimoniale quotidienne pour un étudiant de M2 Gestion de patrimoin
 
 ## Fonctionnement
 
-- Une **routine Claude** (<https://claude.ai/code/routines>) se lance chaque jour à 6h30 UTC, soit 7h30 en hiver et 8h30 en été à Paris. Elle tourne sur l'abonnement Claude du propriétaire, sans aucun coût supplémentaire.
+- Une **routine Claude** (<https://claude.ai/code/routines>) se lance chaque jour à 7h25 heure de Paris, toute l'année. Elle tourne sur l'abonnement Claude du propriétaire, sans aucun coût supplémentaire.
 - La routine travaille sur une copie de ce dépôt et suit `routine/procedure.md`. Elle cherche l'actualité, rédige la newsletter et vérifie les 9 sections. Elle attend ensuite 9h00 et envoie l'email avec le connecteur Gmail du propriétaire.
 - Les newsletters envoyées restent dans la boîte « Envoyés » de Gmail. Chaque matin, la routine y relit les sujets de Focus des 30 derniers jours pour ne pas les répéter.
+
+## Qualité
+
+- `routine/marches.py` lit les 10 dernières clôtures de marché (Yahoo Finance, CNBC) avant toute recherche.
+- `routine/outils.py chiffres` refuse tout chiffre de la newsletter absent du journal des faits. `routine/outils.py journal` refuse tout fait dont l'extrait cité ne contient pas la valeur.
+- Avant l'envoi, un sous-agent neuf revérifie chaque fait, et `eval/evaluer.py` contrôle le cahier des charges.
+- La note de référence est définie dans `eval/grille.md`, sur 100 points. Une routine « TEST » envoie des versions de test au propriétaire seulement, avec « [TEST] » dans l'objet.
 
 ## Modifier
 
