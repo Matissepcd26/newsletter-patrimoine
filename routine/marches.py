@@ -1,5 +1,6 @@
 """Dernières clôtures des 10 actifs de la rubrique marchés, depuis Yahoo Finance (indices, change, matières
-premières, Bitcoin) et CNBC (taux à 10 ans). Une séance encore ouverte est ignorée : on garde la dernière close.
+premières, Bitcoin) et CNBC (taux à 10 ans). Pour l'or et le Brent, le contrat suivi est celui que cite la presse,
+comparé à lui-même. Une séance encore ouverte est ignorée : on garde la dernière close.
 
 python3 routine/marches.py   -> une ligne par actif : actif | clôture | variation | date de clôture | source
 """
@@ -10,8 +11,13 @@ from datetime import datetime, timezone
 from zoneinfo import ZoneInfo
 
 YAHOO = [("CAC 40", "^FCHI", "pts"), ("S&P 500", "^GSPC", "pts"), ("Nasdaq Composite", "^IXIC", "pts"),
-         ("Euro Stoxx 50", "^STOXX50E", "pts"), ("EUR/USD", "EURUSD=X", ""), ("Or", "GC=F", "$/once"),
-         ("Brent", "BZ=F", "$/baril"), ("Bitcoin", "BTC-USD", "$")]
+         ("Euro Stoxx 50", "^STOXX50E", "pts"), ("EUR/USD", "EURUSD=X", "")]
+# Futures : racine Yahoo, place, mois d'échéance cotés, unité, règle de la presse (or : échéance la plus
+# active ; Brent : échéance la plus proche encore cotée).
+CONTRATS = [("Or", "GC", "CMX", (2, 4, 6, 8, 10, 12), "$/once", "active"),
+            ("Brent", "BZ", "NYM", range(1, 13), "$/baril", "proche")]
+CODES = "FGHJKMNQUVXZ"
+MOIS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."]
 CNBC = [("OAT 10 ans", "FR10Y-FR"), ("Bund 10 ans", "DE10Y-DE")]
 
 
@@ -25,8 +31,30 @@ def lire(url):
     return json.load(urllib.request.urlopen(requete, timeout=20))
 
 
+def graphe(symbole):
+    return lire(f"https://query1.finance.yahoo.com/v8/finance/chart/{symbole}?range=15d&interval=1d")["chart"]["result"][0]
+
+
+def contrat_actif(racine, place, mois_cotes, regle):
+    """Échéance suivie par la presse, comparée à elle-même (pas de saut de contrat)."""
+    maintenant, candidats = datetime.now(timezone.utc), []
+    for i in range(4):
+        mois, annee = (maintenant.month - 1 + i) % 12 + 1, maintenant.year + (maintenant.month - 1 + i) // 12
+        if mois in mois_cotes:
+            symbole = f"{racine}{CODES[mois - 1]}{annee % 100:02d}.{place}"
+            try:
+                g = graphe(symbole)
+                if g["timestamp"][-1] < time.time() - 5 * 86400:
+                    continue  # échéance expirée
+                volume = max(v or 0 for v in g["indicators"]["quote"][0]["volume"][-3:])
+                candidats.append((volume if regle == "active" else -i, symbole, f"{MOIS[mois - 1]} {annee}"))
+            except Exception:
+                pass
+    return max(candidats)[1:]
+
+
 def yahoo(nom, symbole, unite):
-    r = lire(f"https://query1.finance.yahoo.com/v8/finance/chart/{symbole}?range=15d&interval=1d")["chart"]["result"][0]
+    r = graphe(symbole)
     barres = [(t, c) for t, c in zip(r["timestamp"], r["indicators"]["quote"][0]["close"]) if c is not None]
     if r["meta"]["currentTradingPeriod"]["regular"]["end"] > time.time():
         barres = barres[:-1]  # séance du jour encore ouverte
@@ -55,6 +83,13 @@ if __name__ == "__main__":
             print(yahoo(*args))
         except Exception as e:
             print(f"{args[0]} | non disponible ({type(e).__name__})")
+    for nom, racine, place, mois_cotes, unite, regle in CONTRATS:
+        try:
+            symbole, echeance = contrat_actif(racine, place, mois_cotes, regle)
+            print(yahoo(f"{nom} (contrat {echeance})", symbole, unite))
+        except Exception as e:
+            print(f"{nom} | non disponible ({type(e).__name__})")
+    print(yahoo("Bitcoin", "BTC-USD", "$"))
     for args in CNBC:
         try:
             print(cnbc(*args))

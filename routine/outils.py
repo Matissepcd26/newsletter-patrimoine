@@ -122,5 +122,38 @@ def journal():
     print(f"EXTRAITS_FAUTIFS={fautes}")
 
 
+def corps_actualite():
+    """Texte des rubriques d'actualité (avant le Focus), où une date ou un jugement doit être justifié."""
+    fragment = open("/tmp/fragment.html", encoding="utf-8").read()
+    return normaliser(re.split(r"<h2[^>]*>\s*Focus", fragment)[0])
+
+
+def fenetre_ok():
+    """Jours de semaine antérieurs à la fenêtre cités sans « pour rappel » : actualité hors fenêtre probable."""
+    now = datetime.now(ZoneInfo("Europe/Paris"))
+    recul = {0: 3, 5: 5, 6: 2}.get(now.weekday(), 1)  # jours entre aujourd'hui et le début de la fenêtre
+    avant = {JOURS[(now - timedelta(days=d)).weekday()] for d in range(recul + 1, 7)}
+    corps, n = corps_actualite(), 0
+    for m in re.finditer(r"\b(" + "|".join(avant) + r")\b", corps, re.I):
+        contexte = corps[max(0, m.start() - 90):m.end() + 40]
+        if not re.search(r"pour rappel|depuis|prochain|à venir|attendu", contexte, re.I):
+            n += 1
+            print(f"A_VERIFIER_FENETRE={m.group()} … {contexte}")
+    print(f"A_VERIFIER_FENETRE_TOTAL={n}")
+
+
+def opinions():
+    """Phrases de jugement sans marqueur d'opinion ni attribution : à baliser ou à reformuler en fait sourcé."""
+    jugement = (r"\b(jamais|pire|inquiétant\w*|cruel\w*|paradoxe|spectaculaire|signe que|redout\w+|absurde|"
+                r"brutal\w*|dramatique\w*|alarmant\w*|évident\w*|clairement|forcément|décroch\w+|fiasco|"
+                r"surréaliste|incroyable\w*|remarquable\w*|scandal\w+)\b")
+    n = 0
+    for phrase in re.split(r"(?<=[.!?])\s+", corps_actualite()):
+        if re.search(jugement, phrase, re.I) and not re.search(r"mon avis|à mon sens|selon|d'après|estime|juge", phrase, re.I):
+            n += 1
+            print(f"A_VERIFIER_OPINION={phrase[:140]}")
+    print(f"A_VERIFIER_OPINION_TOTAL={n}")
+
+
 if __name__ == "__main__":
-    {"variables": variables, "chiffres": chiffres, "journal": journal}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
+    {"variables": variables, "chiffres": chiffres, "journal": journal, "fenetre": fenetre_ok, "opinions": opinions}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
