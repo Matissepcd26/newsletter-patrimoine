@@ -8,6 +8,10 @@ Newsletter patrimoniale quotidienne pour un étudiant de M2 Gestion de patrimoin
 - La routine travaille sur une copie de ce dépôt et suit `routine/procedure.md`. Elle cherche l'actualité, rédige la newsletter et vérifie les 9 sections. Elle attend ensuite 9h00 et envoie l'email avec le connecteur Gmail du propriétaire.
 - Les newsletters envoyées restent dans la boîte « Envoyés » de Gmail. Chaque matin, la routine y relit les sujets de Focus des 30 derniers jours pour ne pas les répéter.
 
+## Archives
+
+Toutes les newsletters et leurs fiches Focus, classées par thème et consultables avec une recherche : <https://matissepcd26.github.io/newsletter-patrimoine/>. Après chaque envoi, la routine les ajoute sur la branche `claude/archives`, publiée par GitHub Pages.
+
 ## Qualité
 
 - `routine/marches.py` lit les 10 dernières clôtures de marché (Yahoo Finance, CNBC) avant toute recherche.
