@@ -1,22 +1,24 @@
-// Le Coffre : réglage du modèle du mail. L'aperçu reprend routine/outils.py (styles, gabarit) : garder les deux alignés.
-const API_MODELE = "api/modele";
+// Le Coffre : réglage du modèle du mail. L'aperçu reprend routine/outils.py (styles, mail) : garder les deux alignés.
+const API_MODELE = "api/modele", SITE = "https://le-coffre-patrimoine.vercel.app";
 const OPTIONNELLES = ["Les marchés en un coup d'œil", "Banques centrales et macro", "Monde et sujets sensibles", "Le chiffre du jour", "À surveiller aujourd'hui"];
 const RUBRIQUES = ["L'édito", OPTIONNELLES[0], OPTIONNELLES[1], "France : épargne, fiscalité, immobilier", OPTIONNELLES[2], "Focus M2", OPTIONNELLES[3], OPTIONNELLES[4]];
 const POLICES_MAIL = {serif: "Georgia,'Times New Roman',serif", sans: "'Helvetica Neue',Helvetica,Arial,sans-serif",
   systeme: "-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif"};
-const PALETTES = {Classique: ["#1a2b4c", "#1a5fb4", "#f4f1ea", "#ffffff"], Encre: ["#09090b", "#9a5b00", "#f4f4f5", "#ffffff"],
+const PALETTES = {Coffre: ["#111113", "#9a5b00", "#f2f2f3", "#ffffff"], Marine: ["#14213d", "#1a5fb4", "#eef1f6", "#ffffff"],
   Forêt: ["#1f4d3a", "#1f6f8b", "#eef2ec", "#ffffff"], Bordeaux: ["#6b1d2a", "#8a2a3a", "#f6f0ee", "#ffffff"], Nuit: ["#ffb547", "#7cb4ff", "#0b0b0d", "#16161a"]};
-const ORIGINE = {style: {accent: "#1a2b4c", lien: "#1a5fb4", fond: "#f4f1ea", carte: "#ffffff", police: "serif", taille: 16, largeur: 640, titres: "filet"},
-  contenu: {masquees: [], ajouts: [], suivre: [], note: ""}};
+const ORIGINE = {style: {accent: "#111113", lien: "#9a5b00", fond: "#f2f2f3", carte: "#ffffff", police: "sans", taille: 16, largeur: 680, titres: "numero",
+    entete: "plein", arrondis: 12, densite: "aere", encadres: true, marches: "tableau"},
+  contenu: {format: "condense", essentiel: true, bouton: true, ordre: RUBRIQUES, masquees: [], ajouts: [], suivre: [], note: ""}};
 const EXEMPLES = {
-  "L'édito": "<p><strong>Texte d'exemple.</strong> L'édito résume en quelques lignes ce qui compte ce matin pour l'épargne, les marchés et tes révisions.</p>",
-  "Les marchés en un coup d'œil": "<ul><li>CAC 40 : 0 000,00 pts ; +0,00 % sur la séance ; clôture du jj/mm/aaaa</li><li>OAT 10 ans : 0,000 % ; +0,0 pb</li></ul><p>Chaque mouvement est expliqué et daté.</p>",
+  "L'essentiel": "<ul><li>La Fed garde ses taux, mais deux membres voulaient déjà les relever.</li><li>À Paris, le CAC 40 finit stable avant la BCE.</li><li>Focus : la duration, ou pourquoi une obligation perd quand les taux montent.</li></ul>",
+  "L'édito": "<p><strong>Texte d'exemple.</strong> L'édito dit en quelques lignes ce qui compte ce matin pour l'épargne, les marchés et les révisions.</p>",
+  "Les marchés en un coup d'œil": "<ul><li>CAC 40 : 7 886,96 pts ; 0,00 % ; stable avant la Fed</li><li>S&amp;P 500 : 7 743,98 pts ; +0,28 %</li><li>OAT 10 ans : 4,93 % ; +1,0 pb</li><li>Brent : 114,19 $/baril ; -0,52 %</li></ul><p>Chaque mouvement est expliqué et daté.</p>",
   "Banques centrales et macro": "<p>Décisions de la BCE et de la Fed, inflation, emploi : les chiffres viennent des sites des institutions.</p>",
-  "France : épargne, fiscalité, immobilier": "<p>Livret A, PER, assurance vie, crédit immobilier, budget : chaque mesure indique son stade (projet, voté, en vigueur).</p>",
+  "France : épargne, fiscalité, immobilier": "<p>Livret A, PER, assurance vie, crédit immobilier, budget : chaque mesure indique son stade.</p>",
   "Monde et sujets sensibles": "<p>Les sujets disputés sont présentés avec chaque lecture et son auteur.</p>",
   "Focus M2": "<p><strong>Principe, texte de référence, exemple chiffré et piège d'examen</strong>, avec les liens Légifrance et BOFiP.</p>",
-  "Le chiffre du jour": "<p><strong>0,0 %</strong> : un chiffre, sa source et pourquoi il compte.</p>",
-  "À surveiller aujourd'hui": "<ul><li>10 h 00 : publication attendue, avec l'heure de Paris</li></ul>",
+  "Le chiffre du jour": "<p><strong>3,8 %</strong> : l'inflation de la zone euro en septembre, son plus haut depuis deux ans.</p>",
+  "À surveiller aujourd'hui": "<ul><li>14 h 15 : décision de la BCE, conférence de presse à 14 h 45</li></ul>",
 };
 let modele = null, modeleDate = null, cleSession = "";
 
@@ -25,48 +27,96 @@ const luminance = h => [1, 3, 5].map(i => parseInt(h.slice(i, i + 2), 16) / 255)
   .reduce((s, v, i) => s + v * [.2126, .7152, .0722][i], 0);
 const contraste = (a, b) => { const [x, y] = [luminance(a), luminance(b)].sort((p, q) => q - p); return (x + .05) / (y + .05); };
 const clair = h => { const [r, g, b] = [1, 3, 5].map(i => parseInt(h.slice(i, i + 2), 16)); return .299 * r + .587 * g + .114 * b > 140; };
-const texteMail = st => clair(st.carte) ? "#2b2b2b" : "#ececec";
+const texteMail = st => clair(st.carte) ? "#1f1f22" : "#ececec";
+const sansBalises = s => s.replace(/<[^>]+>/g, " ").replace(/&amp;/g, "&").replace(/\s+/g, " ").trim();
 
 function stylesMail(st) {
   const police = `font-family:${POLICES_MAIL[st.police]};`, t = st.taille, texte = texteMail(st);
   const titre = {filet: `padding-bottom:6px;border-bottom:2px solid ${melange(st.accent, .75)};color:${st.accent};`,
-    bandeau: `padding:8px 12px;border-radius:4px;background:${st.accent};color:${st.carte};`, simple: `color:${st.accent};`}[st.titres];
+    bandeau: `padding:8px 12px;border-radius:4px;background:${st.accent};color:${st.carte};`, simple: `color:${st.accent};`, numero: `color:${st.accent};`}[st.titres];
   return {h2: police + `margin:32px 0 12px;font-size:${t + 5}px;line-height:1.3;` + titre,
     p: police + `margin:0 0 14px;font-size:${t}px;line-height:1.65;color:${texte};`, ul: "margin:0 0 16px;padding-left:20px;",
     li: police + `margin:0 0 8px;font-size:${t}px;line-height:1.6;color:${texte};`, a: `color:${st.lien};text-decoration:underline;`,
     strong: `color:${clair(st.carte) ? st.accent : texte};`};
 }
+const habiller = (s, st) => Object.entries(stylesMail(st)).reduce((h, [tag, css]) => h.replace(new RegExp(`<${tag}(\\s[^>]*)?>`, "g"), (_, at) => `<${tag} style="${css}"${at || ""}>`), s);
+const colorer = s => s.replace(/(^|[^\w,/])([+−–-]\s?\d[\d  ]*(?:,\d+)?\s?(?:%|pb))/g, (_, a, v) => `${a}<b style="color:${v[0] === "+" ? "#0f7b3e" : "#b42318"};white-space:nowrap;">${v}</b>`);
+
+function titreMail(titre, n, st) {
+  const police = `font-family:${POLICES_MAIL[st.police]};`, a = clair(st.carte) ? st.accent : "#f2f2f2";
+  return st.titres === "numero" ? `<div style="${police}font-size:12px;font-weight:700;letter-spacing:2px;color:${st.lien};margin:0 0 4px;">${String(n).padStart(2, "0")}</div>
+    <h2 style="${police}margin:0 0 12px;font-size:${st.taille + 6}px;line-height:1.25;color:${a};">${titre}</h2>` : habiller(`<h2>${titre}</h2>`, st);
+}
+
+function sectionMail(titre, corps, n, st) {
+  const texte = texteMail(st), r = st.arrondis, police = POLICES_MAIL[st.police], ligne = clair(st.carte) ? melange(texte, .85) : "#333";
+  if (titre === "L'essentiel") return `<div style="background:${melange(st.lien, .9)};border-left:4px solid ${st.lien};border-radius:${r}px;padding:16px 18px;">
+    <div style="font-family:${police};font-size:12px;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:${clair(st.carte) ? st.accent : texte};margin-bottom:8px;">L'essentiel</div>${habiller(corps, st)}</div>`;
+  let html;
+  if (titre.startsWith("Les marchés") && st.marches === "tableau") {
+    const rangs = [...corps.matchAll(/<li[^>]*>(.*?)<\/li>/gs)].map(([, l]) => `<tr><td style="padding:9px 10px 9px 0;border-bottom:1px solid ${ligne};font-family:${police};font-size:${st.taille - 1}px;font-weight:700;color:${texte};vertical-align:top;width:32%;">${sansBalises(l).split(" : ")[0]}</td>
+      <td style="padding:9px 0;border-bottom:1px solid ${ligne};font-family:${police};font-size:${st.taille - 1}px;line-height:1.5;color:${texte};">${colorer(habiller(l.split(" : ").slice(1).join(" : ") || l, st))}</td></tr>`).join("");
+    html = `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin:0 0 14px;">${rangs}</table>${habiller(corps.replace(/<ul[^>]*>.*?<\/ul>/s, ""), st)}`;
+  } else html = habiller(titre.startsWith("Les marchés") ? colorer(corps) : corps, st);
+  let bloc = titreMail(titre, n, st) + html;
+  const fort = corps.match(/<strong[^>]*>(.*?)<\/strong>/s);
+  if (st.encadres && titre.startsWith("Le chiffre du jour") && fort)
+    bloc = titreMail(titre, n, st) + `<div style="font-family:${police};font-size:40px;font-weight:800;line-height:1.1;color:${st.lien};margin:4px 0 10px;">${sansBalises(fort[1])}</div>` + habiller(corps.replace(fort[0], fort[1]), st);
+  if (st.encadres && (titre.startsWith("Focus M2") || titre.startsWith("Le chiffre du jour")))
+    bloc = `<div style="border:1px solid ${clair(st.carte) ? melange(st.accent, .8) : "#3a3a3a"};border-radius:${r}px;padding:18px 18px 4px;">${bloc}</div>`;
+  return bloc;
+}
 
 function mailApercu(m) {
-  const st = m.style, c = m.contenu, sombre = !clair(st.carte);
-  let f = RUBRIQUES.filter(t => !c.masquees.includes(t)).map(t => `<h2>${t}</h2>${EXEMPLES[t]}`).join("")
-    + c.ajouts.filter(a => a.titre).map(a => `<h2>${echap(a.titre)}</h2><p>Environ ${a.mots} mots. ${echap(a.consigne || "Consigne à préciser.")}</p>`).join("")
-    + `<h2>Sources</h2><ul><li><a href="#">Banque centrale européenne : décisions de politique monétaire</a></li></ul>
-      <p>Cette newsletter est fournie à titre informatif et pédagogique. Elle ne constitue ni un conseil en investissement, ni un conseil fiscal ou juridique personnalisé.</p>`;
-  for (const [tag, s] of Object.entries(stylesMail(st))) f = f.replace(new RegExp(`<${tag}(\\s[^>]*)?>`, "g"), (_, at) => `<${tag} style="${s}"${at || ""}>`);
+  const st = m.style, c = m.contenu, police = `font-family:${POLICES_MAIL[st.police]};`, texte = texteMail(st), plein = st.entete === "plein";
+  const [marge, pad] = st.densite === "aere" ? [34, 28] : [22, 20];
+  const [fondTete, texteTete] = plein ? [st.accent, clair(st.accent) ? "#111113" : "#ffffff"] : [st.carte, clair(st.carte) ? st.accent : texte];
+  const liste = [...(c.essentiel ? ["L'essentiel"] : []), ...c.ordre.filter(t => !c.masquees.includes(t))];
+  let n = 0;
+  const rubriques = [...liste.map(t => [t, EXEMPLES[t]]), ...c.ajouts.filter(a => a.titre).map(a => [echap(a.titre), `<p>Environ ${a.mots} mots. ${echap(a.consigne || "Consigne à préciser.")}</p>`])]
+    .map(([t, corps], i) => `<tr><td style="padding:${i ? marge : pad}px ${pad}px 0;">${sectionMail(t, corps, t === "L'essentiel" ? 0 : ++n, st)}</td></tr>`).join("");
+  const pied = clair(st.carte) ? "#6b6b70" : "#a1a1aa";
+  const bouton = c.bouton ? `<tr><td style="padding:${marge}px ${pad}px 0;" align="center"><a href="#" style="display:inline-block;padding:13px 22px;border-radius:999px;background:${st.accent};color:${clair(st.accent) ? "#111113" : "#ffffff"};${police}font-size:15px;font-weight:700;text-decoration:none;">Lire l'édition complète et ses sources</a></td></tr>` : "";
   return `<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><base target="_blank"></head><body style="margin:0;padding:0;background:${st.fond};">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:${st.fond};"><tr><td align="center" style="padding:24px 10px;">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:${st.largeur}px;background:${st.carte};border-radius:8px;">
-<tr><td style="padding:28px 24px 4px;font-family:${POLICES_MAIL[st.police]};">
-<div style="font-size:13px;letter-spacing:1px;text-transform:uppercase;color:${sombre ? "#ececec" : st.accent};">☕ Le Café Patrimoine</div>
-<div style="font-size:14px;color:${sombre ? "#b5b5b5" : "#6b6b6b"};margin-top:4px;">Jeudi 29 octobre 2026 · Focus M2 du jour : le démembrement de propriété</div></td></tr>
-<tr><td style="padding:0 24px 28px;">${f}</td></tr></table></td></tr></table></body></html>`;
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:${st.fond};"><tr><td align="center" style="padding:20px 8px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:${st.largeur}px;background:${st.carte};border-radius:${st.arrondis}px;overflow:hidden;">
+<tr><td style="padding:${pad + 4}px ${pad}px ${pad}px;background:${fondTete};${plein ? "" : `border-bottom:1px solid ${melange(texte, .85)};`}${police}">
+<div style="font-size:13px;font-weight:800;letter-spacing:3px;text-transform:uppercase;color:${texteTete};"><span style="color:${plein ? "#ffb547" : st.lien};">◆</span> Le Coffre</div>
+<div style="font-size:14px;color:${texteTete};opacity:.75;margin-top:6px;">Jeudi 29 octobre 2026</div>
+<div style="display:inline-block;margin-top:12px;padding:6px 12px;border-radius:999px;background:${plein && !clair(st.accent) ? "rgba(255,255,255,.12)" : melange(st.lien, .88)};color:${texteTete};font-size:13px;font-weight:600;">Focus du jour : la duration d'une obligation</div></td></tr>
+${rubriques}${bouton}
+<tr><td style="padding:${marge}px ${pad}px ${pad}px;${police}font-size:12px;line-height:1.6;color:${pied};">Cette newsletter est fournie à titre informatif et pédagogique. Elle ne constitue ni un conseil en investissement, ni un conseil fiscal ou juridique personnalisé.<br>
+<a href="#" style="color:${pied};">Modifier le modèle du mail</a> · <a href="#" style="color:${pied};">Sources et vérifications</a></td></tr></table></td></tr></table></body></html>`;
 }
 
 const curseur = (nom, min, max, pas, libelle) => `<label class="champ">${libelle} <output id="v-${nom}"></output><input type="range" name="${nom}" min="${min}" max="${max}" step="${pas}"></label>`;
+const segments = (nom, libelle, options) => `<div class="champ">${libelle}<div class="segments" style="grid-template-columns:repeat(${options.length},1fr)">${options.map(([v, l]) =>
+  `<label><input type="radio" name="${nom}" value="${v}">${l}</label>`).join("")}</div></div>`;
+const caseACocher = (nom, libelle) => `<label class="check"><input type="checkbox" name="${nom}">${libelle}</label>`;
+const ligneOrdre = t => `<li data-r="${echap(t)}"><label class="check"><input type="checkbox" name="rubrique" value="${echap(t)}" ${OPTIONNELLES.includes(t) ? "" : "checked disabled"}>${t}</label>
+  <span class="fleches"><button type="button" data-monter aria-label="Monter ${echap(t)}"><i class="ph ph-caret-up"></i></button><button type="button" data-descendre aria-label="Descendre ${echap(t)}"><i class="ph ph-caret-down"></i></button></span></li>`;
 
 function vueModele() {
-  return `<h1>Modèle du mail</h1><p class="lead">Règle l'apparence et le contenu de la newsletter. L'aperçu suit chaque réglage. Une fois enregistré, le modèle est repris par la routine dans l'heure, puis appliqué à l'édition suivante, préparée chaque matin à 7 h 25.</p>
+  return `<h1>Modèle du mail</h1><p class="lead">Règle l'apparence, la longueur et l'ordre de la newsletter. L'aperçu suit chaque réglage. Une fois enregistré, le modèle est repris par la routine dans l'heure, puis appliqué à l'édition suivante, préparée chaque matin à 7 h 25.</p>
   <div class="atelier" id="atelier"><form class="reglages" id="reglages" novalidate>
-    <fieldset><legend>Esthétique</legend>
-      <div class="palettes">${Object.entries(PALETTES).map(([n, c]) => `<button type="button" data-palette="${n}"><span style="background:linear-gradient(90deg, ${c[0]} 50%, ${c[3]} 50%)"></span>${n}</button>`).join("")}</div>
-      <div class="couleurs">${[["accent", "Titres"], ["lien", "Liens"], ["fond", "Fond"], ["carte", "Carte"]].map(([k, l]) => `<label><input type="color" name="${k}">${l}</label>`).join("")}</div>
-      <label class="champ">Police<select name="police"><option value="serif">Serif classique</option><option value="sans">Sans moderne</option><option value="systeme">Police du système</option></select></label>
-      ${curseur("taille", 15, 18, 1, "Taille du texte")}${curseur("largeur", 560, 720, 20, "Largeur")}
-      <div class="champ">Titres de rubrique<div class="segments">${["filet", "bandeau", "simple"].map(v => `<label><input type="radio" name="titres" value="${v}">${v[0].toUpperCase() + v.slice(1)}</label>`).join("")}</div></div>
+    <fieldset><legend>Longueur et rubriques</legend>
+      ${segments("format", "Longueur du mail", [["condense", "Condensé"], ["standard", "Standard"], ["complet", "Complet"]])}
+      <p class="meta" id="v-format"></p>
+      ${caseACocher("essentiel", "Bloc « L'essentiel » en tête : les trois faits à retenir")}${caseACocher("bouton", "Bouton vers l'édition complète et ses sources")}
+      <div class="champ">Rubriques : coche celles à garder, ordonne avec les flèches<ol class="ordre" id="ordre"></ol></div>
+      <p class="meta">L'édito, la France et le Focus M2 restent toujours. Les sources sont sur le Coffre, plus dans le mail.</p></fieldset>
+    <fieldset><legend>Couleurs</legend>
+      <div class="palettes">${Object.entries(PALETTES).map(([n, c]) => `<button type="button" data-palette="${n}"><span style="background:linear-gradient(90deg, ${c[0]} 50%, ${c[1]} 50%)"></span>${n}</button>`).join("")}</div>
+      <div class="couleurs">${[["accent", "En-tête"], ["lien", "Repères"], ["fond", "Fond"], ["carte", "Carte"]].map(([k, l]) => `<label><input type="color" name="${k}">${l}</label>`).join("")}</div>
       <p class="meta" id="lisibilite"></p></fieldset>
-    <fieldset><legend>Rubriques</legend>${[...RUBRIQUES, "Sources"].map(t => `<label class="check"><input type="checkbox" name="rubrique" value="${t}" ${OPTIONNELLES.includes(t) ? "" : "checked disabled"}>${t}</label>`).join("")}
-      <p class="meta">L'édito, la France, le Focus M2 et les Sources restent toujours.</p></fieldset>
+    <fieldset><legend>Mise en page</legend>
+      ${segments("entete", "En-tête", [["plein", "Plein"], ["sobre", "Sobre"]])}
+      ${segments("titres", "Titres de rubrique", [["numero", "Numérotés"], ["filet", "Filet"], ["bandeau", "Bandeau"], ["simple", "Simple"]])}
+      ${segments("marches", "Marchés", [["tableau", "Tableau coloré"], ["liste", "Liste"]])}
+      ${segments("densite", "Espacement", [["aere", "Aéré"], ["compact", "Compact"]])}
+      ${caseACocher("encadres", "Focus M2 et chiffre du jour mis en valeur")}
+      <label class="champ">Police<select name="police"><option value="sans">Sans moderne</option><option value="serif">Serif classique</option><option value="systeme">Police du système</option></select></label>
+      ${curseur("taille", 15, 18, 1, "Taille du texte")}${curseur("largeur", 560, 720, 20, "Largeur sur ordinateur")}${curseur("arrondis", 0, 20, 2, "Arrondis")}</fieldset>
     <fieldset><legend>Rubriques ajoutées</legend>${[0, 1].map(i => `<div class="ajout"><input name="titre${i}" maxlength="60" placeholder="Titre, par exemple « Point SCPI »">
       <textarea name="consigne${i}" rows="2" maxlength="400" placeholder="Ce que la rubrique doit couvrir"></textarea>${curseur("mots" + i, 60, 250, 10, "Longueur")}</div>`).join("")}</fieldset>
     <fieldset><legend>Préférences de la rédaction</legend>
@@ -79,31 +129,40 @@ function vueModele() {
 }
 
 function lireForm() {
-  const f = $("#reglages"), v = n => f.elements[n].value;
+  const f = $("#reglages"), v = n => f.elements[n].value, coche = n => f.elements[n].checked, radio = n => f.querySelector(`[name=${n}]:checked`)?.value;
   modele = {style: {accent: v("accent"), lien: v("lien"), fond: v("fond"), carte: v("carte"), police: v("police"), taille: +v("taille"), largeur: +v("largeur"),
-      titres: f.querySelector("[name=titres]:checked")?.value || "filet"},
-    contenu: {masquees: OPTIONNELLES.filter(t => !f.querySelector(`[name=rubrique][value="${t}"]`).checked),
+      arrondis: +v("arrondis"), titres: radio("titres"), entete: radio("entete"), marches: radio("marches"), densite: radio("densite"), encadres: coche("encadres")},
+    contenu: {format: radio("format"), essentiel: coche("essentiel"), bouton: coche("bouton"), ordre: [...f.querySelectorAll("#ordre li")].map(li => li.dataset.r),
+      masquees: OPTIONNELLES.filter(t => !f.querySelector(`[name=rubrique][value="${t}"]`).checked),
       ajouts: [0, 1].map(i => ({titre: v("titre" + i).trim(), consigne: v("consigne" + i).trim(), mots: +v("mots" + i)})).filter(a => a.titre),
       suivre: v("suivre").split(",").map(s => s.trim()).filter(Boolean), note: v("note").trim()}};
 }
 
+const MOTS_FORMAT = {condense: "Environ 1 200 à 1 600 mots, 6 minutes de lecture.", standard: "Environ 1 800 à 2 100 mots, 9 minutes de lecture.",
+  complet: "Environ 2 300 à 2 600 mots, 12 minutes de lecture."};
+
 function majApercu() {
   lireForm();
   const s = modele.style, f = $("#reglages");
-  $("#v-taille").textContent = `${s.taille} px`; $("#v-largeur").textContent = `${s.largeur} px`;
+  $("#v-taille").textContent = `${s.taille} px`; $("#v-largeur").textContent = `${s.largeur} px`; $("#v-arrondis").textContent = `${s.arrondis} px`;
+  $("#v-format").textContent = MOTS_FORMAT[modele.contenu.format];
   [0, 1].forEach(i => $(`#v-mots${i}`).textContent = `${f.elements["mots" + i].value} mots`);
-  const mesures = [["texte", contraste(texteMail(s), s.carte)], ["liens", contraste(s.lien, s.carte)],
-    ["titres", s.titres === "bandeau" ? contraste(s.carte, s.accent) : contraste(s.accent, s.carte)]];
+  const mesures = [["texte", contraste(texteMail(s), s.carte)], ["repères", contraste(s.lien, s.carte)],
+    ["en-tête", s.entete === "plein" ? contraste(clair(s.accent) ? "#111113" : "#ffffff", s.accent) : contraste(s.accent, s.carte)]];
   const faibles = mesures.filter(([, x]) => x < 4.5).map(([n]) => n);
   $("#lisibilite").innerHTML = `Lisibilité : ${mesures.map(([n, x]) => `${n} ${x.toFixed(1).replace(".", ",")}:1`).join(" · ")}`
-    + (faibles.length ? `<br><span class="alerte">Contraste trop faible pour les ${faibles.join(" et les ")} : ils seront difficiles à lire.</span>` : "");
+    + (faibles.length ? `<br><span class="alerte">Contraste trop faible (${faibles.join(", ")}) : difficile à lire.</span>` : "");
   $("#apercu").srcdoc = mailApercu(modele);
 }
 
 function remplir() {
   const f = $("#reglages"), s = modele.style, c = modele.contenu;
-  for (const k of ["accent", "lien", "fond", "carte", "police", "taille", "largeur"]) f.elements[k].value = s[k];
-  f.querySelector(`[name=titres][value=${s.titres}]`).checked = true;
+  for (const k of ["accent", "lien", "fond", "carte", "police", "taille", "largeur", "arrondis"]) f.elements[k].value = s[k];
+  for (const [k, v] of [["titres", s.titres], ["entete", s.entete], ["marches", s.marches], ["densite", s.densite], ["format", c.format]])
+    f.querySelector(`[name=${k}][value=${v}]`).checked = true;
+  for (const k of ["essentiel", "bouton"]) f.elements[k].checked = c[k];
+  f.elements.encadres.checked = s.encadres;
+  $("#ordre").innerHTML = c.ordre.map(ligneOrdre).join("");
   f.querySelectorAll("[name=rubrique]:not(:disabled)").forEach(x => x.checked = !c.masquees.includes(x.value));
   [0, 1].forEach(i => { const a = c.ajouts[i] || {titre: "", consigne: "", mots: 120};
     f.elements["titre" + i].value = a.titre; f.elements["consigne" + i].value = a.consigne; f.elements["mots" + i].value = a.mots; });
@@ -134,13 +193,15 @@ async function initModele() {
   f.addEventListener("input", majApercu);
   f.addEventListener("submit", enregistrer);
   $("#atelier").addEventListener("click", ev => {
-    const p = ev.target.closest("[data-palette]");
+    const p = ev.target.closest("[data-palette]"), li = ev.target.closest("#ordre li");
     if (p) { [modele.style.accent, modele.style.lien, modele.style.fond, modele.style.carte] = PALETTES[p.dataset.palette]; remplir(); }
+    if (li && ev.target.closest("[data-monter]") && li.previousElementSibling) { li.previousElementSibling.before(li); majApercu(); }
+    if (li && ev.target.closest("[data-descendre]") && li.nextElementSibling) { li.nextElementSibling.after(li); majApercu(); }
     if (ev.target.closest("#origine")) { modele = structuredClone(ORIGINE); remplir(); $("#etat-modele").textContent = "Modèle d'origine chargé : enregistre pour l'appliquer."; }
   });
   try {
     const d = await (await fetch(API_MODELE, {cache: "no-store"})).json();
-    modele = {style: d.style, contenu: d.contenu}; modeleDate = d.date;
+    modele = {style: {...ORIGINE.style, ...d.style}, contenu: {...ORIGINE.contenu, ...d.contenu}}; modeleDate = d.date;
   } catch { modele = structuredClone(ORIGINE); }
   remplir(); afficherEtat();
 }
