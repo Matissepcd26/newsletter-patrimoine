@@ -10,7 +10,8 @@
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="logo.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
-<meta name="theme-color" content="#16301f">
+<meta name="theme-color" content="#0d2618">
+<script>try { const t = localStorage.getItem("coffre-theme"); if (t && t !== "auto") document.documentElement.dataset.theme = t; } catch (e) {}</script>
 </head>
 <body>
 <div class="gate" id="entree" hidden>
@@ -41,6 +42,7 @@
       <a href="#/a-propos" data-vue="a-propos"><i class="ph ph-info"></i><span class="lbl">À propos</span></a>
     </nav>
     <div class="side-themes" id="themes-lateraux"></div>
+    <button class="theme" id="theme" type="button"><i class="ph ph-circle-half"></i><span class="lbl">Thème automatique</span></button>
     <div class="profil" id="profil"></div>
   </aside>
   <main id="contenu" tabindex="-1"><div class="skeleton" aria-label="Chargement"></div></main>

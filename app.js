@@ -47,6 +47,7 @@ function route() {
 
 function clic(ev) {
   if (ev.target.id === "oublier") return oublier();
+  if (ev.target.closest("#theme")) return changerTheme();
   const el = ev.target.closest("[data-n], [data-theme], [data-chip], [data-ancre]");
   if (!el) return;
   if (el.dataset.ancre) return document.getElementById(el.dataset.ancre).scrollIntoView({block: "start"});
@@ -65,7 +66,17 @@ function saisie(ev) {
   majFiches();
 }
 
+const MODES = ["auto", "light", "dark"], NOMS_MODES = {auto: "automatique", light: "clair", dark: "sombre"};
+function appliquerTheme(m) {
+  m === "auto" ? delete document.documentElement.dataset.theme : document.documentElement.dataset.theme = m;
+  try { localStorage.setItem("coffre-theme", m); } catch {}
+  $("#theme .lbl").textContent = `Thème ${NOMS_MODES[m]}`;
+  $("#theme").setAttribute("aria-label", `Thème ${NOMS_MODES[m]}, cliquer pour changer`);
+}
+const changerTheme = () => appliquerTheme(MODES[(MODES.indexOf(document.documentElement.dataset.theme || "auto") + 1) % 3]);
+
 async function init() {
+  try { appliquerTheme(localStorage.getItem("coffre-theme") || "auto"); } catch { appliquerTheme("auto"); }
   if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});
   addEventListener("hashchange", route);
   try { profil = JSON.parse(localStorage.getItem(PROFIL) || sessionStorage.getItem(PROFIL)); } catch { profil = null; }
