@@ -2,6 +2,7 @@
 
 python3 outils.py variables                      -> DATE, JOUR, FENETRE, HEURE
 python3 outils.py chiffres                       -> chiffres du fragment absents de /tmp/faits.md
+python3 outils.py journal                        -> lignes de /tmp/faits.md dont l'extrait ne contient pas la valeur
 python3 outils.py gabarit "NOM" "OBJET" "FOCUS"  -> lit /tmp/fragment.html, écrit /tmp/email.html et /tmp/email.txt,
                                                     puis affiche MOTS=… et une ligne MANQUE=… par élément absent
 """
@@ -107,5 +108,19 @@ def chiffres():
     print(f"NON_SOURCÉS={absents}")
 
 
+def journal():
+    """Lignes du journal dont l'extrait ne contient pas la valeur : le fait n'est pas prouvé par sa source."""
+    norm = lambda s: re.sub(r"[\s\u202f\xa0]", "", s).replace(",", ".").replace("’", "'").lower()
+    fautes = 0
+    for ligne in open("/tmp/faits.md", encoding="utf-8"):
+        champs = [c.strip() for c in ligne.split("|")]
+        if len(champs) < 3 or not champs[1] or champs[2].lower() in ("calcul", "extrait exact de la source qui contient la valeur"):
+            continue
+        if norm(champs[1]).strip(".%€$") not in norm(champs[2]):
+            fautes += 1
+            print(f"EXTRAIT_SANS_VALEUR={champs[1]} … {champs[0][:60]}")
+    print(f"EXTRAITS_FAUTIFS={fautes}")
+
+
 if __name__ == "__main__":
-    {"variables": variables, "chiffres": chiffres}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
+    {"variables": variables, "chiffres": chiffres, "journal": journal}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
