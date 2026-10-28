@@ -63,7 +63,8 @@ def gabarit(nom, objet, focus):
     if MENTION not in normaliser(fragment):
         print("MANQUE=mention finale")
     corps = re.split(r"<h2[^>]*>\s*Sources", fragment)[0]
-    print(f"MOTS={len(re.findall(r'\w+(?:[\'’-]\w+)*', normaliser(corps)))}")
+    mots = len(re.findall(r"\w+(?:['’-]\w+)*", normaliser(corps)))
+    print(f"MOTS={mots}")
 
     style = fragment
     for tag, css in STYLES.items():
