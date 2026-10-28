@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Le Café Patrimoine — Archives</title>
+<style>
+  :root { --fond: #f4f1ea; --carte: #ffffff; --texte: #2b2b2b; --doux: #6b6b6b; --accent: #1a2b4c; --or: #8a7350; --bord: #e8dcc4; }
+  @media (prefers-color-scheme: dark) {
+    :root { --fond: #16181d; --carte: #1f2229; --texte: #e8e6e1; --doux: #a3a19c; --accent: #c9d6f2; --or: #d4b27a; --bord: #343844; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--fond); color: var(--texte); font: 16px/1.6 Georgia, "Times New Roman", serif; }
+  main { max-width: 760px; margin: 0 auto; padding: 32px 16px 64px; }
+  header p.sur { margin: 0; font-size: 13px; letter-spacing: 1px; text-transform: uppercase; color: var(--or); }
+  h1 { margin: 4px 0 8px; font-size: 30px; line-height: 1.2; color: var(--accent); }
+  header p.intro { margin: 0 0 24px; color: var(--doux); }
+  input { width: 100%; padding: 12px 14px; font: inherit; color: var(--texte); background: var(--carte); border: 1px solid var(--bord); border-radius: 8px; }
+  .themes { display: flex; flex-wrap: wrap; gap: 8px; margin: 14px 0 24px; }
+  .themes button { padding: 6px 12px; font: 14px Georgia, serif; color: var(--accent); background: transparent; border: 1px solid var(--bord); border-radius: 999px; cursor: pointer; }
+  .themes button[aria-pressed="true"] { background: var(--accent); color: var(--carte); border-color: var(--accent); }
+  article { background: var(--carte); border: 1px solid var(--bord); border-radius: 10px; padding: 16px 18px; margin-bottom: 12px; }
+  article .meta { font-size: 13px; color: var(--doux); }
+  article .theme { color: var(--or); }
+  article h2 { margin: 6px 0 4px; font-size: 19px; line-height: 1.35; color: var(--accent); }
+  article p { margin: 0 0 8px; color: var(--doux); font-size: 15px; }
+  article a { color: var(--accent); }
+  .vide { color: var(--doux); text-align: center; padding: 32px 0; }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <p class="sur">☕ Le Café Patrimoine</p>
+    <h1>Archives et fiches Focus M2</h1>
+    <p class="intro">Toutes les newsletters, avec leur fiche Focus classée par thème. Cherche une notion (PFU, démembrement, duration…) ou filtre par thème pour réviser.</p>
+  </header>
+  <input id="recherche" type="search" placeholder="Rechercher une notion, un article du CGI, une date…" aria-label="Rechercher">
+  <div class="themes" id="themes" role="group" aria-label="Filtrer par thème"></div>
+  <div id="liste"></div>
+</main>
+<script>
+  const THEMES = ["Tous", "Fiscalité IR", "IS et sociétés", "Immobilier", "Gestion de portefeuille", "Transmission", "Cas pratique", "Marchés et macro"];
+  let entrees = [], theme = "Tous";
+  const sansAccents = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+  const echapper = s => s.replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
+
+  function afficher() {
+    const q = sansAccents(document.getElementById("recherche").value.trim());
+    const liste = entrees.filter(e => (theme === "Tous" || e.theme === theme)
+      && (!q || sansAccents(`${e.focus} ${e.objet} ${e.jour} ${e.theme}`).includes(q)));
+    document.getElementById("liste").innerHTML = liste.length ? liste.map(e => `
+      <article>
+        <div class="meta">${echapper(e.jour)} · <span class="theme">${echapper(e.theme)}</span></div>
+        <h2>${echapper(e.focus)}</h2>
+        <p>${echapper(e.objet)}</p>
+        <a href="archives/${e.date}.html">Lire la newsletter</a>
+      </article>`).join("")
+      : `<p class="vide">${entrees.length ? "Aucun résultat pour cette recherche." : "La première newsletter arrivera ici dès son envoi, à 9 h."}</p>`;
+  }
+
+  document.getElementById("themes").innerHTML = THEMES.map(t =>
+    `<button type="button" aria-pressed="${t === theme}">${t}</button>`).join("");
+  document.getElementById("themes").addEventListener("click", ev => {
+    if (ev.target.tagName !== "BUTTON") return;
+    theme = ev.target.textContent;
+    document.querySelectorAll("#themes button").forEach(b => b.setAttribute("aria-pressed", b.textContent === theme));
+    afficher();
+  });
+  document.getElementById("recherche").addEventListener("input", afficher);
+  fetch("archives/index.json", {cache: "no-store"}).then(r => r.json()).then(d => { entrees = d; afficher(); })
+    .catch(() => { document.getElementById("liste").innerHTML = '<p class="vide">Archives momentanément indisponibles.</p>'; });
+</script>
+</body>
+</html>
