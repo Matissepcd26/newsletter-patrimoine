@@ -7,7 +7,9 @@ python3 outils.py gabarit "NOM" "OBJET" "FOCUS"  -> lit /tmp/fragment.html, écr
                                                     puis affiche MOTS=… et une ligne MANQUE=… par élément absent
 """
 import html
+from pathlib import Path
 import re
+import subprocess
 import sys
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
@@ -158,7 +160,7 @@ def opinions():
     """Phrases de jugement sans marqueur d'opinion ni attribution : à baliser ou à reformuler en fait sourcé."""
     jugement = (r"\b(jamais|pire|inquiétant\w*|cruel\w*|paradoxe|spectaculaire|signe que|redout\w+|absurde|"
                 r"brutal\w*|dramatique\w*|alarmant\w*|évident\w*|clairement|forcément|décroch\w+|fiasco|"
-                r"surréaliste|incroyable\w*|remarquable\w*|scandal\w+)\b")
+                r"surréaliste|incroyable\w*|remarquable\w*|scandal\w+|sans doute|probablement|vraisemblablement)\b")
     n = 0
     for phrase in re.split(r"(?<=[.!?])\s+", corps_actualite()):
         if re.search(jugement, phrase, re.I) and not re.search(r"mon avis|à mon sens|selon|d'après|estime|juge", phrase, re.I):
@@ -167,5 +169,25 @@ def opinions():
     print(f"A_VERIFIER_OPINION_TOTAL={n}")
 
 
+def marches_ok():
+    """Relance routine/marches.py et vérifie que chaque niveau publié figure dans la rubrique marchés."""
+    sortie = subprocess.run([sys.executable, str(Path(__file__).with_name("marches.py"))], capture_output=True, text=True).stdout
+    blocs = re.split(r"(?=<h2)", open("/tmp/fragment.html", encoding="utf-8").read())
+    rubrique = next((normaliser(x) for x in blocs if normaliser(x).startswith("Les marchés")), "")
+    ecarts = 0
+    for ligne in sortie.splitlines():
+        champs = [c.strip() for c in ligne.split(";")]
+        m = re.match(r"\d[\d ]*,\d+", champs[1]) if len(champs) >= 4 and not champs[3].startswith("dernier cours") else None
+        if not m:
+            continue
+        niveau = m.group()
+        if "%" in champs[1]:  # taux : publié à deux décimales
+            niveau = f"{float(niveau.replace(' ', '').replace(',', '.')):.2f}".replace(".", ",")
+        if niveau not in rubrique:
+            ecarts += 1
+            print(f"MARCHE_ECART={champs[0]} : attendu {niveau} ({champs[2]}, {champs[3]})")
+    print(f"MARCHE_ECARTS={ecarts}")
+
+
 if __name__ == "__main__":
-    {"variables": variables, "chiffres": chiffres, "journal": journal, "fenetre": fenetre_ok, "opinions": opinions}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
+    {"variables": variables, "chiffres": chiffres, "journal": journal, "fenetre": fenetre_ok, "opinions": opinions, "marches": marches_ok}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
