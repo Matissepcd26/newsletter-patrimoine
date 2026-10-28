@@ -14,7 +14,7 @@ Toutes les newsletters et leurs fiches Focus, classées par thème et consultabl
 
 ## Modèle du mail
 
-Mathéo règle l'esthétique (couleurs, police, taille, largeur, titres) et le contenu (rubriques masquées, deux rubriques ajoutées, sujets à suivre, note) sur la page « Modèle du mail » du dashboard, avec la clé d'accès. Le modèle est enregistré par `api/modele` (fonction Vercel, stockage Vercel Blob `coffre-modele`, 20 versions gardées). Chaque matin, `routine/outils.py modele` le lit et l'applique : le gabarit prend le style, la rédaction suit les rubriques, `eval/evaluer.py` adapte ses contrôles. Si le dashboard est injoignable, la routine garde le modèle d'origine. Le domaine `le-coffre-patrimoine.vercel.app` doit figurer dans la liste réseau de l'environnement cloud.
+Mathéo règle l'esthétique (couleurs, police, taille, largeur, titres) et le contenu (rubriques masquées, deux rubriques ajoutées, sujets à suivre, note) sur la page « Modèle du mail » du dashboard, avec la clé d'accès. Le modèle est enregistré par `api/modele` (fonction Vercel, stockage Vercel Blob `coffre-modele`, 20 versions gardées). Chaque matin, `routine/outils.py modele` le lit et l'applique : le gabarit prend le style, la rédaction suit les rubriques, `eval/evaluer.py` adapte ses contrôles. Le réseau de la routine n'atteint pas le dashboard : la tâche GitHub `.github/workflows/modele.yml` recopie donc le modèle chaque heure (à h 17) dans `config/modele.json`, que la routine lit dans son clone. Sans copie, elle garde le modèle d'origine.
 
 ## Qualité
 

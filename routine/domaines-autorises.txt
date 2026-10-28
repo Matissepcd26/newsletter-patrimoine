@@ -85,4 +85,3 @@ oecd.org
 *.oecd.org
 bis.org
 *.bis.org
-le-coffre-patrimoine.vercel.app

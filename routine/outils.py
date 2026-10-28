@@ -153,11 +153,16 @@ def gabarit(nom, objet, focus):
 
 
 def modele(url=MODELE_URL):
+    copie = Path(__file__).resolve().parent.parent / "config" / "modele.json"  # recopiée chaque heure par .github/workflows/modele.yml
     try:
         brut = json.load(urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}), timeout=20))
         m, etat = valider(brut), f"réglé sur le dashboard (modifié le {brut.get('date') or 'jamais'})"
     except Exception as e:
-        m, etat = valider({}), f"d'origine (dashboard injoignable : {type(e).__name__})"
+        try:
+            brut = json.load(open(copie, encoding="utf-8"))
+            m, etat = valider(brut), f"réglé sur le dashboard, copie du dépôt (modifié le {brut.get('date') or 'jamais'})"
+        except Exception:
+            m, etat = valider({}), f"d'origine (dashboard injoignable : {type(e).__name__}, pas de copie dans le dépôt)"
     json.dump(m, open("/tmp/modele.json", "w", encoding="utf-8"), ensure_ascii=False)
     c = m["contenu"]
     print(f"MODELE={etat}\nSECTIONS={' | '.join(sections(m))}\nMASQUEES={' | '.join(c['masquees']) or 'aucune'}")
