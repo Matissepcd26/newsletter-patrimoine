@@ -56,7 +56,7 @@ function mailApercu(m) {
 const curseur = (nom, min, max, pas, libelle) => `<label class="champ">${libelle} <output id="v-${nom}"></output><input type="range" name="${nom}" min="${min}" max="${max}" step="${pas}"></label>`;
 
 function vueModele() {
-  return `<h1>Modèle du mail</h1><p class="lead">Règle l'apparence et le contenu de la newsletter. L'aperçu suit chaque réglage ; l'enregistrement s'applique dès la prochaine édition, préparée à 7 h 25.</p>
+  return `<h1>Modèle du mail</h1><p class="lead">Règle l'apparence et le contenu de la newsletter. L'aperçu suit chaque réglage. Une fois enregistré, le modèle est repris par la routine dans l'heure, puis appliqué à l'édition suivante, préparée chaque matin à 7 h 25.</p>
   <div class="atelier" id="atelier"><form class="reglages" id="reglages" novalidate>
     <fieldset><legend>Esthétique</legend>
       <div class="palettes">${Object.entries(PALETTES).map(([n, c]) => `<button type="button" data-palette="${n}"><span style="background:linear-gradient(90deg, ${c[0]} 50%, ${c[3]} 50%)"></span>${n}</button>`).join("")}</div>
@@ -125,7 +125,7 @@ async function enregistrer(ev) {
     const d = await r.json();
     if (!r.ok) return void (etat.textContent = d.erreur || "Enregistrement impossible.");
     cleSession = cle; modeleDate = d.date; modele = {style: d.style, contenu: d.contenu};
-    remplir(); afficherEtat("Enregistré. Appliqué dès la prochaine édition. ");
+    remplir(); afficherEtat("Enregistré : repris par la routine dans l'heure. ");
   } catch { etat.textContent = "Connexion impossible. Réessaie dans un instant."; }
 }
 
