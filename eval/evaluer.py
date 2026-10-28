@@ -6,6 +6,10 @@ import html
 import json
 import re
 import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "routine"))
+from outils import charger_modele, fourchette, sections  # noqa: E402
 
 FOURCHETTES = [("L'édito", 250, 300), ("Les marchés en un coup d'œil", 250, 300),
                ("Banques centrales et macro", 300, 350), ("France : épargne, fiscalité, immobilier", 350, 400),
@@ -31,22 +35,29 @@ def evaluer(page, objet):
     blocs = re.split(r"(?=<h2)", contenu)[1:]
     titres = [texte(re.match(r"<h2[^>]*>(.*?)</h2>", b, re.S).group(1)) for b in blocs]
     notes, ecarts = {}, []
+    m = charger_modele()  # modèle réglé par Mathéo (/tmp/modele.json), sinon celui d'origine
+    base = {nom: (bas, haut) for nom, bas, haut in FOURCHETTES}
+    fourchettes = [(nom, *base[nom]) for nom in sections(m)[:-1] if nom in base] + \
+        [(a["titre"], *fourchette(a["mots"])) for a in m["contenu"]["ajouts"]] + [FOURCHETTES[-1]]
+    personnalise = bool(m["contenu"]["masquees"] or m["contenu"]["ajouts"])
+    avec_marches = "Les marchés en un coup d'œil" not in m["contenu"]["masquees"]
 
-    attendus = [f[0] for f in FOURCHETTES]
-    ok = len(titres) == 9 and all(t.startswith(a) for t, a in zip(titres, attendus))
+    attendus = [f[0] for f in fourchettes]
+    ok = len(titres) == len(attendus) and all(t.startswith(a) for t, a in zip(titres, attendus))
     notes["C1"] = 5 if ok else 0
     if not ok:
         ecarts.append(f"titres trouvés : {titres}")
 
     total = sum(mots(b) for b in blocs[:-1])
-    notes["C2"] = 4 if 2300 <= total <= 2600 else 2 if 2200 <= total <= 2800 else 0
+    bas_t, haut_t = (sum(f[1] for f in fourchettes[:-1]), sum(f[2] for f in fourchettes[:-1])) if personnalise else (2300, 2600)
+    notes["C2"] = 4 if bas_t <= total <= haut_t else 2 if bas_t - 100 <= total <= haut_t + 200 else 0
     dans = 0
-    for (nom, bas, haut), bloc in zip(FOURCHETTES[:-1], blocs[:-1]):
+    for (nom, bas, haut), bloc in zip(fourchettes[:-1], blocs[:-1]):
         n = mots(bloc)
         dans += bas <= n <= haut
         if not bas <= n <= haut:
             ecarts.append(f"{nom} : {n} mots (attendu {bas}-{haut})")
-    notes["C2"] += round(4 * dans / 8, 2)
+    notes["C2"] += round(4 * dans / (len(fourchettes) - 1), 2)
     ecarts.append(f"total : {total} mots hors Sources")
 
     c3 = 0 if "<table" in contenu else 1
@@ -54,9 +65,9 @@ def evaluer(page, objet):
     c3 += 0 if listes_hors else 1
     marches = next((b for t, b in zip(titres, blocs) if t.startswith("Les marchés")), "")
     lignes = len(re.findall(r"<li", marches))
-    c3 += 2 if lignes == 10 else 0
+    c3 += 2 if lignes == 10 or not avec_marches else 0
     notes["C3"] = c3
-    if listes_hors or lignes != 10 or "<table" in contenu:
+    if listes_hors or (avec_marches and lignes != 10) or "<table" in contenu:
         ecarts.append(f"format : listes hors marchés/sources {listes_hors}, {lignes} lignes de marché")
 
     notes["C4"] = 2 if MENTION in texte(contenu) else 0
@@ -70,7 +81,7 @@ def evaluer(page, objet):
     pb = lambda l: "%" in l and ("pb" in l or "point" in l)
     formats = [re.search(r"\d,\d{4}", trouve("EUR/USD")), pb(trouve("OAT")), pb(trouve("Bund")), "$" in trouve("Or") and "once" in trouve("Or"),
                "$" in trouve("Brent") and "baril" in trouve("Brent"), "$" in trouve("Bitcoin")]
-    notes["C7"] = round(2 * sum(bool(f) for f in formats) / 6, 2)
+    notes["C7"] = round(2 * sum(bool(f) for f in formats) / 6, 2) if avec_marches else 2
     if notes["C7"] < 2:
         ecarts.append(f"formats marchés respectés : {sum(bool(f) for f in formats)}/6")
 

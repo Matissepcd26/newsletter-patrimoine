@@ -1,6 +1,7 @@
 """Calculs exacts de la routine : variables de date (heure de Paris) et mise en forme de l'email.
 
 python3 outils.py variables                      -> DATE, JOUR, FENETRE, HEURE
+python3 outils.py modele                         -> lit le modèle réglé sur le dashboard, écrit /tmp/modele.json
 python3 outils.py chiffres                       -> chiffres du fragment absents de /tmp/faits.md
 python3 outils.py journal                        -> lignes de /tmp/faits.md dont l'extrait ne contient pas la valeur
 python3 outils.py gabarit "NOM" "OBJET" "FOCUS"  -> lit /tmp/fragment.html, écrit /tmp/email.html et /tmp/email.txt,
@@ -11,6 +12,7 @@ import json
 from pathlib import Path
 import re
 import subprocess
+import urllib.request
 import sys
 from datetime import datetime, timedelta
 from zoneinfo import ZoneInfo
@@ -22,16 +24,70 @@ TITRES = ["L'édito", "Les marchés en un coup d'œil", "Banques centrales et ma
           "France : épargne, fiscalité, immobilier", "Monde et sujets sensibles", "Focus M2",
           "Le chiffre du jour", "À surveiller aujourd'hui", "Sources"]
 MENTION = "Cette newsletter est fournie à titre informatif et pédagogique"
-POLICE = "font-family:Georgia,'Times New Roman',serif;"
-STYLES = {
-    "h2": POLICE + "margin:32px 0 12px;padding-bottom:6px;border-bottom:2px solid #e8dcc4;"
-                   "font-size:21px;line-height:1.3;color:#1a2b4c;",
-    "p": POLICE + "margin:0 0 14px;font-size:16px;line-height:1.65;color:#2b2b2b;",
-    "ul": "margin:0 0 16px;padding-left:20px;",
-    "li": POLICE + "margin:0 0 8px;font-size:16px;line-height:1.6;color:#2b2b2b;",
-    "a": "color:#1a5fb4;text-decoration:underline;",
-    "strong": "color:#1a2b4c;",
-}
+MODELE_URL = "https://le-coffre-patrimoine.vercel.app/api/modele"
+OPTIONNELLES = [TITRES[i] for i in (1, 2, 4, 6, 7)]
+POLICES = {"serif": "Georgia,'Times New Roman',serif", "sans": "'Helvetica Neue',Helvetica,Arial,sans-serif",
+           "systeme": "-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif"}
+DEFAUT = {"style": {"accent": "#1a2b4c", "lien": "#1a5fb4", "fond": "#f4f1ea", "carte": "#ffffff", "police": "serif",
+                    "taille": 16, "largeur": 640, "titres": "filet"}, "contenu": {"masquees": [], "ajouts": [], "suivre": [], "note": ""}}
+
+
+def valider(m):
+    """Mêmes règles que api/modele.js du dashboard : seules des valeurs connues et bornées passent."""
+    s, c, d = m.get("style") or {}, m.get("contenu") or {}, DEFAUT["style"]
+    hexa = lambda v, x: v.lower() if isinstance(v, str) and re.fullmatch(r"#[0-9a-fA-F]{6}", v) else x
+    borne = lambda v, a, b, x: v if type(v) is int and a <= v <= b else x
+    texte = lambda v, n: " ".join(re.sub(r"[<>{}\x00-\x1f]", " ", str(v or "")).split())[:n]
+    pris = [x.lower() for x in TITRES]
+    ajouts = [{"titre": texte(a.get("titre"), 60), "consigne": texte(a.get("consigne"), 400), "mots": borne(a.get("mots"), 60, 250, 120)}
+              for a in (c.get("ajouts") or [])[:2] if isinstance(a, dict)]
+    return {"style": {k: hexa(s.get(k), d[k]) for k in ("accent", "lien", "fond", "carte")}
+            | {"police": s.get("police") if s.get("police") in POLICES else d["police"], "taille": borne(s.get("taille"), 15, 18, d["taille"]),
+               "largeur": borne(s.get("largeur"), 560, 720, d["largeur"]),
+               "titres": s.get("titres") if s.get("titres") in ("filet", "bandeau", "simple") else d["titres"]},
+            "contenu": {"masquees": [x for x in OPTIONNELLES if x in (c.get("masquees") or [])],
+                        "ajouts": [a for a in ajouts if a["titre"] and a["consigne"] and not any(a["titre"].lower().startswith(p) for p in pris)],
+                        "suivre": list(dict.fromkeys(x for x in (texte(v, 40) for v in (c.get("suivre") or [])) if x))[:8],
+                        "note": texte(c.get("note"), 500)}}
+
+
+def charger_modele():
+    try:
+        return valider(json.load(open("/tmp/modele.json", encoding="utf-8")))
+    except Exception:
+        return valider({})
+
+
+def sections(m):
+    """Titres attendus, dans l'ordre : rubriques non masquées, rubriques ajoutées, puis Sources."""
+    return [x for x in TITRES[:-1] if x not in m["contenu"]["masquees"]] + [a["titre"] for a in m["contenu"]["ajouts"]] + ["Sources"]
+
+
+def fourchette(mots):
+    return round(mots * .85), round(mots * 1.15)
+
+
+def melange(h, t):
+    return "#" + "".join(f"{round(int(h[i:i + 2], 16) + (255 - int(h[i:i + 2], 16)) * t):02x}" for i in (1, 3, 5))
+
+
+def clair(h):
+    r, g, b = (int(h[i:i + 2], 16) for i in (1, 3, 5))
+    return .299 * r + .587 * g + .114 * b > 140
+
+
+def styles(st):
+    police, texte = f"font-family:{POLICES[st['police']]};", "#2b2b2b" if clair(st["carte"]) else "#ececec"
+    titre = {"filet": f"padding-bottom:6px;border-bottom:2px solid {melange(st['accent'], .75)};color:{st['accent']};",
+             "bandeau": f"padding:8px 12px;border-radius:4px;background:{st['accent']};color:{st['carte']};",
+             "simple": f"color:{st['accent']};"}[st["titres"]]
+    t = st["taille"]
+    return {"h2": police + f"margin:32px 0 12px;font-size:{t + 5}px;line-height:1.3;" + titre,
+            "p": police + f"margin:0 0 14px;font-size:{t}px;line-height:1.65;color:{texte};",
+            "ul": "margin:0 0 16px;padding-left:20px;",
+            "li": police + f"margin:0 0 8px;font-size:{t}px;line-height:1.6;color:{texte};",
+            "a": f"color:{st['lien']};text-decoration:underline;",
+            "strong": f"color:{st['accent'] if clair(st['carte']) else texte};"}
 
 
 def date_fr(d):
@@ -61,8 +117,9 @@ def variables():
 
 def gabarit(nom, objet, focus):
     fragment = open("/tmp/fragment.html", encoding="utf-8").read()
+    m = charger_modele(); st = m["style"]
     titres = [normaliser(t) for t in re.findall(r"<h2[^>]*>(.*?)</h2>", fragment, re.S)]
-    for attendu in TITRES:
+    for attendu in sections(m):
         if not any(t.startswith(attendu) for t in titres):
             print(f"MANQUE=section <h2>{attendu}</h2>")
     if MENTION not in normaliser(fragment):
@@ -72,19 +129,19 @@ def gabarit(nom, objet, focus):
     print(f"MOTS={mots}")
 
     style = fragment
-    for tag, css in STYLES.items():
+    for tag, css in styles(st).items():
         style = re.sub(rf"<{tag}(\s[^>]*)?>", lambda m, t=tag, c=css: f'<{t} style="{c}"{m.group(1) or ""}>', style)
     now = datetime.now(ZoneInfo("Europe/Paris"))
     entete = f"{JOURS[now.weekday()].capitalize()} {date_fr(now)} · Focus M2 du jour : {html.escape(focus)}"
     with open("/tmp/email.html", "w", encoding="utf-8") as f:
         f.write(f"""<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1"><title>{html.escape(objet)}</title></head>
-<body style="margin:0;padding:0;background:#f4f1ea;">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:#f4f1ea;"><tr><td align="center" style="padding:24px 10px;">
-<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:640px;background:#ffffff;border-radius:8px;">
-<tr><td style="padding:28px 24px 4px;{POLICE}">
-<div style="font-size:13px;letter-spacing:1px;text-transform:uppercase;color:#8a7350;">☕ {html.escape(nom)}</div>
-<div style="font-size:14px;color:#6b6b6b;margin-top:4px;">{entete}</div></td></tr>
+<body style="margin:0;padding:0;background:{st['fond']};">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:{st['fond']};"><tr><td align="center" style="padding:24px 10px;">
+<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="max-width:{st['largeur']}px;background:{st['carte']};border-radius:8px;">
+<tr><td style="padding:28px 24px 4px;font-family:{POLICES[st['police']]};">
+<div style="font-size:13px;letter-spacing:1px;text-transform:uppercase;color:{st['accent'] if clair(st['carte']) else '#ececec'};">☕ {html.escape(nom)}</div>
+<div style="font-size:14px;color:{'#6b6b6b' if clair(st['carte']) else '#b5b5b5'};margin-top:4px;">{entete}</div></td></tr>
 <tr><td style="padding:0 24px 28px;">{style}</td></tr></table></td></tr></table></body></html>""")
 
     t = re.sub(r'<a\s[^>]*href="([^"]+)"[^>]*>(.*?)</a>', r"\2 (\1)", fragment, flags=re.S)
@@ -93,6 +150,21 @@ def gabarit(nom, objet, focus):
     t = html.unescape(re.sub(r"<[^>]+>", "", re.sub(r"</p>|</ul>", "\n\n", t)))
     with open("/tmp/email.txt", "w", encoding="utf-8") as f:
         f.write(f"Focus M2 du jour : {focus}\n\n" + re.sub(r"\n\s*\n\s*\n+", "\n\n", t).strip() + "\n")
+
+
+def modele(url=MODELE_URL):
+    try:
+        brut = json.load(urllib.request.urlopen(urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"}), timeout=20))
+        m, etat = valider(brut), f"réglé sur le dashboard (modifié le {brut.get('date') or 'jamais'})"
+    except Exception as e:
+        m, etat = valider({}), f"d'origine (dashboard injoignable : {type(e).__name__})"
+    json.dump(m, open("/tmp/modele.json", "w", encoding="utf-8"), ensure_ascii=False)
+    c = m["contenu"]
+    print(f"MODELE={etat}\nSECTIONS={' | '.join(sections(m))}\nMASQUEES={' | '.join(c['masquees']) or 'aucune'}")
+    for a in c["ajouts"]:
+        bas, haut = fourchette(a["mots"])
+        print(f"AJOUT={a['titre']} ; {bas}-{haut} mots ; {a['consigne']}")
+    print(f"SUIVRE={', '.join(c['suivre']) or 'aucun'}\nNOTE={c['note'] or 'aucune'}")
 
 
 def chiffres():
@@ -218,4 +290,4 @@ def archiver(site, objet, focus):
 
 
 if __name__ == "__main__":
-    {"variables": variables, "chiffres": chiffres, "journal": journal, "fenetre": fenetre_ok, "opinions": opinions, "marches": marches_ok, "archiver": lambda: archiver(*sys.argv[2:5])}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
+    {"variables": variables, "modele": lambda: modele(*sys.argv[2:3]), "chiffres": chiffres, "journal": journal, "fenetre": fenetre_ok, "opinions": opinions, "marches": marches_ok, "archiver": lambda: archiver(*sys.argv[2:5])}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
