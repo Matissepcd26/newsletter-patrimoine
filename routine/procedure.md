@@ -33,5 +33,12 @@ Tu travailles seul : personne ne peut te répondre. Ne pose aucune question. Les
    for i in $(seq 16); do [ "$(TZ=Europe/Paris date +%H%M)" -ge 0900 ] && break; sleep 30; done; TZ=Europe/Paris date +%H:%M
    ```
 12. **Envoi** avec l'outil Gmail `send_message` : `to` = DESTINATAIRES, `subject` = OBJET, `htmlBody` = contenu exact de /tmp/email.html, `body` = contenu exact de /tmp/email.txt.
+12 bis. **Archives (seulement si TEST = non, après l'envoi).** Ajoute la newsletter au site d'archives, puis pousse :
+   ```
+   git fetch -q origin claude/archives && git worktree add -q /tmp/site FETCH_HEAD
+   python3 routine/outils.py archiver /tmp/site "OBJET" "FOCUS"
+   cd /tmp/site && git add archives && git commit -qm "Archive du $(TZ=Europe/Paris date +%F)" && git push -q origin HEAD:claude/archives
+   ```
+   L'email est déjà parti : si l'archivage échoue, ne renvoie rien et signale-le dans le bilan.
 13. **Échec.** Si la rédaction ou le contrôle échoue définitivement, envoie à DESTINATAIRES un email d'objet « Pas de newsletter ce matin », dont le corps dit « Pas de newsletter ce matin. Raison : » suivi de la raison en une phrase.
 14. **Bilan**, en six lignes : recherches web, pages lues, lignes du journal, NON_SOURCÉS final, erreurs corrigées après la contre-vérification, total_auto final, objet envoyé ou raison de l'échec.

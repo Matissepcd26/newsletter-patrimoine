@@ -7,6 +7,7 @@ python3 outils.py gabarit "NOM" "OBJET" "FOCUS"  -> lit /tmp/fragment.html, écr
                                                     puis affiche MOTS=… et une ligne MANQUE=… par élément absent
 """
 import html
+import json
 from pathlib import Path
 import re
 import subprocess
@@ -189,5 +190,25 @@ def marches_ok():
     print(f"MARCHE_ECARTS={ecarts}")
 
 
+THEMES = ["Fiscalité IR", "IS et sociétés", "Immobilier", "Gestion de portefeuille", "Transmission",
+          "Cas pratique", "Marchés et macro"]
+
+
+def archiver(site, objet, focus):
+    """Ajoute l'email du jour au site d'archives : page archives/AAAA-MM-JJ.html et entrée dans archives/index.json."""
+    now = datetime.now(ZoneInfo("Europe/Paris"))
+    date = now.date().isoformat()
+    dossier = Path(site) / "archives"
+    dossier.mkdir(parents=True, exist_ok=True)
+    (dossier / f"{date}.html").write_text(open("/tmp/email.html", encoding="utf-8").read(), encoding="utf-8")
+    index = dossier / "index.json"
+    entrees = [e for e in (json.loads(index.read_text(encoding="utf-8")) if index.exists() else []) if e["date"] != date]
+    entrees.append({"date": date, "jour": f"{JOURS[now.weekday()]} {date_fr(now)}", "objet": objet,
+                    "focus": focus, "theme": THEMES[now.weekday()]})
+    entrees.sort(key=lambda e: e["date"], reverse=True)
+    index.write_text(json.dumps(entrees, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    print(f"ARCHIVE={date}.html ; {len(entrees)} newsletter(s) archivée(s)")
+
+
 if __name__ == "__main__":
-    {"variables": variables, "chiffres": chiffres, "journal": journal, "fenetre": fenetre_ok, "opinions": opinions, "marches": marches_ok}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
+    {"variables": variables, "chiffres": chiffres, "journal": journal, "fenetre": fenetre_ok, "opinions": opinions, "marches": marches_ok, "archiver": lambda: archiver(*sys.argv[2:5])}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
