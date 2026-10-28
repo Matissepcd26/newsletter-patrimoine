@@ -65,7 +65,7 @@ Exemple de ton (style uniquement) : « La BCE n'a rien changé. C'était prévu,
 
 <format_sortie>
 Ta réponse finale contient uniquement ces trois balises :
-<objet>☕ {{NOM_NEWSLETTER}} — {{JOUR}} {{DATE}} : [titre de l'édito en moins de 8 mots]</objet>
+<objet>◆ {{NOM_NEWSLETTER}} — {{JOUR}} {{DATE}} : [titre de l'édito en moins de 8 mots]</objet>
 <focus_sujet>[sujet du focus en une ligne]</focus_sujet>
 <newsletter_html>[fragment HTML : <h2>, <p>, <ul>, <li>, <strong> avec parcimonie, <a href>. Pas de <html>, <head>, <style> ni de CSS.]</newsletter_html>
 </format_sortie>

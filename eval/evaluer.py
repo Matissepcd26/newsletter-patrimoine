@@ -9,7 +9,7 @@ import sys
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent / "routine"))
-from outils import charger_modele, fourchette, sections  # noqa: E402
+from outils import charger_modele, longueurs  # noqa: E402
 
 FOURCHETTES = [("L'édito", 250, 300), ("Les marchés en un coup d'œil", 250, 300),
                ("Banques centrales et macro", 300, 350), ("France : épargne, fiscalité, immobilier", 350, 400),
@@ -36,10 +36,7 @@ def evaluer(page, objet):
     titres = [texte(re.match(r"<h2[^>]*>(.*?)</h2>", b, re.S).group(1)) for b in blocs]
     notes, ecarts = {}, []
     m = charger_modele()  # modèle réglé par Mathéo (/tmp/modele.json), sinon celui d'origine
-    base = {nom: (bas, haut) for nom, bas, haut in FOURCHETTES}
-    fourchettes = [(nom, *base[nom]) for nom in sections(m)[:-1] if nom in base] + \
-        [(a["titre"], *fourchette(a["mots"])) for a in m["contenu"]["ajouts"]] + [FOURCHETTES[-1]]
-    personnalise = bool(m["contenu"]["masquees"] or m["contenu"]["ajouts"])
+    fourchettes = [(nom, bas, haut) for nom, (bas, haut) in longueurs(m).items()] + [FOURCHETTES[-1]]
     avec_marches = "Les marchés en un coup d'œil" not in m["contenu"]["masquees"]
 
     attendus = [f[0] for f in fourchettes]
@@ -49,7 +46,7 @@ def evaluer(page, objet):
         ecarts.append(f"titres trouvés : {titres}")
 
     total = sum(mots(b) for b in blocs[:-1])
-    bas_t, haut_t = (sum(f[1] for f in fourchettes[:-1]), sum(f[2] for f in fourchettes[:-1])) if personnalise else (2300, 2600)
+    bas_t, haut_t = sum(f[1] for f in fourchettes[:-1]), sum(f[2] for f in fourchettes[:-1])
     notes["C2"] = 4 if bas_t <= total <= haut_t else 2 if bas_t - 100 <= total <= haut_t + 200 else 0
     dans = 0
     for (nom, bas, haut), bloc in zip(fourchettes[:-1], blocs[:-1]):
@@ -61,7 +58,7 @@ def evaluer(page, objet):
     ecarts.append(f"total : {total} mots hors Sources")
 
     c3 = 0 if "<table" in contenu else 1
-    listes_hors = [t for t, b in zip(titres, blocs) if "<ul" in b and not t.startswith(("Les marchés", "Sources"))]
+    listes_hors = [t for t, b in zip(titres, blocs) if "<ul" in b and not t.startswith(("Les marchés", "Sources", "L'essentiel"))]
     c3 += 0 if listes_hors else 1
     marches = next((b for t, b in zip(titres, blocs) if t.startswith("Les marchés")), "")
     lignes = len(re.findall(r"<li", marches))
@@ -71,7 +68,7 @@ def evaluer(page, objet):
         ecarts.append(f"format : listes hors marchés/sources {listes_hors}, {lignes} lignes de marché")
 
     notes["C4"] = 2 if MENTION in texte(contenu) else 0
-    m = re.match(rf"☕ .+ — ({JOURS}) (?:1er|\d{{1,2}}) \w+ \d{{4}} : (.+)$", objet.strip())
+    m = re.match(rf"(?:☕|◆) .+ — ({JOURS}) (?:1er|\d{{1,2}}) \w+ \d{{4}} : (.+)$", objet.strip())
     notes["C5"] = 2 if m and len(m.group(2).split()) < 8 else 0
     if not notes["C5"]:
         ecarts.append(f"objet non conforme : {objet}")
