@@ -12,6 +12,10 @@ Newsletter patrimoniale quotidienne pour un étudiant de M2 Gestion de patrimoin
 
 Toutes les newsletters et leurs fiches Focus, classées par thème et consultables avec une recherche : <https://le-coffre-patrimoine.vercel.app> (relais Vercel de GitHub Pages). Après chaque envoi, la routine les ajoute sur la branche `claude/archives`, publiée par GitHub Pages.
 
+## Modèle du mail
+
+Mathéo règle l'esthétique (couleurs, police, taille, largeur, titres) et le contenu (rubriques masquées, deux rubriques ajoutées, sujets à suivre, note) sur la page « Modèle du mail » du dashboard, avec la clé d'accès. Le modèle est enregistré par `api/modele` (fonction Vercel, stockage Vercel Blob `coffre-modele`, 20 versions gardées). Chaque matin, `routine/outils.py modele` le lit et l'applique : le gabarit prend le style, la rédaction suit les rubriques, `eval/evaluer.py` adapte ses contrôles. Si le dashboard est injoignable, la routine garde le modèle d'origine. Le domaine `le-coffre-patrimoine.vercel.app` doit figurer dans la liste réseau de l'environnement cloud.
+
 ## Qualité
 
 - `routine/marches.py` lit les 10 dernières clôtures de marché (Yahoo Finance, CNBC) avant toute recherche.
