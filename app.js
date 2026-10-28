@@ -34,12 +34,13 @@ function donneesDemo() { // aperçu de mise en page seulement, activé par ?demo
 
 function route() {
   const [vue, arg] = location.hash.replace(/^#\/?/, "").split("/");
-  const actif = {fiches: "fiches", historique: "historique", "a-propos": "a-propos", n: "historique"}[vue] || "accueil";
+  const actif = {fiches: "fiches", historique: "historique", modele: "modele", "a-propos": "a-propos", n: "historique"}[vue] || "accueil";
   document.querySelectorAll(".nav a").forEach(a => a.dataset.vue === actif ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
   if (entrees === null) return;
-  const vues = {fiches, historique, "a-propos": aPropos, n: () => lecteur(arg)};
+  const vues = {fiches, historique, modele: vueModele, "a-propos": aPropos, n: () => lecteur(arg)};
   $("#contenu").innerHTML = `<div class="view">${(vues[vue] || accueil)()}</div>`;
   if (vue === "fiches") majFiches();
+  if (vue === "modele") initModele();
   if (vue === "n" && !DEMO) chargerEdition(arg);
   document.title = `${$("#contenu h1")?.textContent || "Archives"} | Le Coffre`;
   window.scrollTo(0, 0);
@@ -48,11 +49,11 @@ function route() {
 function clic(ev) {
   if (ev.target.id === "oublier") return oublier();
   if (ev.target.closest("#theme")) return changerTheme();
-  const el = ev.target.closest("[data-n], [data-theme], [data-chip], [data-ancre]");
+  const el = ev.target.closest("[data-n], [data-filtre], [data-chip], [data-ancre]");
   if (!el) return;
   if (el.dataset.ancre) return document.getElementById(el.dataset.ancre).scrollIntoView({block: "start"});
   if (el.dataset.n) location.hash = `#/n/${el.dataset.n}`;
-  else if (el.dataset.theme) { filtre.theme = el.dataset.theme; filtre.q = ""; location.hash === "#/fiches" ? route() : (location.hash = "#/fiches"); }
+  else if (el.dataset.filtre) { filtre.theme = el.dataset.filtre; filtre.q = ""; location.hash === "#/fiches" ? route() : (location.hash = "#/fiches"); }
   else {
     filtre.theme = el.dataset.chip;
     document.querySelectorAll("[data-chip]").forEach(b => b.setAttribute("aria-pressed", b.dataset.chip === filtre.theme));
@@ -91,14 +92,14 @@ async function init() {
   }
   entrees.sort((a, b) => b.date.localeCompare(a.date));
   $("#themes-lateraux").innerHTML = "<p>Thèmes</p>" + THEMES.map(t =>
-    `<button data-theme="${t}"><span>${t}</span><span class="mono">${compte(t)}</span></button>`).join("");
+    `<button data-filtre="${t}"><span>${t}</span><span class="mono">${compte(t)}</span></button>`).join("");
   route();
 }
 
 const ligne = e => `<button data-n="${e.date}"><span class="mono meta">${dateCourte(e.date)}</span>
   <strong>${echap(e.focus)}</strong><span class="meta">${e.theme}</span></button>`;
 const programme = () => `<div class="theme-grid">${JOURS.map((j, i) =>
-  `<button data-theme="${THEMES[i]}"><span>${j}</span><span class="meta">${THEMES[i]}</span></button>`).join("")}</div>`;
+  `<button data-filtre="${THEMES[i]}"><span>${j}</span><span class="meta">${THEMES[i]}</span></button>`).join("")}</div>`;
 
 function accueil() {
   if (!entrees.length) return `<h1>${erreur ? "Archives indisponibles" : "Bienvenue"}</h1>
@@ -119,7 +120,7 @@ function accueil() {
       <div><b>${dateCourte(premier.date)}</b><span class="meta">première édition</span></div>
     </div>
     <h2>Réviser par thème</h2>
-    <div class="theme-grid">${THEMES.map(t => `<button data-theme="${t}"><span>${t}</span><span class="mono">${compte(t)}</span></button>`).join("")}</div>
+    <div class="theme-grid">${THEMES.map(t => `<button data-filtre="${t}"><span>${t}</span><span class="mono">${compte(t)}</span></button>`).join("")}</div>
     <h2>Dernières fiches</h2><div class="rows">${entrees.slice(0, 6).map(ligne).join("")}</div>`;
 }
 
@@ -195,6 +196,7 @@ async function ouvrir(ev) {
   if (!nom || !/^\S+@\S+\.\S+$/.test(email)) return void ($("#erreur").textContent = "Indique ton prénom et une adresse email valide.");
   if (await empreinte($("#cle").value.trim().toUpperCase()) !== EMPREINTE) return void ($("#erreur").textContent = "Clé d'accès incorrecte.");
   profil = {nom, email};
+  cleSession = $("#cle").value.trim();
   try { ($("#souvenir").checked ? localStorage : sessionStorage).setItem(PROFIL, JSON.stringify(profil)); } catch {}
   $("#entree").hidden = true;
   afficherProfil();

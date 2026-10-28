@@ -199,3 +199,34 @@ h2 { margin: 52px 0 16px; font-size: 20px; letter-spacing: -0.02em; font-weight:
   .profil { display: flex; gap: 10px; align-items: baseline; padding: 0; }
   .profil br { display: none; }
 }
+
+/* Modèle du mail : réglages à gauche, aperçu fidèle du mail à droite */
+.atelier { display: grid; grid-template-columns: minmax(300px, 380px) minmax(0, 1fr); gap: 28px; margin-top: 28px; align-items: start; }
+.reglages { display: flex; flex-direction: column; gap: 14px; min-width: 0; }
+.reglages fieldset { display: flex; flex-direction: column; gap: 12px; min-width: 0; margin: 0; padding: 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+.reglages legend { padding: 0 6px; font: 600 12px/1 var(--mono); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); }
+.champ { display: flex; flex-direction: column; gap: 6px; font-size: 13px; font-weight: 600; color: var(--muted); }
+.champ output { font: 500 12px var(--mono); color: var(--text); }
+.reglages input:not([type]), .reglages input[type="password"], .reglages select, .reglages textarea {
+  padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--text); font: 400 14.5px/1.4 var(--sans); resize: vertical; }
+.reglages input[type="range"] { accent-color: var(--primary); }
+.palettes { display: flex; flex-wrap: wrap; gap: 6px; }
+.palettes button { display: inline-flex; align-items: center; gap: 6px; padding: 5px 10px 5px 5px; border: 1px solid var(--line); border-radius: 999px; background: var(--bg); font-size: 13px; cursor: pointer; }
+.palettes button:hover { border-color: var(--text); }
+.palettes span { width: 18px; height: 18px; border-radius: 50%; box-shadow: inset 0 0 0 1px rgb(0 0 0 / .18); }
+.couleurs { display: grid; grid-template-columns: repeat(4, 1fr); gap: 8px; }
+.couleurs label { display: flex; flex-direction: column; align-items: center; gap: 4px; font-size: 12px; color: var(--muted); }
+.couleurs input { width: 100%; height: 36px; padding: 2px; border: 1px solid var(--line); border-radius: 8px; background: var(--bg); cursor: pointer; }
+.segments { display: grid; grid-template-columns: repeat(3, 1fr); padding: 3px; border: 1px solid var(--line); border-radius: 999px; background: var(--bg); }
+.segments label { position: relative; padding: 7px 0; border-radius: 999px; text-align: center; color: var(--text); font-weight: 500; cursor: pointer; }
+.segments input { position: absolute; inset: 0; margin: 0; opacity: 0; cursor: pointer; }
+.segments label:has(:checked) { background: var(--primary); color: var(--on-primary); }
+.segments label:has(:focus-visible) { outline: 2px solid var(--text); outline-offset: 2px; }
+.ajout { display: flex; flex-direction: column; gap: 8px; padding-bottom: 12px; border-bottom: 1px solid var(--line); }
+.ajout:last-child { padding-bottom: 0; border-bottom: 0; }
+.enregistrer { position: sticky; bottom: 0; z-index: 1; display: flex; flex-direction: column; gap: 10px; padding: 14px 0; border-top: 1px solid var(--line); background: var(--bg); }
+.enregistrer .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+.alerte { color: var(--danger); font-weight: 600; }
+.apercu { position: sticky; top: 20px; height: calc(100dvh - 40px); overflow: hidden; border: 1px solid var(--line); border-radius: 12px; background: #fff; }
+.apercu iframe { display: block; width: 100%; height: 100%; border: 0; }
+@media (max-width: 1100px) { .atelier { grid-template-columns: 1fr; } .apercu { order: -1; position: static; height: 64dvh; } }
