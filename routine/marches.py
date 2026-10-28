@@ -7,7 +7,7 @@ python3 routine/marches.py   -> une ligne par actif : actif | clôture | variati
 import json
 import time
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, time as heure, timezone
 from zoneinfo import ZoneInfo
 
 YAHOO = [("CAC 40", "^FCHI", "pts"), ("S&P 500", "^GSPC", "pts"), ("Nasdaq Composite", "^IXIC", "pts"),
@@ -53,16 +53,27 @@ def contrat_actif(racine, place, mois_cotes, regle):
     return max(candidats)[1:]
 
 
-def yahoo(nom, symbole, unite):
+def seance_close(r, t, reglement_ny):
+    """Vrai si la barre datée t est une séance terminée. Futures : terminée dès le règlement (heure de New York)."""
+    if reglement_ny is not None:
+        ny = ZoneInfo("America/New_York")
+        return datetime.now(ny) >= datetime.combine(datetime.fromtimestamp(t, ny).date(), heure(reglement_ny), ny)
+    periode = r["meta"]["currentTradingPeriod"]["regular"]
+    return not (periode["start"] <= t and time.time() < periode["end"])
+
+
+def yahoo(nom, symbole, unite, reglement_ny=None):
     r = graphe(symbole)
     barres = [(t, c) for t, c in zip(r["timestamp"], r["indicators"]["quote"][0]["close"]) if c is not None]
-    if r["meta"]["currentTradingPeriod"]["regular"]["end"] > time.time():
-        barres = barres[:-1]  # séance du jour encore ouverte
+    if not seance_close(r, barres[-1][0], reglement_ny):
+        barres = barres[:-1]  # séance encore ouverte
     (_, veille), (t, cloture) = barres[-2], barres[-1]
     periode = "la séance"
     if datetime.now(ZoneInfo("Europe/Paris")).weekday() >= 5:  # le week-end : variation sur la semaine
         veille, periode = next(c for tt, c in reversed(barres) if tt <= t - 6.5 * 86400), "la semaine"
-    date = datetime.fromtimestamp(t, timezone.utc).strftime("%d/%m/%Y")
+    date = datetime.fromtimestamp(t, ZoneInfo("America/New_York") if reglement_ny else timezone.utc).strftime("%d/%m/%Y")
+    if symbole == "BTC-USD":
+        date += " à 24 h UTC"  # bougie quotidienne close à minuit UTC
     decimales = 4 if symbole == "EURUSD=X" else 2
     return (f"{nom} | {fr(cloture, decimales)} {unite} | {fr(100 * (cloture / veille - 1), 2, True)} % sur {periode} | clôture du {date} | "
             f"https://finance.yahoo.com/quote/{symbole.replace('^', '%5E')}/history")
@@ -86,7 +97,7 @@ if __name__ == "__main__":
     for nom, racine, place, mois_cotes, unite, regle in CONTRATS:
         try:
             symbole, echeance = contrat_actif(racine, place, mois_cotes, regle)
-            print(yahoo(f"{nom} (contrat {echeance})", symbole, unite))
+            print(yahoo(f"{nom} (contrat {echeance})", symbole, unite, reglement_ny=15))
         except Exception as e:
             print(f"{nom} | non disponible ({type(e).__name__})")
     print(yahoo("Bitcoin", "BTC-USD", "$"))

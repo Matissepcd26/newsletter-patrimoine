@@ -120,6 +120,18 @@ def journal():
             fautes += 1
             print(f"EXTRAIT_SANS_VALEUR={champs[1]} … {champs[0][:60]}")
     print(f"EXTRAITS_FAUTIFS={fautes}")
+    # Faits publiés avant le début de la fenêtre : à présenter en « pour rappel » ou à retirer.
+    now = datetime.now(ZoneInfo("Europe/Paris"))
+    debut = (now - timedelta(days={0: 3, 5: 5, 6: 2}.get(now.weekday(), 1))).date()
+    for ligne in open("/tmp/faits.md", encoding="utf-8"):
+        champs = [c.strip() for c in ligne.split("|")]
+        texte_date = champs[-1] if len(champs) >= 7 else ""
+        m = (re.search(r"(\d{4})-(\d{2})-(\d{2})", texte_date) or re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", texte_date))
+        if not m:
+            continue
+        a, mo, j = (m.groups() if len(m.group(1)) == 4 else m.groups()[::-1])
+        if datetime(int(a), int(mo), int(j)).date() < debut and not re.search(r"légifrance|bofip|service-public|yahoo|cnbc|calcul", ligne, re.I):
+            print(f"AVANT_FENETRE={texte_date} … {champs[0][:70]}")
 
 
 def corps_actualite():
