@@ -1,6 +1,7 @@
 """Calculs exacts de la routine : variables de date (heure de Paris) et mise en forme de l'email.
 
 python3 outils.py variables                      -> DATE, JOUR, FENETRE, HEURE
+python3 outils.py chiffres                       -> chiffres du fragment absents de /tmp/faits.md
 python3 outils.py gabarit "NOM" "OBJET" "FOCUS"  -> lit /tmp/fragment.html, écrit /tmp/email.html et /tmp/email.txt,
                                                     puis affiche MOTS=… et une ligne MANQUE=… par élément absent
 """
@@ -90,5 +91,21 @@ def gabarit(nom, objet, focus):
         f.write(f"Focus M2 du jour : {focus}\n\n" + re.sub(r"\n\s*\n\s*\n+", "\n\n", t).strip() + "\n")
 
 
+def chiffres():
+    """Chiffres de la newsletter absents du journal des faits : chacun doit être sourcé, corrigé ou retiré."""
+    fragment = open("/tmp/fragment.html", encoding="utf-8").read()
+    corps = normaliser(re.split(r"<h2[^>]*>\s*Sources", fragment)[0])
+    norm = lambda s: re.sub(r"[\s\u202f\xa0]", "", s).replace(",", ".").strip(".")
+    journal = norm(open("/tmp/faits.md", encoding="utf-8").read())
+    absents = 0
+    for m in re.finditer(r"\d[\d\u202f\xa0 .,]*\d|\d", corps):
+        n = norm(m.group())
+        if re.fullmatch(r"20\d\d", n) or (re.fullmatch(r"\d{1,2}", n) and int(n) <= 31) or n in journal:
+            continue
+        absents += 1
+        print(f"NON_SOURCÉ={m.group().strip()} … {corps[max(0, m.start() - 50):m.end() + 15]}")
+    print(f"NON_SOURCÉS={absents}")
+
+
 if __name__ == "__main__":
-    variables() if sys.argv[1] == "variables" else gabarit(*sys.argv[2:5])
+    {"variables": variables, "chiffres": chiffres}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
