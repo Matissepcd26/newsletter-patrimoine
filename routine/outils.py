@@ -201,6 +201,13 @@ def archiver(site, objet, focus):
     dossier = Path(site) / "archives"
     dossier.mkdir(parents=True, exist_ok=True)
     (dossier / f"{date}.html").write_text(open("/tmp/email.html", encoding="utf-8").read(), encoding="utf-8")
+    faits = []  # journal des faits : chaque chiffre avec l'extrait de sa source, affiché dans le coffre
+    if Path("/tmp/faits.md").exists():
+        for ligne in open("/tmp/faits.md", encoding="utf-8"):
+            c = [x.strip() for x in ligne.split("|")]
+            if len(c) >= 6 and c[0] and c[0] != "affirmation":
+                faits.append(dict(zip(["affirmation", "valeur", "extrait", "media", "titre", "url", "date"], c + [""] * 7)))
+    (dossier / f"{date}.faits.json").write_text(json.dumps(faits, ensure_ascii=False, indent=1), encoding="utf-8")
     index = dossier / "index.json"
     entrees = [e for e in (json.loads(index.read_text(encoding="utf-8")) if index.exists() else []) if e["date"] != date]
     entrees.append({"date": date, "jour": f"{JOURS[now.weekday()]} {date_fr(now)}", "objet": objet,
