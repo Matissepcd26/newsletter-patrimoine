@@ -210,7 +210,15 @@ def journal():
         if not m:
             continue
         a, mo, j = (m.groups() if len(m.group(1)) == 4 else m.groups()[::-1])
-        if datetime(int(a), int(mo), int(j)).date() < debut and not re.search(r"légifrance|bofip|service-public|yahoo|cnbc|calcul", ligne, re.I):
+        try:
+            jour = datetime(int(a), int(mo), int(j)).date()
+        except ValueError:  # date à l'américaine (mm/jj/aaaa) ou invalide
+            try:
+                jour = datetime(int(a), int(j), int(mo)).date()
+            except ValueError:
+                print(f"DATE_ILLISIBLE={texte_date} … {champs[0][:70]}")
+                continue
+        if jour < debut and not re.search(r"légifrance|bofip|service-public|yahoo|cnbc|calcul", ligne, re.I):
             print(f"AVANT_FENETRE={texte_date} … {champs[0][:70]}")
 
 
