@@ -1,0 +1,1 @@
+{"rewrites": [{"source": "/((?!api/).*)", "destination": "https://matissepcd26.github.io/newsletter-patrimoine/$1"}]}
