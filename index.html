@@ -3,15 +3,33 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Le Café Patrimoine | Archives</title>
+<title>Le Coffre | Archives du Café Patrimoine</title>
 <meta name="description" content="Archives de la newsletter patrimoniale quotidienne et fiches Focus M2 classées par thème.">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@phosphor-icons/web@2.1.1/src/regular/style.css">
 <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+<div class="gate" id="entree" hidden>
+  <div class="gate-art">
+    <strong>Le Coffre</strong>
+    <div><h1>Ouvre ton coffre.</h1><p>Chaque édition du Café Patrimoine, ses fiches Focus et les sources de chaque chiffre, rangées au même endroit.</p></div>
+    <p class="meta" style="color:inherit;opacity:.7">Archives réservées au lecteur de la newsletter.</p>
+  </div>
+  <div class="gate-form">
+    <form id="formulaire" novalidate>
+      <div class="field"><label for="nom">Prénom</label><input id="nom" autocomplete="given-name" required></div>
+      <div class="field"><label for="email">Adresse email</label><input id="email" type="email" autocomplete="email" required></div>
+      <div class="field"><label for="cle">Clé d'accès</label><input id="cle" type="password" autocomplete="current-password" required></div>
+      <label class="check"><input id="souvenir" type="checkbox" checked>Se souvenir de moi sur cet ordinateur</label>
+      <p class="err" id="erreur" role="alert"></p>
+      <button class="btn primary" type="submit"><i class="ph ph-key"></i>Ouvrir le coffre</button>
+      <p class="meta">Ton prénom et ton email restent dans ce navigateur. Rien n'est envoyé.</p>
+    </form>
+  </div>
+</div>
 <div class="shell">
   <aside class="side">
-    <a class="brand" href="#/"><strong>Le Café Patrimoine</strong><span>Archives et fiches M2</span></a>
+    <a class="brand" href="#/"><strong>Le Coffre</strong><span>Archives du Café Patrimoine</span></a>
     <nav class="nav" aria-label="Navigation principale">
       <a href="#/" data-vue="accueil"><i class="ph ph-house"></i>Accueil</a>
       <a href="#/fiches" data-vue="fiches"><i class="ph ph-cards"></i>Fiches Focus</a>
@@ -19,6 +37,7 @@
       <a href="#/a-propos" data-vue="a-propos"><i class="ph ph-info"></i>À propos</a>
     </nav>
     <div class="side-themes" id="themes-lateraux"></div>
+    <div class="profil" id="profil"></div>
   </aside>
   <main id="contenu" tabindex="-1"><div class="skeleton" aria-label="Chargement"></div></main>
 </div>

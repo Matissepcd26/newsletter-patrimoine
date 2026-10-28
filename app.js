@@ -4,6 +4,9 @@ const JOURS = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dim
 const DEMO = new URLSearchParams(location.search).has("demo");
 let entrees = null, erreur = false;
 const filtre = {theme: "Tous", q: ""};
+const EMPREINTE = "69fb66e50d0ebcb3350968790b452813613beddeeebb4e0e8ccb781b70da07f7"; // SHA-256 de la clé, en majuscules
+const PROFIL = "coffre-profil";
+let profil = null;
 
 const $ = s => document.querySelector(s);
 const echap = s => String(s).replace(/[&<>"]/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;"}[c]));
@@ -37,13 +40,16 @@ function route() {
   const vues = {fiches, historique, "a-propos": aPropos, n: () => lecteur(arg)};
   $("#contenu").innerHTML = `<div class="view">${(vues[vue] || accueil)()}</div>`;
   if (vue === "fiches") majFiches();
-  document.title = `${$("#contenu h1")?.textContent || "Archives"} | Le Café Patrimoine`;
+  if (vue === "n" && !DEMO) chargerEdition(arg);
+  document.title = `${$("#contenu h1")?.textContent || "Archives"} | Le Coffre`;
   window.scrollTo(0, 0);
 }
 
 function clic(ev) {
-  const el = ev.target.closest("[data-n], [data-theme], [data-chip]");
+  if (ev.target.id === "oublier") return oublier();
+  const el = ev.target.closest("[data-n], [data-theme], [data-chip], [data-ancre]");
   if (!el) return;
+  if (el.dataset.ancre) return document.getElementById(el.dataset.ancre).scrollIntoView({block: "start"});
   if (el.dataset.n) location.hash = `#/n/${el.dataset.n}`;
   else if (el.dataset.theme) { filtre.theme = el.dataset.theme; filtre.q = ""; location.hash === "#/fiches" ? route() : (location.hash = "#/fiches"); }
   else {
@@ -61,6 +67,9 @@ function saisie(ev) {
 
 async function init() {
   addEventListener("hashchange", route);
+  try { profil = JSON.parse(localStorage.getItem(PROFIL) || sessionStorage.getItem(PROFIL)); } catch { profil = null; }
+  $("#formulaire").addEventListener("submit", ouvrir);
+  if (profil) afficherProfil(); else $("#entree").hidden = false;
   document.addEventListener("click", clic);
   document.addEventListener("input", saisie);
   try {
@@ -85,7 +94,7 @@ function accueil() {
       : "La première édition arrive à 9 h et apparaîtra ici automatiquement, avec sa fiche Focus."}</p>
     <h2>Une fiche par jour, un thème par jour</h2>${programme()}`;
   const e = entrees[0], premier = entrees[entrees.length - 1];
-  return `<h1>Dernière édition</h1><p class="lead">${jourLong(e)}</p>
+  return `<h1>Bonjour ${echap(profil?.nom || "")}</h1><p class="lead">Dernière édition : ${jourLong(e)}</p>
     <section class="hero">
       <div class="hero-main"><span class="meta">Édito</span><h2>${titreEdito(e)}</h2>
         <div><a class="btn primary" href="#/n/${e.date}"><i class="ph ph-book-open"></i>Lire l'édition</a></div></div>
@@ -151,7 +160,7 @@ function lecteur(date) {
         <a class="btn" href="archives/${e.date}.html" target="_blank" rel="noopener"><i class="ph ph-arrow-square-out"></i>Ouvrir seule</a></div></div>
     <h1>${titreEdito(e)}</h1><p class="lead">${jourLong(e)}. Focus : ${echap(e.focus)}</p>
     ${DEMO ? `<p class="empty" style="margin-top:20px">Mode démonstration : le texte de l'édition s'affiche ici.</p>`
-      : `<iframe class="frame" style="margin-top:20px" src="archives/${e.date}.html" title="${titreEdito(e)}"></iframe>`}`;
+      : `<div class="lecture" id="lecture"><div class="skeleton"></div></div>`}`;
 }
 
 function aPropos() {
@@ -161,6 +170,63 @@ function aPropos() {
     <h2>Comment elle est préparée</h2>
     <p>Chaque édition s'appuie sur des recherches faites le matin même et sur des sources primaires (BCE, INSEE, Légifrance, BOFiP). Les chiffres sont recoupés avant l'envoi.</p>
     <p class="meta">Contenu informatif et pédagogique. Il ne constitue ni un conseil en investissement, ni un conseil fiscal ou juridique personnalisé.</p></div>`;
+}
+
+async function empreinte(s) {
+  const b = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(s));
+  return [...new Uint8Array(b)].map(x => x.toString(16).padStart(2, "0")).join("");
+}
+
+async function ouvrir(ev) {
+  ev.preventDefault();
+  const nom = $("#nom").value.trim(), email = $("#email").value.trim();
+  if (!nom || !/^\S+@\S+\.\S+$/.test(email)) return void ($("#erreur").textContent = "Indique ton prénom et une adresse email valide.");
+  if (await empreinte($("#cle").value.trim().toUpperCase()) !== EMPREINTE) return void ($("#erreur").textContent = "Clé d'accès incorrecte.");
+  profil = {nom, email};
+  try { ($("#souvenir").checked ? localStorage : sessionStorage).setItem(PROFIL, JSON.stringify(profil)); } catch {}
+  $("#entree").hidden = true;
+  afficherProfil();
+  route();
+}
+
+function oublier() {
+  try { localStorage.removeItem(PROFIL); sessionStorage.removeItem(PROFIL); } catch {}
+  location.reload();
+}
+
+const afficherProfil = () => $("#profil").innerHTML = `${echap(profil.nom)}<br><button id="oublier" type="button">Oublier cet ordinateur</button>`;
+
+function preuves(f) {
+  if (!f.length) return `<p class="meta">Le détail des sources accompagne chaque édition archivée par la routine.</p>`;
+  const officielles = f.filter(x => /gouv\.fr|europa\.eu|legifrance|bofip|insee|banque-france|federalreserve/i.test(x.url || "")).length;
+  return `<div class="controles">
+      <div><b>${f.length}</b><span class="meta">faits sourcés</span></div>
+      <div><b>${new Set(f.map(x => x.url).filter(Boolean)).size}</b><span class="meta">pages consultées</span></div>
+      <div><b>${officielles}</b><span class="meta">sources officielles</span></div>
+      <div><b>${f.filter(x => /calcul/i.test(x.media)).length}</b><span class="meta">calculs refaits</span></div></div>
+    <ul class="faits">${f.map(x => `<li><strong>${echap(x.affirmation)}</strong> : <span class="mono">${echap(x.valeur)}</span>
+      ${/^https?:\/\//.test(x.url || "") ? `<a href="${encodeURI(x.url)}" target="_blank" rel="noopener">${echap(x.media || "source")}</a>` : `<span class="meta">${echap(x.media || "")}</span>`}
+      ${x.extrait && !/^calcul$/i.test(x.extrait) ? `<span class="extrait">« ${echap(x.extrait)} »</span>` : ""}</li>`).join("")}</ul>`;
+}
+
+async function chargerEdition(date) {
+  const zone = $("#lecture");
+  try {
+    const doc = new DOMParser().parseFromString(await (await fetch(`archives/${date}.html`)).text(), "text/html");
+    const sections = [];
+    [...(doc.querySelector("h2")?.parentElement.children || [])].forEach(el => {
+      if (el.tagName === "H2") sections.push({titre: el.textContent.trim(), html: ""});
+      else if (sections.length) sections.at(-1).html += el.outerHTML.replace(/ style="[^"]*"/g, "");
+    });
+    let faits = [];
+    try { faits = await (await fetch(`archives/${date}.faits.json`)).json(); } catch {}
+    sections.push({titre: "Sources et vérifications", html: preuves(faits)});
+    zone.innerHTML = `<nav class="toc" aria-label="Sommaire">${sections.map((s, i) =>
+        `<a href="javascript:void 0" data-ancre="s${i}">${echap(s.titre)}</a>`).join("")}</nav>
+      <div class="article">${sections.map((s, i) => `<section id="s${i}"><h2>${echap(s.titre)}</h2>${s.html}</section>`).join("")}</div>`;
+  } catch {
+    zone.innerHTML = `<p class="empty">Cette édition n'a pas pu être chargée. <a href="archives/${date}.html">Ouvrir le fichier</a></p>`;
+  }
 }
 
 init();

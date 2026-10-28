@@ -1,0 +1,9 @@
+{
+  "color": {
+    "light": {"bg": "#edf0ea", "surface": "#fbfcf9", "text": "#13201a", "muted": "#55635a", "line": "#d2d9cd", "accent": "#9a5a0c", "vault": "#16301f"},
+    "dark": {"bg": "#0b130f", "surface": "#111c16", "text": "#e6ece3", "muted": "#98a79c", "line": "#22322a", "accent": "#e6a54a", "vault": "#132a1c"}
+  },
+  "font": {"sans": "Geist", "mono": "Geist Mono"},
+  "radius": {"card": "14px", "field": "10px", "control": "999px"},
+  "motion": {"enter": "350ms cubic-bezier(.16, 1, .3, 1)"}
+}
