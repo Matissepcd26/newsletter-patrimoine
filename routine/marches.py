@@ -135,7 +135,10 @@ if __name__ == "__main__":
                 print(yahoo(f"{nom} (contrat {echeance})", symbole, unite, reglement_ny=15))
         except Exception as e:
             print(f"{nom} ; non disponible ({type(e).__name__})")
-    print(yahoo("Bitcoin", "BTC-USD", "$"))
+    try:
+        print(yahoo("Bitcoin", "BTC-USD", "$"))
+    except Exception as e:
+        print(f"Bitcoin ; non disponible ({type(e).__name__})")
     try:
         print(bce())
     except Exception as e:

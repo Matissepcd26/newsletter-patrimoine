@@ -14,7 +14,7 @@ import re
 import subprocess
 import urllib.request
 import sys
-from datetime import datetime, timedelta
+from datetime import datetime, time as heure, timedelta
 from zoneinfo import ZoneInfo
 
 JOURS = ["lundi", "mardi", "mercredi", "jeudi", "vendredi", "samedi", "dimanche"]
@@ -76,10 +76,13 @@ def valider(m):
 
 
 def charger_modele():
-    try:
-        return valider(json.load(open("/tmp/modele.json", encoding="utf-8")))
-    except Exception:
-        return valider({})
+    """Modèle lu par `modele` (/tmp/modele.json), sinon la copie du dépôt, sinon celui d'origine."""
+    for chemin in ("/tmp/modele.json", Path(__file__).resolve().parent.parent / "config" / "modele.json"):
+        try:
+            return valider(json.load(open(chemin, encoding="utf-8")))
+        except Exception:
+            pass
+    return valider({})
 
 
 def sections(m):
@@ -137,16 +140,20 @@ def date_fr(d):
     return f"{'1er' if d.day == 1 else d.day} {MOIS[d.month - 1]} {d.year}"
 
 
+def recul(now):
+    """Jours depuis la dernière édition prévue (jours d'envoi du modèle) ; le samedi, la semaine écoulée."""
+    jours = charger_modele()["contenu"]["jours"]
+    if now.weekday() == 5:
+        return 5
+    return next((d for d in range(1, 8) if (now - timedelta(days=d)).weekday() in jours), 1)
+
+
 def fenetre(now):
-    jour = now.weekday()
-    if jour == 0:
-        return f"depuis le vendredi {date_fr(now - timedelta(days=3))} au matin, week-end compris"
-    if jour == 5:
-        return f"la semaine écoulée, depuis le lundi {date_fr(now - timedelta(days=5))}"
-    if jour == 6:
-        return f"depuis le vendredi {date_fr(now - timedelta(days=2))} au matin, plus l'agenda de la semaine à venir"
-    hier = now - timedelta(days=1)
-    return f"les dernières 24 heures, depuis le {JOURS[hier.weekday()]} {date_fr(hier)} au matin"
+    r, debut = recul(now), now - timedelta(days=recul(now))
+    if now.weekday() == 5:
+        return f"la semaine écoulée, depuis le lundi {date_fr(debut)}"
+    suite = ", plus l'agenda de la semaine à venir" if now.weekday() == 6 else ""
+    return f"{'les dernières 24 heures, ' if r == 1 else ''}depuis le {JOURS[debut.weekday()]} {date_fr(debut)} au matin{suite}"
 
 
 def normaliser(s):
@@ -156,6 +163,9 @@ def normaliser(s):
 def variables():
     now = datetime.now(ZoneInfo("Europe/Paris"))
     print(f"DATE={date_fr(now)}\nJOUR={JOURS[now.weekday()]}\nFENETRE={fenetre(now)}\nHEURE={now:%H:%M}")
+    ny = ZoneInfo("America/New_York")  # l'écart Paris - New York change deux fois par an, à des dates différentes
+    print("HEURES_NY=" + " ; ".join(f"{h} h {m:02d} à New York = {datetime.combine(now.date(), heure(h, m), ny).astimezone(now.tzinfo):%H h %M} à Paris"
+                                     for h, m in ((8, 30), (10, 0), (14, 0), (16, 0))))
 
 
 def gabarit(nom, objet, focus):
@@ -196,7 +206,10 @@ def gabarit(nom, objet, focus):
     t = html.unescape(re.sub(r"<[^>]+>", "", re.sub(r"</p>|</ul>", "\n\n", t)))
     with open("/tmp/email.txt", "w", encoding="utf-8") as f:
         f.write(f"Focus M2 du jour : {focus}\n\n" + re.sub(r"\n\s*\n\s*\n+", "\n\n", t).strip()
-                + f"\n\nÉdition complète et sources : {SITE}/#/n/{now:%Y-%m-%d}\n\n{MENTION}. Elle ne constitue ni un conseil en investissement, ni un conseil fiscal ou juridique personnalisé.\n")
+                + f"\n\nÉdition complète et sources : {SITE}/#/n/{now:%Y-%m-%d}\n\n{MENTION}. Elle ne constitue ni un conseil en investissement, "
+                  "ni un conseil fiscal ou juridique personnalisé. Les performances passées ne préjugent pas des performances futures.\n")
+    poids = Path("/tmp/email.html").stat().st_size / 1024
+    print(f"POIDS_EMAIL={poids:.0f} Ko" + (" : ALERTE, Gmail coupe les mails au-delà d'environ 102 Ko, raccourcis" if poids > 90 else ""))
 
 
 VERT, ROUGE = "#0f7b3e", "#b42318"
@@ -208,10 +221,11 @@ def blocs(fragment):
             for b in re.split(r"(?=<h2)", fragment) if b.startswith("<h2")]
 
 
-def colorer(s):
-    """Variations signées en vert ou en rouge (hausse, baisse)."""
+def colorer(s, sombre=False):
+    """Variations signées en vert ou en rouge (hausse, baisse), en teintes claires sur une carte sombre."""
+    vert, rouge = ("#4ade80", "#f87171") if sombre else (VERT, ROUGE)
     return re.sub(r"(?<![\w,/])([+−–-]\s?\d[\d \xa0 ]*(?:,\d+)?\s?(?:%|pb|points? de base))",
-                  lambda m: f'<b style="color:{VERT if m.group(1)[0] == "+" else ROUGE};white-space:nowrap;">{m.group(1)}</b>', s)
+                  lambda m: f'<b style="color:{vert if m.group(1)[0] == "+" else rouge};white-space:nowrap;">{m.group(1)}</b>', s)
 
 
 def habiller(s, st):
@@ -228,6 +242,18 @@ def titre_mail(titre, n, st):
     return habiller(f"<h2>{titre}</h2>", st)
 
 
+def rang_marche(l, st):
+    """Ligne « Actif : niveau ; variation ; date » en deux colonnes ; sans « : », sur toute la largeur."""
+    texte = texte_mail(st)
+    cellule = (f"border-bottom:1px solid {melange(texte, .85) if clair(st['carte']) else '#333'};font-family:{POLICES[st['police']]};"
+               f"font-size:{st['taille'] - 1}px;line-height:1.5;color:{texte};")
+    nom, _, reste = l.partition(" : ")
+    if not reste:
+        return f'<tr><td colspan="2" style="padding:9px 0;{cellule}">{colorer(habiller(l, st), not clair(st["carte"]))}</td></tr>'
+    return (f'<tr><td style="padding:9px 10px 9px 0;{cellule}font-weight:700;vertical-align:top;width:32%;">{normaliser(nom)}</td>'
+            f'<td style="padding:9px 0;{cellule}">{colorer(habiller(reste, st), not clair(st["carte"]))}</td></tr>')
+
+
 def section_mail(titre, corps, n, st):
     texte, r = texte_mail(st), st["arrondis"]
     if titre == "L'essentiel":
@@ -236,12 +262,11 @@ def section_mail(titre, corps, n, st):
                 f'{habiller(corps, st)}</div>')
     if titre.startswith("Les marchés") and st["marches"] == "tableau" and "<li" in corps:
         lignes = re.findall(r"<li[^>]*>(.*?)</li>", corps, re.S)
-        rangs = "".join(f'<tr><td style="padding:9px 10px 9px 0;border-bottom:1px solid {melange(texte, .85) if clair(st["carte"]) else "#333"};font-family:{POLICES[st["police"]]};font-size:{st["taille"] - 1}px;font-weight:700;color:{texte};vertical-align:top;width:32%;">{normaliser(l).split(" : ")[0]}</td>'
-                        f'<td style="padding:9px 0;border-bottom:1px solid {melange(texte, .85) if clair(st["carte"]) else "#333"};font-family:{POLICES[st["police"]]};font-size:{st["taille"] - 1}px;line-height:1.5;color:{texte};">{colorer(habiller(" : ".join(l.split(" : ")[1:]) or l, st))}</td></tr>' for l in lignes)
+        rangs = "".join(rang_marche(l, st) for l in lignes)
         reste = re.sub(r"<ul[^>]*>.*?</ul>", "", corps, count=1, flags=re.S)
         corps_html = f'<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin:0 0 14px;">{rangs}</table>{habiller(reste, st)}'
     else:
-        corps_html = habiller(colorer(corps) if titre.startswith("Les marchés") else corps, st)
+        corps_html = habiller(colorer(corps, not clair(st["carte"])) if titre.startswith("Les marchés") else corps, st)
     bloc = titre_mail(titre, n, st) + corps_html
     if st["encadres"] and titre.startswith("Le chiffre du jour"):
         m = re.search(r"<strong[^>]*>(.*?)</strong>", corps, re.S)
@@ -330,16 +355,30 @@ def modele(url=MODELE_URL):
     print(f"ENVOI={'non (' + raison + ')' if raison else 'oui'}\nHEURE_ENVOI={c['heure']}")
 
 
+def focus_recents():
+    """Sujets des Focus des 30 derniers jours, lus dans l'index des archives (branche claude/archives)."""
+    try:
+        subprocess.run(["git", "fetch", "-q", "origin", "claude/archives"], check=True, capture_output=True, timeout=60)
+        index = json.loads(subprocess.run(["git", "show", "FETCH_HEAD:archives/index.json"], check=True, capture_output=True, text=True).stdout)
+        limite = f"{datetime.now(ZoneInfo('Europe/Paris')) - timedelta(days=30):%Y-%m-%d}"
+        sujets = [e["focus"] for e in index if e.get("date", "") >= limite and e.get("focus")]
+        print(f"FOCUS_RECENTS={' ; '.join(sujets) or 'aucun'}")
+    except Exception as e:
+        print(f"FOCUS_RECENTS=aucun (archives illisibles : {type(e).__name__})")
+
+
 def chiffres():
     """Chiffres de la newsletter absents du journal des faits : chacun doit être sourcé, corrigé ou retiré."""
     fragment = open("/tmp/fragment.html", encoding="utf-8").read()
     corps = normaliser(re.split(r"<h2[^>]*>\s*Sources", fragment)[0])
     norm = lambda s: re.sub(r"[\s\u202f\xa0]", "", s).replace(",", ".").strip(".")
-    journal = norm(open("/tmp/faits.md", encoding="utf-8").read())
+    # Seules les colonnes valeur et extrait comptent (pas les URL ni les titres).
+    journal = " ".join(norm(" ".join(c.split("|")[1:3])) for c in open("/tmp/faits.md", encoding="utf-8"))
     absents = 0
     for m in re.finditer(r"\d[\d\u202f\xa0 .,]*\d|\d", corps):
         n = norm(m.group())
-        if re.fullmatch(r"20\d\d", n) or (re.fullmatch(r"\d{1,2}", n) and int(n) <= 31) or n in journal:
+        date_ou_heure = re.match(r"\s*(?:er\s+)?(?:janvier|février|mars|avril|mai|juin|juillet|août|septembre|octobre|novembre|décembre|h\\b|heures?\\b)", corps[m.end():], re.I)
+        if re.fullmatch(r"20\\d\\d", n) or (re.fullmatch(r"\\d{1,2}", n) and int(n) <= 31 and date_ou_heure) or n in journal:
             continue
         absents += 1
         print(f"NON_SOURCÉ={m.group().strip()} … {corps[max(0, m.start() - 50):m.end() + 15]}")
@@ -360,12 +399,14 @@ def journal():
     print(f"EXTRAITS_FAUTIFS={fautes}")
     # Faits publiés avant le début de la fenêtre : à présenter en « pour rappel » ou à retirer.
     now = datetime.now(ZoneInfo("Europe/Paris"))
-    debut = (now - timedelta(days={0: 3, 5: 5, 6: 2}.get(now.weekday(), 1))).date()
+    debut = (now - timedelta(days=recul(now))).date()
     for ligne in open("/tmp/faits.md", encoding="utf-8"):
         champs = [c.strip() for c in ligne.split("|")]
         texte_date = champs[-1] if len(champs) >= 7 else ""
         m = (re.search(r"(\d{4})-(\d{2})-(\d{2})", texte_date) or re.search(r"(\d{1,2})/(\d{1,2})/(\d{4})", texte_date))
         if not m:
+            if len(champs) >= 7 and champs[0] and not re.search(r"calcul", ligne, re.I):
+                print(f"DATE_ABSENTE={texte_date or '(vide)'} … {champs[0][:70]} : écris la date de publication au format AAAA-MM-JJ")
             continue
         a, mo, j = (m.groups() if len(m.group(1)) == 4 else m.groups()[::-1])
         try:
@@ -382,15 +423,15 @@ def journal():
 
 def corps_actualite():
     """Texte des rubriques d'actualité (avant le Focus), où une date ou un jugement doit être justifié."""
-    fragment = open("/tmp/fragment.html", encoding="utf-8").read()
-    return normaliser(re.split(r"<h2[^>]*>\s*Focus", fragment)[0])
+    fragment = re.split(r"<h2[^>]*>\s*Sources", open("/tmp/fragment.html", encoding="utf-8").read())[0]
+    return normaliser(re.sub(r"<h2[^>]*>\s*(?:Focus|Réponse à la question).*?(?=<h2|$)", " ", fragment, flags=re.S))
 
 
 def fenetre_ok():
     """Jours de semaine antérieurs à la fenêtre cités sans « pour rappel » : actualité hors fenêtre probable."""
     now = datetime.now(ZoneInfo("Europe/Paris"))
-    recul = {0: 3, 5: 5, 6: 2}.get(now.weekday(), 1)  # jours entre aujourd'hui et le début de la fenêtre
-    avant = {JOURS[(now - timedelta(days=d)).weekday()] for d in range(recul + 1, 7)}
+    r = recul(now)  # jours entre aujourd'hui et le début de la fenêtre
+    avant = {JOURS[(now - timedelta(days=d)).weekday()] for d in range(r + 1, 7)}
     corps, n = corps_actualite(), 0
     for m in re.finditer(r"\b(" + "|".join(avant) + r")\b", corps, re.I):
         contexte = corps[max(0, m.start() - 90):m.end() + 40]
@@ -427,9 +468,11 @@ def marches_ok():
         niveau = m.group()
         if "%" in champs[1]:  # taux : publié à deux décimales
             niveau = f"{float(niveau.replace(' ', '').replace(',', '.')):.2f}".replace(".", ",")
-        if niveau not in rubrique:
+        variation = re.match(r"[+-]?\d[\d ]*,\d+ (?:%|pb)", champs[2])
+        manque = [x for x in (niveau, variation.group() if variation else "") if x and x.replace(" ", "") not in rubrique.replace(" ", "").replace("\u202f", "").replace("\xa0", "").replace("−", "-").replace("–", "-")]
+        if manque:
             ecarts += 1
-            print(f"MARCHE_ECART={champs[0]} : attendu {niveau} ({champs[2]}, {champs[3]})")
+            print(f"MARCHE_ECART={champs[0]} : attendu {niveau} ({champs[2]}, {champs[3]}) ; absent : {' et '.join(manque)}")
     print(f"MARCHE_ECARTS={ecarts}")
 
 
@@ -462,7 +505,7 @@ def archiver(site, objet, focus):
 
 
 if __name__ == "__main__":
-    commandes = {"variables": variables, "modele": lambda: modele(*sys.argv[2:3]), "gabarit": lambda: gabarit(*sys.argv[2:5]),
+    commandes = {"variables": variables, "modele": lambda: modele(*sys.argv[2:3]), "gabarit": lambda: gabarit(*sys.argv[2:5]), "focus_recents": focus_recents,
                  "chiffres": chiffres, "journal": journal, "fenetre": fenetre_ok, "opinions": opinions, "marches": marches_ok,
                  "archiver": lambda: archiver(*sys.argv[2:5])}
     if len(sys.argv) < 2 or sys.argv[1] not in commandes:
