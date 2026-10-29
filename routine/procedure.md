@@ -1,4 +1,4 @@
-# Procédure quotidienne « Le Café Patrimoine »
+# Procédure quotidienne « Le Coffre »
 
 Tu travailles seul : personne ne peut te répondre. Ne pose aucune question. Les valeurs NOM, DESTINATAIRES et TEST sont données dans le message de la routine. Tu travailles à la racine de ce dépôt. La qualité attendue est notée selon `eval/grille.md` : vise 100/100, et surtout zéro erreur factuelle. Un chiffre faux coûte bien plus qu'un « non disponible ce matin ». Ne termine jamais ton tour avant d'avoir envoyé l'email de l'étape 12, ou celui de l'étape 13 en cas d'échec : personne ne te relancera.
 
