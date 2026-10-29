@@ -1,0 +1,24 @@
+# Veille : vers 10 h 30 (heure de Paris), échoue si l'édition du jour n'est pas archivée alors qu'un envoi était prévu.
+# GitHub envoie alors un mail d'échec au propriétaire du dépôt : une alerte indépendante de la routine et de Gmail.
+name: Veille de l'envoi du jour
+on:
+  schedule:
+    - cron: "37 9 * * *"
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  verifier:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - name: Édition du jour archivée ?
+        run: |
+          envoi=$(python3 routine/outils.py modele | grep '^ENVOI=')
+          echo "$envoi"
+          case "$envoi" in ENVOI=non*) echo "Pas d'envoi prévu aujourd'hui."; exit 0;; esac
+          jour=$(TZ=Europe/Paris date +%F)
+          git fetch -q origin claude/archives
+          if git cat-file -e "FETCH_HEAD:archives/$jour.html" 2>/dev/null; then echo "Édition du $jour archivée."
+          else echo "::error::Aucune édition archivée pour le $jour : la newsletter n'est probablement pas partie."; exit 1; fi
