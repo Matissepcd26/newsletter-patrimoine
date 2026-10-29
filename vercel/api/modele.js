@@ -10,7 +10,9 @@ const OPTIONNELLES = ["Les marchés en un coup d'œil", "Banques centrales et ma
 const ORDRE = ["L'édito", OPTIONNELLES[0], OPTIONNELLES[1], "France : épargne, fiscalité, immobilier", OPTIONNELLES[2], "Focus M2", OPTIONNELLES[3], OPTIONNELLES[4]];
 const DEFAUT = {style: {accent: "#111113", lien: "#9a5b00", fond: "#f2f2f3", carte: "#ffffff", police: "sans", taille: 16, largeur: 680, titres: "numero",
     entete: "plein", arrondis: 12, densite: "aere", encadres: true, marches: "tableau"},
-  contenu: {format: "condense", essentiel: true, bouton: true, ordre: ORDRE, masquees: [], ajouts: [], suivre: [], note: ""}};
+  contenu: {format: "condense", essentiel: true, bouton: true, ordre: ORDRE, masquees: [], ajouts: [], suivre: [], note: "",
+    jours: [0, 1, 2, 3, 4, 5, 6], heure: "09:00", pause_du: "", pause_au: "", question: true}};
+const jour = v => typeof v === "string" && /^\d{4}-\d{2}-\d{2}$/.test(v) ? v : "";
 
 const hex = (v, d) => /^#[0-9a-f]{6}$/i.test(v) ? v.toLowerCase() : d;
 const borne = (v, a, b, d) => Number.isInteger(v) && v >= a && v <= b ? v : d;
@@ -34,7 +36,9 @@ function valider(m) {
       ajouts: liste(c.ajouts).slice(0, 2).map(a => ({titre: texte(a?.titre, 60), consigne: texte(a?.consigne, 400), mots: borne(a?.mots, 60, 250, 120)}))
         .filter(a => a.titre && a.consigne && !pris.some(p => a.titre.toLowerCase().startsWith(p))),
       suivre: [...new Set(liste(c.suivre).map(t => texte(t, 40)).filter(Boolean))].slice(0, 8),
-      note: texte(c.note, 500)},
+      note: texte(c.note, 500),
+      jours: (j => j.length ? j : DEFAUT.contenu.jours)([...new Set(liste(c.jours).filter(x => Number.isInteger(x) && x >= 0 && x <= 6))].sort()),
+      heure: choix(c.heure, ["08:00", "08:30", "09:00", "09:30"], "09:00"), pause_du: jour(c.pause_du), pause_au: jour(c.pause_au), question: oui(c.question, true)},
   };
 }
 

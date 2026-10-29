@@ -31,12 +31,14 @@ POLICES = {"serif": "Georgia,'Times New Roman',serif", "sans": "'Helvetica Neue'
 DEFAUT = {"style": {"accent": "#111113", "lien": "#9a5b00", "fond": "#f2f2f3", "carte": "#ffffff", "police": "sans", "taille": 16,
                     "largeur": 680, "titres": "numero", "entete": "plein", "arrondis": 12, "densite": "aere", "encadres": True, "marches": "tableau"},
           "contenu": {"format": "condense", "essentiel": True, "bouton": True, "ordre": TITRES[:-1], "masquees": [], "ajouts": [], "suivre": [], "note": "",
-                      "jours": list(range(7)), "heure": "09:00", "pause_du": "", "pause_au": ""}}
+                      "jours": list(range(7)), "heure": "09:00", "pause_du": "", "pause_au": "", "question": True}}
+QUESTION = "Réponse à la question d'examen"
 HEURES = ("08:00", "08:30", "09:00", "09:30")
 # Longueurs du cahier des charges (format complet), réduites selon le format choisi, avec un plancher par rubrique.
 LONGUEURS = {"L'édito": (250, 300), "Les marchés en un coup d'œil": (250, 300), "Banques centrales et macro": (300, 350),
              "France : épargne, fiscalité, immobilier": (350, 400), "Monde et sujets sensibles": (300, 350), "Focus M2": (500, 600),
-             "Le chiffre du jour": (80, 120), "À surveiller aujourd'hui": (120, 150), "L'essentiel": (45, 100)}
+             "Le chiffre du jour": (80, 120), "À surveiller aujourd'hui": (120, 150), "L'essentiel": (45, 100), "Réponse à la question d'examen": (50, 130)}
+NON_REDUITES = ("L'essentiel", "Réponse à la question d'examen")  # longueur fixe, quel que soit le format
 PLANCHERS = {"Les marchés en un coup d'œil": 160, "Le chiffre du jour": 60, "À surveiller aujourd'hui": 70, "L'essentiel": 45}
 FORMATS = {"condense": .5, "standard": .75, "complet": 1}
 SITE = "https://le-coffre-patrimoine.vercel.app"
@@ -68,7 +70,7 @@ def valider(m):
                         "suivre": list(dict.fromkeys(x for x in (texte(v, 40) for v in (c.get("suivre") or [])) if x))[:8],
                         "note": texte(c.get("note"), 500),
                         "jours": sorted({j for j in (c.get("jours") or []) if type(j) is int and 0 <= j <= 6}) or list(range(7)),
-                        "heure": choix(c.get("heure"), HEURES, "09:00"),
+                        "heure": choix(c.get("heure"), HEURES, "09:00"), "question": oui(c.get("question"), True),
                         "pause_du": c.get("pause_du") if isinstance(c.get("pause_du"), str) and re.fullmatch(r"\d{4}-\d{2}-\d{2}", c.get("pause_du")) else "",
                         "pause_au": c.get("pause_au") if isinstance(c.get("pause_au"), str) and re.fullmatch(r"\d{4}-\d{2}-\d{2}", c.get("pause_au")) else ""}}
 
@@ -84,7 +86,7 @@ def sections(m):
     """Titres attendus, dans l'ordre : rubriques non masquées, rubriques ajoutées, puis Sources."""
     c = m["contenu"]
     corps = [x for x in c["ordre"] if x not in c["masquees"]] + [a["titre"] for a in c["ajouts"]]
-    return (["L'essentiel"] if c["essentiel"] else []) + corps + ["Sources"]
+    return (["L'essentiel"] if c["essentiel"] else []) + corps + ([QUESTION] if c["question"] else []) + ["Sources"]
 
 
 def longueurs(m):
@@ -96,8 +98,11 @@ def longueurs(m):
             res[nom] = fourchette(ajout["mots"])
             continue
         bas, haut = LONGUEURS[nom]
-        bas = max(round(bas * f), PLANCHERS.get(nom, 0)) if nom != "L'essentiel" else bas
-        res[nom] = (bas, max(round(haut * f), bas + 40) if nom != "L'essentiel" else haut)
+        if nom in NON_REDUITES:
+            res[nom] = (bas, haut)
+            continue
+        bas = max(round(bas * f), PLANCHERS.get(nom, 0))
+        res[nom] = (bas, max(round(haut * f), bas + 40))
     return res
 
 
@@ -260,6 +265,11 @@ def mail(nom, objet, focus, fragment, st, contenu, jour_iso, entete_date):
     fond_tete, texte_tete = (st["accent"], "#ffffff" if not clair(st["accent"]) else "#111113") if plein else (st["carte"], st["accent"] if clair(st["carte"]) else texte)
     rubriques, mention, n = [], "", 0
     for titre, corps in blocs(fragment):
+        if titre == QUESTION:
+            rubriques.append(f'<tr><td class="int" style="padding:{marge}px {pad}px 0;"><div style="{police}font-size:{st["taille"] - 1}px;line-height:1.5;color:{texte};'
+                             f'padding:14px 16px;border:1px dashed {melange(texte, .7) if clair(st["carte"]) else "#444"};border-radius:{r}px;">'
+                             f'<b>Question d\'examen :</b> la réponse et le raisonnement sont sur le Coffre. <a href="{SITE}/#/n/{jour_iso}" style="color:{st["lien"]};">Voir la réponse</a></div></td></tr>')
+            continue
         if titre.startswith("Sources"):
             mention = " ".join(p for p in re.findall(r"<p[^>]*>.*?</p>", corps, re.S) if MENTION in normaliser(p))
             continue
@@ -306,6 +316,9 @@ def modele(url=MODELE_URL):
     print("LONGUEURS=" + " | ".join(f"{nom} {bas}-{haut}" for nom, (bas, haut) in longueurs(m).items()))
     if c["essentiel"]:
         print("ESSENTIEL=oui : le fragment commence par <h2>L'essentiel</h2> puis un <ul> de trois puces de 15 à 30 mots, les trois faits à retenir")
+    if c["question"]:
+        print(f"QUESTION=oui : le Focus M2 se termine par <p><strong>Question d'examen :</strong> …</p>, une question courte de type partiel de M2 sur le mécanisme du jour ; "
+              f"la rubrique <h2>{QUESTION}</h2>, juste avant Sources, donne la réponse rédigée et le raisonnement, avec la référence du texte. Elle n'apparaît pas dans le mail, seulement sur le Coffre")
     for a in c["ajouts"]:
         bas, haut = fourchette(a["mots"])
         print(f"AJOUT={a['titre']} ; {bas}-{haut} mots ; {a['consigne']}")

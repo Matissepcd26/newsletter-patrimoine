@@ -58,7 +58,7 @@ def evaluer(page, objet):
     ecarts.append(f"total : {total} mots hors Sources")
 
     c3 = 0 if "<table" in contenu else 1
-    listes_hors = [t for t, b in zip(titres, blocs) if "<ul" in b and not t.startswith(("Les marchés", "Sources", "L'essentiel"))]
+    listes_hors = [t for t, b in zip(titres, blocs) if "<ul" in b and not t.startswith(("Les marchés", "Sources", "L'essentiel", "Réponse à la question"))]
     c3 += 0 if listes_hors else 1
     marches = next((b for t, b in zip(titres, blocs) if t.startswith("Les marchés")), "")
     lignes = len(re.findall(r"<li", marches))
