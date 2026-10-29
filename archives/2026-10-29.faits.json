@@ -1,0 +1,929 @@
+[
+ {
+  "affirmation": "Fed maintient la fourchette à 3,75-4 %",
+  "valeur": "3-3/4 to 4 percent",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fourchette Fed en pourcentages",
+  "valeur": "3,75 % et 4 %",
+  "extrait": "Sans surprise, la Réserve fédérale a maintenu ses taux directeurs dans leur fourchette actuelle (entre 3,75 % et 4 %).",
+  "media": "AFP via Boursorama",
+  "titre": "Wall Street clôture en hausse, entre Fed et résultats de la tech",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-hausse-entre-fed-et-resultats-de-la-tech-408cb30d07c17943db1f5d988ff5012d",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Vote 10 contre 2",
+  "valeur": "10 – 2",
+  "extrait": "The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Dissidents Cook et Hammack pour une hausse d'un quart de point",
+  "valeur": "1/4 percentage point",
+  "extrait": "Voting against the monetary policy action were Lisa D. Cook and Beth M. Hammack, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Décision Fed publiée à 14 h heure de New York (19 h Paris)",
+  "valeur": "2:00",
+  "extrait": "For release at 2:00 p.m. EDT",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Inflation élevée, plus d'informations",
+  "valeur": "Inflation remains elevated",
+  "extrait": "Inflation remains elevated. The accumulation of more information will help the Committee determine the policy stance",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Warsh : les élections n'ont joué aucun rôle ; midterms du 3 novembre",
+  "valeur": "3 novembre",
+  "extrait": "moins d'une semaine avant les élections législatives de mi-mandat (\"midterms\") du 3 novembre. L'échéance électorale n'a \"joué aucun rôle\" dans la décision monétaire, a assuré le chef de la Fed Kevin Warsh",
+  "media": "AFP via Boursorama",
+  "titre": "Taux directeurs : la Fed s'abstient avant les élections aux États-Unis",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/taux-directeurs-la-fed-s-abstient-avant-les-elections-aux-etats-unis-ae00a46ae91f6e4a11b79e570a65f1cc",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Inflation américaine 3,7 % sur un an le mois dernier",
+  "valeur": "3,7 %",
+  "extrait": "La hausse des prix à la consommation s'est accélérée le mois dernier à 3,7 % sur un an",
+  "media": "AFP via Boursorama",
+  "titre": "Taux directeurs : la Fed s'abstient avant les élections aux États-Unis",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/taux-directeurs-la-fed-s-abstient-avant-les-elections-aux-etats-unis-ae00a46ae91f6e4a11b79e570a65f1cc",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Cook gouverneure, Hammack présidente Fed de Cleveland",
+  "valeur": "quart de point",
+  "extrait": "La gouverneure Lisa Cook et la présidente de la Fed de Cleveland Beth Hammack souhaitaient une hausse d'un quart de point.",
+  "media": "AFP via Boursorama",
+  "titre": "Taux directeurs : la Fed s'abstient avant les élections aux États-Unis",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/taux-directeurs-la-fed-s-abstient-avant-les-elections-aux-etats-unis-ae00a46ae91f6e4a11b79e570a65f1cc",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Marchés : 80 % de probabilité d'une hausse en décembre",
+  "valeur": "80%",
+  "extrait": "Les marchés anticipent toujours à 80% une hausse des taux en décembre, malgré les commentaires accommodants de Warsh",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques reculent alors que les résultats décevants d'Alphabet font chuter les contrats à terme de Wall Street",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-reculent-alors-que-les-resultats-decevants-d-alphabet-font-chuter-les-contrats-a-terme-de-wall-street-4291c51b56509968dd032c2388078ff2",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Alphabet -10 % après clôture",
+  "valeur": "10%",
+  "extrait": "La forte consommation de trésorerie d'Alphabet GOOGL.O a fait chuter son titre de 10% dans les échanges après clôture",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques reculent alors que les résultats décevants d'Alphabet font chuter les contrats à terme de Wall Street",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-reculent-alors-que-les-resultats-decevants-d-alphabet-font-chuter-les-contrats-a-terme-de-wall-street-4291c51b56509968dd032c2388078ff2",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Microsoft +3 %",
+  "valeur": "3%",
+  "extrait": "Microsoft MSFT.O , en revanche, a dépassé les prévisions grâce à des flux de trésorerie supérieurs aux attentes, ce qui a fait grimper son titre de 3%.",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques reculent alors que les résultats décevants d'Alphabet font chuter les contrats à terme de Wall Street",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-reculent-alors-que-les-resultats-decevants-d-alphabet-font-chuter-les-contrats-a-terme-de-wall-street-4291c51b56509968dd032c2388078ff2",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "PCE indicateur privilégié de la Fed, Amazon et Intel dans la journée",
+  "valeur": "Amazon",
+  "extrait": "tous les regards se tournent vers les données sur les dépenses de consommation des ménages américains pour septembre, l'indicateur d'inflation privilégié par la Fed. Amazon et Intel publieront leurs résultats plus tard dans la journée de jeudi",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques reculent alors que les résultats décevants d'Alphabet font chuter les contrats à terme de Wall Street",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-reculent-alors-que-les-resultats-decevants-d-alphabet-font-chuter-les-contrats-a-terme-de-wall-street-4291c51b56509968dd032c2388078ff2",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Banque du Canada relève de 2,25 % à 2,50 %",
+  "valeur": "2,50%",
+  "extrait": "En portant son taux directeur de 2,25% à 2,50%, la banque centrale met fin à un statu quo d'un an.",
+  "media": "Reuters via Boursorama",
+  "titre": "La Banque du Canada relève son taux directeur et n'exclut pas une nouvelle hausse",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/la-banque-du-canada-releve-son-taux-directeur-et-n-exclut-pas-une-nouvelle-hausse-2c48ca05f58d82e396da106c03296b80",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Banque du Canada : taux 2,25 % avant",
+  "valeur": "2,25%",
+  "extrait": "En portant son taux directeur de 2,25% à 2,50%",
+  "media": "Reuters via Boursorama",
+  "titre": "La Banque du Canada relève son taux directeur et n'exclut pas une nouvelle hausse",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/la-banque-du-canada-releve-son-taux-directeur-et-n-exclut-pas-une-nouvelle-hausse-2c48ca05f58d82e396da106c03296b80",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Banque du Canada : première hausse depuis juillet 2023, énergie",
+  "valeur": "juillet 2023",
+  "extrait": "La Banque du Canada (BoC) a relevé mercredi son principal taux directeur pour la première fois depuis juillet 2023",
+  "media": "Reuters via Boursorama",
+  "titre": "La Banque du Canada relève son taux directeur et n'exclut pas une nouvelle hausse",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/la-banque-du-canada-releve-son-taux-directeur-et-n-exclut-pas-une-nouvelle-hausse-2c48ca05f58d82e396da106c03296b80",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "France Travail : catégorie A +30.400 à 3,35 millions, +0,9 %",
+  "valeur": "3,35 millions",
+  "extrait": "Le nombre de ces demandeurs d'emploi sans aucune activité (catégorie A) augmente de 30.400 à 3,35 millions, soit 0,9% de plus qu'au deuxième trimestre",
+  "media": "AFP via Boursorama",
+  "titre": "Chômage: le nombre d'inscrits à France Travail poursuit sa lente progression",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/chomage-le-nombre-d-inscrits-a-france-travail-poursuit-sa-lente-progression-a86336d6d378498c980f6215b2c169f5",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "France Travail : hausse de 0,9 % sur le trimestre",
+  "valeur": "0,9%",
+  "extrait": "soit 0,9% de plus qu'au deuxième trimestre",
+  "media": "AFP via Boursorama",
+  "titre": "Chômage: le nombre d'inscrits à France Travail poursuit sa lente progression",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/chomage-le-nombre-d-inscrits-a-france-travail-poursuit-sa-lente-progression-a86336d6d378498c980f6215b2c169f5",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "France Travail : +30.400",
+  "valeur": "30.400",
+  "extrait": "augmente de 30.400 à 3,35 millions",
+  "media": "AFP via Boursorama",
+  "titre": "Chômage: le nombre d'inscrits à France Travail poursuit sa lente progression",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/chomage-le-nombre-d-inscrits-a-france-travail-poursuit-sa-lente-progression-a86336d6d378498c980f6215b2c169f5",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Conversion typographique 30.400 (AFP) en 30 400",
+  "valeur": "30 400",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "conversion de format",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "BCE : taux de dépôt attendu inchangé à 2,5 %, hausse possible dès décembre",
+  "valeur": "2,5%",
+  "extrait": "la BCE devrait donc maintenir son taux de dépôt à 2,5%, tout en laissant entendre qu'une nouvelle hausse reste probable, peut-être dès décembre.",
+  "media": "Reuters via Boursorama",
+  "titre": "La BCE vers un statu quo sur ses taux, Lagarde et la France sous le feu des projecteurs",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/la-bce-vers-un-statu-quo-sur-ses-taux-lagarde-et-la-france-sous-le-feu-des-projecteurs-48440ca8354f171168e41f7de320aa66",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Prime française la plus élevée de la zone euro",
+  "valeur": "zone euro",
+  "extrait": "la prime exigée par les investisseurs pour détenir ses titres de dette par rapport aux obligations allemandes de référence est supérieure à celle de tout autre pays de la zone euro",
+  "media": "Reuters via Boursorama",
+  "titre": "La BCE vers un statu quo sur ses taux, Lagarde et la France sous le feu des projecteurs",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/la-bce-vers-un-statu-quo-sur-ses-taux-lagarde-et-la-france-sous-le-feu-des-projecteurs-48440ca8354f171168e41f7de320aa66",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Gilles Moec (AXA) : préserver la possibilité d'une intervention",
+  "valeur": "essentiel",
+  "extrait": "\"Il demeure essentiel, à nos yeux, de préserver la possibilité d'une intervention de la BCE\", déclare Gilles Moec, chef économiste d'AXA.",
+  "media": "Reuters via Boursorama",
+  "titre": "La BCE vers un statu quo sur ses taux, Lagarde et la France sous le feu des projecteurs",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/la-bce-vers-un-statu-quo-sur-ses-taux-lagarde-et-la-france-sous-le-feu-des-projecteurs-48440ca8354f171168e41f7de320aa66",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "TPI créé en 2022, jamais utilisé ; Lagarde : régler la dette par le budget",
+  "valeur": "2022",
+  "extrait": "Créé en 2022, ll n'a jamais été utilisé et Christine Lagarde a récemment souligné que la France devrait résoudre ses problèmes d'endettement par des mesures budgétaires.",
+  "media": "Reuters via Boursorama",
+  "titre": "La BCE vers un statu quo sur ses taux, Lagarde et la France sous le feu des projecteurs",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/la-bce-vers-un-statu-quo-sur-ses-taux-lagarde-et-la-france-sous-le-feu-des-projecteurs-48440ca8354f171168e41f7de320aa66",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Questions attendues sur l'avenir de Lagarde",
+  "valeur": "Lagarde",
+  "extrait": "On s'attend en outre à ce que Christine Lagarde soit interrogée sur son propre avenir lors de la conférence de presse prévue jeudi",
+  "media": "Reuters via Boursorama",
+  "titre": "La BCE vers un statu quo sur ses taux, Lagarde et la France sous le feu des projecteurs",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/la-bce-vers-un-statu-quo-sur-ses-taux-lagarde-et-la-france-sous-le-feu-des-projecteurs-48440ca8354f171168e41f7de320aa66",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Taux de dépôt BCE 2,50 % depuis le 16 septembre 2026",
+  "valeur": "2.50",
+  "extrait": "2026 16 Sep. 2.50 2.65 - 2.90",
+  "media": "BCE",
+  "titre": "Key ECB interest rates",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html",
+  "date": "2026-09-16"
+ },
+ {
+  "affirmation": "BCE décision 14:15, conférence 14:45 ; US 13:30 PIB T3, revenus, dépenses, PCE",
+  "valeur": "14:15",
+  "extrait": "14:45 Conférence de presse de la BCE - - - Haute 14:15 Taux Facilité De Dépôt - 2,5% - Haute 14:15 BCE La Décision De Taux D'Intérêt - 2,65% - Haute 13:30 Revenu Personnel (Mensuel) septembre 0,2 - Haute 13:30 PIB Indice Des Prix (Trimestriel) Adv Q3 6,1% - Moyenne 13:30 Inscriptions hebdomadaires au chômage 24 octobre 194k - Moyenne 13:30 Indice Des Prix PCE (Mensuel) septembre 0,3 - Moyenne 13:30 Indice Des Prix PCE (Annuel) septembre 3,4 - Moyenne 13:30 Indice Des Prix Base Pce (Mensuel) septembre 0,2 - Haute 13:30 Dépenses Personnelles (Mensuel) septembre 0,9 - Haute 13:30 Croissance Du Pib (Trimestriel) Adv Q3 2,2%",
+  "media": "CercleFinance via Boursorama",
+  "titre": "Calendrier macroéconomique",
+  "url": "https://www.boursorama.com/bourse/actualites/calendriers/macroeconomique",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Heure de la conférence BCE",
+  "valeur": "14:45",
+  "extrait": "14:45 Conférence de presse de la BCE",
+  "media": "CercleFinance via Boursorama",
+  "titre": "Calendrier macroéconomique",
+  "url": "https://www.boursorama.com/bourse/actualites/calendriers/macroeconomique",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Heure des publications américaines",
+  "valeur": "13:30",
+  "extrait": "13:30 Croissance Du Pib (Trimestriel) Adv Q3",
+  "media": "CercleFinance via Boursorama",
+  "titre": "Calendrier macroéconomique",
+  "url": "https://www.boursorama.com/bourse/actualites/calendriers/macroeconomique",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "SocGen, Renault, TotalEnergies publient jeudi avant l'ouverture",
+  "valeur": "TOTALENERGIES",
+  "extrait": "SOCIÉTÉ GÉNÉRALE SOGN.PA RENAULT RENA.PA et TOTALENERGIES TTEF.PA doivent publier leurs résultats jeudi avant l'ouverture des Bourses.",
+  "media": "Reuters via Boursorama",
+  "titre": "Les valeurs à suivre à Paris et en Europe",
+  "url": "https://www.boursorama.com/bourse/actualites/les-valeurs-a-suivre-a-paris-et-en-europe-3de26b9701e97f63bd23c422c9138837",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "CAC 40 clôture 7 886,96 pts 0,00 %",
+  "valeur": "7 886,96",
+  "extrait": "CAC 40 ; 7 886,96 pts ; 0,00 % sur la séance ; clôture du 28/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "0,00 %",
+  "extrait": "7 886,96 pts ; 0,00 % sur la séance ; clôture du 28/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "S&P 500",
+  "valeur": "7 743,98",
+  "extrait": "S&P 500 ; 7 743,98 pts ; +0,28 % sur la séance ; clôture du 28/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "+0,28 %",
+  "extrait": "7 743,98 pts ; +0,28 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Nasdaq",
+  "valeur": "26 549,85",
+  "extrait": "Nasdaq Composite ; 26 549,85 pts ; +0,27 % sur la séance ; clôture du 28/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "+0,27 %",
+  "extrait": "26 549,85 pts ; +0,27 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Euro Stoxx 50",
+  "valeur": "6 167,81",
+  "extrait": "Euro Stoxx 50 ; 6 167,81 pts ; +0,05 % sur la séance ; clôture du 28/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "+0,05 %",
+  "extrait": "6 167,81 pts ; +0,05 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Bitcoin",
+  "valeur": "81 246,97",
+  "extrait": "Bitcoin ; 81 246,97 $ ; +0,55 % sur la séance ; clôture du 28/10/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "+0,55 %",
+  "extrait": "81 246,97 $ ; +0,55 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "EUR/USD taux BCE",
+  "valeur": "1,1133",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1133 ; -0,15 % sur la séance ; taux du 28/10/2026",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar américain (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "0,15 %",
+  "extrait": "1,1133 ; -0,15 % sur la séance",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar américain (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture 4,934 % le 28/10",
+  "valeur": "4.93",
+  "extrait": "Oct 28, 2026 4.934 Open 4.973 High 4.981 Low 4.887 +0.19%",
+  "media": "Investing.com",
+  "titre": "France 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture veille 4,924 %",
+  "valeur": "4.924",
+  "extrait": "Oct 27, 2026 4.924 Open 4.898",
+  "media": "Investing.com",
+  "titre": "France 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-10-27"
+ },
+ {
+  "affirmation": "OAT seconde source concordante 4,94 %",
+  "valeur": "4.94",
+  "extrait": "Oct 28, 2026 4.94 % 3.37 % 156.6 bps",
+  "media": "Idéal Investisseur",
+  "titre": "Spread OAT 10 ans / Bund allemand",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Bund 10 ans clôture 3,3827 % le 28/10",
+  "valeur": "3.38",
+  "extrait": "Oct 28, 2026 3.3827 Open 3.3863 High 3.3863 Low 3.3464 +0.83%",
+  "media": "Investing.com",
+  "titre": "Germany 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Bund veille 3,3550 %",
+  "valeur": "3.3550",
+  "extrait": "Oct 27, 2026 3.3550 Open 3.3540",
+  "media": "Investing.com",
+  "titre": "Germany 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-10-27"
+ },
+ {
+  "affirmation": "Bund seconde source concordante 3,38 % +2,7 BP",
+  "valeur": "3,38%",
+  "extrait": "Allemagne 3,09% +3,5 BP 3,22% +3,9 BP 3,38% +2,7 BP",
+  "media": "Boursorama",
+  "titre": "Taux",
+  "url": "https://www.boursorama.com/bourse/taux/",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Variation OAT 4,934-4,924 = +1,0 pb",
+  "valeur": "1",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Variation Bund 3,3827-3,3550 = +2,77 pb arrondi 2,8",
+  "valeur": "2,8",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Écart OAT-Bund 4,934-3,3827 = 155,13 pb arrondi 155",
+  "valeur": "155",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Écart veille 4,924-3,3550 = 156,9 pb ; resserrement 1,77 arrondi 1,8 pb",
+  "valeur": "1,8",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Stellantis +15 %",
+  "valeur": "15%",
+  "extrait": "À Paris, Stellantis a grimpé de 15%,culminant de loin en tête de l'indice CAC 40",
+  "media": "Zonebourse via Boursorama",
+  "titre": "Le CAC 40 freiné, Stellantis en pole position",
+  "url": "https://www.boursorama.com/bourse/actualites/le-cac-40-freine-stellantis-en-pole-position-81f6e1fbb42c34e1611ef26b42005fbe",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Prudence avant Fed et BCE, timide hausse",
+  "valeur": "timide hausse",
+  "extrait": "Les marchés actions européens ont clôturé en timide hausse à la veille de la décision de politique monétaire de la BCE. La prudence a dominé les échanges",
+  "media": "Zonebourse via Boursorama",
+  "titre": "Le CAC 40 freiné, Stellantis en pole position",
+  "url": "https://www.boursorama.com/bourse/actualites/le-cac-40-freine-stellantis-en-pole-position-81f6e1fbb42c34e1611ef26b42005fbe",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Rendement US 10 ans vers 5,01 %",
+  "valeur": "5,01 %",
+  "extrait": "le rendement à échéance dix ans des emprunts de l'État américain s'est légèrement tendu après la conférence de presse de M. Warsh, évoluant vers 20H40 GMT autour de 5,01 %, contre 4,99 % la veille en clôture",
+  "media": "AFP via Boursorama",
+  "titre": "Wall Street clôture en hausse, entre Fed et résultats de la tech",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-hausse-entre-fed-et-resultats-de-la-tech-408cb30d07c17943db1f5d988ff5012d",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Pétrole en hausse après attaque contre une raffinerie saoudienne",
+  "valeur": "raffinerie",
+  "extrait": "les cours du pétrole ont augmenté après qu'une attaque contre une raffinerie en Arabie saoudite, premier exportateur mondial de brut, a ravivé les inquiétudes concernant les risques pesant sur l'approvisionnement au Moyen-Orient",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers mondiaux conservent leurs gains après la décision de la Fed, les cours du pétrole s'envolent",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-mondiaux-conservent-leurs-gains-apres-la-decision-de-la-fed-les-cours-du-petrole-s-envolent-6f86b02d00720193f909d52c0edc8e11",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Gaz européen +4,9 %",
+  "valeur": "4,9%",
+  "extrait": "Les contrats à terme sur le gaz naturel européen TFMBMc1 ont prolongé leur hausse, gagnant 4,9% pour atteindre de nouveaux plus hauts depuis quatre ans.",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers mondiaux conservent leurs gains après la décision de la Fed, les cours du pétrole s'envolent",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-mondiaux-conservent-leurs-gains-apres-la-decision-de-la-fed-les-cours-du-petrole-s-envolent-6f86b02d00720193f909d52c0edc8e11",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Gaz TTF 100 €/MWh, première depuis décembre 2022",
+  "valeur": "100 euros",
+  "extrait": "Le prix de référence du gaz naturel en Europe a atteint mercredi les 100 euros par mégawattheure (MWh) pour la première fois depuis décembre 2022",
+  "media": "Reuters via Boursorama",
+  "titre": "Le prix du gaz en Europe à 100€/MWh, une première depuis décembre 2022",
+  "url": "https://www.boursorama.com/bourse/actualites/le-prix-du-gaz-en-europe-a-100-mwh-une-premiere-depuis-decembre-2022-198c9a0f2605d4ff410db7ed17d5df1c",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Gaz trois fois le niveau d'avant-guerre fin février, stocks historiquement bas",
+  "valeur": "trois fois",
+  "extrait": "se situent désormais à un niveau environ trois fois supérieur à celui d'avant le début de la guerre, fin février",
+  "media": "Reuters via Boursorama",
+  "titre": "Le prix du gaz en Europe à 100€/MWh, une première depuis décembre 2022",
+  "url": "https://www.boursorama.com/bourse/actualites/le-prix-du-gaz-en-europe-a-100-mwh-une-premiere-depuis-decembre-2022-198c9a0f2605d4ff410db7ed17d5df1c",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement I-3807 adopté le 28 octobre 2026",
+  "valeur": "I-3807",
+  "extrait": "Amendement n°I-3807 Déposé le samedi 10 octobre 2026 Discuté",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (n° 3210) Amendement n° I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Statut adopté",
+  "valeur": "Adopté (mercredi 28 octobre 2026)",
+  "extrait": "Code concerné : Code pénal Adopté (mercredi 28 octobre 2026) Déposé par : M. Jean-Paul Mattei",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (n° 3210) Amendement n° I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Taux de 2 % sur les actifs du 8°",
+  "valeur": "2 %",
+  "extrait": "et au taux de 2 % sur la valeur des actifs mentionnés au 8° du même A",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (n° 3210) Amendement n° I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Article 235 ter C du CGI, taxe créée par la LF 2026",
+  "valeur": "235 ter C",
+  "extrait": "I. – L'article 235 ter C du code général des impôts est ainsi modifié. La taxe sur les holdings patrimoniales créée par la loi de finances pour 2026 vise les biens de jouissance",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (n° 3210) Amendement n° I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Actifs visés",
+  "valeur": "comptes à terme",
+  "extrait": "« 8° Les sommes déposées sur des comptes de dépôt, des comptes à terme et des livrets, les valeurs mobilières, les parts ou actions d'organismes de placement collectif, les bons et contrats de capitalisation et les placements de même nature souscrits auprès d'entreprises d'assurance, ainsi que les créances, à l'exception :",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (n° 3210) Amendement n° I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Exclusion titres d'au moins 5 %",
+  "valeur": "5 %",
+  "extrait": "« a) Des titres représentant au moins 5 % du capital d'une société exerçant une activité industrielle, commerciale, artisanale, agricole ou libérale ou ayant pour activité principale l'animation effective d'un groupe de telles sociétés",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (n° 3210) Amendement n° I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Exclusion fonds de capital-investissement",
+  "valeur": "fonds communs de placement à risques",
+  "extrait": "des parts ou actions de fonds communs de placement à risques mentionnés à l'article L. 214-28 du même code, de fonds professionnels de capital investissement",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (n° 3210) Amendement n° I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Exclusion sommes affectées sous trois ans ; à défaut taxe et intérêt de retard",
+  "valeur": "trois ans",
+  "extrait": "« c) Des sommes que la société déclare, dans l'annexe mentionnée au 1° du V, affecter dans les trois ans suivant la clôture de l'exercice. À défaut d'affectation dans ce délai, la taxe correspondante est due au titre de l'exercice au cours duquel il expire, majorée de l'intérêt de retard prévu à l'article 1727.",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (n° 3210) Amendement n° I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Application exercices clos à compter du 31 décembre 2027",
+  "valeur": "31 décembre 2027",
+  "extrait": "II. – Le I s'applique aux exercices clos à compter du 31 décembre 2027.",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (n° 3210) Amendement n° I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Avis défavorable rapporteur Juvin, demande de retrait de Lescure",
+  "valeur": "défavorable",
+  "extrait": "Je demande donc le retrait de cet amendement, afin de conserver le dispositif adopté l'an passé par cette assemblée, dans sa grande sagesse. À défaut, avis défavorable.",
+  "media": "Assemblée nationale",
+  "titre": "Première séance du mercredi 28 octobre 2026",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-28-octobre-2026",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement 3807 adopté en séance",
+  "valeur": "3807",
+  "extrait": "(L'amendement n o 3807 est adopté.)",
+  "media": "Assemblée nationale",
+  "titre": "Première séance du mercredi 28 octobre 2026",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-28-octobre-2026",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement 3221 rejeté 84 pour, 96 contre",
+  "valeur": "96",
+  "extrait": "Je mets aux voix l'amendement n o 3221. Pour l'adoption 84 Contre 96 (L'amendement n o 3221 n'est pas adopté.)",
+  "media": "Assemblée nationale",
+  "titre": "Première séance du mercredi 28 octobre 2026",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-28-octobre-2026",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement 3221 voix pour",
+  "valeur": "84",
+  "extrait": "Pour l'adoption 84 Contre 96",
+  "media": "Assemblée nationale",
+  "titre": "Première séance du mercredi 28 octobre 2026",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-28-octobre-2026",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement I-3221 numéro",
+  "valeur": "3221",
+  "extrait": "vous rabattre sur l'amendement n o 3221, que j'ai déposé et qui vise à distinguer au sein des holdings les biens à caractère professionnel et les autres",
+  "media": "Assemblée nationale",
+  "titre": "Première séance du mercredi 28 octobre 2026",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-mercredi-28-octobre-2026",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Vote solennel première partie le 3 novembre",
+  "valeur": "3 novembre",
+  "extrait": "Vote solennel : mardi 3 novembre, après-midi",
+  "media": "Assemblée nationale",
+  "titre": "Examen de la première partie du projet de loi de finances pour 2027",
+  "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-du-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "PLF 2027",
+  "valeur": "2027",
+  "extrait": "Projet de loi de finances pour 2027",
+  "media": "Assemblée nationale",
+  "titre": "Examen de la première partie du projet de loi de finances pour 2027",
+  "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-du-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Cnav : 905.000 dossiers, 70.000 de plus qu'en 2025",
+  "valeur": "905.000",
+  "extrait": "avec 905.000 dossiers, soit 70.000 de plus qu'en 2025",
+  "media": "Media Services via Boursorama",
+  "titre": "Un afflux \"exceptionnel\" de départs à la retraite : comment les Français ont profité de la suspension de la réforme Borne",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/un-afflux-exceptionnel-de-departs-a-la-retraite-comment-les-francais-ont-profite-de-la-suspension-de-la-reforme-borne-aad37841a7047e7d4df27796467bdae3",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Cnav : 70.000 de plus",
+  "valeur": "70.000",
+  "extrait": "soit 70.000 de plus qu'en 2025",
+  "media": "Media Services via Boursorama",
+  "titre": "Un afflux \"exceptionnel\" de départs à la retraite : comment les Français ont profité de la suspension de la réforme Borne",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/un-afflux-exceptionnel-de-departs-a-la-retraite-comment-les-francais-ont-profite-de-la-suspension-de-la-reforme-borne-aad37841a7047e7d4df27796467bdae3",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Retraite progressive : 46.000 attributions contre 22.000",
+  "valeur": "46.000",
+  "extrait": "l'Assurance retraite a enregistré 46.000 attributions de janvier à septembre contre 22.000 l'an dernier à la même période",
+  "media": "Media Services via Boursorama",
+  "titre": "Un afflux \"exceptionnel\" de départs à la retraite : comment les Français ont profité de la suspension de la réforme Borne",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/un-afflux-exceptionnel-de-departs-a-la-retraite-comment-les-francais-ont-profite-de-la-suspension-de-la-reforme-borne-aad37841a7047e7d4df27796467bdae3",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Retraite progressive : 22.000",
+  "valeur": "22.000",
+  "extrait": "contre 22.000 l'an dernier à la même période",
+  "media": "Media Services via Boursorama",
+  "titre": "Un afflux \"exceptionnel\" de départs à la retraite : comment les Français ont profité de la suspension de la réforme Borne",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/un-afflux-exceptionnel-de-departs-a-la-retraite-comment-les-francais-ont-profite-de-la-suspension-de-la-reforme-borne-aad37841a7047e7d4df27796467bdae3",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Conversion typographique 905.000, 70.000, 46.000, 22.000 en 905 000, 70 000, 46 000, 22 000",
+  "valeur": "905 000 70 000 46 000 22 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "conversion de format",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "WSJ via AFP : campagne militaire courte et intense après les midterms du 3 novembre, pas de décision définitive",
+  "valeur": "courte et intense",
+  "extrait": "le Wall Street Journal a rapporté que Washington avait demandé à plusieurs pays du Golfe de se préparer à une éventuelle \"campagne militaire courte et intense\" contre l'Iran, après les élections de mi-mandat américaines du 3 novembre. Le journal, citant des sources briefées sur ces échanges, a précisé que Donald Trump n'avait pas encore pris de décision définitive.",
+  "media": "AFP via Boursorama",
+  "titre": "Vers une reprise de la guerre? L'Iran avertit de l'impact \"dévastateur\" sur les marchés",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/vers-une-reprise-de-la-guerre-l-iran-avertit-de-l-impact-devastateur-sur-les-marches-ac38dd9f04c90084af2c46c13a59acba",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Araghchi : impact dévastateur, plan de réouverture d'Ormuz",
+  "valeur": "dévastateur",
+  "extrait": "\"L'impact dévastateur sur les marchés internationaux de toute aventure militaire initiée par Israël dans la région du Golfe persique demeure une préoccupation majeure\" a écrit sur X le chef de la diplomatie iranienne, Abbas Araghchi. M. Araghchi a ensuite affirmé que l'Iran continuait de discuter avec les médiateurs de son plan pour rouvrir le détroit d'Ormuz",
+  "media": "AFP via Boursorama",
+  "titre": "Vers une reprise de la guerre? L'Iran avertit de l'impact \"dévastateur\" sur les marchés",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/vers-une-reprise-de-la-guerre-l-iran-avertit-de-l-impact-devastateur-sur-les-marches-ac38dd9f04c90084af2c46c13a59acba",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Netanyahu : opportunité historique, au soir des législatives (veille du 28)",
+  "valeur": "opportunité historique",
+  "extrait": "Au soir des élections législatives donnant une courte avance à son camp, M. Netanyahu a jugé qu'Israël avait \"une opportunité historique unique\" avec le président américain Donald Trump",
+  "media": "AFP via Boursorama",
+  "titre": "Vers une reprise de la guerre? L'Iran avertit de l'impact \"dévastateur\" sur les marchés",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/vers-une-reprise-de-la-guerre-l-iran-avertit-de-l-impact-devastateur-sur-les-marches-ac38dd9f04c90084af2c46c13a59acba",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Bessent sur CNBC : l'Iran coupe les vivres à ses mandataires",
+  "valeur": "mandataires",
+  "extrait": "Les efforts américains visant à isoler économiquement l'Iran ont été « très fructueux » et Téhéran coupe les vivres à ses mandataires, a déclaré mercredi le secrétaire au Trésor américain, Scott Bessent, à CNBC.",
+  "media": "Reuters via Boursorama",
+  "titre": "Bessent déclare à CNBC que l'Iran cesse de financer ses groupes mandataires",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/bessent-declare-a-cnbc-que-l-iran-cesse-de-financer-ses-groupes-mandataires-f026df52e26519edad116ff3fa416db5",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Pour rappel : Houthis revendiquent mardi l'attaque de Ras Tanoura, non confirmée",
+  "valeur": "Ras Tanoura",
+  "extrait": "Les Houthis ont dit mardi avoir lancé une attaque contre la raffinerie de pétrole de Ras Tanoura, la plus grande d'Arabie saoudite. Les autorités saoudiennes n'ont pas confirmé l'attaque.",
+  "media": "Reuters via Boursorama",
+  "titre": "Les Houthis disent avoir attaqué la plus grande raffinerie saoudienne",
+  "url": "https://www.boursorama.com/bourse/actualites/les-houthis-disent-avoir-attaque-la-plus-grande-raffinerie-saoudienne-d19fee2795bd35df448c87903f72824f",
+  "date": "2026-10-27"
+ },
+ {
+  "affirmation": "Coalition saoudienne : missile détruit jeudi",
+  "valeur": "missile balistique",
+  "extrait": "La coalition sous commandement saoudien qui combat les rebelles houthis au Yémen a déclaré avoir détruit un missile balistique tiré jeudi par le groupe en direction du royaume.",
+  "media": "Reuters via Boursorama",
+  "titre": "L'Arabie saoudite dit avoir détruit un missile balistique tiré par les Houthis",
+  "url": "https://www.boursorama.com/bourse/actualites/l-arabie-saoudite-dit-avoir-detruit-un-missile-balistique-tire-par-les-houthis-e8b3a0da409472e00be422c4598d5b9d",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "AMF : quand les taux montent, la valeur des obligations baisse",
+  "valeur": "taux d'intérêt montent",
+  "extrait": "Quand les taux d'intérêt montent, la valeur des obligations baisse. La vente d'une obligation avant son échéance peut donc se traduire par une perte en capital.",
+  "media": "AMF",
+  "titre": "Investir dans les obligations",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/private/2023-12/2023_investir_en_obligations.pdf",
+  "date": "2023-10-02"
+ },
+ {
+  "affirmation": "Focus : prix OAT fictive 10 ans coupon 3,5 au taux 4,93 %",
+  "valeur": "88,92",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : duration de Macaulay",
+  "valeur": "8,51",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : sensibilité 8,51 / 1,0493 = 8,110",
+  "valeur": "8,11 1,0493",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : terme de sensibilité 8,11 x 0,5",
+  "valeur": "4,055 0,5 0,50",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : convexité 80,33",
+  "valeur": "80,3",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : correction convexité 0,5 x 80,3 x 0,005^2 = 0,100375 %",
+  "valeur": "0,100 0,005",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : total estimé -3,9546 % arrondi -3,95 %",
+  "valeur": "3,95",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : prix exact à 5,43 % = 85,403 ; variation -3,9551 % arrondie -3,96 %",
+  "valeur": "85,40 5,43 3,96",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : perte sur 10 000 € = 395,51 €",
+  "valeur": "10 000 395,51",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : choc +50 pb ; OAT 10 ans ; coupon 3,5 % ; remboursement 100",
+  "valeur": "50 10 3,5 100",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Réponse : baisse de 50 pb, prix exact à 4,43 % = 92,616 soit +4,156 % arrondi +4,16 % ; estimation +4,155 %",
+  "valeur": "4,43 92,62 4,155 4,16",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Or : règlement GCZ26 du 28/10 4051,60, veille 4074,60",
+  "valeur": "4051.6",
+  "extrait": "GCZ26.CMX 2026-10-28 4051.60009765625 ; GCZ26.CMX 2026-10-27 4074.60009765625",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Or : variation 4051,60/4074,60-1 = -0,564 % arrondie -0,56 % ; écriture 4 051,60",
+  "valeur": "4 051,60 0,56",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Brent : règlement BZZ26 du 28/10 115,32, veille 113,88",
+  "valeur": "115.3199",
+  "extrait": "BZZ26.NYM 2026-10-28 115.31999969482422 ; BZZ26.NYM 2026-10-27 113.87999725341797",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZZ26.NYM/history",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Brent : variation 115,32/113,88-1 = +1,264 % arrondie +1,26 %",
+  "valeur": "115,32 1,26",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : total estimé -4,055 + 0,100 = -3,955 %",
+  "valeur": "3,955",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ }
+]
