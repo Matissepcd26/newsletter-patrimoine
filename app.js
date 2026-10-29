@@ -15,6 +15,7 @@ const titreEdito = e => echap((e.objet.split(" : ").slice(1).join(" : ") || e.ob
 const dateCourte = d => new Date(d + "T12:00:00").toLocaleDateString("fr-FR", {day: "numeric", month: "short", year: "numeric"});
 const jourLong = e => echap(e.jour.charAt(0).toUpperCase() + e.jour.slice(1));
 const compte = t => entrees.filter(e => e.theme === t).length;
+const perimee = e => +e.date.slice(0, 4) < new Date().getFullYear(); // une loi de finances est passée depuis
 
 function donneesDemo() { // aperçu de mise en page seulement, activé par ?demo
   const sujets = ["PFU ou barème : l'option pour l'imposition des dividendes", "Régime mère-fille : conditions et quote-part de frais",
@@ -141,7 +142,7 @@ function majFiches() {
   $("#compte").textContent = `${liste.length} fiche${liste.length > 1 ? "s" : ""}`;
   $("#cartes").innerHTML = liste.length ? liste.map(e => `<button class="card" data-n="${e.date}">
       <span class="meta"><span class="tag">${e.theme}</span> · ${dateCourte(e.date)}</span>
-      <strong>${echap(e.focus)}</strong><p>${titreEdito(e)}</p></button>`).join("")
+      <strong>${echap(e.focus)}</strong><p>${titreEdito(e)}</p>${perimee(e) ? `<span class="meta alerte">Règles vérifiées en ${e.date.slice(0, 4)} : à revérifier</span>` : ""}</button>`).join("")
     : `<p class="empty">${entrees.length ? "Aucune fiche ne correspond. Essaie un autre mot ou un autre thème." : "Les fiches apparaîtront ici dès la première édition."}</p>`;
 }
 
@@ -172,6 +173,7 @@ function lecteur(date) {
         ${suiv ? `<a class="btn" href="#/n/${suiv.date}">Suivante<i class="ph ph-caret-right"></i></a>` : ""}
         <a class="btn" href="archives/${e.date}.html" target="_blank" rel="noopener"><i class="ph ph-arrow-square-out"></i>Ouvrir seule</a></div></div>
     <h1>${titreEdito(e)}</h1><p class="lead">${jourLong(e)}. Focus : ${echap(e.focus)}</p>
+    ${perimee(e) ? `<p class="empty" style="margin-top:16px;text-align:left">Fiche de ${e.date.slice(0, 4)} : une loi de finances est passée depuis. Les seuils, taux et barèmes ont pu changer ; revérifie-les avant un examen.</p>` : ""}
     ${DEMO ? `<p class="empty" style="margin-top:20px">Mode démonstration : le texte de l'édition s'affiche ici.</p>`
       : `<div class="lecture" id="lecture"><div class="skeleton"></div></div>`}`;
 }
