@@ -9,7 +9,7 @@ const PALETTES = {Coffre: ["#111113", "#9a5b00", "#f2f2f3", "#ffffff"], Marine: 
 const ORIGINE = {style: {accent: "#111113", lien: "#9a5b00", fond: "#f2f2f3", carte: "#ffffff", police: "sans", taille: 16, largeur: 680, titres: "numero",
     entete: "plein", arrondis: 12, densite: "aere", encadres: true, marches: "tableau"},
   contenu: {format: "condense", essentiel: true, bouton: true, ordre: RUBRIQUES, masquees: [], ajouts: [], suivre: [], note: "",
-    jours: [0, 1, 2, 3, 4, 5, 6], heure: "09:00", pause_du: "", pause_au: ""}};
+    jours: [0, 1, 2, 3, 4, 5, 6], heure: "09:00", pause_du: "", pause_au: "", question: true}};
 const EXEMPLES = {
   "L'essentiel": "<ul><li>La Fed garde ses taux, mais deux membres voulaient déjà les relever.</li><li>À Paris, le CAC 40 finit stable avant la BCE.</li><li>Focus : la duration, ou pourquoi une obligation perd quand les taux montent.</li></ul>",
   "L'édito": "<p><strong>Texte d'exemple.</strong> L'édito dit en quelques lignes ce qui compte ce matin pour l'épargne, les marchés et les révisions.</p>",
@@ -74,9 +74,11 @@ function mailApercu(m) {
   const [fondTete, texteTete] = plein ? [st.accent, clair(st.accent) ? "#111113" : "#ffffff"] : [st.carte, clair(st.carte) ? st.accent : texte];
   const liste = [...(c.essentiel ? ["L'essentiel"] : []), ...c.ordre.filter(t => !c.masquees.includes(t))];
   let n = 0;
-  const rubriques = [...liste.map(t => [t, EXEMPLES[t]]), ...c.ajouts.filter(a => a.titre).map(a => [echap(a.titre), `<p>Environ ${a.mots} mots. ${echap(a.consigne || "Consigne à préciser.")}</p>`])]
+  const exemple = t => t === "Focus M2" && c.question ? EXEMPLES[t] + "<p><strong>Question d'examen :</strong> pourquoi une obligation à duration longue perd-elle plus quand les taux montent ?</p>" : EXEMPLES[t];
+  const rubriques = [...liste.map(t => [t, exemple(t)]), ...c.ajouts.filter(a => a.titre).map(a => [echap(a.titre), `<p>Environ ${a.mots} mots. ${echap(a.consigne || "Consigne à préciser.")}</p>`])]
     .map(([t, corps], i) => `<tr><td style="padding:${i ? marge : pad}px ${pad}px 0;">${sectionMail(t, corps, t === "L'essentiel" ? 0 : ++n, st)}</td></tr>`).join("");
   const pied = clair(st.carte) ? "#6b6b70" : "#a1a1aa";
+  const question = c.question ? `<tr><td style="padding:${marge}px ${pad}px 0;"><div style="${police}font-size:${st.taille - 1}px;line-height:1.5;color:${texte};padding:14px 16px;border:1px dashed ${clair(st.carte) ? melange(texte, .7) : "#444"};border-radius:${st.arrondis}px;"><b>Question d'examen :</b> la réponse et le raisonnement sont sur le Coffre. <a href="#" style="color:${st.lien};">Voir la réponse</a></div></td></tr>` : "";
   const bouton = c.bouton ? `<tr><td style="padding:${marge}px ${pad}px 0;" align="center"><a href="#" style="display:inline-block;padding:13px 22px;border-radius:999px;background:${st.accent};color:${clair(st.accent) ? "#111113" : "#ffffff"};${police}font-size:15px;font-weight:700;text-decoration:none;">Lire l'édition complète et ses sources</a></td></tr>` : "";
   return `<!DOCTYPE html><html lang="fr"><head><meta charset="utf-8"><base target="_blank"></head><body style="margin:0;padding:0;background:${st.fond};">
 <table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="background:${st.fond};"><tr><td align="center" style="padding:20px 8px;">
@@ -85,7 +87,7 @@ function mailApercu(m) {
 <div style="font-size:13px;font-weight:800;letter-spacing:3px;text-transform:uppercase;color:${texteTete};"><span style="color:${plein ? "#ffb547" : st.lien};">◆</span> Le Coffre</div>
 <div style="font-size:14px;color:${texteTete};opacity:.75;margin-top:6px;">Jeudi 29 octobre 2026</div>
 <div style="display:inline-block;margin-top:12px;padding:6px 12px;border-radius:999px;background:${plein && !clair(st.accent) ? "rgba(255,255,255,.12)" : melange(st.lien, .88)};color:${texteTete};font-size:13px;font-weight:600;">Focus du jour : la duration d'une obligation</div></td></tr>
-${rubriques}${bouton}
+${rubriques}${question}${bouton}
 <tr><td style="padding:${marge}px ${pad}px ${pad}px;${police}font-size:12px;line-height:1.6;color:${pied};">Cette newsletter est fournie à titre informatif et pédagogique. Elle ne constitue ni un conseil en investissement, ni un conseil fiscal ou juridique personnalisé.<br>
 <a href="#" style="color:${pied};">Modifier le modèle du mail</a> · <a href="#" style="color:${pied};">Sources et vérifications</a></td></tr></table></td></tr></table></body></html>`;
 }
@@ -108,7 +110,7 @@ function vueModele() {
     <fieldset><legend>Longueur et rubriques</legend>
       ${segments("format", "Longueur du mail", [["condense", "Condensé"], ["standard", "Standard"], ["complet", "Complet"]])}
       <p class="meta" id="v-format"></p>
-      ${caseACocher("essentiel", "Bloc « L'essentiel » en tête : les trois faits à retenir")}${caseACocher("bouton", "Bouton vers l'édition complète et ses sources")}
+      ${caseACocher("essentiel", "Bloc « L'essentiel » en tête : les trois faits à retenir")}${caseACocher("bouton", "Bouton vers l'édition complète et ses sources")}${caseACocher("question", "Question d'examen à la fin du Focus, réponse sur le Coffre")}
       <div class="champ">Rubriques : coche celles à garder, ordonne avec les flèches<ol class="ordre" id="ordre"></ol></div>
       <p class="meta">L'édito, la France et le Focus M2 restent toujours. Les sources sont sur le Coffre, plus dans le mail.</p></fieldset>
     <fieldset><legend>Couleurs</legend>
@@ -138,7 +140,7 @@ function lireForm() {
   const f = $("#reglages"), v = n => f.elements[n].value, coche = n => f.elements[n].checked, radio = n => f.querySelector(`[name=${n}]:checked`)?.value;
   modele = {style: {accent: v("accent"), lien: v("lien"), fond: v("fond"), carte: v("carte"), police: v("police"), taille: +v("taille"), largeur: +v("largeur"),
       arrondis: +v("arrondis"), titres: radio("titres"), entete: radio("entete"), marches: radio("marches"), densite: radio("densite"), encadres: coche("encadres")},
-    contenu: {format: radio("format"), essentiel: coche("essentiel"), bouton: coche("bouton"), ordre: [...f.querySelectorAll("#ordre li")].map(li => li.dataset.r),
+    contenu: {format: radio("format"), essentiel: coche("essentiel"), bouton: coche("bouton"), question: coche("question"), ordre: [...f.querySelectorAll("#ordre li")].map(li => li.dataset.r),
       masquees: OPTIONNELLES.filter(t => !f.querySelector(`[name=rubrique][value="${t}"]`).checked),
       ajouts: [0, 1].map(i => ({titre: v("titre" + i).trim(), consigne: v("consigne" + i).trim(), mots: +v("mots" + i)})).filter(a => a.titre),
       suivre: v("suivre").split(",").map(s => s.trim()).filter(Boolean), note: v("note").trim(),
@@ -171,7 +173,7 @@ function remplir() {
   for (const k of ["accent", "lien", "fond", "carte", "police", "taille", "largeur", "arrondis"]) f.elements[k].value = s[k];
   for (const [k, v] of [["titres", s.titres], ["entete", s.entete], ["marches", s.marches], ["densite", s.densite], ["format", c.format]])
     f.querySelector(`[name=${k}][value=${v}]`).checked = true;
-  for (const k of ["essentiel", "bouton"]) f.elements[k].checked = c[k];
+  for (const k of ["essentiel", "bouton", "question"]) f.elements[k].checked = c[k];
   f.elements.encadres.checked = s.encadres;
   $("#ordre").innerHTML = c.ordre.map(ligneOrdre).join("");
   f.querySelectorAll("[name=rubrique]:not(:disabled)").forEach(x => x.checked = !c.masquees.includes(x.value));

@@ -237,7 +237,8 @@ async function chargerEdition(date) {
     sections.push({titre: "Sources et vérifications", html: preuves(faits)});
     zone.innerHTML = `<nav class="toc" aria-label="Sommaire">${sections.map((s, i) =>
         `<a href="javascript:void 0" data-ancre="s${i}">${echap(s.titre)}</a>`).join("")}</nav>
-      <div class="article">${sections.map((s, i) => `<section id="s${i}"><h2>${echap(s.titre)}</h2>${s.html}</section>`).join("")}</div>`;
+      <div class="article">${sections.map((s, i) => `<section id="s${i}"><h2>${echap(s.titre)}</h2>${s.titre.startsWith("Réponse à la question")
+        ? `<details class="reponse"><summary>Afficher la réponse</summary>${s.html}</details>` : s.html}</section>`).join("")}</div>`;
   } catch {
     zone.innerHTML = `<p class="empty">Cette édition n'a pas pu être chargée. <a href="archives/${date}.html">Ouvrir le fichier</a></p>`;
   }

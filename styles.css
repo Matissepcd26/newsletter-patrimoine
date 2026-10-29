@@ -249,3 +249,6 @@ h2 { margin: 52px 0 16px; font-size: 20px; letter-spacing: -0.02em; font-weight:
 .pause { display: flex; align-items: center; gap: 8px; }
 .pause input { flex: 1; min-width: 0; padding: 9px 10px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--text); font: 400 14px var(--sans); }
 .pause span { font-weight: 500; color: var(--muted); }
+.reponse { padding: 12px 16px; border: 1px dashed var(--line); border-radius: 12px; background: var(--surface); }
+.reponse summary { font-weight: 600; cursor: pointer; }
+.reponse[open] summary { margin-bottom: 10px; }
