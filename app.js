@@ -34,7 +34,7 @@ function donneesDemo() { // aperçu de mise en page seulement, activé par ?demo
 }
 
 function route() {
-  const [vue, arg] = location.hash.replace(/^#\/?/, "").split("/");
+  const [vue, arg, ancre] = location.hash.replace(/^#\/?/, "").split("/");
   const actif = {fiches: "fiches", historique: "historique", modele: "modele", "a-propos": "a-propos", n: "historique"}[vue] || "accueil";
   document.querySelectorAll(".nav a").forEach(a => a.dataset.vue === actif ? a.setAttribute("aria-current", "page") : a.removeAttribute("aria-current"));
   if (entrees === null) return;
@@ -42,7 +42,7 @@ function route() {
   $("#contenu").innerHTML = `<div class="view">${(vues[vue] || accueil)()}</div>`;
   if (vue === "fiches") majFiches();
   if (vue === "modele") initModele();
-  if (vue === "n" && !DEMO) chargerEdition(arg);
+  if (vue === "n" && !DEMO) chargerEdition(arg, ancre);
   document.title = `${$("#contenu h1")?.textContent || "Archives"} | Le Coffre`;
   window.scrollTo(0, 0);
 }
@@ -50,6 +50,8 @@ function route() {
 function clic(ev) {
   if (ev.target.id === "oublier") return oublier();
   if (ev.target.closest("#theme")) return changerTheme();
+  if (ev.target.closest("#signaler")) return formulaireSignalement();
+  if (ev.target.closest("#imprimer")) return imprimerFiche();
   const el = ev.target.closest("[data-n], [data-filtre], [data-chip], [data-ancre]");
   if (!el) return;
   if (el.dataset.ancre) return document.getElementById(el.dataset.ancre).scrollIntoView({block: "start"});
@@ -65,6 +67,7 @@ function clic(ev) {
 function saisie(ev) {
   if (ev.target.id !== "q") return;
   filtre.q = ev.target.value;
+  chargerRecherche();
   majFiches();
 }
 
@@ -138,9 +141,9 @@ function fiches() {
 function majFiches() {
   const q = sansAccents(filtre.q.trim());
   const liste = entrees.filter(e => (filtre.theme === "Tous" || e.theme === filtre.theme)
-    && (!q || sansAccents(`${e.focus} ${e.objet} ${e.jour} ${e.theme}`).includes(q)));
+    && (!q || sansAccents(`${e.focus} ${e.objet} ${e.jour} ${e.theme} ${textesRecherche?.[e.date] || ""}`).includes(q)));
   $("#compte").textContent = `${liste.length} fiche${liste.length > 1 ? "s" : ""}`;
-  $("#cartes").innerHTML = liste.length ? liste.map(e => `<button class="card" data-n="${e.date}">
+  $("#cartes").innerHTML = liste.length ? liste.map(e => `<button class="card" data-n="${e.date}/focus">
       <span class="meta"><span class="tag">${e.theme}</span> · ${dateCourte(e.date)}</span>
       <strong>${echap(e.focus)}</strong><p>${titreEdito(e)}</p>${perimee(e) ? `<span class="meta alerte">Règles vérifiées en ${e.date.slice(0, 4)} : à revérifier</span>` : ""}</button>`).join("")
     : `<p class="empty">${entrees.length ? "Aucune fiche ne correspond. Essaie un autre mot ou un autre thème." : "Les fiches apparaîtront ici dès la première édition."}</p>`;
@@ -171,6 +174,8 @@ function lecteur(date) {
   return `<div class="reader-bar"><a class="btn" href="#/historique"><i class="ph ph-arrow-left"></i>Historique</a>
       <div class="group">${prec ? `<a class="btn" href="#/n/${prec.date}"><i class="ph ph-caret-left"></i>Précédente</a>` : ""}
         ${suiv ? `<a class="btn" href="#/n/${suiv.date}">Suivante<i class="ph ph-caret-right"></i></a>` : ""}
+        <button class="btn" type="button" id="imprimer"><i class="ph ph-printer"></i>Imprimer la fiche</button>
+        <button class="btn" type="button" id="signaler"><i class="ph ph-flag"></i>Signaler une erreur</button>
         <a class="btn" href="archives/${e.date}.html" target="_blank" rel="noopener"><i class="ph ph-arrow-square-out"></i>Ouvrir seule</a></div></div>
     <h1>${titreEdito(e)}</h1><p class="lead">${jourLong(e)}. Focus : ${echap(e.focus)}</p>
     ${perimee(e) ? `<p class="empty" style="margin-top:16px;text-align:left">Fiche de ${e.date.slice(0, 4)} : une loi de finances est passée depuis. Les seuils, taux et barèmes ont pu changer ; revérifie-les avant un examen.</p>` : ""}
@@ -225,7 +230,7 @@ function preuves(f) {
       ${x.extrait && !/^calcul$/i.test(x.extrait) ? `<span class="extrait">« ${echap(x.extrait)} »</span>` : ""}</li>`).join("")}</ul>`;
 }
 
-async function chargerEdition(date) {
+async function chargerEdition(date, ancre) {
   const zone = $("#lecture");
   try {
     const doc = new DOMParser().parseFromString(await (await fetch(`archives/${date}.html`)).text(), "text/html");
@@ -239,11 +244,65 @@ async function chargerEdition(date) {
     sections.push({titre: "Sources et vérifications", html: preuves(faits)});
     zone.innerHTML = `<nav class="toc" aria-label="Sommaire">${sections.map((s, i) =>
         `<a href="javascript:void 0" data-ancre="s${i}">${echap(s.titre)}</a>`).join("")}</nav>
-      <div class="article">${sections.map((s, i) => `<section id="s${i}"><h2>${echap(s.titre)}</h2>${s.titre.startsWith("Réponse à la question")
+      <div class="article">${sections.map((s, i) => `<section id="s${i}" class="${/^(Focus M2|Réponse à la question)/.test(s.titre) ? "fiche" : ""}"><h2>${echap(s.titre)}</h2>${s.titre.startsWith("Réponse à la question")
         ? `<details class="reponse"><summary>Afficher la réponse</summary>${s.html}</details>` : s.html}</section>`).join("")}</div>`;
+    rectificatifs(date);
+    if (ancre === "focus") document.querySelector(".article .fiche")?.scrollIntoView({block: "start"});
   } catch {
     zone.innerHTML = `<p class="empty">Cette édition n'a pas pu être chargée. <a href="archives/${date}.html">Ouvrir le fichier</a></p>`;
   }
+}
+
+
+// Rectificatifs : signalement d'erreur par Mathéo, vérifié par la routine le lendemain matin.
+async function rectificatifs(date) {
+  try {
+    const liste = (await (await fetch("archives/rectificatifs.json", {cache: "no-store"})).json()).filter(r => r.edition === date);
+    if (!liste.length) return;
+    $("#lecture").insertAdjacentHTML("beforebegin", `<div class="rectifs">${liste.map(r => r.verdict === "confirmé"
+      ? `<p><strong>Rectificatif (${echap(r.rubrique || "édition")}) :</strong> ${echap(r.rectificatif)}</p>`
+      : `<p class="meta">Signalement vérifié le ${dateCourte(r.traite)} : pas d'erreur trouvée (« ${echap(r.signalement)} »).</p>`).join("")}</div>`);
+  } catch {}
+}
+
+function formulaireSignalement() {
+  if ($("#form-signalement")) return $("#form-signalement").remove();
+  const rubriques = [...document.querySelectorAll(".article h2")].map(h => h.textContent).filter(t => !/^Sources/.test(t));
+  $(".reader-bar").insertAdjacentHTML("afterend", `<form class="signalement" id="form-signalement" novalidate>
+    <h2>Signaler une erreur</h2><p class="meta">La routine vérifie ton signalement demain matin. Si l'erreur est confirmée, un rectificatif paraît dans le mail et dans cette fiche.</p>
+    <label class="champ">Rubrique<select name="rubrique">${rubriques.map(t => `<option>${echap(t)}</option>`).join("") || "<option>Édition</option>"}</select></label>
+    <label class="champ">Ce qui est faux, et la bonne information<textarea name="texte" rows="3" maxlength="600" required></textarea></label>
+    <label class="champ">Source (lien, facultatif)<input name="source" type="url" placeholder="https://"></label>
+    <label class="champ">Clé d'accès<input name="cle" type="password" autocomplete="current-password" value="${echap(cleSession)}"></label>
+    <div class="actions"><button class="btn primary" type="submit"><i class="ph ph-paper-plane-tilt"></i>Envoyer</button></div><p class="meta" id="etat-signalement" role="status"></p></form>`);
+  $("#form-signalement").addEventListener("submit", async ev => {
+    ev.preventDefault();
+    const f = ev.target, etat = $("#etat-signalement"), date = location.hash.split("/")[2];
+    etat.textContent = "Envoi…";
+    try {
+      const r = await fetch("api/signalement", {method: "POST", headers: {"content-type": "application/json"},
+        body: JSON.stringify({cle: f.elements.cle.value.trim(), signalement: {date, rubrique: f.elements.rubrique.value, texte: f.elements.texte.value, source: f.elements.source.value.trim()}})});
+      const d = await r.json();
+      if (!r.ok) return void (etat.textContent = d.erreur || "Envoi impossible.");
+      cleSession = f.elements.cle.value.trim();
+      etat.textContent = "Merci : signalement reçu. Il sera vérifié demain matin.";
+      f.elements.texte.value = "";
+    } catch { etat.textContent = "Connexion impossible. Réessaie dans un instant."; }
+  });
+}
+
+function imprimerFiche() {
+  document.querySelectorAll(".article details").forEach(d => d.open = true);
+  document.body.dataset.impression = "fiche";
+  print();
+  delete document.body.dataset.impression;
+}
+
+let textesRecherche = null; // texte des Focus (archives/recherche.json), chargé à la première recherche
+async function chargerRecherche() {
+  if (textesRecherche) return;
+  textesRecherche = {};
+  try { textesRecherche = await (await fetch("archives/recherche.json", {cache: "no-store"})).json(); majFiches(); } catch {}
 }
 
 init();

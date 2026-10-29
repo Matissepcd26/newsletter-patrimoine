@@ -254,3 +254,14 @@ h2 { margin: 52px 0 16px; font-size: 20px; letter-spacing: -0.02em; font-weight:
 .reponse[open] summary { margin-bottom: 10px; }
 @media (max-width: 860px) { .nav { flex-wrap: wrap; overflow: visible; } }
 @media (max-width: 1100px) { .apercu { order: 0; height: 70dvh; } }
+.rectifs { display: flex; flex-direction: column; gap: 8px; margin: 16px 0 0; }
+.rectifs p { margin: 0; padding: 10px 14px; border-left: 3px solid var(--danger); border-radius: 8px; background: var(--surface); }
+.signalement { display: flex; flex-direction: column; gap: 12px; max-width: 640px; margin: 4px 0 20px; padding: 16px; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); }
+.signalement h2 { margin: 0; font-size: 17px; }
+.signalement select, .signalement textarea, .signalement input { padding: 10px 12px; border: 1px solid var(--line); border-radius: 10px; background: var(--bg); color: var(--text); font: 400 14.5px/1.4 var(--sans); }
+@media print {
+  body[data-impression="fiche"] .side, body[data-impression="fiche"] .reader-bar, body[data-impression="fiche"] .toc,
+  body[data-impression="fiche"] .signalement, body[data-impression="fiche"] .article section:not(.fiche) { display: none !important; }
+  body[data-impression="fiche"] .lecture { display: block; }
+  body[data-impression="fiche"] { background: #fff; color: #000; }
+}
