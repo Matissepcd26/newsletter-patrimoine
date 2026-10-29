@@ -9,7 +9,7 @@ import io
 import json
 import time
 import urllib.request
-from datetime import datetime, time as heure, timezone
+from datetime import datetime, time as heure, timedelta, timezone
 from zoneinfo import ZoneInfo
 
 YAHOO = [("CAC 40", "^FCHI", "pts"), ("S&P 500", "^GSPC", "pts"), ("Nasdaq Composite", "^IXIC", "pts"),
@@ -24,6 +24,8 @@ CNBC = [("OAT 10 ans", "FR10Y-FR"), ("Bund 10 ans", "DE10Y-DE")]
 
 
 def fr(x, decimales=2, signe=False):
+    if round(x, decimales) == 0:
+        x, signe = 0.0, False  # jamais « -0,00 »
     s = f"{x:+,.{decimales}f}" if signe else f"{x:,.{decimales}f}"
     return s.replace(",", " ").replace(".", ",")
 
@@ -69,6 +71,10 @@ def yahoo(nom, symbole, unite, reglement_ny=None):
     barres = [(t, c) for t, c in zip(r["timestamp"], r["indicators"]["quote"][0]["close"]) if c is not None]
     if not seance_close(r, barres[-1][0], reglement_ny):
         barres = barres[:-1]  # séance encore ouverte
+    rt, rp = r["meta"].get("regularMarketTime"), r["meta"].get("regularMarketPrice")
+    if (reglement_ny is None and rt and rp and seance_close(r, rt, None)
+            and datetime.fromtimestamp(rt, timezone.utc).date() > datetime.fromtimestamp(barres[-1][0], timezone.utc).date()):
+        barres.append((rt, rp))  # Yahoo publie parfois la barre du jour en retard : dernier cours de la séance close
     (_, veille), (t, cloture) = barres[-2], barres[-1]
     periode = "la séance"
     if datetime.now(ZoneInfo("Europe/Paris")).weekday() >= 5:  # le week-end : variation sur la semaine
@@ -95,6 +101,18 @@ def reglement(nom, symbole, unite, h, mi):
         veille, periode = next(c for j, c in sorted(jours.items(), reverse=True) if (jour - j).days >= 7), "la semaine"
     return (f"{nom} ; {fr(prix)} {unite} ; {fr(100 * (prix / veille - 1), 2, True)} % sur {periode} ; "
             f"cours du {jour:%d/%m/%Y} à {h} h {mi:02d} heure de New York (règlement) ; https://finance.yahoo.com/quote/{symbole}/history")
+
+
+def bitcoin():
+    """Bitcoin : clôture de la veille à 24 h UTC, lue sur les barres horaires (la barre quotidienne arrive parfois en retard)."""
+    r = lire("https://query1.finance.yahoo.com/v8/finance/chart/BTC-USD?range=10d&interval=1h")["chart"]["result"][0]
+    prix = sorted((datetime.fromtimestamp(t, timezone.utc), c) for t, c in zip(r["timestamp"], r["indicators"]["quote"][0]["close"]) if c is not None)
+    minuit = datetime.now(timezone.utc).replace(hour=0, minute=0, second=0, microsecond=0)
+    avant = lambda t: next(c for h, c in reversed(prix) if h < t)  # la barre commencée juste avant t se clôt à t
+    semaine = datetime.now(ZoneInfo("Europe/Paris")).weekday() >= 5
+    cloture, ref = avant(minuit), avant(minuit - timedelta(days=7 if semaine else 1))
+    return (f"Bitcoin ; {fr(cloture)} $ ; {fr(100 * (cloture / ref - 1), 2, True)} % sur {'la semaine' if semaine else 'la séance'} ; "
+            f"clôture du {minuit - timedelta(days=1):%d/%m/%Y} à 24 h UTC ; https://finance.yahoo.com/quote/BTC-USD/history")
 
 
 def bce():
@@ -136,7 +154,7 @@ if __name__ == "__main__":
         except Exception as e:
             print(f"{nom} ; non disponible ({type(e).__name__})")
     try:
-        print(yahoo("Bitcoin", "BTC-USD", "$"))
+        print(bitcoin())
     except Exception as e:
         print(f"Bitcoin ; non disponible ({type(e).__name__})")
     try:

@@ -510,4 +510,9 @@ if __name__ == "__main__":
                  "archiver": lambda: archiver(*sys.argv[2:5])}
     if len(sys.argv) < 2 or sys.argv[1] not in commandes:
         sys.exit(f"COMMANDE_INCONNUE={' '.join(sys.argv[1:2])} ; commandes : {', '.join(commandes)}")
-    commandes[sys.argv[1]]()
+    try:
+        commandes[sys.argv[1]]()
+    except Exception as e:  # message lisible plutôt qu'une trace coupée dans le journal de la routine
+        import traceback
+        lieu = traceback.extract_tb(e.__traceback__)[-1]
+        sys.exit(f"ERREUR_OUTIL={sys.argv[1]} : {type(e).__name__} : {e} (fonction {lieu.name}, ligne {lieu.lineno}) ; continue et signale-le dans le bilan")
