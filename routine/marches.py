@@ -16,8 +16,8 @@ YAHOO = [("CAC 40", "^FCHI", "pts"), ("S&P 500", "^GSPC", "pts"), ("Nasdaq Compo
          ("Euro Stoxx 50", "^STOXX50E", "pts")]
 # Futures : racine Yahoo, place, mois d'échéance cotés, unité, règle de la presse (or : échéance la plus
 # active ; Brent : échéance la plus proche encore cotée).
-CONTRATS = [("Or", "GC", "CMX", (2, 4, 6, 8, 10, 12), "$/once", "active"),
-            ("Brent", "BZ", "NYM", range(1, 13), "$/baril", "proche")]
+CONTRATS = [("Or", "GC", "CMX", (2, 4, 6, 8, 10, 12), "$/once", "active", (13, 30)),
+            ("Brent", "BZ", "NYM", range(1, 13), "$/baril", "proche", (14, 30))]  # heure de règlement à New York
 CODES = "FGHJKMNQUVXZ"
 MOIS = ["janv.", "févr.", "mars", "avr.", "mai", "juin", "juil.", "août", "sept.", "oct.", "nov.", "déc."]
 CNBC = [("OAT 10 ans", "FR10Y-FR"), ("Bund 10 ans", "DE10Y-DE")]
@@ -81,6 +81,22 @@ def yahoo(nom, symbole, unite, reglement_ny=None):
             f"https://finance.yahoo.com/quote/{symbole.replace('^', '%5E')}/history")
 
 
+def reglement(nom, symbole, unite, h, mi):
+    """Futures : cours à l'heure du règlement (dernière barre de 5 min avant), jamais la séance de nuit qui suit."""
+    r = lire(f"https://query1.finance.yahoo.com/v8/finance/chart/{symbole}?range=12d&interval=5m")["chart"]["result"][0]
+    ny, maintenant, jours = ZoneInfo("America/New_York"), datetime.now(ZoneInfo("America/New_York")), {}
+    for t, c in zip(r["timestamp"], r["indicators"]["quote"][0]["close"]):
+        d = datetime.fromtimestamp(t, ny)
+        if c is not None and d.time() < heure(h, mi) and maintenant >= datetime.combine(d.date(), heure(h, mi), ny):
+            jours[d.date()] = c
+    (veille_j, veille), (jour, prix) = sorted(jours.items())[-2:]
+    periode = "la séance"
+    if datetime.now(ZoneInfo("Europe/Paris")).weekday() >= 5:  # le week-end : variation sur la semaine
+        veille, periode = next(c for j, c in sorted(jours.items(), reverse=True) if (jour - j).days >= 7), "la semaine"
+    return (f"{nom} ; {fr(prix)} {unite} ; {fr(100 * (prix / veille - 1), 2, True)} % sur {periode} ; "
+            f"cours du {jour:%d/%m/%Y} à {h} h {mi:02d} heure de New York (règlement) ; https://finance.yahoo.com/quote/{symbole}/history")
+
+
 def bce():
     """EUR/USD : taux de référence officiel de la BCE (la « clôture » quotidienne de Yahoo est un cours d'ouverture)."""
     requete = urllib.request.Request("https://data-api.ecb.europa.eu/service/data/EXR/D.USD.EUR.SP00.A"
@@ -110,10 +126,13 @@ if __name__ == "__main__":
             print(yahoo(*args))
         except Exception as e:
             print(f"{args[0]} ; non disponible ({type(e).__name__})")
-    for nom, racine, place, mois_cotes, unite, regle in CONTRATS:
+    for nom, racine, place, mois_cotes, unite, regle, (h, mi) in CONTRATS:
         try:
             symbole, echeance = contrat_actif(racine, place, mois_cotes, regle)
-            print(yahoo(f"{nom} (contrat {echeance})", symbole, unite, reglement_ny=15))
+            try:
+                print(reglement(f"{nom} (contrat {echeance})", symbole, unite, h, mi))
+            except Exception:
+                print(yahoo(f"{nom} (contrat {echeance})", symbole, unite, reglement_ny=15))
         except Exception as e:
             print(f"{nom} ; non disponible ({type(e).__name__})")
     print(yahoo("Bitcoin", "BTC-USD", "$"))

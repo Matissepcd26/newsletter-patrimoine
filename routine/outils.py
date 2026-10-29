@@ -438,4 +438,9 @@ def archiver(site, objet, focus):
 
 
 if __name__ == "__main__":
-    {"variables": variables, "modele": lambda: modele(*sys.argv[2:3]), "chiffres": chiffres, "journal": journal, "fenetre": fenetre_ok, "opinions": opinions, "marches": marches_ok, "archiver": lambda: archiver(*sys.argv[2:5])}.get(sys.argv[1], lambda: gabarit(*sys.argv[2:5]))()
+    commandes = {"variables": variables, "modele": lambda: modele(*sys.argv[2:3]), "gabarit": lambda: gabarit(*sys.argv[2:5]),
+                 "chiffres": chiffres, "journal": journal, "fenetre": fenetre_ok, "opinions": opinions, "marches": marches_ok,
+                 "archiver": lambda: archiver(*sys.argv[2:5])}
+    if len(sys.argv) < 2 or sys.argv[1] not in commandes:
+        sys.exit(f"COMMANDE_INCONNUE={' '.join(sys.argv[1:2])} ; commandes : {', '.join(commandes)}")
+    commandes[sys.argv[1]]()
