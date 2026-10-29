@@ -30,7 +30,9 @@ POLICES = {"serif": "Georgia,'Times New Roman',serif", "sans": "'Helvetica Neue'
            "systeme": "-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,Arial,sans-serif"}
 DEFAUT = {"style": {"accent": "#111113", "lien": "#9a5b00", "fond": "#f2f2f3", "carte": "#ffffff", "police": "sans", "taille": 16,
                     "largeur": 680, "titres": "numero", "entete": "plein", "arrondis": 12, "densite": "aere", "encadres": True, "marches": "tableau"},
-          "contenu": {"format": "condense", "essentiel": True, "bouton": True, "ordre": TITRES[:-1], "masquees": [], "ajouts": [], "suivre": [], "note": ""}}
+          "contenu": {"format": "condense", "essentiel": True, "bouton": True, "ordre": TITRES[:-1], "masquees": [], "ajouts": [], "suivre": [], "note": "",
+                      "jours": list(range(7)), "heure": "09:00", "pause_du": "", "pause_au": ""}}
+HEURES = ("08:00", "08:30", "09:00", "09:30")
 # Longueurs du cahier des charges (format complet), réduites selon le format choisi, avec un plancher par rubrique.
 LONGUEURS = {"L'édito": (250, 300), "Les marchés en un coup d'œil": (250, 300), "Banques centrales et macro": (300, 350),
              "France : épargne, fiscalité, immobilier": (350, 400), "Monde et sujets sensibles": (300, 350), "Focus M2": (500, 600),
@@ -64,7 +66,11 @@ def valider(m):
                         "masquees": [x for x in OPTIONNELLES if x in (c.get("masquees") or [])],
                         "ajouts": [a for a in ajouts if a["titre"] and a["consigne"] and not any(a["titre"].lower().startswith(p) for p in pris)],
                         "suivre": list(dict.fromkeys(x for x in (texte(v, 40) for v in (c.get("suivre") or [])) if x))[:8],
-                        "note": texte(c.get("note"), 500)}}
+                        "note": texte(c.get("note"), 500),
+                        "jours": sorted({j for j in (c.get("jours") or []) if type(j) is int and 0 <= j <= 6}) or list(range(7)),
+                        "heure": choix(c.get("heure"), HEURES, "09:00"),
+                        "pause_du": c.get("pause_du") if isinstance(c.get("pause_du"), str) and re.fullmatch(r"\d{4}-\d{2}-\d{2}", c.get("pause_du")) else "",
+                        "pause_au": c.get("pause_au") if isinstance(c.get("pause_au"), str) and re.fullmatch(r"\d{4}-\d{2}-\d{2}", c.get("pause_au")) else ""}}
 
 
 def charger_modele():
@@ -304,6 +310,11 @@ def modele(url=MODELE_URL):
         bas, haut = fourchette(a["mots"])
         print(f"AJOUT={a['titre']} ; {bas}-{haut} mots ; {a['consigne']}")
     print(f"SUIVRE={', '.join(c['suivre']) or 'aucun'}\nNOTE={c['note'] or 'aucune'}")
+    aujourdhui = datetime.now(ZoneInfo("Europe/Paris"))
+    en_pause = c["pause_du"] and c["pause_au"] and c["pause_du"] <= f"{aujourdhui:%Y-%m-%d}" <= c["pause_au"]
+    raison = (f"pause du {c['pause_du']} au {c['pause_au']}" if en_pause
+              else f"pas d'envoi le {JOURS[aujourdhui.weekday()]}" if aujourdhui.weekday() not in c["jours"] else "")
+    print(f"ENVOI={'non (' + raison + ')' if raison else 'oui'}\nHEURE_ENVOI={c['heure']}")
 
 
 def chiffres():
