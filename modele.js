@@ -41,7 +41,7 @@ function stylesMail(st) {
     strong: `color:${clair(st.carte) ? st.accent : texte};`};
 }
 const habiller = (s, st) => Object.entries(stylesMail(st)).reduce((h, [tag, css]) => h.replace(new RegExp(`<${tag}(\\s[^>]*)?>`, "g"), (_, at) => `<${tag} style="${css}"${at || ""}>`), s);
-const colorer = s => s.replace(/(^|[^\w,/])([+−–-]\s?\d[\d  ]*(?:,\d+)?\s?(?:%|pb))/g, (_, a, v) => `${a}<b style="color:${v[0] === "+" ? "#0f7b3e" : "#b42318"};white-space:nowrap;">${v}</b>`);
+const colorer = (s, sombre) => s.replace(/(^|[^\w,/])([+−–-]\s?\d[\d  ]*(?:,\d+)?\s?(?:%|pb))/g, (_, a, v) => `${a}<b style="color:${v[0] === "+" ? (sombre ? "#4ade80" : "#0f7b3e") : (sombre ? "#f87171" : "#b42318")};white-space:nowrap;">${v}</b>`);
 
 function titreMail(titre, n, st) {
   const police = `font-family:${POLICES_MAIL[st.police]};`, a = clair(st.carte) ? st.accent : "#f2f2f2";
@@ -56,9 +56,9 @@ function sectionMail(titre, corps, n, st) {
   let html;
   if (titre.startsWith("Les marchés") && st.marches === "tableau") {
     const rangs = [...corps.matchAll(/<li[^>]*>(.*?)<\/li>/gs)].map(([, l]) => `<tr><td style="padding:9px 10px 9px 0;border-bottom:1px solid ${ligne};font-family:${police};font-size:${st.taille - 1}px;font-weight:700;color:${texte};vertical-align:top;width:32%;">${sansBalises(l).split(" : ")[0]}</td>
-      <td style="padding:9px 0;border-bottom:1px solid ${ligne};font-family:${police};font-size:${st.taille - 1}px;line-height:1.5;color:${texte};">${colorer(habiller(l.split(" : ").slice(1).join(" : ") || l, st))}</td></tr>`).join("");
+      <td style="padding:9px 0;border-bottom:1px solid ${ligne};font-family:${police};font-size:${st.taille - 1}px;line-height:1.5;color:${texte};">${colorer(habiller(l.split(" : ").slice(1).join(" : ") || l, st), !clair(st.carte))}</td></tr>`).join("");
     html = `<table role="presentation" width="100%" cellpadding="0" cellspacing="0" style="margin:0 0 14px;">${rangs}</table>${habiller(corps.replace(/<ul[^>]*>.*?<\/ul>/s, ""), st)}`;
-  } else html = habiller(titre.startsWith("Les marchés") ? colorer(corps) : corps, st);
+  } else html = habiller(titre.startsWith("Les marchés") ? colorer(corps, !clair(st.carte)) : corps, st);
   let bloc = titreMail(titre, n, st) + html;
   const fort = corps.match(/<strong[^>]*>(.*?)<\/strong>/s);
   if (st.encadres && titre.startsWith("Le chiffre du jour") && fort)
@@ -158,7 +158,9 @@ function majApercu() {
   const c = modele.contenu, d = x => new Date(x + "T12:00:00").toLocaleDateString("fr-FR", {day: "numeric", month: "long"});
   $("#v-envois").textContent = !c.jours.length ? "Coche au moins un jour : sans jour coché, la newsletter arrive tous les jours."
     : `${c.jours.length === 7 ? "Tous les jours" : `${c.jours.length} jour${c.jours.length > 1 ? "s" : ""} par semaine`}, à ${c.heure.replace(/^0/, "").replace(":", " h ").replace(" h 00", " h")}.`
-      + (c.pause_du && c.pause_au ? ` Pause du ${d(c.pause_du)} au ${d(c.pause_au)}.` : "");
+      + (c.pause_du && c.pause_au && c.pause_du <= c.pause_au ? ` Pause du ${d(c.pause_du)} au ${d(c.pause_au)}.` : "");
+  if ((c.pause_du || c.pause_au) && !(c.pause_du && c.pause_au && c.pause_du <= c.pause_au))
+    $("#v-envois").innerHTML += ' <span class="alerte">Pause incomplète : indique une date de début et une date de fin, dans cet ordre.</span>';
   [0, 1].forEach(i => $(`#v-mots${i}`).textContent = `${f.elements["mots" + i].value} mots`);
   const mesures = [["texte", contraste(texteMail(s), s.carte)], ["repères", contraste(s.lien, s.carte)],
     ["en-tête", s.entete === "plein" ? contraste(clair(s.accent) ? "#111113" : "#ffffff", s.accent) : contraste(s.accent, s.carte)]];
@@ -186,8 +188,14 @@ function remplir() {
   majApercu();
 }
 
-const afficherEtat = (avant = "") => $("#etat-modele").textContent = avant + (modeleDate
-  ? `En vigueur depuis le ${new Date(modeleDate).toLocaleString("fr-FR", {dateStyle: "long", timeStyle: "short"})}.` : "Modèle d'origine en vigueur.");
+function afficherEtat(avant = "") {
+  $("#etat-modele").textContent = avant + (modeleDate
+    ? `En vigueur depuis le ${new Date(modeleDate).toLocaleString("fr-FR", {dateStyle: "long", timeStyle: "short"})}.` : "Modèle d'origine en vigueur.");
+  if (!modeleDate) return;
+  fetch("https://raw.githubusercontent.com/Matissepcd26/newsletter-patrimoine/main/config/modele.json", {cache: "no-store"}).then(r => r.json())
+    .then(copie => { $("#etat-modele").textContent += copie.date === modeleDate ? " Repris par la routine." : " En attente de reprise par la routine (copie chaque heure)."; })
+    .catch(() => {});
+}
 
 async function enregistrer(ev) {
   ev.preventDefault(); lireForm();

@@ -1,4 +1,4 @@
-// Le Café Patrimoine : archives. Application d'une page, navigation par #/vue.
+// Le Coffre : archives de la newsletter. Application d'une page, navigation par #/vue.
 const THEMES = ["Fiscalité IR", "IS et sociétés", "Immobilier", "Gestion de portefeuille", "Transmission", "Cas pratique", "Marchés et macro"];
 const JOURS = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"];
 const DEMO = new URLSearchParams(location.search).has("demo");
@@ -104,7 +104,7 @@ const programme = () => `<div class="theme-grid">${JOURS.map((j, i) =>
 function accueil() {
   if (!entrees.length) return `<h1>${erreur ? "Archives indisponibles" : "Bienvenue"}</h1>
     <p class="lead">${erreur ? "Les archives n'ont pas pu être chargées. Réessaie dans un instant."
-      : "La première édition arrive à 9 h et apparaîtra ici automatiquement, avec sa fiche Focus."}</p>
+      : "La première édition arrive demain matin et apparaîtra ici automatiquement, avec sa fiche Focus."}</p>
     <h2>Une fiche par jour, un thème par jour</h2>${programme()}`;
   const e = entrees[0], premier = entrees[entrees.length - 1];
   return `<h1>Bonjour ${echap(profil?.nom || "")}</h1><p class="lead">Dernière édition : ${jourLong(e)}</p>
@@ -178,7 +178,7 @@ function lecteur(date) {
 
 function aPropos() {
   return `<div class="about"><h1>À propos</h1>
-    <p class="lead">Le Café Patrimoine est une newsletter quotidienne pour suivre l'actualité patrimoniale et réviser le M2 Gestion de patrimoine. Elle arrive chaque matin à 9 h.</p>
+    <p class="lead">Le Coffre est une newsletter quotidienne pour suivre l'actualité patrimoniale et réviser le M2 Gestion de patrimoine. Elle arrive chaque matin, à l'heure choisie dans le modèle du mail.</p>
     <h2>Une fiche par jour, un thème par jour</h2>${programme()}
     <h2>Comment elle est préparée</h2>
     <p>Chaque édition s'appuie sur des recherches faites le matin même et sur des sources primaires (BCE, INSEE, Légifrance, BOFiP). Les chiffres sont recoupés avant l'envoi.</p>
