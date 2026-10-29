@@ -8,7 +8,8 @@ const PALETTES = {Coffre: ["#111113", "#9a5b00", "#f2f2f3", "#ffffff"], Marine: 
   Forêt: ["#1f4d3a", "#1f6f8b", "#eef2ec", "#ffffff"], Bordeaux: ["#6b1d2a", "#8a2a3a", "#f6f0ee", "#ffffff"], Nuit: ["#ffb547", "#7cb4ff", "#0b0b0d", "#16161a"]};
 const ORIGINE = {style: {accent: "#111113", lien: "#9a5b00", fond: "#f2f2f3", carte: "#ffffff", police: "sans", taille: 16, largeur: 680, titres: "numero",
     entete: "plein", arrondis: 12, densite: "aere", encadres: true, marches: "tableau"},
-  contenu: {format: "condense", essentiel: true, bouton: true, ordre: RUBRIQUES, masquees: [], ajouts: [], suivre: [], note: ""}};
+  contenu: {format: "condense", essentiel: true, bouton: true, ordre: RUBRIQUES, masquees: [], ajouts: [], suivre: [], note: "",
+    jours: [0, 1, 2, 3, 4, 5, 6], heure: "09:00", pause_du: "", pause_au: ""}};
 const EXEMPLES = {
   "L'essentiel": "<ul><li>La Fed garde ses taux, mais deux membres voulaient déjà les relever.</li><li>À Paris, le CAC 40 finit stable avant la BCE.</li><li>Focus : la duration, ou pourquoi une obligation perd quand les taux montent.</li></ul>",
   "L'édito": "<p><strong>Texte d'exemple.</strong> L'édito dit en quelques lignes ce qui compte ce matin pour l'épargne, les marchés et les révisions.</p>",
@@ -99,6 +100,11 @@ const ligneOrdre = t => `<li data-r="${echap(t)}"><label class="check"><input ty
 function vueModele() {
   return `<h1>Modèle du mail</h1><p class="lead">Règle l'apparence, la longueur et l'ordre de la newsletter. L'aperçu suit chaque réglage. Une fois enregistré, le modèle est repris par la routine dans l'heure, puis appliqué à l'édition suivante, préparée chaque matin à 7 h 25.</p>
   <div class="atelier" id="atelier"><form class="reglages" id="reglages" novalidate>
+    <fieldset><legend>Envois</legend>
+      <div class="champ">Jours de réception<div class="jours">${["L", "M", "M", "J", "V", "S", "D"].map((j, i) => `<label title="${JOURS[i]}"><input type="checkbox" name="jour" value="${i}">${j}</label>`).join("")}</div></div>
+      ${segments("heure", "Heure de réception", [["08:00", "8 h"], ["08:30", "8 h 30"], ["09:00", "9 h"], ["09:30", "9 h 30"]])}
+      <div class="champ">Pause (vacances, examens)<div class="pause"><input type="date" name="pause_du" aria-label="Début de la pause"><span>au</span><input type="date" name="pause_au" aria-label="Fin de la pause"></div></div>
+      <p class="meta" id="v-envois"></p></fieldset>
     <fieldset><legend>Longueur et rubriques</legend>
       ${segments("format", "Longueur du mail", [["condense", "Condensé"], ["standard", "Standard"], ["complet", "Complet"]])}
       <p class="meta" id="v-format"></p>
@@ -135,7 +141,8 @@ function lireForm() {
     contenu: {format: radio("format"), essentiel: coche("essentiel"), bouton: coche("bouton"), ordre: [...f.querySelectorAll("#ordre li")].map(li => li.dataset.r),
       masquees: OPTIONNELLES.filter(t => !f.querySelector(`[name=rubrique][value="${t}"]`).checked),
       ajouts: [0, 1].map(i => ({titre: v("titre" + i).trim(), consigne: v("consigne" + i).trim(), mots: +v("mots" + i)})).filter(a => a.titre),
-      suivre: v("suivre").split(",").map(s => s.trim()).filter(Boolean), note: v("note").trim()}};
+      suivre: v("suivre").split(",").map(s => s.trim()).filter(Boolean), note: v("note").trim(),
+      jours: [...f.querySelectorAll("[name=jour]:checked")].map(x => +x.value), heure: radio("heure"), pause_du: v("pause_du"), pause_au: v("pause_au")}};
 }
 
 const MOTS_FORMAT = {condense: "Environ 1 200 à 1 600 mots, 6 minutes de lecture.", standard: "Environ 1 800 à 2 100 mots, 9 minutes de lecture.",
@@ -146,6 +153,10 @@ function majApercu() {
   const s = modele.style, f = $("#reglages");
   $("#v-taille").textContent = `${s.taille} px`; $("#v-largeur").textContent = `${s.largeur} px`; $("#v-arrondis").textContent = `${s.arrondis} px`;
   $("#v-format").textContent = MOTS_FORMAT[modele.contenu.format];
+  const c = modele.contenu, d = x => new Date(x + "T12:00:00").toLocaleDateString("fr-FR", {day: "numeric", month: "long"});
+  $("#v-envois").textContent = !c.jours.length ? "Coche au moins un jour : sans jour coché, la newsletter arrive tous les jours."
+    : `${c.jours.length === 7 ? "Tous les jours" : `${c.jours.length} jour${c.jours.length > 1 ? "s" : ""} par semaine`}, à ${c.heure.replace(/^0/, "").replace(":", " h ").replace(" h 00", " h")}.`
+      + (c.pause_du && c.pause_au ? ` Pause du ${d(c.pause_du)} au ${d(c.pause_au)}.` : "");
   [0, 1].forEach(i => $(`#v-mots${i}`).textContent = `${f.elements["mots" + i].value} mots`);
   const mesures = [["texte", contraste(texteMail(s), s.carte)], ["repères", contraste(s.lien, s.carte)],
     ["en-tête", s.entete === "plein" ? contraste(clair(s.accent) ? "#111113" : "#ffffff", s.accent) : contraste(s.accent, s.carte)]];
@@ -167,6 +178,8 @@ function remplir() {
   [0, 1].forEach(i => { const a = c.ajouts[i] || {titre: "", consigne: "", mots: 120};
     f.elements["titre" + i].value = a.titre; f.elements["consigne" + i].value = a.consigne; f.elements["mots" + i].value = a.mots; });
   f.elements.suivre.value = c.suivre.join(", "); f.elements.note.value = c.note;
+  f.querySelectorAll("[name=jour]").forEach(x => x.checked = c.jours.includes(+x.value));
+  f.querySelector(`[name=heure][value="${c.heure}"]`).checked = true; f.elements.pause_du.value = c.pause_du; f.elements.pause_au.value = c.pause_au;
   if (!f.elements.cle.value) f.elements.cle.value = cleSession;
   majApercu();
 }
