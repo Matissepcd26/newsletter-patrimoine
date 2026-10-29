@@ -37,7 +37,7 @@ HEURES = ("08:00", "08:30", "09:00", "09:30")
 # Longueurs du cahier des charges (format complet), réduites selon le format choisi, avec un plancher par rubrique.
 LONGUEURS = {"L'édito": (250, 300), "Les marchés en un coup d'œil": (250, 300), "Banques centrales et macro": (300, 350),
              "France : épargne, fiscalité, immobilier": (350, 400), "Monde et sujets sensibles": (300, 350), "Focus M2": (500, 600),
-             "Le chiffre du jour": (80, 120), "À surveiller aujourd'hui": (120, 150), "L'essentiel": (45, 100), "Réponse à la question d'examen": (50, 130)}
+             "Le chiffre du jour": (80, 120), "À surveiller aujourd'hui": (120, 150), "L'essentiel": (45, 130), "Réponse à la question d'examen": (50, 130)}
 NON_REDUITES = ("L'essentiel", "Réponse à la question d'examen")  # longueur fixe, quel que soit le format
 PLANCHERS = {"Les marchés en un coup d'œil": 160, "Le chiffre du jour": 60, "À surveiller aujourd'hui": 70, "L'essentiel": 45}
 FORMATS = {"condense": .5, "standard": .75, "complet": 1}
@@ -501,11 +501,64 @@ def archiver(site, objet, focus):
                     "focus": focus, "theme": THEMES[now.weekday()]})
     entrees.sort(key=lambda e: e["date"], reverse=True)
     index.write_text(json.dumps(entrees, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    # Texte du Focus (et de sa réponse) pour la recherche plein texte du Coffre, chargé seulement quand on cherche.
+    recherche = dossier / "recherche.json"
+    textes = json.loads(recherche.read_text(encoding="utf-8")) if recherche.exists() else {}
+    fragment = open("/tmp/fragment.html", encoding="utf-8").read() if Path("/tmp/fragment.html").exists() else ""
+    textes[date] = " ".join(normaliser(c) for t, c in blocs(fragment) if t.startswith(("Focus M2", QUESTION)))[:6000]
+    recherche.write_text(json.dumps(textes, ensure_ascii=False) + "\n", encoding="utf-8")
     print(f"ARCHIVE={date}.html ; {len(entrees)} newsletter(s) archivée(s)")
 
 
+def traites(site=None):
+    """Rectificatifs déjà publiés (archives/rectificatifs.json), lus dans le site local ou sur la branche claude/archives."""
+    try:
+        if site:
+            return json.loads((Path(site) / "archives" / "rectificatifs.json").read_text(encoding="utf-8"))
+        subprocess.run(["git", "fetch", "-q", "origin", "claude/archives"], check=True, capture_output=True, timeout=60)
+        return json.loads(subprocess.run(["git", "show", "FETCH_HEAD:archives/rectificatifs.json"], check=True, capture_output=True, text=True).stdout)
+    except Exception:
+        return []
+
+
+def signalements():
+    """Erreurs signalées par Mathéo sur le Coffre et pas encore traitées : chacune est à vérifier avant tout."""
+    try:
+        recus = json.load(open(Path(__file__).resolve().parent.parent / "config" / "signalements.json", encoding="utf-8"))
+    except Exception:
+        recus = []
+    faits_ids = {r.get("id") for r in traites()}
+    nouveaux = [s for s in recus if s.get("id") not in faits_ids]
+    for s in nouveaux:
+        print(f"SIGNALEMENT={s['id']} ; édition du {s.get('date')} ; rubrique : {s.get('rubrique') or 'non précisée'} ; "
+              f"« {s.get('texte')} » ; source proposée : {s.get('source') or 'aucune'}")
+    print(f"SIGNALEMENTS_NOUVEAUX={len(nouveaux)}")
+
+
+def rectifier(site, ident, verdict, texte_rectificatif=""):
+    """Enregistre le verdict d'un signalement ; s'il est confirmé, ajoute le rectificatif en tête de la rubrique archivée."""
+    recus = {s["id"]: s for s in json.load(open(Path(__file__).resolve().parent.parent / "config" / "signalements.json", encoding="utf-8"))}
+    s, verdict = recus[ident], {"confirme": "confirmé", "infonde": "infondé"}[verdict]
+    now = datetime.now(ZoneInfo("Europe/Paris"))
+    fichier = Path(site) / "archives" / "rectificatifs.json"
+    liste = [r for r in traites(site) if r.get("id") != ident]
+    liste.append({"id": ident, "edition": s.get("date"), "rubrique": s.get("rubrique"), "signalement": s.get("texte"),
+                  "verdict": verdict, "rectificatif": texte_rectificatif, "traite": f"{now:%Y-%m-%d}"})
+    fichier.write_text(json.dumps(liste, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
+    page = Path(site) / "archives" / f"{s.get('date')}.html"
+    if verdict == "confirmé" and page.exists():
+        h = page.read_text(encoding="utf-8")
+        note = (f'<p style="padding:10px 12px;border-left:3px solid #b42318;background:#fdf1f0;"><strong>Rectificatif du {date_fr(now)} :</strong> '
+                f'{html.escape(texte_rectificatif)}</p>')
+        m = next((m for m in re.finditer(r"<h2[^>]*>(.*?)</h2>", h, re.S) if s.get("rubrique") and normaliser(m.group(1)).startswith(s["rubrique"][:20])), None)
+        i = m.end() if m else h.find("<h2")
+        page.write_text(h[:i] + note + h[i:], encoding="utf-8")
+    print(f"RECTIFICATIF_ENREGISTRE={ident} ; {verdict}")
+
+
 if __name__ == "__main__":
-    commandes = {"variables": variables, "modele": lambda: modele(*sys.argv[2:3]), "gabarit": lambda: gabarit(*sys.argv[2:5]), "focus_recents": focus_recents,
+    commandes = {"variables": variables, "modele": lambda: modele(*sys.argv[2:3]), "gabarit": lambda: gabarit(*sys.argv[2:5]), "focus_recents": focus_recents, "signalements": signalements,
+                 "rectifier": lambda: rectifier(*sys.argv[2:6]),
                  "chiffres": chiffres, "journal": journal, "fenetre": fenetre_ok, "opinions": opinions, "marches": marches_ok,
                  "archiver": lambda: archiver(*sys.argv[2:5])}
     if len(sys.argv) < 2 or sys.argv[1] not in commandes:
