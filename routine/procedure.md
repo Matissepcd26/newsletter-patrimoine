@@ -42,4 +42,5 @@ Tu travailles seul : personne ne peut te répondre. Ne pose aucune question. Les
    ```
    L'email est déjà parti : si l'archivage échoue, ne renvoie rien et signale-le dans le bilan.
 13. **Échec.** Si la rédaction ou le contrôle échoue définitivement, envoie à DESTINATAIRES un email d'objet « Pas de newsletter ce matin », dont le corps dit « Pas de newsletter ce matin. Raison : » suivi de la raison en une phrase.
+13 bis. **Alerte au propriétaire.** Si l'envoi de l'étape 12 échoue (connecteur Gmail indisponible, erreur), si tu as dû envoyer l'email de l'étape 13, si l'archivage a échoué, ou si un contrôle n'était pas au vert au moment de l'envoi (NON_SOURCÉS, MARCHE_ECARTS, total_auto < 23), envoie avec l'outil PushNotification une notification d'une ligne : ce qui s'est passé et ce qu'il faut regarder. Sinon, n'envoie aucune notification.
 14. **Bilan**, en six lignes : recherches web, pages lues, lignes du journal, NON_SOURCÉS final, erreurs corrigées après la contre-vérification, total_auto final, objet envoyé ou raison de l'échec.
