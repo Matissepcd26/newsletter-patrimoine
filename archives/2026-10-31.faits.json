@@ -1,0 +1,1118 @@
+[
+ {
+  "affirmation": "CAC 40 clôture semaine",
+  "valeur": "7 969,42",
+  "extrait": "CAC 40 ; 7 969,42 pts ; +2,40 % sur la semaine ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (CAC 40)",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "CAC 40 variation semaine",
+  "valeur": "+2,40 %",
+  "extrait": "CAC 40 ; 7 969,42 pts ; +2,40 % sur la semaine ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (CAC 40)",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "S&P 500 clôture semaine",
+  "valeur": "7 580,07",
+  "extrait": "S&P 500 ; 7 580,07 pts ; -0,57 % sur la semaine ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (S&P 500)",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "S&P 500 variation semaine",
+  "valeur": "-0,57 %",
+  "extrait": "S&P 500 ; 7 580,07 pts ; -0,57 % sur la semaine ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (S&P 500)",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Nasdaq clôture semaine",
+  "valeur": "25 437,00",
+  "extrait": "Nasdaq Composite ; 25 437,00 pts ; -2,00 % sur la semaine ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (Nasdaq Composite)",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Nasdaq variation semaine",
+  "valeur": "-2,00 %",
+  "extrait": "Nasdaq Composite ; 25 437,00 pts ; -2,00 % sur la semaine ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (Nasdaq Composite)",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture semaine",
+  "valeur": "6 131,31",
+  "extrait": "Euro Stoxx 50 ; 6 131,31 pts ; +1,04 % sur la semaine ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (Euro Stoxx 50)",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation semaine",
+  "valeur": "+1,04 %",
+  "extrait": "Euro Stoxx 50 ; 6 131,31 pts ; +1,04 % sur la semaine ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (Euro Stoxx 50)",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Or contrat décembre",
+  "valeur": "3 899,00",
+  "extrait": "Or (contrat déc. 2026) ; 3 899,00 $/once ; -2,70 % sur la semaine ; cours du 30/10/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (or, contrat décembre)",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Or variation semaine",
+  "valeur": "-2,70 %",
+  "extrait": "Or (contrat déc. 2026) ; 3 899,00 $/once ; -2,70 % sur la semaine ; cours du 30/10/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (or, contrat décembre)",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Brent contrat décembre",
+  "valeur": "117,70",
+  "extrait": "Brent (contrat déc. 2026) ; 117,70 $/baril ; +0,88 % sur la semaine ; cours du 30/10/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (Brent, contrat décembre)",
+  "url": "https://finance.yahoo.com/quote/BZZ26.NYM/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Brent variation semaine",
+  "valeur": "+0,88 %",
+  "extrait": "Brent (contrat déc. 2026) ; 117,70 $/baril ; +0,88 % sur la semaine ; cours du 30/10/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (Brent, contrat décembre)",
+  "url": "https://finance.yahoo.com/quote/BZZ26.NYM/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Bitcoin clôture",
+  "valeur": "77 180,42",
+  "extrait": "Bitcoin ; 77 180,42 $ ; -4,80 % sur la semaine ; clôture du 30/10/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (Bitcoin)",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Bitcoin variation semaine",
+  "valeur": "-4,80 %",
+  "extrait": "Bitcoin ; 77 180,42 $ ; -4,80 % sur la semaine ; clôture du 30/10/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (Bitcoin)",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "EUR/USD référence BCE 30/10",
+  "valeur": "1,1172",
+  "extrait": "30 October 2026: 1.1172 (US dollar per euro)",
+  "media": "BCE",
+  "titre": "Euro exchange rates charts (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "EUR/USD variation semaine",
+  "valeur": "-0,19 %",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1172 ; -0,19 % sur la semaine ; taux du 30/10/2026",
+  "media": "BCE",
+  "titre": "Euro exchange rates charts (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "EUR/USD référence BCE 23/10",
+  "valeur": "1,1193",
+  "extrait": "23 October 2026: 1.1193 (US dollar per euro)",
+  "media": "BCE",
+  "titre": "Euro exchange rates charts (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-10-23"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture 30/10",
+  "valeur": "4,973",
+  "extrait": "30/10/2026: 4,973",
+  "media": "Investing.com",
+  "titre": "France 10 ans Données Historiques sur les Obligations",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture 23/10",
+  "valeur": "5,028",
+  "extrait": "23/10/2026: 5,028",
+  "media": "Investing.com",
+  "titre": "France 10 ans Données Historiques sur les Obligations",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-10-23"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture 29/10",
+  "valeur": "4,910",
+  "extrait": "29/10/2026: 4,910",
+  "media": "Investing.com",
+  "titre": "France 10 ans Données Historiques sur les Obligations",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "OAT 10 ans 4,97 % selon Zonebourse (2e source)",
+  "valeur": "4,97 %",
+  "extrait": "L'OAT 10 ans s'établit à 4,97 %, contre 4,91 % la veille",
+  "media": "Zonebourse (AWP)",
+  "titre": "Paris termine octobre quasi stable",
+  "url": "https://www.zonebourse.com/actualite-bourse/paris-termine-octobre-quasi-stable-ce785fdbd18af121",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Bund 10 ans clôture 30/10",
+  "valeur": "3,3185",
+  "extrait": "30/10/2026: 3,3185",
+  "media": "Investing.com",
+  "titre": "Allemagne 10 ans Données Historiques sur les Obligations",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Bund 10 ans clôture 23/10",
+  "valeur": "3,3434",
+  "extrait": "23/10/2026: 3,3434",
+  "media": "Investing.com",
+  "titre": "Allemagne 10 ans Données Historiques sur les Obligations",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-10-23"
+ },
+ {
+  "affirmation": "Bund 10 ans 2e source Reuters",
+  "valeur": "3,3194",
+  "extrait": "le rendement du Bund allemand à dix ans DE10YT=RR a perdu près de 4 points de base à 3,3194%",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe finit en baisse, l'IA fait plonger le Nasdaq de 3%",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-baisse-l-ia-fait-plonger-le-nasdaq-de-3-5368be6111b188ea93cf364d8746d262",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "OAT variation semaine (pb)",
+  "valeur": "-5,5",
+  "extrait": "4,973 - 5,028 = -0,055 point, soit -5,5 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Bund variation semaine (pb)",
+  "valeur": "-2,5",
+  "extrait": "3,3185 - 3,3434 = -0,0249 point, soit -2,5 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Écart OAT-Bund",
+  "valeur": "165,5",
+  "extrait": "4,973 - 3,3185 = 1,6545 point, soit 165,5 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Taux réel Livret A",
+  "valeur": "-1,7",
+  "extrait": "1,7 - 3,4 = -1,7 point",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "CAC 40 séance de vendredi",
+  "valeur": "0,01 %",
+  "extrait": "L'indice phare de la Bourse de Paris a abandonné 0,01% à 7.969,42 points ce vendredi 30 octobre",
+  "media": "Zonebourse (AWP)",
+  "titre": "Paris termine octobre quasi stable",
+  "url": "https://www.zonebourse.com/actualite-bourse/paris-termine-octobre-quasi-stable-ce785fdbd18af121",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Sanofi vendredi",
+  "valeur": "4,71 %",
+  "extrait": "Sanofi (+4,71 % à 79,74 euros)",
+  "media": "Zonebourse (AWP)",
+  "titre": "Paris termine octobre quasi stable",
+  "url": "https://www.zonebourse.com/actualite-bourse/paris-termine-octobre-quasi-stable-ce785fdbd18af121",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "STMicroelectronics vendredi",
+  "valeur": "5,26 %",
+  "extrait": "STMicroelectronics (-5,26 %)",
+  "media": "Zonebourse (AWP)",
+  "titre": "Paris termine octobre quasi stable",
+  "url": "https://www.zonebourse.com/actualite-bourse/paris-termine-octobre-quasi-stable-ce785fdbd18af121",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 vendredi",
+  "valeur": "1,23 %",
+  "extrait": "Euro Stoxx 50: Fell 1.23% at the European close",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe finit en baisse, l'IA fait plonger le Nasdaq de 3%",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-baisse-l-ia-fait-plonger-le-nasdaq-de-3-5368be6111b188ea93cf364d8746d262",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "S&P 500 et Nasdaq vendredi",
+  "valeur": "1,82",
+  "extrait": "The Nasdaq fell 2.86 per cent to close at 25,437.00, while the S&P 500 declined 1.82 per cent to 7,580.07",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
+  "url": "https://ca.finance.yahoo.com/news/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Nasdaq vendredi",
+  "valeur": "2,86",
+  "extrait": "The Nasdaq fell 2.86 per cent to close at 25,437.00",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq, Dow, S&P 500 clobbered as October closes with brutal sell-off",
+  "url": "https://ca.finance.yahoo.com/news/live/stock-market-today-friday-october-30-dow-sp-500-nasdaq-amazon-intel-ai-sell-off-191429143.html",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Intel vendredi",
+  "valeur": "29 %",
+  "extrait": "Intel: down 29%, its worst day since the 1970s",
+  "media": "CNBC",
+  "titre": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+  "url": "https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Amazon capex 2026",
+  "valeur": "220",
+  "extrait": "maintaining its capital expenditure forecast for 2026 of $220 billion",
+  "media": "CNBC",
+  "titre": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+  "url": "https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Amazon vendredi",
+  "valeur": "1,4 %",
+  "extrait": "Amazon: down 1.4%",
+  "media": "CNBC",
+  "titre": "Intel stock has worst day since 1970s, wiping about $12 billion off government's stake",
+  "url": "https://cnbc.com/2026/10/30/amazon-intel-earnings-big-tech-ai-spending-concerns.html",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Or spot plus bas depuis le 6 octobre 2025",
+  "valeur": "6",
+  "extrait": "its lowest since October 6, 2025",
+  "media": "Kitco",
+  "titre": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead",
+  "url": "https://www.kitco.com/news/article/2026-10-30/gold-prices-plunge-one-year-low-below-3900-higher-oil-prices-fuel-fears",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Or 3 900 seuil",
+  "valeur": "3,900",
+  "extrait": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead",
+  "media": "Kitco",
+  "titre": "Gold prices plunge to one-year low below $3,900 as higher oil prices fuel fears of more pain ahead",
+  "url": "https://www.kitco.com/news/article/2026-10-30/gold-prices-plunge-one-year-low-below-3900-higher-oil-prices-fuel-fears",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Brent règlement officiel décembre",
+  "valeur": "117,64",
+  "extrait": "ont clôturé en hausse de 2,76 dollars, soit 2,4%, à 117,64 dollars le baril",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Brent hausse mensuelle",
+  "valeur": "13,6 %",
+  "extrait": "Sur le mois, le Brent a terminé en hausse de 13,6%, tandis que le WTI a progressé de 15,2%",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Brent journée",
+  "valeur": "2,4 %",
+  "extrait": "ont clôturé en hausse de 2,76 dollars, soit 2,4%, à 117,64 dollars le baril",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Saxo fourchette Brent après conflit",
+  "valeur": "70",
+  "extrait": "Saxo Bank expects Brent to trade between $70 and $90 a barrel even after the conflict ends",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Saxo fourchette haute",
+  "valeur": "90",
+  "extrait": "Saxo Bank expects Brent to trade between $70 and $90 a barrel even after the conflict ends",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Midterms le 3 novembre",
+  "valeur": "3",
+  "extrait": "des élections de mi-mandat américaines du 3 novembre",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Binance piratage",
+  "valeur": "6,3",
+  "extrait": "des pirates ont dérobé 6,3 milliards de dollars jeudi soir, un record",
+  "media": "MoneyVox",
+  "titre": "CAC 40 à l'équilibre, Binance piraté, bénéfice ajusté par action... Le journal de la bourse du vendredi 30 octobre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Binance gel",
+  "valeur": "3",
+  "extrait": "Binance indique avoir gelé environ 3 milliards de dollars",
+  "media": "MoneyVox",
+  "titre": "CAC 40 à l'équilibre, Binance piraté, bénéfice ajusté par action... Le journal de la bourse du vendredi 30 octobre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Bybit février 2025",
+  "valeur": "1,5",
+  "extrait": "celui de Bybit en février 2025, portait sur 1,5 milliard",
+  "media": "MoneyVox",
+  "titre": "CAC 40 à l'équilibre, Binance piraté, bénéfice ajusté par action... Le journal de la bourse du vendredi 30 octobre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111062/cac-40-a-equilibre-binance-pirate-benefice-ajuste-par-action-le-journal-de-la-bourse-du-vendredi-30-octobre-2026",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "PIB France T3",
+  "valeur": "-0,1 %",
+  "extrait": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+  "media": "Insee",
+  "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+  "url": "https://www.insee.fr/fr/statistiques/9111036",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Consommation des ménages T3",
+  "valeur": "+0,4 %",
+  "extrait": "la consommation des ménages accélère (+0,4 % après +0,2 %)",
+  "media": "Insee",
+  "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+  "url": "https://www.insee.fr/fr/statistiques/9111036",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Investissement T3",
+  "valeur": "-0,6 %",
+  "extrait": "la formation brute de capital fixe recule de nouveau (-0,6 % après -0,5 %)",
+  "media": "Insee",
+  "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+  "url": "https://www.insee.fr/fr/statistiques/9111036",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Commerce extérieur T3",
+  "valeur": "-0,6 point",
+  "extrait": "La contribution du commerce extérieur à la croissance est négative ce trimestre (-0,6 point après +0,6 point)",
+  "media": "Insee",
+  "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+  "url": "https://www.insee.fr/fr/statistiques/9111036",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Inflation France octobre",
+  "valeur": "3,4 %",
+  "extrait": "les prix à la consommation augmenteraient de 3,4 % en octobre 2026, après +3,1 % en septembre",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9107965",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Inflation France septembre",
+  "valeur": "3,1 %",
+  "extrait": "les prix à la consommation augmenteraient de 3,4 % en octobre 2026, après +3,1 % en septembre",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9107965",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "IPCH France octobre",
+  "valeur": "3,8 %",
+  "extrait": "l'indice des prix à la consommation harmonisé augmenterait de 3,8 % en octobre 2026, après +3,4 % en septembre",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9107965",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Énergie quatrième mois",
+  "valeur": "quatrième",
+  "extrait": "Les prix de l'énergie accéléreraient pour le quatrième mois consécutif, tirés par ceux du gaz et des produits pétroliers",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9107965",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "PIB zone euro T3",
+  "valeur": "0,4 %",
+  "extrait": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
+  "media": "Eurostat",
+  "titre": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "PIB zone euro sur un an",
+  "valeur": "1,3 %",
+  "extrait": "seasonally adjusted GDP increased by 1.3% in the euro area",
+  "media": "Eurostat",
+  "titre": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Fed fourchette maintenue",
+  "valeur": "3-3/4 to 4",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed fourchette en décimal",
+  "valeur": "3,75",
+  "extrait": "3-3/4 = 3,75 (conversion de 3-3/4 to 4 percent)",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Fed dissidents",
+  "valeur": "Cook",
+  "extrait": "Voting against the monetary policy action were Lisa D. Cook and Beth M. Hammack",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed inflation élevée",
+  "valeur": "elevated",
+  "extrait": "Inflation remains elevated.",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "BCE taux dépôt",
+  "valeur": "2,50 %",
+  "extrait": "The interest rates on the deposit facility, the main refinancing operations and the marginal lending facility will remain unchanged at 2.50%, 2.65% and 2.90% respectively",
+  "media": "BCE",
+  "titre": "Décisions de politique monétaire",
+  "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.fr.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE risques",
+  "valeur": "risques à la hausse",
+  "extrait": "des risques à la hausse sur les perspectives d'inflation et des risques à la baisse sur les perspectives de croissance",
+  "media": "BCE",
+  "titre": "Décisions de politique monétaire",
+  "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.fr.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Lagarde départ",
+  "valeur": "7 February 2027",
+  "extrait": "ECB President Lagarde to step down on 7 February 2027",
+  "media": "BCE",
+  "titre": "ECB President Lagarde to step down on 7 February 2027",
+  "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.pr261029~abbb6dc64b.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Livret A taux",
+  "valeur": "1,7 %",
+  "extrait": "le taux d'intérêt annuel du livret A est fixé à 1,7 %",
+  "media": "service-public.fr",
+  "titre": "Livret A et LEP : quelle évolution des taux de rémunération à compter du 1er août 2026 ?",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18000",
+  "date": "2026-07-31"
+ },
+ {
+  "affirmation": "LEP taux",
+  "valeur": "2,5 %",
+  "extrait": "Il reste fixé à 2,5 %",
+  "media": "service-public.fr",
+  "titre": "Livret A et LEP : quelle évolution des taux de rémunération à compter du 1er août 2026 ?",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18000",
+  "date": "2026-07-31"
+ },
+ {
+  "affirmation": "Assurance-vie cotisations septembre",
+  "valeur": "15,4",
+  "extrait": "Les épargnants ont déposé le montant record de 15,4 milliards d'euros sur leur assurance vie au mois de septembre",
+  "media": "MoneyVox",
+  "titre": "L'assurance vie connaît le meilleur mois de septembre de son histoire : 15,4 milliards d'euros déposés",
+  "url": "https://www.moneyvox.fr/assurance-vie/actualites/111031/assurance-vie-connait-le-meilleur-mois-de-septembre-de-son-histoire-15-4-milliards-euros-deposes",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Assurance-vie collecte nette septembre",
+  "valeur": "4,1",
+  "extrait": "s'élève donc à 4,1 milliards d'euros",
+  "media": "MoneyVox",
+  "titre": "L'assurance vie connaît le meilleur mois de septembre de son histoire : 15,4 milliards d'euros déposés",
+  "url": "https://www.moneyvox.fr/assurance-vie/actualites/111031/assurance-vie-connait-le-meilleur-mois-de-septembre-de-son-histoire-15-4-milliards-euros-deposes",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Assurance-vie collecte nette cumulée",
+  "valeur": "47,6",
+  "extrait": "Depuis le début de l'année, la collecte nette s'élève à 47,6 milliards d'euros",
+  "media": "MoneyVox",
+  "titre": "L'assurance vie connaît le meilleur mois de septembre de son histoire : 15,4 milliards d'euros déposés",
+  "url": "https://www.moneyvox.fr/assurance-vie/actualites/111031/assurance-vie-connait-le-meilleur-mois-de-septembre-de-son-histoire-15-4-milliards-euros-deposes",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Assurance-vie UC",
+  "valeur": "7%",
+  "extrait": "Les cotisations progressent de 7% pour les supports en unité de compte",
+  "media": "MoneyVox",
+  "titre": "L'assurance vie connaît le meilleur mois de septembre de son histoire : 15,4 milliards d'euros déposés",
+  "url": "https://www.moneyvox.fr/assurance-vie/actualites/111031/assurance-vie-connait-le-meilleur-mois-de-septembre-de-son-histoire-15-4-milliards-euros-deposes",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Amendement I-3807 adopté",
+  "valeur": "28 octobre 2026",
+  "extrait": "Adopté (mercredi 28 octobre 2026)",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (no 3210) Amendement n°I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement I-3807 numéro",
+  "valeur": "3807",
+  "extrait": "Amendement n°I-3807 Déposé le samedi 10 octobre 2026",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (no 3210) Amendement n°I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement I-3807 taux",
+  "valeur": "2 %",
+  "extrait": "au taux de 2 % sur la valeur des actifs mentionnés au 8° du même A",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (no 3210) Amendement n°I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement I-3807 assiette 8°",
+  "valeur": "8°",
+  "extrait": "8° Les sommes déposées sur des comptes de dépôt, des comptes à terme et des livrets, les valeurs mobilières, les parts ou actions d'organismes de placement collectif",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (no 3210) Amendement n°I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement I-3807 exclusion participations",
+  "valeur": "5 %",
+  "extrait": "a) Des titres représentant au moins 5 % du capital d'une société exerçant une activité industrielle, commerciale, artisanale, agricole ou libérale",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (no 3210) Amendement n°I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement I-3807 réinvestissement trois ans",
+  "valeur": "trois ans",
+  "extrait": "Des sommes que la société déclare, dans l'annexe mentionnée au 1° du V, affecter dans les trois ans suivant la clôture de l'exercice",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (no 3210) Amendement n°I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement I-3807 logements",
+  "valeur": "résidence principale",
+  "extrait": "l'acquisition, la construction ou la rénovation de logements donnés en location, nue ou meublée, à titre de résidence principale du locataire",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (no 3210) Amendement n°I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement I-3807 intérêt de retard",
+  "valeur": "1727",
+  "extrait": "À défaut d'affectation dans ce délai, la taxe correspondante est due au titre de l'exercice au cours duquel il expire, majorée de l'intérêt de retard prévu à l'article 1727",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (no 3210) Amendement n°I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement I-3807 application",
+  "valeur": "31 décembre 2027",
+  "extrait": "II. – Le I s'applique aux exercices clos à compter du 31 décembre 2027.",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (no 3210) Amendement n°I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Amendement I-3807 groupe",
+  "valeur": "Les Démocrates",
+  "extrait": "Jean-Paul Mattei Membre du groupe Les Démocrates",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (no 3210) Amendement n°I-3807",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/amendements/3210A/AN/3807",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Vote solennel PLF première partie",
+  "valeur": "3 novembre",
+  "extrait": "est inscrit à l'ordre du jour de la séance publique du mardi 3 novembre, après-midi",
+  "media": "Assemblée nationale",
+  "titre": "Examen de la première partie du projet de loi de finances pour 2027",
+  "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-10-27"
+ },
+ {
+  "affirmation": "Trêve hivernale",
+  "valeur": "1er novembre",
+  "extrait": "La trêve hivernale s'applique du 1er novembre au 31 mars de l'année suivante.",
+  "media": "service-public.fr",
+  "titre": "Quand s'applique la trêve hivernale ?",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34736",
+  "date": "consultée le 2026-10-31"
+ },
+ {
+  "affirmation": "Trêve hivernale fin",
+  "valeur": "31 mars",
+  "extrait": "La trêve hivernale s'applique du 1er novembre au 31 mars de l'année suivante.",
+  "media": "service-public.fr",
+  "titre": "Quand s'applique la trêve hivernale ?",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34736",
+  "date": "consultée le 2026-10-31"
+ },
+ {
+  "affirmation": "Ormuz attaque pétrolier",
+  "valeur": "UKMTO",
+  "extrait": "un pétrolier dans le détroit d'Ormuz a été touché par des engins explosifs fixés depuis une petite embarcation, a indiqué l'UKMTO, le service britannique de sécurité maritime",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Personnel américain Arabie saoudite",
+  "valeur": "non indispensables",
+  "extrait": "Les États-Unis ont ordonné aux fonctionnaires non indispensables et à leurs familles de quitter l'Arabie saoudite",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Médiateurs qatariens / lettre Vance",
+  "valeur": "Vance",
+  "extrait": "des médiateurs qatariens sont retournés à Téhéran vendredi ; L'Iran a bien reçu une lettre de JD Vance, mais n'y a pas encore répondu",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Houthis revendication",
+  "valeur": "houthis",
+  "extrait": "Les militants houthis yéménites, soutenus par l'Iran, ont déclaré jeudi avoir attaqué plusieurs sites en Arabie saoudite",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Agenda ISM",
+  "valeur": "15h00",
+  "extrait": "15h00 : Indice ISM manufacturier (Etats-Unis)",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Agenda Macro Zonebourse : semaine du 2 au 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-semaine-du-2-au-6-novembre-2026-8910a7c23db4ce3022f116d71c31b83d",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Agenda inflation zone euro",
+  "valeur": "11h00",
+  "extrait": "11h00 : Taux d'inflation (annuel) flash (Zone Euro)",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Agenda Macro Zonebourse : semaine du 2 au 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-semaine-du-2-au-6-novembre-2026-8910a7c23db4ce3022f116d71c31b83d",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Agenda BoE",
+  "valeur": "13h00",
+  "extrait": "13h00 : Rapport sur la politique monétaire de la BoE (Royaume-Uni)",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Agenda Macro Zonebourse : semaine du 2 au 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-semaine-du-2-au-6-novembre-2026-8910a7c23db4ce3022f116d71c31b83d",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Agenda emploi US",
+  "valeur": "14h30",
+  "extrait": "14h30 : Créations d'emplois dans le secteur non agricole (Etats-Unis)",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Agenda Macro Zonebourse : semaine du 2 au 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-semaine-du-2-au-6-novembre-2026-8910a7c23db4ce3022f116d71c31b83d",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Agenda dates semaine",
+  "valeur": "2 au 6 novembre 2026",
+  "extrait": "Agenda Macro Zonebourse : semaine du 2 au 6 novembre 2026",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Agenda Macro Zonebourse : semaine du 2 au 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-semaine-du-2-au-6-novembre-2026-8910a7c23db4ce3022f116d71c31b83d",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Article 235 ter C en vigueur",
+  "valeur": "21 février 2026",
+  "extrait": "En vigueur depuis le 21 février 2026",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Article 235 ter C seuil d'actifs",
+  "valeur": "5 millions",
+  "extrait": "La valeur vénale de l'ensemble des actifs qu'elles détiennent est égale ou supérieure à 5 millions d'euros",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Article 235 ter C contrôle",
+  "valeur": "50 %",
+  "extrait": "une fraction des droits de vote ou des droits financiers égale ou supérieure à 50 %",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Article 235 ter C revenus passifs",
+  "valeur": "plus de 50 %",
+  "extrait": "Elles perçoivent des revenus passifs représentant plus de 50 % du montant cumulé",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Article 235 ter C taux",
+  "valeur": "20 %",
+  "extrait": "La taxe est calculée au taux de 20 %.",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Article 235 ter C non déductible IS",
+  "valeur": "pas déductible",
+  "extrait": "La taxe n'est pas déductible de l'assiette de l'impôt sur les sociétés.",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Article 235 ter C assiette",
+  "valeur": "valeur vénale",
+  "extrait": "La taxe est assise sur la somme de la valeur vénale des actifs suivants",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Article 235 ter C 7° logements",
+  "valeur": "7°",
+  "extrait": "Les logements dont la personne physique (...) se réserve la jouissance, soit : les logements occupés, à titre gratuit ou pour un loyer inférieur au prix du marché, à titre de résidence principale ou non ; les logements loués fictivement. (7° du A du II)",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Article 235 ter C dettes",
+  "valeur": "prêts",
+  "extrait": "Pour la valorisation des biens immeubles mentionnés au présent 7°, les dettes existant à la clôture (...) correspondant aux prêts contractés par la société pour l'achat desdits biens immeubles",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Article 235 ter C exclusion actifs professionnels",
+  "valeur": "activité",
+  "extrait": "à l'exercice d'une activité industrielle, commerciale, artisanale, agricole ou libérale",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Article 235 ter C application",
+  "valeur": "31 décembre 2026",
+  "extrait": "la taxe est due au titre des exercices clos à compter du 31 décembre 2026.",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Loi de finances pour 2026",
+  "valeur": "2026-103",
+  "extrait": "LOI n° 2026-103 du 19 février 2026 de finances pour 2026",
+  "media": "Légifrance",
+  "titre": "LOI n° 2026-103 du 19 février 2026 de finances pour 2026",
+  "url": "https://www.legifrance.gouv.fr/jorf/id/JORFSCTA000053508163",
+  "date": "2026-02-20"
+ },
+ {
+  "affirmation": "Focus : seuil d'actifs exemple",
+  "valeur": "8 000 000",
+  "extrait": "2 500 000 + 5 000 000 + 500 000 = 8 000 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : taxe villa",
+  "valeur": "500 000",
+  "extrait": "2 500 000 × 20 % = 500 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : base 8° après réinvestissement",
+  "valeur": "4 000 000",
+  "extrait": "5 000 000 - 1 000 000 = 4 000 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : taxe 8°",
+  "valeur": "80 000",
+  "extrait": "4 000 000 × 2 % = 80 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : total",
+  "valeur": "580 000",
+  "extrait": "500 000 + 80 000 = 580 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus : revenus passifs exemple",
+  "valeur": "180 000",
+  "extrait": "120 000 + 60 000 = 180 000, soit 100 % des produits",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Question : taxe chalet",
+  "valeur": "240 000",
+  "extrait": "1 200 000 × 20 % = 240 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Question : taxe SICAV si amendement",
+  "valeur": "60 000",
+  "extrait": "3 000 000 × 2 % = 60 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Question : total",
+  "valeur": "300 000",
+  "extrait": "240 000 + 60 000 = 300 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Question : actifs",
+  "valeur": "6 000 000",
+  "extrait": "6 000 000 ; revenus passifs 70 % ; détention 100 % ; 1 200 000 + 3 000 000 + 1 800 000 = 6 000 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Noms d'indices et maturités",
+  "valeur": "10",
+  "extrait": "OAT 10 ans, Bund 10 ans, CAC 40, S&P 500, Euro Stoxx 50",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Bund 10 ans clôture 29/10",
+  "valeur": "3,3557",
+  "extrait": "29/10/2026: 3,3557",
+  "media": "Investing.com",
+  "titre": "Allemagne 10 ans Données Historiques sur les Obligations",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Écart OAT-Bund jeudi",
+  "valeur": "155,4",
+  "extrait": "4,910 - 3,3557 = 1,5543 point, soit 155,4 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "PIB en recul Lituanie et France",
+  "valeur": "Lithuania",
+  "extrait": "Declines were recorded in Lithuania (-1.0%) and France (-0.1%)",
+  "media": "Eurostat",
+  "titre": "GDP up by 0.4% in the euro area and by 0.5% in the EU",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-30102026-ap",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Brent plus haut depuis six mois",
+  "valeur": "six mois",
+  "extrait": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le prix du pétrole bondit de 2 % et atteint son plus haut niveau depuis six mois, sur fond de craintes d'une escalade en Iran",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Brent quatrième hausse mensuelle",
+  "valeur": "quatrième",
+  "extrait": "Le pétrole s'apprête à enregistrer une quatrième hausse mensuelle",
+  "media": "Boursorama (Reuters)",
+  "titre": "Le pétrole s'apprête à enregistrer une quatrième hausse mensuelle, l'attaque d'un pétrolier dans le détroit d'Ormuz mettant en évidence les risques pesant sur l'approvisionnement",
+  "url": "https://boursorama.com/bourse/actualites/le-petrole-s-apprete-a-enregistrer-une-quatrieme-hausse-mensuelle-l-attaque-d-un-petrolier-dans-le-detroit-d-ormuz-mettant-en-evidence-les-risques-pesant-sur-l-approvisionnement-f35ee955d769571e33d7816538f11b03",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Bund 10 ans arrondi",
+  "valeur": "3,32",
+  "extrait": "3,3185 arrondi à deux décimales = 3,32",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Référence article 235 ter C",
+  "valeur": "235",
+  "extrait": "Article 235 ter C - Code général des impôts",
+  "media": "Légifrance",
+  "titre": "Article 235 ter C - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542687",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Question : participation 10 %",
+  "valeur": "1 800 000",
+  "extrait": "6 000 000 - 1 200 000 - 3 000 000 = 1 800 000 (participation de 10 %, au moins 5 % : exclue)",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ }
+]
