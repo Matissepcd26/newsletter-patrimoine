@@ -1,0 +1,920 @@
+[
+ {
+  "affirmation": "CAC 40 clôture vendredi",
+  "valeur": "7 969,42",
+  "extrait": "CAC 40 ; 7 969,42 pts ; -0,01 % sur la séance ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "-0,01",
+  "extrait": "CAC 40 ; 7 969,42 pts ; -0,01 % sur la séance ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "CAC 40 hausse hebdomadaire",
+  "valeur": "2,40",
+  "extrait": "Le CAC 40 finit quasi inchangé à 7 969,42 points, mais gagne 2,40 % sur la semaine",
+  "media": "Boursorama",
+  "titre": "Une semaine sur les marchés : le recap du 26 au 30 octobre",
+  "url": "https://www.boursorama.com/bourse/actualites/une-semaine-sur-les-marches-le-recap-du-26-au-30-octobre-e3614eae44adcae1a0ba94fe0c33e47e",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Sanofi hausse",
+  "valeur": "4,7",
+  "extrait": "Sanofi, qui a rehaussé ses objectifs annuels, a grimpé de 4,7%, ce qui en fait l'une des valeurs les plus performantes du CAC 40 vendredi",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe finit en baisse, l'IA fait plonger le Nasdaq de 3%",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-baisse-l-ia-fait-plonger-le-nasdaq-de-3-58424f886066db48cfe863f1dd026ace",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "7 580,07",
+  "extrait": "S&P 500 ; 7 580,07 pts ; -1,82 % sur la séance ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "-1,82",
+  "extrait": "S&P 500 ; 7 580,07 pts ; -1,82 % sur la séance ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "25 437,00",
+  "extrait": "Nasdaq Composite ; 25 437,00 pts ; -2,86 % sur la séance ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "2,86",
+  "extrait": "L'indice Nasdaq - qui rassemble les titres technologiques - a chuté de 2,86%, terminant en retrait de plus de 8% depuis un pic historique début octobre",
+  "media": "Boursorama (AFP)",
+  "titre": "Wall Street clôture en nette baisse, la tech déraille",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-nette-baisse-la-tech-deraille-1f274a869ae974f454300f2476a96991",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Nasdaq retrait depuis pic",
+  "valeur": "8",
+  "extrait": "terminant en retrait de plus de 8% depuis un pic historique début octobre",
+  "media": "Boursorama (AFP)",
+  "titre": "Wall Street clôture en nette baisse, la tech déraille",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-nette-baisse-la-tech-deraille-1f274a869ae974f454300f2476a96991",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Intel chute",
+  "valeur": "28,58",
+  "extrait": "La dégringolade du fabricant de puces Intel (-28,58%) a aussi fortement pesé sur les indices",
+  "media": "Boursorama (AFP)",
+  "titre": "Wall Street clôture en nette baisse, la tech déraille",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-cloture-en-nette-baisse-la-tech-deraille-1f274a869ae974f454300f2476a96991",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture",
+  "valeur": "6 131,31",
+  "extrait": "Euro Stoxx 50 ; 6 131,31 pts ; -1,22 % sur la séance ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "-1,22",
+  "extrait": "Euro Stoxx 50 ; 6 131,31 pts ; -1,22 % sur la séance ; clôture du 30/10/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "EUR/USD référence BCE",
+  "valeur": "1,1172",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1172 ; +0,38 % sur la séance ; taux du 30/10/2026",
+  "media": "BCE",
+  "titre": "Taux de référence de l'euro",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "+0,38",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1172 ; +0,38 % sur la séance ; taux du 30/10/2026",
+  "media": "BCE",
+  "titre": "Taux de référence de l'euro",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture",
+  "valeur": "4,97",
+  "extrait": "30/10/2026 4,973 4,946 4,992 4,908 +1,29% ; TradingEconomics : le rendement a augmenté à 4,97 % le 30 octobre 2026, hausse de 0,06 point",
+  "media": "Investing.com",
+  "titre": "Rendement Obligation France 10 ans - Historique",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "OAT variation pb",
+  "valeur": "6",
+  "extrait": "29/10/2026 4,910 puis 30/10/2026 4,973 ; TradingEconomics : hausse de 0,06 point de pourcentage, soit 6 pb",
+  "media": "Investing.com",
+  "titre": "Rendement Obligation France 10 ans - Historique",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Bund 10 ans clôture",
+  "valeur": "3,32",
+  "extrait": "30/10/2026 3,3185 ; Reuters : le rendement du Bund allemand à dix ans a perdu près de 4 points de base à 3,3194%, soit 3,32 %",
+  "media": "Investing.com",
+  "titre": "Rendement Obligation Allemagne 10 ans - Historique",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Bund variation pb",
+  "valeur": "4",
+  "extrait": "Dans la zone euro, le rendement du Bund allemand à dix ans a perdu près de 4 points de base à 3,3194%",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe finit en baisse, l'IA fait plonger le Nasdaq de 3%",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-baisse-l-ia-fait-plonger-le-nasdaq-de-3-58424f886066db48cfe863f1dd026ace",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Spread OAT-Bund",
+  "valeur": "165",
+  "extrait": "calcul : 4,97 - 3,32 = 1,65 point, soit 165 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "OAT seuil 5 %",
+  "valeur": "5",
+  "extrait": "le rendement de l'OAT à 10 ans, contrairement à son homologue allemand, a continué à progresser vendredi, frôlant à nouveau le seuil symbolique de 5%",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe finit en baisse, l'IA fait plonger le Nasdaq de 3%",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-baisse-l-ia-fait-plonger-le-nasdaq-de-3-58424f886066db48cfe863f1dd026ace",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "3 899,00",
+  "extrait": "Or (contrat déc. 2026) ; 3 899,00 $/once ; -3,27 % sur la séance ; cours du 30/10/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "-3,27",
+  "extrait": "Or (contrat déc. 2026) ; 3 899,00 $/once ; -3,27 % sur la séance ; cours du 30/10/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Brent règlement",
+  "valeur": "117,70",
+  "extrait": "Brent (contrat déc. 2026) ; 117,70 $/baril ; +2,48 % sur la séance ; cours du 30/10/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZZ26.NYM/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Brent variation",
+  "valeur": "+2,48",
+  "extrait": "Brent (contrat déc. 2026) ; 117,70 $/baril ; +2,48 % sur la séance ; cours du 30/10/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZZ26.NYM/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Bitcoin clôture",
+  "valeur": "78 225,42",
+  "extrait": "Bitcoin ; 78 225,42 $ ; +1,02 % sur la séance ; clôture du 01/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-01"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "+1,02",
+  "extrait": "Bitcoin ; 78 225,42 $ ; +1,02 % sur la séance ; clôture du 01/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-01"
+ },
+ {
+  "affirmation": "Binance reprise après vol",
+  "valeur": "6,3",
+  "extrait": "Binance constate une stabilisation des sorties de fonds alors que la plateforme reprend ses activités après un vol de 6,3 milliards de dollars",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Brent lundi Asie",
+  "valeur": "109,70",
+  "extrait": "ont chuté de 3,3 % à 109,70 dollars le baril, après toutefois avoir enregistré une hausse de 13,6 % en octobre",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Brent baisse lundi",
+  "valeur": "3,3",
+  "extrait": "ont chuté de 3,3 % à 109,70 dollars le baril",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Brent hausse octobre",
+  "valeur": "13,6",
+  "extrait": "après toutefois avoir enregistré une hausse de 13,6 % en octobre et alors que des pétroliers continuaient d'être attaqués dans le Golfe",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Nasdaq octobre",
+  "valeur": "7",
+  "extrait": "Le Nasdaq, à forte composante technologique, a perdu près de 7 % en octobre",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Futures S&P lundi",
+  "valeur": "0,5",
+  "extrait": "Cet optimisme a permis aux contrats à terme sur l'indice S&P 500 ESc1 de progresser de 0,5 %",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Futures Euro Stoxx lundi",
+  "valeur": "0,3",
+  "extrait": "En Europe, les contrats à terme sur l'EUROSTOXX 50 STXEc1 ont progressé de 0,3 %",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Probabilité hausse Fed décembre",
+  "valeur": "72",
+  "extrait": "Les contrats à terme laissent toujours entrevoir une probabilité de 72 % d'une hausse des taux d'un quart de point",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Resserrement total anticipé",
+  "valeur": "55",
+  "extrait": "n'intègrent désormais plus qu'un resserrement total de 55 points de base, contre plus de 70 points de base il y a un mois",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Resserrement il y a un mois",
+  "valeur": "70",
+  "extrait": "contre plus de 70 points de base il y a un mois",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Emploi US prévision",
+  "valeur": "65 000",
+  "extrait": "Les prévisions médianes tablent sur une hausse de 65 000 emplois, après une progression décevante de 29 000 en septembre, le taux de chômage devant se maintenir à 4,2 %",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Chômage US prévision",
+  "valeur": "4,2",
+  "extrait": "le taux de chômage devant se maintenir à 4,2 %",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "ISM et emploi cette semaine",
+  "valeur": "ISM",
+  "extrait": "l'enquête ISM américaine sur le secteur manufacturier pour le mois d'octobre, publiée plus tard dans la journée de lundi, tandis que le très attendu rapport sur l'emploi sera publié vendredi",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Apple résultats lundi",
+  "valeur": "Apple",
+  "extrait": "les investisseurs espérant que les résultats d'Apple, attendus plus tard dans la séance, apaiseraient quelque peu les inquiétudes liées à la consommation de trésorerie dans le secteur de l'IA",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Banques centrales cette semaine",
+  "valeur": "Banque d'Angleterre",
+  "extrait": "les marchés parient sur des hausses de taux de la part de la Banque de réserve d'Australie, de la Banque d'Angleterre et de la Riksbank, tandis que la Norges Bank devrait maintenir ses taux inchangés",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Goldman capex",
+  "valeur": "800",
+  "extrait": "Les analystes de Goldman Sachs s'attendent à ce que les dépenses d'investissement des hyperscalers quasi doublent pour atteindre 800 milliards de dollars cette année, puis grimpent encore à 1 200 milliards de dollars en 2027",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Goldman capex 2027",
+  "valeur": "1 200",
+  "extrait": "puis grimpent encore à 1 200 milliards de dollars en 2027",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Kospi lundi",
+  "valeur": "2,6",
+  "extrait": "l'indice sud-coréen .KS11 a gagné 2,6 %, après avoir perdu 16 % le mois dernier",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Doha troisième jour",
+  "valeur": "troisième journée",
+  "extrait": "Les négociateurs iraniens se trouvaient dimanche à Doha pour une troisième journée consécutive de pourparlers avec les médiateurs qataris",
+  "media": "Zonebourse (Reuters)",
+  "titre": "L'Iran et les médiateurs qataris tiennent leur troisième journée de pourparlers pour mettre fin à la guerre entre les États-Unis et l'Iran",
+  "url": "https://www.zonebourse.com/actualite-bourse/la-iran-et-les-mediateurs-qataris-tiennent-leur-troisieme-journee-de-pourparlers-pour-mettre-fin-a-ce785fd8dd88f122",
+  "date": "2026-11-01"
+ },
+ {
+  "affirmation": "Midterms 3 novembre",
+  "valeur": "3 novembre",
+  "extrait": "Ces pourparlers interviennent alors que les craintes grandissent de voir le conflit s'intensifier à nouveau après les élections américaines de mi-mandat du 3 novembre",
+  "media": "Zonebourse (Reuters)",
+  "titre": "L'Iran et les médiateurs qataris tiennent leur troisième journée de pourparlers pour mettre fin à la guerre entre les États-Unis et l'Iran",
+  "url": "https://www.zonebourse.com/actualite-bourse/la-iran-et-les-mediateurs-qataris-tiennent-leur-troisieme-journee-de-pourparlers-pour-mettre-fin-a-ce785fd8dd88f122",
+  "date": "2026-11-01"
+ },
+ {
+  "affirmation": "Araqchi déclaration",
+  "valeur": "en cours et progressant",
+  "extrait": "Le ministre iranien des Affaires étrangères, Abbas Araqchi, a jugé les discussions « en cours et progressant » et a affirmé que Téhéran était prêt « à la fois à la défense et à la diplomatie »",
+  "media": "Zonebourse (Reuters)",
+  "titre": "L'Iran et les médiateurs qataris tiennent leur troisième journée de pourparlers pour mettre fin à la guerre entre les États-Unis et l'Iran",
+  "url": "https://www.zonebourse.com/actualite-bourse/la-iran-et-les-mediateurs-qataris-tiennent-leur-troisieme-journee-de-pourparlers-pour-mettre-fin-a-ce785fd8dd88f122",
+  "date": "2026-11-01"
+ },
+ {
+  "affirmation": "Trump pas de frappes avant le scrutin",
+  "valeur": "Trump",
+  "extrait": "Donald Trump a affirmé que Washington ne lancerait pas de nouvelles attaques avant le scrutin, tout en jugeant les échanges productifs et sans exclure une future intervention militaire",
+  "media": "Zonebourse (Reuters)",
+  "titre": "L'Iran et les médiateurs qataris tiennent leur troisième journée de pourparlers pour mettre fin à la guerre entre les États-Unis et l'Iran",
+  "url": "https://www.zonebourse.com/actualite-bourse/la-iran-et-les-mediateurs-qataris-tiennent-leur-troisieme-journee-de-pourparlers-pour-mettre-fin-a-ce785fd8dd88f122",
+  "date": "2026-11-01"
+ },
+ {
+  "affirmation": "Midterms démocrates centres de données",
+  "valeur": "démocrates",
+  "extrait": "une victoire des démocrates à l'une ou aux deux chambres pourrait entraîner davantage d'obstacles politiques pour les centres de données",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les actions rebondissent à l'approche des résultats d'Apple, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/les-actions-rebondissent-a-l-approche-des-resultats-d-apple-le-petrole-recule-fb6c2ca4855e8a9e0105deee6181ec7c",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Fed fourchette maintenue",
+  "valeur": "3-3/4 to 4 percent",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed dissidents",
+  "valeur": "Cook",
+  "extrait": "Voting against the monetary policy action were Lisa D. Cook and Beth M. Hammack, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed fourchette 3,75",
+  "valeur": "3,75",
+  "extrait": "target range for the federal funds rate at 3-3/4 to 4 percent, soit 3,75 % à 4 %",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "BCE taux dépôt",
+  "valeur": "2,50",
+  "extrait": "Les taux d'intérêt de la facilité de dépôt, des opérations principales de refinancement et de la facilité de prêt marginal resteront inchangés, à respectivement 2,50 %, 2,65 % et 2,90 %",
+  "media": "BCE",
+  "titre": "Décisions de politique monétaire",
+  "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.fr.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE énergie risques",
+  "valeur": "énergie",
+  "extrait": "Les prix de l'énergie ont continué d'augmenter, faisant peser des risques à la hausse sur les perspectives d'inflation et des risques à la baisse sur les perspectives de croissance",
+  "media": "BCE",
+  "titre": "Décisions de politique monétaire",
+  "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.fr.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "PIB France T3",
+  "valeur": "-0,1",
+  "extrait": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+  "media": "Insee",
+  "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+  "url": "https://www.insee.fr/fr/statistiques/9111036",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "PIB exportations",
+  "valeur": "-1,7",
+  "extrait": "les exportations se contractent (-1,7 % après +2,8 %)",
+  "media": "Insee",
+  "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+  "url": "https://www.insee.fr/fr/statistiques/9111036",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "PIB commerce extérieur contribution",
+  "valeur": "-0,6",
+  "extrait": "La contribution du commerce extérieur à la croissance est négative ce trimestre (-0,6 point après +0,6 point)",
+  "media": "Insee",
+  "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+  "url": "https://www.insee.fr/fr/statistiques/9111036",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Consommation ménages T3",
+  "valeur": "+0,4",
+  "extrait": "la consommation des ménages accélère (+0,4 % après +0,2 %)",
+  "media": "Insee",
+  "titre": "Le PIB recule légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+  "url": "https://www.insee.fr/fr/statistiques/9111036",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "IPCH France octobre",
+  "valeur": "3,8",
+  "extrait": "Sur un an, l'indice des prix à la consommation harmonisé augmenterait de 3,8 % en octobre 2026, après +3,4 % en septembre",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9107965",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "IPC France octobre",
+  "valeur": "3,4",
+  "extrait": "les prix à la consommation augmenteraient de 3,4 % en octobre 2026, après +3,1 % en septembre",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9107965",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Livret A taux",
+  "valeur": "1,7",
+  "extrait": "Le taux du livret A est relevé et passe à 1,7% à compter du 1 er août 2026",
+  "media": "Banque de France",
+  "titre": "Livrets d'épargne réglementée : leur rémunération change",
+  "url": "https://www.banque-france.fr/fr/actualites/livrets-depargne-reglementee-leur-remuneration-change",
+  "date": "2026-07-31"
+ },
+ {
+  "affirmation": "LEP taux",
+  "valeur": "2,5",
+  "extrait": "Le taux du LEP est maintenu à 2,5 %, ce qui est toujours supérieur au résultat de la formule",
+  "media": "Banque de France",
+  "titre": "Livrets d'épargne réglementée : leur rémunération change",
+  "url": "https://www.banque-france.fr/fr/actualites/livrets-depargne-reglementee-leur-remuneration-change",
+  "date": "2026-07-31"
+ },
+ {
+  "affirmation": "Prix repère gaz novembre",
+  "valeur": "194,90",
+  "extrait": "le prix repère de vente de gaz s'établira à 194,90 € TTC par mégawattheure (MWh), contre 182,88 € TTC/MWh en octobre, soit une hausse moyenne de 6,6 % TTC",
+  "media": "Service-public.fr",
+  "titre": "Le prix repère de vente de gaz va augmenter de 6,6 % en novembre",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17956",
+  "date": "2026-10-12"
+ },
+ {
+  "affirmation": "Prix repère gaz octobre",
+  "valeur": "182,88",
+  "extrait": "contre 182,88 € TTC/MWh en octobre",
+  "media": "Service-public.fr",
+  "titre": "Le prix repère de vente de gaz va augmenter de 6,6 % en novembre",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17956",
+  "date": "2026-10-12"
+ },
+ {
+  "affirmation": "Hausse gaz %",
+  "valeur": "6,6",
+  "extrait": "soit une hausse moyenne de 6,6 % TTC d'un mois sur l'autre",
+  "media": "Service-public.fr",
+  "titre": "Le prix repère de vente de gaz va augmenter de 6,6 % en novembre",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17956",
+  "date": "2026-10-12"
+ },
+ {
+  "affirmation": "Hausse gaz euros facture",
+  "valeur": "12",
+  "extrait": "Cela aura pour conséquence une augmentation de 12 € TTC en moyenne sur les factures",
+  "media": "Service-public.fr",
+  "titre": "Le prix repère de vente de gaz va augmenter de 6,6 % en novembre",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17956",
+  "date": "2026-10-12"
+ },
+ {
+  "affirmation": "Agirc-Arrco revalorisation",
+  "valeur": "1,4",
+  "extrait": "ont décidé de revaloriser les pensions de retraite du secteur privé avec une augmentation de +1,4 % des retraites complémentaires au 1 er novembre 2026",
+  "media": "Service-public.fr",
+  "titre": "Quelle revalorisation pour les retraites complémentaires du privé ?",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A17790",
+  "date": "2026-10-15"
+ },
+ {
+  "affirmation": "Trêve hivernale",
+  "valeur": "31 mars 2027",
+  "extrait": "Elle est fixée du 1 er novembre 2026 au 31 mars 2027",
+  "media": "Service-public.fr",
+  "titre": "Trêve hivernale 2026-2027 : ce que vous devez savoir",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A14632",
+  "date": "2026-10-02"
+ },
+ {
+  "affirmation": "PLF 2027 vote solennel",
+  "valeur": "3 novembre",
+  "extrait": "Le vote solennel sur la première partie du projet de loi de finances pour 2027 est inscrit à l'ordre du jour de la séance publique du mardi 3 novembre, après-midi",
+  "media": "Assemblée nationale",
+  "titre": "Examen de la première partie du projet de loi de finances pour 2027",
+  "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-10-19"
+ },
+ {
+  "affirmation": "PLF 2027 examen recettes",
+  "valeur": "2 novembre",
+  "extrait": "Du mardi 27 octobre 2026 au lundi 2 novembre 2026, l'Assemblée nationale poursuit l'examen la première partie du projet de loi de finances pour 2027, portant sur les recettes",
+  "media": "Assemblée nationale",
+  "titre": "Examen de la première partie du projet de loi de finances pour 2027",
+  "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-10-19"
+ },
+ {
+  "affirmation": "Résultats lundi Coface Forvia",
+  "valeur": "Coface",
+  "extrait": "Lundi 2 novembre France Coface SA Forvia (ex-Faurecia) LACROIX Group Apple Inc. Palantir Technologies Inc.",
+  "media": "Boursorama (AOF)",
+  "titre": "Agenda Zonebourse des résultats de sociétés : semaine du 2 au 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-zonebourse-des-resultats-de-societes-semaine-du-2-au-6-novembre-2026-0d0638708347cdb5108a7344937790b8",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "PER plafond 10 % revenus",
+  "valeur": "10",
+  "extrait": "10 % du montant annuel du plafond de la sécurité sociale (« plafond brut minimum de déduction ») ; 10 % de ses revenus d'activité professionnelle, lesquels sont retenus dans la limite de huit fois le montant annuel du plafond de la sécurité sociale",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-20 - Limites de déduction des cotisations et primes d'épargne retraite",
+  "url": "https://bofip.impots.gouv.fr/bofip/1124-PGP.html/identifiant=BOI-IR-BASE-20-50-20-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER PASS année précédente",
+  "valeur": "PASS de l'année civile précédant",
+  "extrait": "il convient de retenir le PASS de l'année civile précédant celle du versement ( CGI, ann. III, art. 41 ZZ bis )",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-20 - Limites de déduction des cotisations et primes d'épargne retraite",
+  "url": "https://bofip.impots.gouv.fr/bofip/1124-PGP.html/identifiant=BOI-IR-BASE-20-50-20-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER revenus N-1",
+  "valeur": "N-1",
+  "extrait": "le plafond brut de déduction applicable au titre d'une année N est calculé à partir des revenus d'activité professionnelle de l'année N-1",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-20 - Limites de déduction des cotisations et primes d'épargne retraite",
+  "url": "https://bofip.impots.gouv.fr/bofip/1124-PGP.html/identifiant=BOI-IR-BASE-20-50-20-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER second terme épargne professionnelle",
+  "valeur": "épargne retraite constituée dans le cadre professionnel",
+  "extrait": "Cette limite est égale à la différence constatée au titre de l'année précédente entre une fraction des revenus d'activité professionnelle et le montant de l'épargne retraite constituée dans le cadre professionnel",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-20 - Limites de déduction des cotisations et primes d'épargne retraite",
+  "url": "https://bofip.impots.gouv.fr/bofip/1124-PGP.html/identifiant=BOI-IR-BASE-20-50-20-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER excédent non reportable",
+  "valeur": "ne sont pas reportables",
+  "extrait": "Les cotisations ou primes excédant cette limite annuelle et individuelle ne sont pas déductibles du revenu net global, y compris si un autre membre du foyer fiscal n'a pas atteint sa limite de déduction, et ne sont pas reportables",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-20 - Limites de déduction des cotisations et primes d'épargne retraite",
+  "url": "https://bofip.impots.gouv.fr/bofip/1124-PGP.html/identifiant=BOI-IR-BASE-20-50-20-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER mutualisation couple",
+  "valeur": "mutualisation",
+  "extrait": "Les couples mariés ou ayant conclu un pacte civil de solidarité (PACS) peuvent, sur demande expresse de leur part, bénéficier de la mutualisation de leur plafond de déduction",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-20 - Limites de déduction des cotisations et primes d'épargne retraite",
+  "url": "https://bofip.impots.gouv.fr/bofip/1124-PGP.html/identifiant=BOI-IR-BASE-20-50-20-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER report cinq ans",
+  "valeur": "cinq",
+  "extrait": "L'article 10 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026 porte de trois à cinq ans la période au titre de laquelle la fraction non utilisée de la limite de déduction des versements volontaires réalisés sur un PER peut être reportée. Cette disposition s'applique à compter de l'imposition des revenus de l'année 2026.",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-30 - Modalités particulières relatives à la limite de déduction et obligations déclaratives",
+  "url": "https://bofip.impots.gouv.fr/bofip/1117-PGP.html/identifiant=BOI-IR-BASE-20-50-30-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER loi 2026-103",
+  "valeur": "2026-103",
+  "extrait": "L'article 10 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026 porte de trois à cinq ans la période",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-30 - Modalités particulières relatives à la limite de déduction et obligations déclaratives",
+  "url": "https://bofip.impots.gouv.fr/bofip/1117-PGP.html/identifiant=BOI-IR-BASE-20-50-30-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER ordre imputation",
+  "valeur": "plus ancien",
+  "extrait": "les cotisations ou primes versées au cours d'une année s'imputent en priorité sur la limite de déduction déterminée au titre de cette même année puis, le cas échéant, sur les soldes non utilisés des limites de déduction des cinq années précédentes, en commençant par le plus ancien",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-30 - Modalités particulières relatives à la limite de déduction et obligations déclaratives",
+  "url": "https://bofip.impots.gouv.fr/bofip/1117-PGP.html/identifiant=BOI-IR-BASE-20-50-30-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER reliquats 2026",
+  "valeur": "2023, 2024 et 2025",
+  "extrait": "en 2026, la limite de déduction sur laquelle ces cotisations s'imputent est constituée par la limite de déduction 2026 augmentée, le cas échéant, des reliquats de limites 2023, 2024 et 2025 non consommés",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-30 - Modalités particulières relatives à la limite de déduction et obligations déclaratives",
+  "url": "https://bofip.impots.gouv.fr/bofip/1117-PGP.html/identifiant=BOI-IR-BASE-20-50-30-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER reliquats 2027",
+  "valeur": "2024, 2025 et 2026",
+  "extrait": "en 2027, la limite de déduction sur laquelle ces cotisations s'imputent est constituée par la limite de déduction 2027 augmentée, le cas échéant, des reliquats de limites 2024, 2025 et 2026 non consommés",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-30 - Modalités particulières relatives à la limite de déduction et obligations déclaratives",
+  "url": "https://bofip.impots.gouv.fr/bofip/1117-PGP.html/identifiant=BOI-IR-BASE-20-50-30-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER reliquats 2031",
+  "valeur": "2026, 2027, 2028, 2029 et 2030",
+  "extrait": "en 2031, la limite de déduction sur laquelle ces cotisations s'imputent est constituée par la limite de déduction 2031 augmentée, le cas échéant, des reliquats de limites 2026, 2027, 2028, 2029 et 2030 non consommés",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-30 - Modalités particulières relatives à la limite de déduction et obligations déclaratives",
+  "url": "https://bofip.impots.gouv.fr/bofip/1117-PGP.html/identifiant=BOI-IR-BASE-20-50-30-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER 70 ans",
+  "valeur": "soixante-dix ans",
+  "extrait": "les versements volontaires effectués dans un PER ne sont plus déductibles lorsque le titulaire de ce plan est âgé de soixante-dix ans ou plus à la date de ces versements. Cette disposition, codifiée au dernier alinéa de l'article 163 quinvicies du CGI, s'applique à compter du 1 er janvier 2026.",
+  "media": "BOFiP",
+  "titre": "BOI-IR-BASE-20-50-30 - Modalités particulières relatives à la limite de déduction et obligations déclaratives",
+  "url": "https://bofip.impots.gouv.fr/bofip/1117-PGP.html/identifiant=BOI-IR-BASE-20-50-30-20260810",
+  "date": "2026-08-10"
+ },
+ {
+  "affirmation": "PER 70 ans chiffre",
+  "valeur": "70",
+  "extrait": "Depuis le 1 er janvier 2026 , les versements effectués sur votre PER après vos 70 ans sont toujours possibles, mais ne sont plus déductibles",
+  "media": "Service-public.fr",
+  "titre": "Plan d'épargne retraite (PER) - PER individuel",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36526/0",
+  "date": "2026-10-12"
+ },
+ {
+  "affirmation": "PER plafond 2026 max",
+  "valeur": "37 680",
+  "extrait": "Le plafond de déduction des cotisations retraite est égal à 10 % de vos revenus d'activité (nets de frais professionnels) de 2025 (avec un maximum de 37 680 € ), ou à 4 710 € si ce montant est plus élevé.",
+  "media": "Service-public.fr",
+  "titre": "Plan d'épargne retraite (PER) - PER individuel",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36526/0",
+  "date": "2026-10-12"
+ },
+ {
+  "affirmation": "PER plafond 2026 min",
+  "valeur": "4 710",
+  "extrait": "ou à 4 710 € si ce montant est plus élevé",
+  "media": "Service-public.fr",
+  "titre": "Plan d'épargne retraite (PER) - PER individuel",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36526/0",
+  "date": "2026-10-12"
+ },
+ {
+  "affirmation": "PER reliquats 2024 2025 trois ans",
+  "valeur": "2028",
+  "extrait": "la part non utilisée des plafonds des années 2024 et 2025 peut être utilisée uniquement dans un délai de 3 ans. Donc jusqu'en 2027 pour la part de 2024 et jusqu'en 2028 pour la part de 2025.",
+  "media": "Service-public.fr",
+  "titre": "Plan d'épargne retraite (PER) - PER individuel",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36526/0",
+  "date": "2026-10-12"
+ },
+ {
+  "affirmation": "PER avis d'impôt",
+  "valeur": "avis d'impôt 2026",
+  "extrait": "Le plafond personnalisé applicable à vos cotisations versées en 2026 sera indiqué sur votre avis d'impôt 2026 (sur les revenus 2025).",
+  "media": "Service-public.fr",
+  "titre": "Plan d'épargne retraite (PER) - PER individuel",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36526/0",
+  "date": "2026-10-12"
+ },
+ {
+  "affirmation": "PER sortie capital barème",
+  "valeur": "barème progressif",
+  "extrait": "La part de capital correspondant au cumul des versements volontaires est imposée au barème progressif de l'impôt sur le revenu , sans prélèvements sociaux.",
+  "media": "Service-public.fr",
+  "titre": "Plan d'épargne retraite (PER) - PER individuel",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F36526/0",
+  "date": "2026-10-12"
+ },
+ {
+  "affirmation": "TMI 30 % barème",
+  "valeur": "30",
+  "extrait": "Le taux marginal d'imposition (TMI) de ce contribuable est de 30 % , car son quotient familial le situe dans cette tranche.",
+  "media": "Service-public.fr",
+  "titre": "Quel est le barème de l'impôt sur le revenu ?",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1419",
+  "date": "2026-04-15"
+ },
+ {
+  "affirmation": "Légifrance 163 quatervicies report cinq années",
+  "valeur": "cinq années suivantes",
+  "extrait": "b) Si la différence est positive, elle peut être utilisée au cours des cinq années suivantes ; version en vigueur depuis le 21 février 2026, modifiée par la LOI n° 2026-103 du 19 février 2026, art. 10",
+  "media": "Légifrance",
+  "titre": "Article 163 quatervicies - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038836248/",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "PASS 2025",
+  "valeur": "47 100",
+  "extrait": "calcul : 37 680 / (10 % x 8) = 47 100 ; 4 710 / 10 % = 47 100",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul plafond max",
+  "valeur": "37 680",
+  "extrait": "calcul : 10 % x 8 x 47 100 = 37 680",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul plafond 2026 Léa",
+  "valeur": "6 000",
+  "extrait": "calcul : 10 % x 60 000 = 6 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Revenu exemple",
+  "valeur": "60 000",
+  "extrait": "calcul : hypothèse de l'exemple, revenus d'activité nets 2025 = 60 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Versement exemple",
+  "valeur": "10 000",
+  "extrait": "calcul : hypothèse, versement 2026 = 10 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Reliquat 2023 exemple",
+  "valeur": "2 000",
+  "extrait": "calcul : hypothèse, reliquat 2023 = 2 000 ; imputé 2 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Reliquat 2024 exemple",
+  "valeur": "3 000",
+  "extrait": "calcul : hypothèse, reliquat 2024 = 3 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Reste après plafond 2026",
+  "valeur": "4 000",
+  "extrait": "calcul : 10 000 - 6 000 = 4 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Reliquat 2024 restant",
+  "valeur": "1 000",
+  "extrait": "calcul : 3 000 - 2 000 = 1 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Économie d'impôt",
+  "valeur": "3 000",
+  "extrait": "calcul : 10 000 x 30 % = 3 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ }
+]
