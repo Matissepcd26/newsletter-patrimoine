@@ -1,0 +1,749 @@
+[
+ {
+  "affirmation": "Brent janvier réglé en baisse",
+  "valeur": "7,6 %",
+  "extrait": "Brent crude, the international benchmark, lost 7.6% to settle at $104.77 a barrel.",
+  "media": "CNBC",
+  "titre": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+  "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Brent règlement",
+  "valeur": "104,77",
+  "extrait": "Brent crude, the international benchmark, lost 7.6% to settle at $104.77 a barrel.",
+  "media": "CNBC",
+  "titre": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+  "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Pezeshkian dialogue",
+  "valeur": "Pezeshkian",
+  "extrait": "Iran's President Masoud Pezeshkian said Tehran is seeking to resolve problems through dialogue.",
+  "media": "CNBC",
+  "titre": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+  "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Araghchi accord possible",
+  "valeur": "goodwill",
+  "extrait": "Iran's foreign minister, Abbas Araghchi, said an agreement is possible if Washington \"demonstrates goodwill.\"",
+  "media": "CNBC",
+  "titre": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+  "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Trump Iran accord",
+  "valeur": "make a deal",
+  "extrait": "President Donald Trump told reporters Monday that Iran wants to 'make a deal and that could happen.'",
+  "media": "CNBC",
+  "titre": "Crude oil prices sell off more than 7% on Iran peace talk hopes ahead of U.S. midterms",
+  "url": "https://www.cnbc.com/2026/11/02/oil-prices-fall-as-iran-us-pursue-diplomacy.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "CAC 40 clôture",
+  "valeur": "8 047,69",
+  "extrait": "CAC 40 ; 8 047,69 pts ; +0,98 % sur la séance ; clôture du 02/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "0,98",
+  "extrait": "Le CAC 40 a fini en hausse de 0,98 % à 8 047,69 points",
+  "media": "Zonebourse",
+  "titre": "Paris termine en hausse, profitant de la chute du pétrole",
+  "url": "https://www.zonebourse.com/actualite-bourse/paris-termine-en-hausse-profitant-de-la-chute-du-petrole-ce785fd9db88f723",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "CAC repasse 8 000 points",
+  "valeur": "8 000",
+  "extrait": "Le CAC 40 repasse la barre des 8 000 points malgré la déroute d'Alstom",
+  "media": "Zonebourse",
+  "titre": "Le CAC 40 repasse la barre des 8 000 points malgré la déroute d'Alstom",
+  "url": "https://www.zonebourse.com/actualite-bourse/le-cac-40-repasse-la-barre-des-8-000-points-malgre-la-deroute-d-alstom-ce785fd9d88fff26",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Alstom chute",
+  "valeur": "26,09",
+  "extrait": "Alstom (-26,09 %, à 11,69 EUR) après son deuxième avertissement sur résultats de l'année",
+  "media": "Zonebourse",
+  "titre": "Paris termine en hausse, profitant de la chute du pétrole",
+  "url": "https://www.zonebourse.com/actualite-bourse/paris-termine-en-hausse-profitant-de-la-chute-du-petrole-ce785fd9db88f723",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture",
+  "valeur": "6 176,06",
+  "extrait": "Euro Stoxx 50 ; 6 176,06 pts ; +0,73 % sur la séance ; clôture du 02/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "0,73",
+  "extrait": "Euro Stoxx 50 ; 6 176,06 pts ; +0,73 % sur la séance ; clôture du 02/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "7 541,40",
+  "extrait": "S&P 500 ; 7 541,40 pts ; -0,51 % sur la séance ; clôture du 02/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "0,51",
+  "extrait": "The broad market index shed 0.51% to close at 7,541.40",
+  "media": "CNBC",
+  "titre": "Nasdaq starts November with 1% loss as tech melts down again",
+  "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "S&P 500 nom indice",
+  "valeur": "500",
+  "extrait": "S&P 500 ; 7 541,40 pts",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "25 164,31",
+  "extrait": "Nasdaq Composite ; 25 164,31 pts ; -1,07 % sur la séance ; clôture du 02/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "1,07",
+  "extrait": "the tech-heavy Nasdaq dropped 1.07% to 25,164.32",
+  "media": "CNBC",
+  "titre": "Nasdaq starts November with 1% loss as tech melts down again",
+  "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Apple recul avant résultats",
+  "valeur": "nearly 2%",
+  "extrait": "Apple, which reports earnings after the bell, closed nearly 2% lower",
+  "media": "CNBC",
+  "titre": "Nasdaq starts November with 1% loss as tech melts down again",
+  "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "EUR/USD BCE",
+  "valeur": "1,1216",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1216 ; +0,39 % sur la séance ; taux du 02/11/2026",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar US (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "0,39",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1216 ; +0,39 % sur la séance ; taux du 02/11/2026",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar US (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture",
+  "valeur": "4,90",
+  "extrait": "Nov 02, 2026 ; 4.904 ; 4.953 ; 4.983 ; 4.892 ; -1.40%",
+  "media": "Investing.com",
+  "titre": "France 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "OAT veille",
+  "valeur": "4,973",
+  "extrait": "Oct 30, 2026 ; 4.973 ; 4.946 ; 4.992 ; 4.908 ; +1.29%",
+  "media": "Investing.com",
+  "titre": "France 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Bund 10 ans clôture",
+  "valeur": "3,29",
+  "extrait": "Nov 02, 2026 ; 3.2908 ; 3.3237 ; 3.3420 ; 3.2898 ; -0.83%",
+  "media": "Investing.com",
+  "titre": "Germany 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Variation OAT en pb",
+  "valeur": "-7",
+  "extrait": "4,904 - 4,973 = -0,069, soit -6,9 pb arrondi à -7 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Variation Bund en pb",
+  "valeur": "-3",
+  "extrait": "3,2908 - 3,3185 = -0,0277, soit -2,8 pb arrondi à -3 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Spread OAT-Bund",
+  "valeur": "161",
+  "extrait": "(4,904 - 3,2908) x 100 = 161,3 pb, arrondi à 161",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Or règlement décembre",
+  "valeur": "3 969,50",
+  "extrait": "Or (contrat déc. 2026) ; 3 969,50 $/once ; +1,81 % sur la séance ; cours du 02/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "1,81",
+  "extrait": "Or (contrat déc. 2026) ; 3 969,50 $/once ; +1,81 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Contrat Brent décembre dernière séance 30 octobre",
+  "valeur": "30/10/2026",
+  "extrait": "Brent (contrat déc. 2026) ; 117,70 $/baril ; +2,48 % sur la séance ; cours du 30/10/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZZ26.NYM/history",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Bitcoin clôture",
+  "valeur": "76 674,12",
+  "extrait": "Bitcoin ; 76 674,12 $ ; -1,98 % sur la séance ; clôture du 02/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "1,98",
+  "extrait": "Bitcoin ; 76 674,12 $ ; -1,98 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Binance vol record",
+  "valeur": "6.3 billion",
+  "extrait": "began restoring withdrawals on November 1, three days after a record $6.3 billion hack",
+  "media": "Yahoo Finance",
+  "titre": "Binance Resumes Crypto Withdrawals After Record Hack, 95% of Losses Covered",
+  "url": "https://finance.yahoo.com/markets/crypto/articles/binance-resumes-crypto-withdrawals-record-113528024.html",
+  "date": "2026-11-01"
+ },
+ {
+  "affirmation": "Binance attribution FBI",
+  "valeur": "TraderTraitor",
+  "extrait": "The FBI later attributed it to North Korea's TraderTraitor group.",
+  "media": "Yahoo Finance",
+  "titre": "Binance Resumes Crypto Withdrawals After Record Hack, 95% of Losses Covered",
+  "url": "https://finance.yahoo.com/markets/crypto/articles/binance-resumes-crypto-withdrawals-record-113528024.html",
+  "date": "2026-11-01"
+ },
+ {
+  "affirmation": "Fed maintien",
+  "valeur": "3-3/4 to 4 percent",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed fourchette basse",
+  "valeur": "3,75",
+  "extrait": "target range 3-3/4 (3.75) to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed dissidents",
+  "valeur": "Cook",
+  "extrait": "Lisa D. Cook and Beth M. Hammack voted against the action, preferring to raise the target range by 1/4 percentage point.",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "ISM manufacturier",
+  "valeur": "55,5",
+  "extrait": "The Institute for Supply Management's manufacturing purchasing managers' index increased to 55.5 from 54.5 in September.",
+  "media": "Kitco",
+  "titre": "Gold, silver recover from October rout as oil drops, Fed tightening bets persist - Kitco PM Report",
+  "url": "https://www.kitco.com/news/article/2026-11-02/gold-silver-recover-october-rout-oil-drops-fed-tightening-bets-persist",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "ISM septembre",
+  "valeur": "54,5",
+  "extrait": "increased to 55.5 from 54.5 in September",
+  "media": "Kitco",
+  "titre": "Gold, silver recover from October rout as oil drops, Fed tightening bets persist - Kitco PM Report",
+  "url": "https://www.kitco.com/news/article/2026-11-02/gold-silver-recover-october-rout-oil-drops-fed-tightening-bets-persist",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "ISM prix",
+  "valeur": "75,2",
+  "extrait": "The prices index fell 2.7 points to 75.2",
+  "media": "CNBC",
+  "titre": "Nasdaq starts November with 1% loss as tech melts down again",
+  "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "BCE taux de dépôt",
+  "valeur": "2,50",
+  "extrait": "16 Sep. 2026 ; 2.50 ; 2.65 ; 2.90",
+  "media": "BCE",
+  "titre": "Key ECB interest rates",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html",
+  "date": "2026-09-16"
+ },
+ {
+  "affirmation": "BCE maintien 29 octobre",
+  "valeur": "2,50%",
+  "extrait": "laisser inchangés les taux d'intérêt de la facilité de dépôt ... à respectivement 2,50%, 2,65% et 2,90%",
+  "media": "Boursorama",
+  "titre": "La BCE laisse ses taux inchangés, Christine Lagarde démissionnera en février",
+  "url": "https://www.boursorama.com/bourse/actualites/la-bce-laisse-ses-taux-inchanges-christine-lagarde-demissionnera-en-fevrier-4b93d0d00ca65173c613cbd6936af2c2",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Lagarde départ",
+  "valeur": "7 février 2027",
+  "extrait": "démissionnera de son poste le 7 février 2027",
+  "media": "Boursorama",
+  "titre": "La BCE laisse ses taux inchangés, Christine Lagarde démissionnera en février",
+  "url": "https://www.boursorama.com/bourse/actualites/la-bce-laisse-ses-taux-inchanges-christine-lagarde-demissionnera-en-fevrier-4b93d0d00ca65173c613cbd6936af2c2",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Amendement TVA export",
+  "valeur": "85 %",
+  "extrait": "exonération de TVA pour les entreprises viticoles et de boissons alcoolisées dont plus de 85 % des ventes annuelles se font à l'export (amendement Sandra Marsaud, adopté lundi avec le soutien du gouvernement)",
+  "media": "Boursorama",
+  "titre": "Cognac : l'Assemblée vote un soulagement spécifique de TVA, avec l'aval du gouvernement",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/cognac-l-assemblee-vote-un-soulagement-specifique-de-tva-avec-l-aval-du-gouvernement-f66f4a13b83cadd2efcc888efff0ee70",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Amiel déficit",
+  "valeur": "23,9 milliards",
+  "extrait": "le déficit public s'est dégradé ... de 23,9 milliards d'euros",
+  "media": "Boursorama",
+  "titre": "Cognac : l'Assemblée vote un soulagement spécifique de TVA, avec l'aval du gouvernement",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/cognac-l-assemblee-vote-un-soulagement-specifique-de-tva-avec-l-aval-du-gouvernement-f66f4a13b83cadd2efcc888efff0ee70",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "49.3 ou ordonnances",
+  "valeur": "49.3",
+  "extrait": "Le gouvernement devrait recourir « au 49.3 ou aux ordonnances » pour faire adopter le budget",
+  "media": "Boursorama",
+  "titre": "Cognac : l'Assemblée vote un soulagement spécifique de TVA, avec l'aval du gouvernement",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/cognac-l-assemblee-vote-un-soulagement-specifique-de-tva-avec-l-aval-du-gouvernement-f66f4a13b83cadd2efcc888efff0ee70",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Vote solennel 3 novembre",
+  "valeur": "15 heures",
+  "extrait": "MARDI 3 À 15 heures : - Questions au Gouvernement. - Vote solennel : Pt loi de finances pour 2027 (première partie).",
+  "media": "Assemblée nationale",
+  "titre": "Ordre du jour de l'Assemblée nationale (Conférence des présidents du mardi 27 octobre 2026)",
+  "url": "https://www.assemblee-nationale.fr/dyn/static/seance/conference.pdf",
+  "date": "2026-10-27"
+ },
+ {
+  "affirmation": "Ordre du jour arrêté le 27 octobre",
+  "valeur": "27 octobre",
+  "extrait": "Conférence des présidents du mardi 27 octobre 2026",
+  "media": "Assemblée nationale",
+  "titre": "Ordre du jour de l'Assemblée nationale (Conférence des présidents du mardi 27 octobre 2026)",
+  "url": "https://www.assemblee-nationale.fr/dyn/static/seance/conference.pdf",
+  "date": "2026-10-27"
+ },
+ {
+  "affirmation": "Livret A",
+  "valeur": "1,7",
+  "extrait": "Depuis le 1er août, le Livret A vous rapporte 1,7%",
+  "media": "MoneyVox",
+  "titre": "Assurance vie au top, Livret A et LEP au rebond... Les taux de votre épargne sans risque en novembre 2026",
+  "url": "https://www.moneyvox.fr/placement/actualites/111060/assurance-vie-au-top-livret-a-et-lep-au-rebond-les-taux-de-votre-epargne-sans-risque-en-novembre-2026",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "LEP",
+  "valeur": "2,5",
+  "extrait": "le LEP vous rapporte 2,5%",
+  "media": "MoneyVox",
+  "titre": "Assurance vie au top, Livret A et LEP au rebond... Les taux de votre épargne sans risque en novembre 2026",
+  "url": "https://www.moneyvox.fr/placement/actualites/111060/assurance-vie-au-top-livret-a-et-lep-au-rebond-les-taux-de-votre-epargne-sans-risque-en-novembre-2026",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Fonds euros 2026",
+  "valeur": "2,9",
+  "extrait": "Good Value for Money estime à 2,9 % le rendement moyen 2026 des fonds en euros",
+  "media": "MoneyVox",
+  "titre": "Assurance vie au top, Livret A et LEP au rebond... Les taux de votre épargne sans risque en novembre 2026",
+  "url": "https://www.moneyvox.fr/placement/actualites/111060/assurance-vie-au-top-livret-a-et-lep-au-rebond-les-taux-de-votre-epargne-sans-risque-en-novembre-2026",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Inflation octobre provisoire",
+  "valeur": "3,4 %",
+  "extrait": "les prix à la consommation augmenteraient de 3,4 % en octobre 2026",
+  "media": "INSEE",
+  "titre": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9107965",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Ormuz deux jours",
+  "valeur": "two days instead of seven",
+  "extrait": "Iran said it could reopen the Strait of Hormuz in two days instead of seven, under conditions",
+  "media": "Zonebourse",
+  "titre": "Paris termine en hausse, profitant de la chute du pétrole",
+  "url": "https://www.zonebourse.com/actualite-bourse/paris-termine-en-hausse-profitant-de-la-chute-du-petrole-ce785fd9db88f723",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Midterms",
+  "valeur": "House",
+  "extrait": "Voting is Tuesday, and Democrats are expected to take the House, while Senate control is uncertain.",
+  "media": "CNBC",
+  "titre": "Nasdaq starts November with 1% loss as tech melts down again",
+  "url": "https://www.cnbc.com/2026/11/01/stock-market-today-live-updates.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Commandes industrie consensus",
+  "valeur": "1,2",
+  "extrait": "US industrial orders (Census Bureau): forecast +1,2% for September, after +0,1% in August",
+  "media": "Boursorama",
+  "titre": "À suivre aujourd'hui - mardi 3 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/a-suivre-aujourd-hui-mardi-3-novembre-af3af0c25f3ddfec11afc220a71cf592",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "JOLTS consensus",
+  "valeur": "7,1",
+  "extrait": "US JOLTS job openings: forecast 7,1 million for September",
+  "media": "Boursorama",
+  "titre": "À suivre aujourd'hui - mardi 3 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/a-suivre-aujourd-hui-mardi-3-novembre-af3af0c25f3ddfec11afc220a71cf592",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Résultats du jour",
+  "valeur": "AMD",
+  "extrait": "Company results (Q3): Pfizer, Amgen, AMD, Apollo Global Management, AIG, Booking Holdings",
+  "media": "Boursorama",
+  "titre": "À suivre aujourd'hui - mardi 3 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/a-suivre-aujourd-hui-mardi-3-novembre-af3af0c25f3ddfec11afc220a71cf592",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Art. 145 seuil",
+  "valeur": "5 %",
+  "extrait": "doivent représenter au moins 5 % du capital de la société émettrice",
+  "media": "Légifrance",
+  "titre": "Article 145 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203497",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "Art. 145 détention",
+  "valeur": "pleine propriété",
+  "extrait": "doivent être détenus en pleine propriété ou en nue-propriété",
+  "media": "Légifrance",
+  "titre": "Article 145 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203497",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "Art. 145 forme",
+  "valeur": "nominative",
+  "extrait": "doivent revêtir la forme nominative ou être déposés ou inscrits dans un compte",
+  "media": "Légifrance",
+  "titre": "Article 145 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203497",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "Art. 145 conservation",
+  "valeur": "deux ans",
+  "extrait": "pendant un délai de deux ans",
+  "media": "Légifrance",
+  "titre": "Article 145 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203497",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "Art. 145 taux normal",
+  "valeur": "taux normal",
+  "extrait": "soumis à l'impôt sur les sociétés au taux normal",
+  "media": "Légifrance",
+  "titre": "Article 145 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203497",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "Art. 145 exclusion SIIC (6 i)",
+  "valeur": "sociétés d'investissements immobiliers cotées",
+  "extrait": "6 i) des sociétés d'investissements immobiliers cotées et de leurs filiales",
+  "media": "Légifrance",
+  "titre": "Article 145 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203497",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "Art. 145 reversement",
+  "valeur": "trois mois",
+  "extrait": "la société participante est tenue de verser au Trésor une somme égale au montant de l'impôt ... dans les trois mois suivant la cession",
+  "media": "Légifrance",
+  "titre": "Article 145 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203497",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "Art. 216 quote-part",
+  "valeur": "5 %",
+  "extrait": "fixée à 5 % du produit total des participations, crédit d'impôt compris",
+  "media": "Légifrance",
+  "titre": "Article 216 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048831340",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "Art. 216 taux 1 % groupe",
+  "valeur": "1 %",
+  "extrait": "Le taux de la quote-part de frais et charges prévu à l'article 216 du CGI est fixé à 1 % (membre d'un groupe intégré, participation dans un autre membre depuis plus d'un exercice)",
+  "media": "BOFiP",
+  "titre": "IS - Base d'imposition - Produits - Produits de participation reçus de filiales et abandons de créances reçus de la mère dans le cadre du régime fiscal des sociétés mères et filiales - Définition des produits en cause et modalités de prise en compte des charges y afférentes",
+  "url": "https://bofip.impots.gouv.fr/bofip/1926-PGP.html/identifiant=BOI-IS-BASE-10-10-20-20240626",
+  "date": "2024-06-26"
+ },
+ {
+  "affirmation": "Intégration fiscale seuil 95 % (art. 223 A)",
+  "valeur": "95 %",
+  "extrait": "le taux est réduit à 1 % si la société mère détient 95 % ou plus du capital social (groupe intégré, art. 223 A)",
+  "media": "Légifrance",
+  "titre": "Article 216 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048831340",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "Art. 219 taux normal IS",
+  "valeur": "25 %",
+  "extrait": "Le taux normal de l'impôt est fixé à 25 %.",
+  "media": "Légifrance",
+  "titre": "Article 219 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046868562",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "BOFiP seuil date de mise en paiement",
+  "valeur": "mise en paiement",
+  "extrait": "s'apprécie à la date de mise en paiement des produits de la participation",
+  "media": "BOFiP",
+  "titre": "IS - Base d'imposition - Produits de participation reçus dans le cadre du régime fiscal des sociétés mères et filiales - Conditions relatives aux participations éligibles au régime spécial",
+  "url": "https://bofip.impots.gouv.fr/bofip/8534-PGP.html/identifiant=BOI-IS-BASE-10-10-10-20-20200603",
+  "date": "2020-06-03"
+ },
+ {
+  "affirmation": "BOFiP option",
+  "valeur": "peut opter",
+  "extrait": "peut opter pour l'application du régime des sociétés mères",
+  "media": "BOFiP",
+  "titre": "IS - Base d'imposition - Produits de participation reçus dans le cadre du régime fiscal des sociétés mères et filiales - Conditions relatives aux participations éligibles au régime spécial",
+  "url": "https://bofip.impots.gouv.fr/bofip/8534-PGP.html/identifiant=BOI-IS-BASE-10-10-10-20-20200603",
+  "date": "2020-06-03"
+ },
+ {
+  "affirmation": "BOFiP première année",
+  "valeur": "première année",
+  "extrait": "peuvent bénéficier de l'exonération dès la première année de détention ; n'est pas acquis définitivement les deux premières années de détention",
+  "media": "BOFiP",
+  "titre": "IS - Base d'imposition - Produits de participation reçus dans le cadre du régime fiscal des sociétés mères et filiales - Conditions relatives aux participations éligibles au régime spécial",
+  "url": "https://bofip.impots.gouv.fr/bofip/8534-PGP.html/identifiant=BOI-IS-BASE-10-10-10-20-20200603",
+  "date": "2020-06-03"
+ },
+ {
+  "affirmation": "BOFiP reversement trois mois intérêt de retard",
+  "valeur": "trois mois",
+  "extrait": "verser au service des impôts des entreprises dans les trois mois suivant la cession des titres, plus l'intérêt de retard",
+  "media": "BOFiP",
+  "titre": "IS - Base d'imposition - Produits de participation reçus dans le cadre du régime fiscal des sociétés mères et filiales - Conditions relatives aux participations éligibles au régime spécial",
+  "url": "https://bofip.impots.gouv.fr/bofip/8534-PGP.html/identifiant=BOI-IS-BASE-10-10-10-20-20200603",
+  "date": "2020-06-03"
+ },
+ {
+  "affirmation": "Exemple dividende",
+  "valeur": "200 000",
+  "extrait": "dividende de 200 000 € (hypothèse de l'exemple)",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple quote-part",
+  "valeur": "10 000",
+  "extrait": "200 000 x 0,05 = 10 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple IS sur quote-part",
+  "valeur": "2 500",
+  "extrait": "10 000 x 0,25 = 2 500",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple taux effectif",
+  "valeur": "1,25",
+  "extrait": "2 500 / 200 000 = 1,25 %",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple sans régime",
+  "valeur": "50 000",
+  "extrait": "200 000 x 0,25 = 50 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple quote-part 1 %",
+  "valeur": "2 000",
+  "extrait": "200 000 x 0,01 = 2 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple IS intégration",
+  "valeur": "500",
+  "extrait": "2 000 x 0,25 = 500",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple participation filiale",
+  "valeur": "60 %",
+  "extrait": "filiale détenue à 60 % (hypothèse de l'exemple)",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Question détention",
+  "valeur": "8 %",
+  "extrait": "participation de 8 %, acquise il y a 10 mois (hypothèse de la question)",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Date décision Fed",
+  "valeur": "28 octobre",
+  "extrait": "Federal Reserve issues FOMC statement, October 28 (28 octobre) 2026",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Référence article 145 CGI",
+  "valeur": "145",
+  "extrait": "Article 145 - Code général des impôts",
+  "media": "Légifrance",
+  "titre": "Article 145 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203497",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "Référence article 219 CGI",
+  "valeur": "219",
+  "extrait": "Article 219 - Code général des impôts : Le taux normal de l'impôt est fixé à 25 %.",
+  "media": "Légifrance",
+  "titre": "Article 219 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046868562",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Amendement TVA périmètre",
+  "valeur": "achats et opérations",
+  "extrait": "une exonération de TVA pour amortir les achats et opérations nécessaires",
+  "media": "Boursorama",
+  "titre": "Cognac : l'Assemblée vote un soulagement spécifique de TVA, avec l'aval du gouvernement",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/cognac-l-assemblee-vote-un-soulagement-specifique-de-tva-avec-l-aval-du-gouvernement-f66f4a13b83cadd2efcc888efff0ee70",
+  "date": "2026-11-02"
+ }
+]
