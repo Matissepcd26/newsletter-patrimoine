@@ -1,0 +1,974 @@
+[
+ {
+  "affirmation": "CAC 40 clôture",
+  "valeur": "8 020,31",
+  "extrait": "CAC 40 ; 8 020,31 pts ; -0,34 % sur la séance ; clôture du 03/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "-0,34",
+  "extrait": "le CAC 40 clôture à 8 020 points (-0,34%), après son rebond de 0,98% hier",
+  "media": "MoneyVox",
+  "titre": "BioMérieux, Rubis... le journal de la bourse du mardi 3 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111099/biomerieux-rubis-le-journal-de-la-bourse-du-mardi-3-novembre-2026",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "CAC 40 rebond veille",
+  "valeur": "0,98",
+  "extrait": "le CAC 40 clôture à 8 020 points (-0,34%), après son rebond de 0,98% hier",
+  "media": "MoneyVox",
+  "titre": "BioMérieux, Rubis... le journal de la bourse du mardi 3 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111099/biomerieux-rubis-le-journal-de-la-bourse-du-mardi-3-novembre-2026",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "CAC 8000 points",
+  "valeur": "8 000",
+  "extrait": "le CAC 40 clôture à 8 020 points (-0,34%) ; seuil des 8 000 points",
+  "media": "MoneyVox",
+  "titre": "BioMérieux, Rubis... le journal de la bourse du mardi 3 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111099/biomerieux-rubis-le-journal-de-la-bourse-du-mardi-3-novembre-2026",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Taux US et FR proches de 4,9 %",
+  "valeur": "4,9",
+  "extrait": "les taux obligataires restent élevés, avec des rendements américain et français à dix ans proches de 4,9%",
+  "media": "MoneyVox",
+  "titre": "BioMérieux, Rubis... le journal de la bourse du mardi 3 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111099/biomerieux-rubis-le-journal-de-la-bourse-du-mardi-3-novembre-2026",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "S&P 500",
+  "valeur": "7 568,92",
+  "extrait": "S&P 500 ; 7 568,92 pts ; +0,36 % sur la séance ; clôture du 03/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "0,36",
+  "extrait": "The broad market index rose 0.36% to end at 7,568.92, while the tech-heavy Nasdaq added 0.83% to 25,372.01.",
+  "media": "CNBC",
+  "titre": "S&P 500 snaps 3-day skid on Election Day as chip stocks rebound",
+  "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Nasdaq",
+  "valeur": "25 372,01",
+  "extrait": "Nasdaq Composite ; 25 372,01 pts ; +0,83 % sur la séance ; clôture du 03/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "0,83",
+  "extrait": "the tech-heavy Nasdaq added 0.83% to 25,372.01",
+  "media": "CNBC",
+  "titre": "S&P 500 snaps 3-day skid on Election Day as chip stocks rebound",
+  "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "S&P 500 trois séances de baisse",
+  "valeur": "3",
+  "extrait": "S&P 500 snaps 3-day skid on Election Day as chip stocks rebound",
+  "media": "CNBC",
+  "titre": "S&P 500 snaps 3-day skid on Election Day as chip stocks rebound",
+  "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Apple recule",
+  "valeur": "2",
+  "extrait": "Apple fell almost 2% after the iPhone maker issued a disappointing margin forecast late Monday",
+  "media": "CNBC",
+  "titre": "S&P 500 snaps 3-day skid on Election Day as chip stocks rebound",
+  "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Euro Stoxx 50",
+  "valeur": "6 144,56",
+  "extrait": "Euro Stoxx 50 ; 6 144,56 pts ; -0,51 % sur la séance ; clôture du 03/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "-0,51",
+  "extrait": "Euro Stoxx 50 ; 6 144,56 pts ; -0,51 % sur la séance ; clôture du 03/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "EUR/USD BCE",
+  "valeur": "1,1179",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1179 ; -0,33 % sur la séance ; taux du 03/11/2026",
+  "media": "BCE",
+  "titre": "Euro exchange rates charts — US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "-0,33",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1179 ; -0,33 % sur la séance ; taux du 03/11/2026",
+  "media": "BCE",
+  "titre": "Euro exchange rates charts — US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "OAT 10 ans",
+  "valeur": "4,93",
+  "extrait": "FRA 10A 4,93% +1,9 BP",
+  "media": "Boursorama",
+  "titre": "Taux souverains, taux de référence",
+  "url": "https://www.boursorama.com/bourse/taux/souverains/",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "OAT variation",
+  "valeur": "1,9",
+  "extrait": "FRA 10A 4,93% +1,9 BP",
+  "media": "Boursorama",
+  "titre": "Taux souverains, taux de référence",
+  "url": "https://www.boursorama.com/bourse/taux/souverains/",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "OAT 10 ans (2e source)",
+  "valeur": "4.93",
+  "extrait": "10Y OAT 4.93 % 10Y Bund 3.31 % Spread 161.8 bps As of Nov 3, 2026",
+  "media": "Ideal Investisseur",
+  "titre": "10-year OAT / German Bund spread",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Bund 10 ans",
+  "valeur": "3,31",
+  "extrait": "ALLEMAGNE 3,311% +2,0 BP",
+  "media": "Boursorama",
+  "titre": "Taux souverains, taux de référence",
+  "url": "https://www.boursorama.com/bourse/taux/souverains/",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Bund variation",
+  "valeur": "2,0",
+  "extrait": "ALLEMAGNE 3,311% +2,0 BP",
+  "media": "Boursorama",
+  "titre": "Taux souverains, taux de référence",
+  "url": "https://www.boursorama.com/bourse/taux/souverains/",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Spread OAT-Bund",
+  "valeur": "161.8",
+  "extrait": "Spread 161.8 bps As of Nov 3, 2026",
+  "media": "Ideal Investisseur",
+  "titre": "10-year OAT / German Bund spread",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Spread calcul 4,93-3,31",
+  "valeur": "1,62",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Spread en pb",
+  "valeur": "162",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "3,940.40",
+  "extrait": "US gold futures for December delivery settled 0.7% lower at $3,940.40 per ounce.",
+  "media": "Kitco News (Reuters)",
+  "titre": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-03/gold-edges-lower-again-dollar-yields-strengthen-us-midterms-focus",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "0.7",
+  "extrait": "US gold futures for December delivery settled 0.7% lower at $3,940.40 per ounce.",
+  "media": "Kitco News (Reuters)",
+  "titre": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-03/gold-edges-lower-again-dollar-yields-strengthen-us-midterms-focus",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Or script",
+  "valeur": "3 940,20",
+  "extrait": "Or (contrat déc. 2026) ; 3 940,20 $/once ; -0,74 % sur la séance ; cours du 03/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Or variation script",
+  "valeur": "-0,74",
+  "extrait": "Or (contrat déc. 2026) ; 3 940,20 $/once ; -0,74 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Brent règlement",
+  "valeur": "103.60",
+  "extrait": "Brent crude lost 1.12% to settle at $103.60 per barrel.",
+  "media": "CNBC",
+  "titre": "S&P 500 snaps 3-day skid on Election Day as chip stocks rebound",
+  "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Brent variation",
+  "valeur": "1.12",
+  "extrait": "Brent crude lost 1.12% to settle at $103.60 per barrel.",
+  "media": "CNBC",
+  "titre": "S&P 500 snaps 3-day skid on Election Day as chip stocks rebound",
+  "url": "https://www.cnbc.com/2026/11/02/stock-market-today-live-updates.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Brent baisse en dollars",
+  "valeur": "1.17",
+  "extrait": "Brent crude, the international benchmark, shed $1.17 to settle at $103.60.",
+  "media": "CNBC",
+  "titre": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+  "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "WTI",
+  "valeur": "96.09",
+  "extrait": "U.S. West Texas Intermediate futures lost 37 cents to close at $96.09 a barrel",
+  "media": "CNBC",
+  "titre": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+  "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Brent Moneyvox 103",
+  "valeur": "103",
+  "extrait": "poursuit sa baisse (-1%) à 103$ le baril de Brent",
+  "media": "MoneyVox",
+  "titre": "BioMérieux, Rubis... le journal de la bourse du mardi 3 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111099/biomerieux-rubis-le-journal-de-la-bourse-du-mardi-3-novembre-2026",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Bitcoin",
+  "valeur": "77 332,90",
+  "extrait": "Bitcoin ; 77 332,90 $ ; +0,86 % sur la séance ; clôture du 03/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "0,86",
+  "extrait": "Bitcoin ; 77 332,90 $ ; +0,86 % sur la séance ; clôture du 03/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Futures S&P 500 et Nasdaq-100",
+  "valeur": "1.1",
+  "extrait": "Futures tied to the S&P 500 traded 1.1% lower, while Nasdaq-100 futures shed 2%.",
+  "media": "CNBC",
+  "titre": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+  "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Futures Nasdaq-100",
+  "valeur": "2",
+  "extrait": "Futures tied to the S&P 500 traded 1.1% lower, while Nasdaq-100 futures shed 2%.",
+  "media": "CNBC",
+  "titre": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+  "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Sénat au moins 51 sièges",
+  "valeur": "51",
+  "extrait": "Democrats are projected to hold at least 51 seats, the minimum needed for control",
+  "media": "CNBC",
+  "titre": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+  "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Chambre au moins 235 sièges",
+  "valeur": "235",
+  "extrait": "The desk projects Democrats will win at least 235 House seats.",
+  "media": "CNBC",
+  "titre": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+  "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Majorité Chambre 218",
+  "valeur": "218",
+  "extrait": "Republicans remain projected to win at least 160 seats, far below their current 218-seat level",
+  "media": "CNBC",
+  "titre": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+  "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Sièges Sénat basculés Iowa Kansas Caroline du Nord",
+  "valeur": "Iowa",
+  "extrait": "Democrats are projected to have flipped Senate seats from Republicans in Iowa, Kansas, North Carolina,",
+  "media": "CNBC",
+  "titre": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+  "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Data centers crainte",
+  "valeur": "data centers",
+  "extrait": "Investors fear a big Democratic win could mean more restrictions on data centers nationwide.",
+  "media": "CNBC",
+  "titre": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+  "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Trump accepte résultats",
+  "valeur": "accept",
+  "extrait": "I am absolutely willing to accept those results",
+  "media": "CNBC",
+  "titre": "Midterm elections 2026 live updates: Democrats flip Senate after winning House",
+  "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Probabilité hausse Fed décembre",
+  "valeur": "79",
+  "extrait": "Traders now see a 79% probability of the Federal Reserve increasing rates in December, according to CME's FedWatch Tool",
+  "media": "Kitco News (Reuters)",
+  "titre": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-03/gold-edges-lower-again-dollar-yields-strengthen-us-midterms-focus",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Fed fourchette 3,75-4",
+  "valeur": "3-3/4 to 4 percent",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed fourchette chiffres",
+  "valeur": "3,75",
+  "extrait": "3-3/4 to 4 percent soit 3,75 % à 4 %",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed vote 10-2",
+  "valeur": "10 – 2",
+  "extrait": "The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed dissidents hausse 1/4 point",
+  "valeur": "Cook",
+  "extrait": "Voting against the monetary policy action were Lisa D. Cook and Beth M. Hammack, who preferred to raise the target range for the federal funds rate by 1/4 percentage point",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/monetarypolicy/files/monetary20261028a1.pdf",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed prochaine réunion 8-9 décembre",
+  "valeur": "December 8-9",
+  "extrait": "December 8-9*",
+  "media": "Federal Reserve",
+  "titre": "Meeting calendars and information",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "BCE taux inchangés",
+  "valeur": "2.50%",
+  "extrait": "The interest rates on the deposit facility, the main refinancing operations and the marginal lending facility will remain unchanged at 2.50%, 2.65% and 2.90% respectively.",
+  "media": "BCE",
+  "titre": "Monetary policy decisions",
+  "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE pas d'engagement",
+  "valeur": "pre-committing",
+  "extrait": "The Governing Council is not pre-committing to a particular rate path.",
+  "media": "BCE",
+  "titre": "Monetary policy decisions",
+  "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Inflation zone euro septembre",
+  "valeur": "3.8",
+  "extrait": "The euro area annual inflation rate was 3.8 % in September 2026 , up from 3.2% in August",
+  "media": "Eurostat",
+  "titre": "Annual inflation up to 3.8% in the euro area",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap",
+  "date": "2026-10-16"
+ },
+ {
+  "affirmation": "Inflation zone euro août",
+  "valeur": "3.2",
+  "extrait": "The euro area annual inflation rate was 3.8 % in September 2026 , up from 3.2% in August",
+  "media": "Eurostat",
+  "titre": "Annual inflation up to 3.8% in the euro area",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-16102026-ap",
+  "date": "2026-10-16"
+ },
+ {
+  "affirmation": "Agenda inflation flash 11h",
+  "valeur": "11h00",
+  "extrait": "11h00 : Taux d'inflation (annuel) flash (Zone Euro)",
+  "media": "Boursorama (Zonebourse/AOF)",
+  "titre": "Agenda Macro Zonebourse : le 4 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-4-novembre-2026-729a4ae63cd21bef798653beedeb88a1",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Agenda ADP 14h15",
+  "valeur": "14h15",
+  "extrait": "14h15 : Créations d'emplois ADP (États-Unis)",
+  "media": "Boursorama (Zonebourse/AOF)",
+  "titre": "Agenda Macro Zonebourse : le 4 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-4-novembre-2026-729a4ae63cd21bef798653beedeb88a1",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Agenda balance commerciale 14h30",
+  "valeur": "14h30",
+  "extrait": "14h30 : Balance commerciale (États-Unis)",
+  "media": "Boursorama (Zonebourse/AOF)",
+  "titre": "Agenda Macro Zonebourse : le 4 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-4-novembre-2026-729a4ae63cd21bef798653beedeb88a1",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Agenda ISM 16h00",
+  "valeur": "16h00",
+  "extrait": "16h00 : Indice ISM services (États-Uni",
+  "media": "Boursorama (Zonebourse/AOF)",
+  "titre": "Agenda Macro Zonebourse : le 4 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-4-novembre-2026-729a4ae63cd21bef798653beedeb88a1",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Agenda EIA 16h30",
+  "valeur": "16h30",
+  "extrait": "16h30 : Changement des stocks de pétrole brut EIA (États-Unis)",
+  "media": "Boursorama (Zonebourse/AOF)",
+  "titre": "Agenda Macro Zonebourse : le 4 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-4-novembre-2026-729a4ae63cd21bef798653beedeb88a1",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Iran refuse diplomatie sous contrainte",
+  "valeur": "Baqaei",
+  "extrait": "Iran's Foreign Ministry spokesman Emsaeil Baqaei said Tuesday that Tehran will not accept diplomacy based on coercion",
+  "media": "CNBC",
+  "titre": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+  "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Qatar médiation",
+  "valeur": "Qatar",
+  "extrait": "Qatar is continuing to mediate talks between the U.S. and Iran, the Gulf state's foreign ministry said Tuesday.",
+  "media": "CNBC",
+  "titre": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+  "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Frappe Qeshm selon WSJ",
+  "valeur": "Qeshm",
+  "extrait": "Washington attacked Iran's Qeshm Island on Monday, U.S. officials told The Wall Street Journal,",
+  "media": "CNBC",
+  "titre": "Crude oil prices fall for second day as market hopes for diplomatic resolution to Iran war",
+  "url": "https://www.cnbc.com/2026/11/03/oil-prices-climb-after-us-reportedly-strikes-irans-qeshm-island.html",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Pétrole plus bas trois semaines Ukraine Iran",
+  "valeur": "three-week low",
+  "extrait": "Oil prices fell to a three-week low as the market weighed talks to end the wars in Ukraine and Iran against worries about additional supply disruptions",
+  "media": "Kitco News (Reuters)",
+  "titre": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-03/gold-edges-lower-again-dollar-yields-strengthen-us-midterms-focus",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Dollar et taux pèsent sur l'or",
+  "valeur": "Streible",
+  "extrait": "\"The dollar has been strengthening, and yields are going higher,\" pressuring gold, said Phillip Streible",
+  "media": "Kitco News (Reuters)",
+  "titre": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-03/gold-edges-lower-again-dollar-yields-strengthen-us-midterms-focus",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A plafond actuel",
+  "valeur": "22 950",
+  "extrait": "Le montant maximum d'épargne inscrit sur le livret A est de 22 950 €",
+  "media": "Service-public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.fr/particuliers/vosdroits/F2365",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Livret A taux actuel",
+  "valeur": "1,7",
+  "extrait": "Le taux d'intérêt annuel du livret A est de 1,7 %",
+  "media": "Service-public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.fr/particuliers/vosdroits/F2365",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Livret A fourchette 25 000-30 000",
+  "valeur": "25 et 30 000",
+  "extrait": "« Il y a encore une dernière concertation, un travail à faire avec la place bancaire, avec Bercy et avec la Caisse des dépôts, pour une fourchette entre 25 et 30 000 euros », a précisé le Premier ministre.",
+  "media": "MoneyVox",
+  "titre": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "url": "https://www.moneyvox.fr/livret-a/actualites/111094/entre-25-000-et-30-000-euros-le-plafond-du-livret-a-va-etre-releve-en-fevrier-2027",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A 30 000",
+  "valeur": "30 000",
+  "extrait": "le plafond du Livret A serait revu à la hausse au 1er février prochain et pourrait atteindre 30 000 euros contre 22 950 euros aujourd'hui",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 : des obligations d'État à 3,5% sans impôt, le détail de l'amendement adopté par les députés",
+  "url": "https://www.moneyvox.fr/actu/111097/budget-2027-des-obligations-etat-a-3-5-sans-impot-le-detail-de-amendement-adopte-par-les-deputes",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A 25 000",
+  "valeur": "25 000",
+  "extrait": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "media": "MoneyVox",
+  "titre": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "url": "https://www.moneyvox.fr/livret-a/actualites/111094/entre-25-000-et-30-000-euros-le-plafond-du-livret-a-va-etre-releve-en-fevrier-2027",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A taux attendu 2,50",
+  "valeur": "2,50",
+  "extrait": "Le taux du Livret A, actuellement à 1,70% net de fiscalité, devrait passer à 2,50%, voire un peu plus, en février.",
+  "media": "MoneyVox",
+  "titre": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "url": "https://www.moneyvox.fr/livret-a/actualites/111094/entre-25-000-et-30-000-euros-le-plafond-du-livret-a-va-etre-releve-en-fevrier-2027",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Lescure présentera",
+  "valeur": "Lescure",
+  "extrait": "« C'est le ministre Lescure qui présentera ça dans les semaines qui viendront. »",
+  "media": "MoneyVox",
+  "titre": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "url": "https://www.moneyvox.fr/livret-a/actualites/111094/entre-25-000-et-30-000-euros-le-plafond-du-livret-a-va-etre-releve-en-fevrier-2027",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A nucléaire 60 % 60 milliards",
+  "valeur": "60",
+  "extrait": "le gouvernement prévoit de financer jusqu'à 60% de la construction des six nouveaux réacteurs EPR2 grâce à un prêt mobilisant l'épargne réglementée des Français, notamment celle du Livret A, dans la limite de 60 milliards d'euros",
+  "media": "MoneyVox",
+  "titre": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "url": "https://www.moneyvox.fr/livret-a/actualites/111094/entre-25-000-et-30-000-euros-le-plafond-du-livret-a-va-etre-releve-en-fevrier-2027",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Amendement Liot emprunt national 30 octobre",
+  "valeur": "30 octobre",
+  "extrait": "Les députés du groupe Liot ont fait adopter, le 30 octobre dernier à l'Assemblée nationale, un amendement au projet de loi de finances 2027 afin de mettre en place un grand emprunt national. Et ce, contre l'avis du gouvernement.",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 : des obligations d'État à 3,5% sans impôt, le détail de l'amendement adopté par les députés",
+  "url": "https://www.moneyvox.fr/actu/111097/budget-2027-des-obligations-etat-a-3-5-sans-impot-le-detail-de-amendement-adopte-par-les-deputes",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Emprunt 50 milliards 10 ans 3,5 %",
+  "valeur": "3,5",
+  "extrait": "Charles de Courson envisage un emprunt de 50 milliards d'euros, sur dix ans, rémunéré à 3,5%. Les intérêts seraient exonérés d'impôt sur le revenu et de prélèvements sociaux.",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 : des obligations d'État à 3,5% sans impôt, le détail de l'amendement adopté par les députés",
+  "url": "https://www.moneyvox.fr/actu/111097/budget-2027-des-obligations-etat-a-3-5-sans-impot-le-detail-de-amendement-adopte-par-les-deputes",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Emprunt 50 milliards",
+  "valeur": "50",
+  "extrait": "Charles de Courson envisage un emprunt de 50 milliards d'euros, sur dix ans, rémunéré à 3,5%.",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 : des obligations d'État à 3,5% sans impôt, le détail de l'amendement adopté par les députés",
+  "url": "https://www.moneyvox.fr/actu/111097/budget-2027-des-obligations-etat-a-3-5-sans-impot-le-detail-de-amendement-adopte-par-les-deputes",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Souscription 1 000 à 61 200",
+  "valeur": "61 200",
+  "extrait": "Le montant de la souscription serait compris entre 1 000 et 61 200 euros, soit le plafond du plan d'épargne logement (PEL).",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 : des obligations d'État à 3,5% sans impôt, le détail de l'amendement adopté par les députés",
+  "url": "https://www.moneyvox.fr/actu/111097/budget-2027-des-obligations-etat-a-3-5-sans-impot-le-detail-de-amendement-adopte-par-les-deputes",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Souscription min 1 000",
+  "valeur": "1 000",
+  "extrait": "Le montant de la souscription serait compris entre 1 000 et 61 200 euros",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 : des obligations d'État à 3,5% sans impôt, le détail de l'amendement adopté par les députés",
+  "url": "https://www.moneyvox.fr/actu/111097/budget-2027-des-obligations-etat-a-3-5-sans-impot-le-detail-de-amendement-adopte-par-les-deputes",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Examen 1re partie jusqu'au 6 novembre",
+  "valeur": "6 novembre",
+  "extrait": "Du mardi 27 octobre 2026 au vendredi 6 novembre 2026, l' Assemblée nationale poursuit l'examen la première partie du projet de loi de finances pour 2027 , portant sur les recettes.",
+  "media": "Assemblée nationale",
+  "titre": "Examen de la première partie du projet de loi de finances pour 2027",
+  "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Déficit foncier 10 700 € (BOFiP)",
+  "valeur": "10 700",
+  "extrait": "La fraction du déficit foncier imputable sur le revenu global ne peut excéder la limite de 10 700 € par an, fixée au 3° du I de l'article 156 du CGI.",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Déficit foncier 10 700 € (Légifrance)",
+  "valeur": "10 700",
+  "extrait": "L'imputation est limitée à 10 700 €.",
+  "media": "Légifrance",
+  "titre": "Article 156 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053544806",
+  "date": "2026-07-01"
+ },
+ {
+  "affirmation": "Intérêts d'emprunt exclus du revenu global",
+  "valeur": "dix années",
+  "extrait": "La fraction du déficit qui excède 10 700 € ou qui résulte des intérêts d'emprunt est imputable exclusivement sur les revenus fonciers des dix années suivantes",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Report dix ans (Légifrance)",
+  "valeur": "dix années",
+  "extrait": "s'imputent exclusivement sur les revenus fonciers des dix années suivantes",
+  "media": "Légifrance",
+  "titre": "Article 156 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053544806",
+  "date": "2026-07-01"
+ },
+ {
+  "affirmation": "Revenu brut compense d'abord les intérêts",
+  "valeur": "prioritairement",
+  "extrait": "Le revenu brut est toujours réputé compenser prioritairement les intérêts d'emprunts.",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Location jusqu'au 31 décembre de la 3e année",
+  "valeur": "troisième année",
+  "extrait": "l'immeuble doit être affecté à la location jusqu'au 31 décembre de la troisième année qui suit l'imputation",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Remise en cause si non respect",
+  "valeur": "remise en cause",
+  "extrait": "Lorsque cette condition n'a pas été respectée, et sauf application de l'une des exceptions visées au I-C-2-b § 380 à 440 , l'imputation du déficit foncier sur le revenu global est remise en cause",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Déficit global six années",
+  "valeur": "six années",
+  "extrait": "un déficit global est constitué et est imputable dans les conditions de droit commun sur les revenus globaux des six années suivantes",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Limite 15 300 € Périssol Cosse",
+  "valeur": "15 300",
+  "extrait": "Cette limite est portée à 15 300 € lorsqu'un déficit est constaté sur un logement pour lequel est pratiquée l'une des déductions prévues aux f (amortissement « Périssol ») ou o (dispositif « Cosse ») du 1° du I de l'article 31 du CGI",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Rehaussement 21 400 € rénovation énergétique",
+  "valeur": "21 400",
+  "extrait": "La limite mentionnée au deuxième alinéa du présent 3° est rehaussée, sans pouvoir excéder 21 400 € par an,",
+  "media": "Légifrance",
+  "titre": "Article 156 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053544806",
+  "date": "2026-07-01"
+ },
+ {
+  "affirmation": "Classe E F G vers A B C D",
+  "valeur": "E, F ou G",
+  "extrait": "permettant à un bien de passer d'une classe énergétique E, F ou G, au sens de l'article L. 173-1-1 du CCH, à une classe de performance énergétique A, B, C ou D",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Barème tranche 30 %",
+  "valeur": "30 %",
+  "extrait": "De 29 580 € à 84 577 € 30 %",
+  "media": "Service-public.fr",
+  "titre": "Quel est le barème de l'impôt sur le revenu ?",
+  "url": "https://www.service-public.fr/particuliers/vosdroits/F1419",
+  "date": "2026-04-15"
+ },
+ {
+  "affirmation": "Exemple loyers",
+  "valeur": "9 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple intérêts",
+  "valeur": "11 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple autres charges",
+  "valeur": "15 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple déficit",
+  "valeur": "17 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple part intérêts",
+  "valeur": "2 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple excédent",
+  "valeur": "4 300",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple report",
+  "valeur": "6 300",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Exemple économie",
+  "valeur": "3 210",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ouverture Wall Street 15 h 30 Paris (9 h 30 NY)",
+  "valeur": "15 h 30",
+  "extrait": "HEURES_NY=8 h 30 à New York = 14 h 30 à Paris ; 10 h 00 à New York = 16 h 00 à Paris (ouverture 9 h 30 NY = 15 h 30 Paris)",
+  "media": "outils.py variables",
+  "titre": "HEURES_NY",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Or règlement (format FR)",
+  "valeur": "3 940,40",
+  "extrait": "US gold futures for December delivery settled 0.7% lower at $3 940,40 per ounce (extrait : settled 0.7% lower at $3,940.40 per ounce)",
+  "media": "Kitco News (Reuters)",
+  "titre": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-03/gold-edges-lower-again-dollar-yields-strengthen-us-midterms-focus",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Réunion Fed 27-28 octobre",
+  "valeur": "28",
+  "extrait": "October 27-28 Statement: PDF",
+  "media": "HTML Implementation Note Press Conference",
+  "titre": "Federal Reserve",
+  "url": "Meeting calendars and information",
+  "date": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm"
+ },
+ {
+  "affirmation": "Exemple TMI en décimal",
+  "valeur": "0,30",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "BOFiP § 340 obligation de location",
+  "valeur": "340",
+  "extrait": "340 Lorsqu'un contribuable, propriétaire d'un immeuble, impute un déficit foncier sur son revenu global au titre d'une année, l'immeuble doit être affecté à la location jusqu'au 31 décembre de la troisième année qui suit l'imputation.",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "BOFiP § 370 remise en cause",
+  "valeur": "370",
+  "extrait": "370 Lorsque cette condition n'a pas été respectée, et sauf application de l'une des exceptions visées au I-C-2-b § 380 à 440 , l'imputation du déficit foncier sur le revenu global est remise en cause",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Recul anticipations soutient l'or",
+  "valeur": "supporting gold",
+  "extrait": "A slight pullback in rate hike expectations improved the appeal of non-yielding assets, supporting gold.",
+  "media": "Kitco News (Reuters)",
+  "titre": "Gold edges lower again as dollar, yields strengthen; US midterms in focus",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-03/gold-edges-lower-again-dollar-yields-strengthen-us-midterms-focus",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Période dépenses 21 400 €",
+  "valeur": "31 décembre 2025",
+  "extrait": "s'applique à raison des dépenses de rénovation énergétique pour lesquelles le contribuable justifie de l'acceptation d'un devis intervenue à compter du 5 novembre 2022 et qui sont payées entre le 1 er janvier 2023 et le 31 décembre 2025",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Location effective et permanente",
+  "valeur": "effective et permanente",
+  "extrait": "350 Cette obligation suppose que la location soit effective et permanente.",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Reconstitution trois années",
+  "valeur": "trois années",
+  "extrait": "le revenu global et les revenus fonciers des trois années qui précèdent l'année de cessation de la location sont reconstitués",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Exceptions légales",
+  "valeur": "invalidité",
+  "extrait": "Conformément aux dispositions du 3° du I de l'article 156 du CGI , aucune remise en cause de l'imputation du déficit sur le revenu global n'est effectuée dans les trois situations suivantes. a° Invalidité",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ },
+ {
+  "affirmation": "Exceptions § 380 à 440",
+  "valeur": "380 à 440",
+  "extrait": "sauf application de l'une des exceptions visées au I-C-2-b § 380 à 440",
+  "media": "BOFiP",
+  "titre": "BOI-RFPI-BASE-30-20 Modalités d'imputation des déficits fonciers",
+  "url": "https://bofip.impots.gouv.fr/bofip/4142-PGP.html/identifiant=BOI-RFPI-BASE-30-20-20250916",
+  "date": "2025-09-16"
+ }
+]
