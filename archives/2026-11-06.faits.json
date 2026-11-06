@@ -1,0 +1,1199 @@
+[
+ {
+  "affirmation": "CAC 40 clôture 5/11",
+  "valeur": "8 205,37",
+  "extrait": "CAC 40 ; 8 205,37 pts ; +0,34 % sur la séance ; clôture du 05/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "0,34",
+  "extrait": "Le CAC 40 « a gagné 0,34%, préservant le seuil des 8.200 points, à 8.205,37 points, à la clôture de ce jeudi 5 novembre. »",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : La débâcle des valeurs liées à l'IA fait chuter le Nasdaq de 4%, le CAC 40 résiste au-dessus des 8.200 points",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "7,353.73",
+  "extrait": "The S&P 500 dropped 4.36% to end at 7,353.73.",
+  "media": "CNBC",
+  "titre": "Stock market news for Nov. 5, 2026",
+  "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "4,36",
+  "extrait": "S&P 500 ; 7 353,73 pts ; -4,36 % sur la séance ; clôture du 05/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "24,315.00",
+  "extrait": "The Nasdaq Composite declined 5.52% to close at 24,315.00.",
+  "media": "CNBC",
+  "titre": "Stock market news for Nov. 5, 2026",
+  "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "5,52",
+  "extrait": "Nasdaq Composite ; 24 315,00 pts ; -5,52 % sur la séance ; clôture du 05/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Euro Stoxx 50",
+  "valeur": "6 231,54",
+  "extrait": "Euro Stoxx 50 ; 6 231,54 pts ; -0,55 % sur la séance ; clôture du 05/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "0,55",
+  "extrait": "Euro Stoxx 50 ; 6 231,54 pts ; -0,55 % sur la séance ; clôture du 05/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "4 113,00",
+  "extrait": "Or (contrat déc. 2026) ; 4 113,00 $/once ; +0,98 % sur la séance ; cours du 05/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "0,98",
+  "extrait": "Or (contrat déc. 2026) ; 4 113,00 $/once ; +0,98 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Brent",
+  "valeur": "98,30",
+  "extrait": "Brent (contrat janv. 2027) ; 98,30 $/baril ; +3,85 % sur la séance ; cours du 05/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Brent variation",
+  "valeur": "3,85",
+  "extrait": "Brent (contrat janv. 2027) ; 98,30 $/baril ; +3,85 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Contrat Brent janv 2027",
+  "valeur": "2027",
+  "extrait": "Brent (contrat janv. 2027)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Bitcoin",
+  "valeur": "75 966,71",
+  "extrait": "Bitcoin ; 75 966,71 $ ; -5,55 % sur la séance ; clôture du 05/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "5,55",
+  "extrait": "Bitcoin ; 75 966,71 $ ; -5,55 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Heure 24 h UTC",
+  "valeur": "24",
+  "extrait": "clôture du 05/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "EUR/USD BCE",
+  "valeur": "1,1224",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1224 ; -0,38 % sur la séance ; taux du 05/11/2026",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar américain",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "0,38",
+  "extrait": "1,1224 ; -0,38 % sur la séance",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar américain",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "OAT 10 ans 5/11",
+  "valeur": "4,75",
+  "extrait": "The French 10-year OAT yields 4.75%, versus 3.27% for the German Bund.",
+  "media": "Idéal Investisseur",
+  "titre": "OAT / Bund spread today: 148.2 bps as of Nov 5, 2026",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Bund 10 ans 5/11",
+  "valeur": "3,27",
+  "extrait": "The French 10-year OAT yields 4.75%, versus 3.27% for the German Bund.",
+  "media": "Idéal Investisseur",
+  "titre": "OAT / Bund spread today: 148.2 bps as of Nov 5, 2026",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "OAT/Bund 4/11",
+  "valeur": "4,88",
+  "extrait": "Nov 4, 2026 ; 4.88% ; 3.32% ; 156.0",
+  "media": "Idéal Investisseur",
+  "titre": "OAT / Bund spread today: 148.2 bps as of Nov 5, 2026",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Bund 4/11",
+  "valeur": "3,32",
+  "extrait": "Nov 4, 2026 ; 4.88% ; 3.32% ; 156.0",
+  "media": "Idéal Investisseur",
+  "titre": "OAT / Bund spread today: 148.2 bps as of Nov 5, 2026",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Spread 5/11",
+  "valeur": "148,2",
+  "extrait": "As of Nov 5, 2026, the OAT / Bund spread stands at 148.2 basis points, down 7.8 bps from the previous session",
+  "media": "Idéal Investisseur",
+  "titre": "OAT / Bund spread today: 148.2 bps as of Nov 5, 2026",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Spread 4/11",
+  "valeur": "156,0",
+  "extrait": "Nov 4, 2026 ; 4.88% ; 3.32% ; 156.0",
+  "media": "Idéal Investisseur",
+  "titre": "OAT / Bund spread today: 148.2 bps as of Nov 5, 2026",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Variation OAT en pb",
+  "valeur": "13",
+  "extrait": "calcul",
+  "media": "calcul : 4,88 - 4,75 = 0,13 point = 13 pb",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Variation Bund en pb",
+  "valeur": "5",
+  "extrait": "calcul",
+  "media": "calcul : 3,32 - 3,27 = 0,05 point = 5 pb",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Air France-KLM",
+  "valeur": "12,06",
+  "extrait": "Le groupe aérien franco-néerlandais bondit de 12,06% à 12,63 euros, après un troisième trimestre particulièrement solide.",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 résiste, Air France-KLM s'envole : le journal de la bourse du jeudi 5 novembre",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111137/le-cac-40-resiste-air-france-klm-s-envole-le-journal-de-la-bourse-du-jeudi-5-novembre",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "STMicro",
+  "valeur": "9,3",
+  "extrait": "Ce recul explique les difficultés de Soitec (-16,7%) et de STMicroelectronics (-9,3%).",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : La débâcle des valeurs liées à l'IA fait chuter le Nasdaq de 4%, le CAC 40 résiste au-dessus des 8.200 points",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "S&P à la clôture européenne",
+  "valeur": "2,8",
+  "extrait": "Le Dow Jones « abandonne 2,1% » et le S&P 500 « recule de 2,8% » à la clôture des marchés européens.",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : La débâcle des valeurs liées à l'IA fait chuter le Nasdaq de 4%, le CAC 40 résiste au-dessus des 8.200 points",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-la-debacle-des-valeurs-liees-a-l-ia-fait-chuter-le-nasdaq-de-4-le-cac-40-resiste-au-dessus-des-8200-points-1173263.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Broadcom et Nvidia",
+  "valeur": "10",
+  "extrait": "Chipmakers Broadcom and Nvidia respectively fell 10% and 9% Thursday.",
+  "media": "CNBC",
+  "titre": "Stock market news for Nov. 5, 2026",
+  "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Nvidia",
+  "valeur": "9",
+  "extrait": "Chipmakers Broadcom and Nvidia respectively fell 10% and 9% Thursday.",
+  "media": "CNBC",
+  "titre": "Stock market news for Nov. 5, 2026",
+  "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Cause : data centers",
+  "valeur": "data-center",
+  "extrait": "fears of a data-center buildout slowdown",
+  "media": "CNBC",
+  "titre": "Stock market news for Nov. 5, 2026",
+  "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "VIX",
+  "valeur": "28,09",
+  "extrait": "[The VIX] briefly climbed to 28.09 Thursday, its highest level since March 31.",
+  "media": "CNBC",
+  "titre": "Stock market news for Nov. 5, 2026",
+  "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "VIX date",
+  "valeur": "31",
+  "extrait": "its highest level since March 31",
+  "media": "CNBC",
+  "titre": "Stock market news for Nov. 5, 2026",
+  "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "FedWatch décembre",
+  "valeur": "70,1",
+  "extrait": "have fallen to 70.1%, down from 82.7% on Wednesday",
+  "media": "CNBC",
+  "titre": "Stock market news for Nov. 5, 2026",
+  "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "FedWatch veille",
+  "valeur": "82,7",
+  "extrait": "have fallen to 70.1%, down from 82.7% on Wednesday",
+  "media": "CNBC",
+  "titre": "Stock market news for Nov. 5, 2026",
+  "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Semi-conducteurs SOX",
+  "valeur": "12",
+  "extrait": "PHLX Semiconductor (SOX): plummeted 12%",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Dow plunges 1,800 points, Nasdaq enters correction in AI trade meltdown",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Nasdaq en correction",
+  "valeur": "correction",
+  "extrait": "Nasdaq Composite: fell 5.5%, closing in correction territory",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Dow plunges 1,800 points, Nasdaq enters correction in AI trade meltdown",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "McElligott Nomura",
+  "valeur": "generals",
+  "extrait": "Nomura's Charlie McElligott wrote, \"They're shooting the generals.\"",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Dow plunges 1,800 points, Nasdaq enters correction in AI trade meltdown",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Sénat et Fed",
+  "valeur": "Fed",
+  "extrait": "Democrats' Senate control \"effectively blocks President Trump's campaign to reshape the Federal Reserve.\" UBS's Jonathan Pingle noted that Democrats would need to approve any new Fed governors.",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Dow plunges 1,800 points, Nasdaq enters correction in AI trade meltdown",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-november-5-dow-sp-500-nasdaq-plunge-chip-stocks-melt-down-193726491.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Or et taux US",
+  "valeur": "Treasury",
+  "extrait": "lower Treasury yields supporting metals on Thursday",
+  "media": "CNBC",
+  "titre": "Stock market news for Nov. 5, 2026",
+  "url": "https://www.cnbc.com/2026/11/04/stock-market-today-live-updates.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BoE taux",
+  "valeur": "4",
+  "extrait": "The Bank raised its key rate by 25 basis points \"to 4%.\"",
+  "media": "CNBC",
+  "titre": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BoE vote",
+  "valeur": "8",
+  "extrait": "The motion passed \"by 8 votes to 1.\" The dissenter wanted a 50-basis-point hike.",
+  "media": "CNBC",
+  "titre": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BoE taux précédent",
+  "valeur": "3,75",
+  "extrait": "The Bank of England raised Bank Rate on 5 November 2026, from 3.75% to 4%",
+  "media": "Yahoo Finance (Bloomberg)",
+  "titre": "United Bank of England Hikes Rates With Inflation Headed to 4.9%",
+  "url": "https://finance.yahoo.com/economy/policy/articles/united-bank-england-hikes-rates-121323521.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BoE dissidente",
+  "valeur": "4,25",
+  "extrait": "Catherine Mann, voted for a hike of 0.5 percentage points to 4.25%",
+  "media": "Yahoo Finance (Bloomberg)",
+  "titre": "United Bank of England Hikes Rates With Inflation Headed to 4.9%",
+  "url": "https://finance.yahoo.com/economy/policy/articles/united-bank-england-hikes-rates-121323521.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BoE première hausse",
+  "valeur": "2023",
+  "extrait": "It was the bank's first hike since \"Aug. 2023.\"",
+  "media": "CNBC",
+  "titre": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BoE inflation septembre",
+  "valeur": "3,5",
+  "extrait": "Annual inflation rose to 3.5% in September, driven by motor fuel costs.",
+  "media": "CNBC",
+  "titre": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BoE prévision",
+  "valeur": "5",
+  "extrait": "Policymakers expect inflation to rise to \"about 5%\" by the middle of 2027.",
+  "media": "CNBC",
+  "titre": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Lagarde décembre",
+  "valeur": "December",
+  "extrait": "\"We will have many indicators between now and December that will really help us determine whether a hike is necessary\"",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "ECB's Lagarde says data will tell if December rate hike needed",
+  "url": "https://finance.yahoo.com/economy/policy/articles/ecb-looking-indicators-see-december-170613489.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Taux de dépôt BCE",
+  "valeur": "2,5",
+  "extrait": "It held rates steady in October, keeping the key deposit rate at 2.5%.",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "ECB's Lagarde says data will tell if December rate hike needed",
+  "url": "https://finance.yahoo.com/economy/policy/articles/ecb-looking-indicators-see-december-170613489.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Inflation zone euro octobre",
+  "valeur": "4",
+  "extrait": "Euro zone inflation rose to 4% in October, a three-year high, driven mainly by food and energy costs.",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "ECB's Lagarde says data will tell if December rate hike needed",
+  "url": "https://finance.yahoo.com/economy/policy/articles/ecb-looking-indicators-see-december-170613489.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Hausse 17 décembre à 2,75",
+  "valeur": "2,75",
+  "extrait": "three sources said a hike on December 17, which would take the ECB's deposit rate to 2.75%, was all but certain",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "ECB's Lagarde says data will tell if December rate hike needed",
+  "url": "https://finance.yahoo.com/economy/policy/articles/ecb-looking-indicators-see-december-170613489.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Date 17 décembre",
+  "valeur": "17",
+  "extrait": "a hike on December 17",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "ECB's Lagarde says data will tell if December rate hike needed",
+  "url": "https://finance.yahoo.com/economy/policy/articles/ecb-looking-indicators-see-december-170613489.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Lagarde départ",
+  "valeur": "7",
+  "extrait": "Lagarde will step down early, on February 7, 2027",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "ECB's Lagarde says data will tell if December rate hike needed",
+  "url": "https://finance.yahoo.com/economy/policy/articles/ecb-looking-indicators-see-december-170613489.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Rejet PLF 2027 date",
+  "valeur": "4 novembre 2026",
+  "extrait": "Deuxième séance du mercredi 4 novembre 2026",
+  "media": "Assemblée nationale",
+  "titre": "Analyse du scrutin n°9759 - 17e législature - Assemblée nationale",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Scrutin numéro",
+  "valeur": "9759",
+  "extrait": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
+  "media": "Assemblée nationale",
+  "titre": "Analyse du scrutin n°9759 - 17e législature - Assemblée nationale",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Scrutin contre",
+  "valeur": "458",
+  "extrait": "Contre : 458",
+  "media": "Assemblée nationale",
+  "titre": "Analyse du scrutin n°9759 - 17e législature - Assemblée nationale",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Scrutin pour",
+  "valeur": "0",
+  "extrait": "Pour l'adoption : 0",
+  "media": "Assemblée nationale",
+  "titre": "Analyse du scrutin n°9759 - 17e législature - Assemblée nationale",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Scrutin abstention",
+  "valeur": "2",
+  "extrait": "Abstention : 2",
+  "media": "Assemblée nationale",
+  "titre": "Analyse du scrutin n°9759 - 17e législature - Assemblée nationale",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Article 119 du Règlement",
+  "valeur": "119",
+  "extrait": "est considéré comme rejeté en première lecture en application du troisième alinéa de l'article 119 du Règlement",
+  "media": "Assemblée nationale",
+  "titre": "Rejet, en première lecture, du projet de loi de finances pour 2027",
+  "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Pretto 15 ans",
+  "valeur": "3,56",
+  "extrait": "15 ans : 3,56 % ; 20 ans : 3,69 % ; 25 ans : 3,76 % ; « En hausse » ; Taux fixes négociés par Pretto constatés le 02/11/2026",
+  "media": "Pretto",
+  "titre": "Taux immobilier : baromètre des taux actuels",
+  "url": "https://www.pretto.fr/taux-immobilier/",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Pretto 20 ans",
+  "valeur": "3,69",
+  "extrait": "20 ans : 3,69 %",
+  "media": "Pretto",
+  "titre": "Taux immobilier : baromètre des taux actuels",
+  "url": "https://www.pretto.fr/taux-immobilier/",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Pretto 25 ans",
+  "valeur": "3,76",
+  "extrait": "25 ans : 3,76 %",
+  "media": "Pretto",
+  "titre": "Taux immobilier : baromètre des taux actuels",
+  "url": "https://www.pretto.fr/taux-immobilier/",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Pretto date relevé",
+  "valeur": "02/11/2026",
+  "extrait": "Taux fixes négociés par Pretto constatés le 02/11/2026",
+  "media": "Pretto",
+  "titre": "Taux immobilier : baromètre des taux actuels",
+  "url": "https://www.pretto.fr/taux-immobilier/",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "Exonération dons logement dates",
+  "valeur": "31 décembre 2026",
+  "extrait": "Les dons de somme d'argent faits entre le 15 février 2025 et le 31 décembre 2026 dans le cadre familial",
+  "media": "impots.gouv.fr",
+  "titre": "Que puis-je donner à mes enfants, petits-enfants sans avoir à payer de droits ?",
+  "url": "https://www.impots.gouv.fr/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exonération dons plafonds",
+  "valeur": "300 000",
+  "extrait": "sont exonérés jusqu’à 100 000 € par donateur, avec un plafond global de 300 000 € par donataire.",
+  "media": "impots.gouv.fr",
+  "titre": "Que puis-je donner à mes enfants, petits-enfants sans avoir à payer de droits ?",
+  "url": "https://www.impots.gouv.fr/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exonération dons délai",
+  "valeur": "6",
+  "extrait": "Le donataire doit utiliser les fonds au plus tard le dernier jour du 6ᵉ mois suivant le versement",
+  "media": "impots.gouv.fr",
+  "titre": "Que puis-je donner à mes enfants, petits-enfants sans avoir à payer de droits ?",
+  "url": "https://www.impots.gouv.fr/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Abattement 100 000",
+  "valeur": "100 000",
+  "extrait": "Chaque parent peut donner jusqu’à 100 000 € à chaque enfant sans payer de droits.",
+  "media": "impots.gouv.fr",
+  "titre": "Que puis-je donner à mes enfants, petits-enfants sans avoir à payer de droits ?",
+  "url": "https://www.impots.gouv.fr/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Abattement 15 ans",
+  "valeur": "15",
+  "extrait": "L’abattement de 100 000 € peut être utilisé tous les 15 ans en une fois ou en plusieurs dons.",
+  "media": "impots.gouv.fr",
+  "titre": "Que puis-je donner à mes enfants, petits-enfants sans avoir à payer de droits ?",
+  "url": "https://www.impots.gouv.fr/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Iran pétroliers",
+  "valeur": "two oil tankers",
+  "extrait": "Iran's Revolutionary Guard Corps said \"two oil tankers and a tugboat caught fire in separate incidents\" after attempting to use unauthorised routes through the Strait of Hormuz.",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "UKMTO cinq navires",
+  "valeur": "five",
+  "extrait": "UKMTO said at least five vessels had reported incidents since Sunday.",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Chute de plus de 8 % la veille",
+  "valeur": "8",
+  "extrait": "On Wednesday, both benchmarks tumbled more than 8% to their lowest settlement levels since August 31.",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Eurasia frappes",
+  "valeur": "60",
+  "extrait": "Eurasia Group, however, lowered its estimate for the chance of renewed US strikes on Iran to 60% from 65%.",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Eurasia frappes avant",
+  "valeur": "65",
+  "extrait": "to 60% from 65%",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Eurasia accord",
+  "valeur": "10",
+  "extrait": "It also cut the probability of a deal to 10% from 20%",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Eurasia accord avant",
+  "valeur": "20",
+  "extrait": "to 10% from 20%",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Eurasia escalade",
+  "valeur": "110",
+  "extrait": "any escalation in the conflict could push Brent into a $110 to $125 per barrel range",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Eurasia escalade haut",
+  "valeur": "125",
+  "extrait": "$110 to $125 per barrel range",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Araqchi",
+  "valeur": "Araqchi",
+  "extrait": "Iran's Foreign Minister Abbas Araqchi discussed the \"latest progress\" in diplomatic efforts, in separate calls with his Saudi and Qatari counterparts.",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Staunovo UBS",
+  "valeur": "Staunovo",
+  "extrait": "Giovanni Staunovo, commodity analyst at UBS, said: \"The situation in the Middle East is still unresolved and that's why there is some modest recovery in prices at the moment.\"",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Agenda 8h Allemagne",
+  "valeur": "08h00",
+  "extrait": "08h00 : Production industrielle (mensuel) (Allemagne)",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Agenda Macro Zonebourse : le 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-6-novembre-2026-4d9afb8bbe9846d2b0da75f81b17e4f1",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Agenda 8h45 France",
+  "valeur": "08h45",
+  "extrait": "08h45 : Balance commerciale (France)",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Agenda Macro Zonebourse : le 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-6-novembre-2026-4d9afb8bbe9846d2b0da75f81b17e4f1",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Agenda 11h zone euro",
+  "valeur": "11h00",
+  "extrait": "11h00 : Ventes au détail (mensuel) (Zone Euro)",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Agenda Macro Zonebourse : le 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-6-novembre-2026-4d9afb8bbe9846d2b0da75f81b17e4f1",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Agenda 14h30 emploi US",
+  "valeur": "14h30",
+  "extrait": "14h30 : Créations d'emplois dans le secteur non agricole (États-Unis) ; 8 h 30 à New York = 14 h 30 à Paris",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Agenda Macro Zonebourse : le 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-6-novembre-2026-4d9afb8bbe9846d2b0da75f81b17e4f1",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Agenda 16h Michigan",
+  "valeur": "16h00",
+  "extrait": "16h00 : Indice Michigan de confiance des consommateurs prél (États-Unis)",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Agenda Macro Zonebourse : le 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-6-novembre-2026-4d9afb8bbe9846d2b0da75f81b17e4f1",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Résultats du jour",
+  "valeur": "Getlink",
+  "extrait": "Getlink SE ; Pasqal Holding SA ; HEXAOM ; Daimler Truck Holding AG ; Enbridge Inc. ; Moderna, Inc.",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Agenda Zonebourse des résultats de sociétés : le 6 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-zonebourse-des-resultats-de-societes-le-6-novembre-2026-aec8234ea1fd37154f949269797b27a0",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Consensus NFP",
+  "valeur": "59,000",
+  "extrait": "Economists are looking for a meager nonfarm payrolls gain of 59,000",
+  "media": "CNBC",
+  "titre": "The October jobs report is out Friday. Here's everything to expect",
+  "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Consensus chômage",
+  "valeur": "4,2",
+  "extrait": "the unemployment rate will hold at a very low 4.2% rate",
+  "media": "CNBC",
+  "titre": "The October jobs report is out Friday. Here's everything to expect",
+  "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "NFP septembre",
+  "valeur": "29,000",
+  "extrait": "a slight uptick from the 29,000 jobs produced in September",
+  "media": "CNBC",
+  "titre": "The October jobs report is out Friday. Here's everything to expect",
+  "url": "https://www.cnbc.com/2026/11/05/october-jobs-report-preview.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Art. 669 barème moins de 21 ans",
+  "valeur": "90",
+  "extrait": "Moins de 21 ans révolus : usufruit 90 %, nue-propriété 10 %",
+  "media": "Légifrance",
+  "titre": "Article 669 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310173/",
+  "date": "2003-12-31"
+ },
+ {
+  "affirmation": "Art. 669 barème 21 ans NP",
+  "valeur": "10",
+  "extrait": "Moins de 21 ans révolus : usufruit 90 %, nue-propriété 10 %",
+  "media": "Légifrance",
+  "titre": "Article 669 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310173/",
+  "date": "2003-12-31"
+ },
+ {
+  "affirmation": "Art. 669 barème moins de 71 ans",
+  "valeur": "60",
+  "extrait": "« 71 ans révolus » ; « 40 % » (usufruit) ; « 60 % » (nue-propriété)",
+  "media": "Légifrance",
+  "titre": "Article 669 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310173/",
+  "date": "2003-12-31"
+ },
+ {
+  "affirmation": "Art. 669 usufruit moins de 71 ans",
+  "valeur": "40",
+  "extrait": "« 71 ans révolus » « 40 % » (usufruit) « 60 % » (nue-propriété)",
+  "media": "Légifrance",
+  "titre": "Article 669 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310173/",
+  "date": "2003-12-31"
+ },
+ {
+  "affirmation": "Art. 669 moins de 81 ans NP",
+  "valeur": "70",
+  "extrait": "Moins de 81 ans révolus : usufruit 30 %, nue-propriété 70 %",
+  "media": "Légifrance",
+  "titre": "Article 669 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310173/",
+  "date": "2003-12-31"
+ },
+ {
+  "affirmation": "Art. 669 moins de 91 ans NP",
+  "valeur": "80",
+  "extrait": "Moins de 91 ans révolus : usufruit 20 %, nue-propriété 80 %",
+  "media": "Légifrance",
+  "titre": "Article 669 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310173/",
+  "date": "2003-12-31"
+ },
+ {
+  "affirmation": "Art. 669 plus de 91 ans",
+  "valeur": "91",
+  "extrait": "Plus de 91 ans révolus : usufruit 10 %, nue-propriété 90 %",
+  "media": "Légifrance",
+  "titre": "Article 669 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310173/",
+  "date": "2003-12-31"
+ },
+ {
+  "affirmation": "Art. 669 II durée fixe",
+  "valeur": "23",
+  "extrait": "II. L'usufruit constitué pour une durée fixe est estimé aux deux dixièmes ... 23 % de la valeur de la propriété entière pour chaque période de dix ans de la durée de l'usufruit, sans fraction et sans égard à l'âge de l'usufruitier",
+  "media": "Légifrance / BOFiP",
+  "titre": "BOI-ENR-DMTG-10-40-10-50 § 70",
+  "url": "https://bofip.impots.gouv.fr/bofip/2323-PGP.html/identifiant=BOI-ENR-DMTG-10-40-10-50-20131223",
+  "date": "2013-12-23"
+ },
+ {
+  "affirmation": "Art. 669 version",
+  "valeur": "31 décembre 2003",
+  "extrait": "En vigueur depuis le 31 décembre 2003",
+  "media": "Légifrance",
+  "titre": "Article 669 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310173/",
+  "date": "2003-12-31"
+ },
+ {
+  "affirmation": "Art. 669 usufruits ouverts",
+  "valeur": "mutation",
+  "extrait": "seuls les usufruits ouverts au jour de la mutation de cette nue-propriété sont pris en compte",
+  "media": "Légifrance",
+  "titre": "Article 669 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310173/",
+  "date": "2003-12-31"
+ },
+ {
+  "affirmation": "Art. 1133",
+  "valeur": "1133",
+  "extrait": "Sous réserve des dispositions de l'article 1020, la réunion de l'usufruit à la nue-propriété ne donne ouverture à aucun impôt ou taxe lorsque cette réunion a lieu par l'expiration du temps fixé pour l'usufruit ou par le décès de l'usufruitier. (article 1133)",
+  "media": "Légifrance",
+  "titre": "Article 1133 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305932",
+  "date": "1979-07-01"
+ },
+ {
+  "affirmation": "Art. 1133 réserve 1020",
+  "valeur": "1020",
+  "extrait": "Sous réserve des dispositions de l'article 1020",
+  "media": "Légifrance",
+  "titre": "Article 1133 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305932",
+  "date": "1979-07-01"
+ },
+ {
+  "affirmation": "Barème ligne directe tranche 1",
+  "valeur": "8 072",
+  "extrait": "Jusqu'à 8 072 € : 5 %",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Barème tranche 2",
+  "valeur": "12 109",
+  "extrait": "De 8 072 € à 12 109 € : 10 %",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Barème tranche 3",
+  "valeur": "15 932",
+  "extrait": "De 12 109 € à 15 932 € : 15 %",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Barème tranche 4",
+  "valeur": "552 324",
+  "extrait": "De 15 932 € à 552 324 € : 20 %",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Taux 20 %",
+  "valeur": "20",
+  "extrait": "De 15 932 € à 552 324 € : 20 %",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Abattement 15 ans même donateur",
+  "valeur": "15 ans",
+  "extrait": "Ces abattements concernent les donations consenties par un même donateur à un même donataire sur une période de 15 ans.",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : valeur bien",
+  "valeur": "400 000",
+  "extrait": "calcul",
+  "media": "calcul : hypothèse pédagogique, bien de 400 000 €",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : NP 60 %",
+  "valeur": "240 000",
+  "extrait": "calcul",
+  "media": "calcul : 400 000 × 0,60 = 240 000",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : taxable",
+  "valeur": "140 000",
+  "extrait": "calcul",
+  "media": "calcul : 240 000 - 100 000 = 140 000",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : tranche 1",
+  "valeur": "403,60",
+  "extrait": "calcul",
+  "media": "calcul : 8 072 × 0,05 = 403,60",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : tranche 2 base",
+  "valeur": "4 037",
+  "extrait": "calcul",
+  "media": "calcul : 12 109 - 8 072 = 4 037 ; 4 037 × 0,10 = 403,70",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : tranche 2",
+  "valeur": "403,70",
+  "extrait": "calcul",
+  "media": "calcul : 4 037 × 0,10 = 403,70",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : tranche 3 base",
+  "valeur": "3 823",
+  "extrait": "calcul",
+  "media": "calcul : 15 932 - 12 109 = 3 823 ; 3 823 × 0,15 = 573,45",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : tranche 3",
+  "valeur": "573,45",
+  "extrait": "calcul",
+  "media": "calcul : 3 823 × 0,15 = 573,45",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : tranche 4 base",
+  "valeur": "124 068",
+  "extrait": "calcul",
+  "media": "calcul : 140 000 - 15 932 = 124 068",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : tranche 4",
+  "valeur": "24 813,60",
+  "extrait": "calcul",
+  "media": "calcul : 124 068 × 0,20 = 24 813,60",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : total",
+  "valeur": "26 194,35",
+  "extrait": "calcul",
+  "media": "calcul : 403,60 + 403,70 + 573,45 + 24 813,60 = 26 194,35",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : pleine propriété",
+  "valeur": "58 194,35",
+  "extrait": "calcul",
+  "media": "calcul : 300 000 taxables ; 1 380,75 + 284 068 × 0,20 = 58 194,35",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : NP 70 %",
+  "valeur": "280 000",
+  "extrait": "calcul",
+  "media": "calcul : 400 000 × 0,70 = 280 000",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : droits à 71 ans",
+  "valeur": "34 194,35",
+  "extrait": "calcul",
+  "media": "calcul : 180 000 taxables ; 1 380,75 + 164 068 × 0,20 = 34 194,35",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Exemple : écart",
+  "valeur": "8 000",
+  "extrait": "calcul",
+  "media": "calcul : 34 194,35 - 26 194,35 = 8 000",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Question : NP 80 % de 300 000",
+  "valeur": "300 000",
+  "extrait": "calcul",
+  "media": "calcul : 300 000 × 0,80 = 240 000 ; 240 000 - 100 000 = 140 000 ; droits 26 194,35",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Âge exemple mère",
+  "valeur": "70",
+  "extrait": "calcul",
+  "media": "calcul : hypothèse pédagogique, usufruitière de 70 ans (moins de 71 ans révolus)",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Âge question père",
+  "valeur": "81",
+  "extrait": "calcul",
+  "media": "calcul : hypothèse pédagogique, usufruitier de 81 ans (moins de 91 ans révolus)",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Article 669 du CGI",
+  "valeur": "669",
+  "extrait": "Article 669 - Code général des impôts - Légifrance",
+  "media": "Légifrance",
+  "titre": "Article 669 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006310173/",
+  "date": "2003-12-31"
+ },
+ {
+  "affirmation": "Consensus NFP en français",
+  "valeur": "59 000",
+  "extrait": "calcul",
+  "media": "conversion : 59,000 = 59 000",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "NFP septembre en français",
+  "valeur": "29 000",
+  "extrait": "calcul",
+  "media": "conversion : 29,000 = 29 000",
+  "titre": "calcul",
+  "url": "",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Brent règlement officiel",
+  "valeur": "98,29",
+  "extrait": "Brent crude futures rose 3.8% to close at $98.29 a barrel.",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Brent variation règlement",
+  "valeur": "3,8",
+  "extrait": "Brent crude futures rose 3.8% to close at $98.29 a barrel.",
+  "media": "CNBC",
+  "titre": "Oil jumps as investors assess Iran war future, tanker attacks",
+  "url": "https://www.cnbc.com/2026/11/05/oil-falls-for-a-fourth-day-on-expectations-for-lower-risk-of-iran-war-escalation.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Pretto profil",
+  "valeur": "80 000 à 120 000",
+  "extrait": "Taux fixes négociés par Pretto constatés le 02/11/2026, pour des couples gagnant 80 000 à 120 000 €",
+  "media": "Pretto",
+  "titre": "Taux immobilier : baromètre des taux actuels",
+  "url": "https://www.pretto.fr/taux-immobilier/",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "790 A bis résidence principale cinq ans",
+  "valeur": "cinq ans",
+  "extrait": "Le logement rénové doit rester la résidence principale du donataire pendant cinq ans à compter de la fin des travaux.",
+  "media": "impots.gouv.fr",
+  "titre": "Que puis-je donner à mes enfants, petits-enfants sans avoir à payer de droits ?",
+  "url": "https://www.impots.gouv.fr/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Art. 751 présomption",
+  "valeur": "751",
+  "extrait": "Article 751 - Code général des impôts : donation régulière consentie « plus de trois mois avant le décès »",
+  "media": "Légifrance",
+  "titre": "Article 751 - Code général des impôts - Légifrance",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027517865",
+  "date": "2013-06-07"
+ }
+]
