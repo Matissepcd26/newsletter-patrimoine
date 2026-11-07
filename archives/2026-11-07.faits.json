@@ -1,0 +1,1253 @@
+[
+ {
+  "affirmation": "CAC 40 clôture 6/11",
+  "valeur": "8 139,00",
+  "extrait": "CAC 40 ; 8 139,00 pts ; +2,13 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "CAC 40 semaine",
+  "valeur": "+2,13",
+  "extrait": "CAC 40 ; 8 139,00 pts ; +2,13 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "CAC 40 vendredi",
+  "valeur": "0,81",
+  "extrait": "le CAC 40 a cédé 0,81%, à 8.139 points",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : Malgré des chiffres de l'emploi américain solides et un sursaut du Nasdaq, le CAC 40 recule",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-solides-et-un-sursaut-du-nasdaq-le-cac-40-finit-la-semaine-en-baisse-1173355.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "TP chute",
+  "valeur": "15,3",
+  "extrait": "TP (-15,3%) a été lourdement sanctionné au lendemain de son alerte sur son chiffre d'affaires",
+  "media": "Zonebourse",
+  "titre": "CAC 40 : La Bourse de Paris termine en baisse, Wall Street ne rassure qu'à moitié",
+  "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-termine-en-baisse-wall-street-ne-rassure-qu-a-moitie-ce785fd2da81f12d",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "CAC 35 valeurs en baisse",
+  "valeur": "35",
+  "extrait": "Thirty-five CAC 40 stocks were in negative territory (35 valeurs du CAC 40 en baisse)",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : Malgré des chiffres de l'emploi américain solides et un sursaut du Nasdaq, le CAC 40 recule",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-solides-et-un-sursaut-du-nasdaq-le-cac-40-finit-la-semaine-en-baisse-1173355.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "7 376,86",
+  "extrait": "S&P 500 ; 7 376,86 pts ; -2,68 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 semaine",
+  "valeur": "-2,68",
+  "extrait": "S&P 500 ; 7 376,86 pts ; -2,68 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 vendredi",
+  "valeur": "0,31",
+  "extrait": "S&P 500: 7,376.86, up 23.13 (+0.31%)",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P pire semaine depuis juin",
+  "valeur": "juin",
+  "extrait": "But it wasn't enough to stave off the S&P 500's worst weekly performance since June (juin)",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "24 579,43",
+  "extrait": "Nasdaq Composite ; 24 579,43 pts ; -3,37 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Nasdaq semaine",
+  "valeur": "-3,37",
+  "extrait": "Nasdaq Composite ; 24 579,43 pts ; -3,37 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Nasdaq vendredi",
+  "valeur": "1,09",
+  "extrait": "Nasdaq Composite: 24,579.42, up 264.43 (+1.09%)",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Tech et énergie semaine",
+  "valeur": "7",
+  "extrait": "Technology (XLK) and Energy (XLE) fell 7% and 11% for the week",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "3000 milliards jeudi",
+  "valeur": "3",
+  "extrait": "About $3 trillion in stock market value disappeared in a single session",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "3 000 milliards (conversion)",
+  "valeur": "3 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "conversion de « $3 trillion » en milliards",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture",
+  "valeur": "6 170,49",
+  "extrait": "Euro Stoxx 50 ; 6 170,49 pts ; +0,64 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 semaine",
+  "valeur": "+0,64",
+  "extrait": "Euro Stoxx 50 ; 6 170,49 pts ; +0,64 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "EUR/USD BCE 6/11",
+  "valeur": "1,1165",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1165 ; -0,06 % sur la semaine ; taux du 06/11/2026 ; 6 November: 1.1165",
+  "media": "BCE",
+  "titre": "US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "EUR/USD semaine",
+  "valeur": "-0,06",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1165 ; -0,06 % sur la semaine ; taux du 06/11/2026",
+  "media": "BCE",
+  "titre": "US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "OAT 10 ans 6/11",
+  "valeur": "4,763",
+  "extrait": "06/11/2026 ; 4,763 ; 4,774 ; 4,823 ; 4,751 ; -0.36%",
+  "media": "Investing.com",
+  "titre": "France 10 ans Données Historiques sur les Obligations",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "OAT 10 ans 30/10",
+  "valeur": "4,973",
+  "extrait": "30/10/2026 ; 4,973 ; 4,946 ; 4,992 ; 4,908 ; +1.29%",
+  "media": "Investing.com",
+  "titre": "France 10 ans Données Historiques sur les Obligations",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "OAT arrondi",
+  "valeur": "4,76",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4,763 arrondi à deux décimales",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "OAT variation semaine",
+  "valeur": "21",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4,763 - 4,973 = -0,210 point, soit -21 pb",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bund 10 ans 6/11",
+  "valeur": "3,2537",
+  "extrait": "06/11/2026 ; 3,2537 ; 3,2268 ; 3,2649 ; 3,2075 ; +0.22%",
+  "media": "Investing.com",
+  "titre": "Allemagne 10 ans Données Historiques sur les Obligations",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bund 10 ans 30/10",
+  "valeur": "3,3185",
+  "extrait": "30/10/2026 ; 3,3185 ; 3,3303 ; 3,3618 ; 3,3048 ; -1.11%",
+  "media": "Investing.com",
+  "titre": "Allemagne 10 ans Données Historiques sur les Obligations",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bund arrondi",
+  "valeur": "3,25",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "3,2537 arrondi à deux décimales",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bund variation semaine",
+  "valeur": "6,5",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "3,2537 - 3,3185 = -0,0648 point, soit -6,5 pb",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Spread OAT-Bund",
+  "valeur": "151",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4,763 - 3,2537 = 1,5093 point, soit 151 pb",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "4 075,80",
+  "extrait": "Or (contrat déc. 2026) ; 4 075,80 $/once ; +4,53 % sur la semaine ; cours du 06/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Or semaine",
+  "valeur": "+4,53",
+  "extrait": "Or (contrat déc. 2026) ; 4 075,80 $/once ; +4,53 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Brent cours 14h30",
+  "valeur": "98,35",
+  "extrait": "Brent (contrat janv. 2027) ; 98,35 $/baril ; -13,27 % sur la semaine ; cours du 06/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Brent semaine",
+  "valeur": "-13,27",
+  "extrait": "Brent (contrat janv. 2027) ; 98,35 $/baril ; -13,27 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Brent règlement CNBC",
+  "valeur": "98,32",
+  "extrait": "International benchmark Brent crude futures added 3 cents to close at $98.32 per barrel.",
+  "media": "CNBC",
+  "titre": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
+  "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Rapidan 80 % reprise combats",
+  "valeur": "80",
+  "extrait": "put the odds of \"a resumption of military fighting\" at 80%",
+  "media": "CNBC",
+  "titre": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
+  "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Rapidan 100 $",
+  "valeur": "100",
+  "extrait": "Renewed U.S.-Iran tension could push oil past $100",
+  "media": "CNBC",
+  "titre": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
+  "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Iran proposition via Qatar",
+  "valeur": "Qatar",
+  "extrait": "Reuters reported that Iran sent a nuclear proposal to Washington through Qatar, citing a senior Iranian official",
+  "media": "CNBC",
+  "titre": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
+  "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Iran sept exigences",
+  "valeur": "seven",
+  "extrait": "Tehran described \"seven demands\" as preconditions",
+  "media": "CNBC",
+  "titre": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
+  "url": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Iran sept (fr)",
+  "valeur": "sept",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "traduction de « seven demands »",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bitcoin clôture",
+  "valeur": "75 731,04",
+  "extrait": "Bitcoin ; 75 731,04 $ ; -1,88 % sur la semaine ; clôture du 06/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bitcoin semaine",
+  "valeur": "-1,88",
+  "extrait": "Bitcoin ; 75 731,04 $ ; -1,88 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Emploi US octobre",
+  "valeur": "165",
+  "extrait": "Total nonfarm payroll employment rose by 165,000 in October",
+  "media": "BLS",
+  "titre": "The Employment Situation - October 2026",
+  "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Emploi US (format)",
+  "valeur": "165 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "165,000 écrit à la française",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Chômage US",
+  "valeur": "4,1",
+  "extrait": "the unemployment rate changed little at 4.1 percent",
+  "media": "BLS",
+  "titre": "The Employment Situation - October 2026",
+  "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Septembre révisé",
+  "valeur": "60",
+  "extrait": "September was revised up by 31,000, from +29,000 to +60,000",
+  "media": "BLS",
+  "titre": "The Employment Situation - October 2026",
+  "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Septembre révisé (format)",
+  "valeur": "60 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "+60,000 écrit à la française",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Salaire horaire",
+  "valeur": "0,4",
+  "extrait": "average hourly earnings for all employees on private nonfarm payrolls increased by 14 cents, or 0.4 percent, to $38.00",
+  "media": "BLS",
+  "titre": "The Employment Situation - October 2026",
+  "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Consensus Reuters",
+  "valeur": "65",
+  "extrait": "Economists polled by Reuters had forecast payrolls advancing 65,000",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "Strong October jobs report sends yields higher",
+  "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Consensus (format)",
+  "valeur": "65 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "65,000 écrit à la française",
+  "url": "",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Paris de hausse Fed",
+  "valeur": "78",
+  "extrait": "Bets that the Fed will raise rates next month rose to 78% following the data from 70% earlier.",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "Strong October jobs report sends yields higher",
+  "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Paris de hausse Fed avant",
+  "valeur": "70",
+  "extrait": "Bets that the Fed will raise rates next month rose to 78% following the data from 70% earlier.",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "Strong October jobs report sends yields higher",
+  "url": "https://finance.yahoo.com/economy/policy/articles/strong-october-jobs-report-sends-134858909.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Réunion Fed décembre",
+  "valeur": "8-9",
+  "extrait": "December 8-9*",
+  "media": "Federal Reserve",
+  "titre": "The Fed - Meeting calendars and information",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "BoE hausse",
+  "valeur": "4",
+  "extrait": "raising its key rate by 25 basis points to 4%",
+  "media": "CNBC",
+  "titre": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BoE vote",
+  "valeur": "8 votes to 1",
+  "extrait": "with the motion passing by 8 votes to 1",
+  "media": "CNBC",
+  "titre": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BoE dissident",
+  "valeur": "4.25",
+  "extrait": "The dissenting member voted to raise the bank's key interest rate by 50 basis points to 4.25%",
+  "media": "CNBC",
+  "titre": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BoE première hausse depuis",
+  "valeur": "2023",
+  "extrait": "The widely anticipated move marked the bank's first hike since Aug. 2023",
+  "media": "CNBC",
+  "titre": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BoE inflation 5 % mi-2027",
+  "valeur": "5",
+  "extrait": "Policymakers said they now expected U.K. inflation to rise to \"about 5%\" by the middle of 2027",
+  "media": "CNBC",
+  "titre": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+  "url": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Inflation zone euro octobre",
+  "valeur": "4,0",
+  "extrait": "Euro area annual inflation is expected to be 4.0% in October 2026, up from 3.8% in September.",
+  "media": "Eurostat",
+  "titre": "Euro area annual inflation up to 4.0%",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Inflation zone euro septembre",
+  "valeur": "3,8",
+  "extrait": "Euro area annual inflation is expected to be 4.0% in October 2026, up from 3.8% in September.",
+  "media": "Eurostat",
+  "titre": "Euro area annual inflation up to 4.0%",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Énergie zone euro",
+  "valeur": "20,8",
+  "extrait": "energy is expected to have the highest annual rate in October (20.8%, compared with 18.9% in September)",
+  "media": "Eurostat",
+  "titre": "Euro area annual inflation up to 4.0%",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Hors énergie alimentation",
+  "valeur": "2,5",
+  "extrait": "All-items excluding: energy, food, alcohol & tobacco : 2.5 (October), 2.5 (September)",
+  "media": "Eurostat",
+  "titre": "Euro area annual inflation up to 4.0%",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Lagarde décembre",
+  "valeur": "décembre",
+  "extrait": "We will have many indicators between now and December that will really help us determine whether a hike is necessary (décembre)",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "ECB's Lagarde says data will tell if December rate hike needed",
+  "url": "https://finance.yahoo.com/economy/policy/articles/ecb-looking-indicators-see-december-170613489.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Lagarde énergie",
+  "valeur": "energy",
+  "extrait": "It's predominantly energy",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "ECB's Lagarde says data will tell if December rate hike needed",
+  "url": "https://finance.yahoo.com/economy/policy/articles/ecb-looking-indicators-see-december-170613489.html",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Taux de dépôt BCE",
+  "valeur": "2,50",
+  "extrait": "Deposit facility 2.50, with effect from 16 Sep. 2026",
+  "media": "BCE",
+  "titre": "Key ECB interest rates",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Taux de dépôt BCE date",
+  "valeur": "16",
+  "extrait": "Deposit facility 2.50, with effect from 16 Sep. 2026",
+  "media": "BCE",
+  "titre": "Key ECB interest rates",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Scrutin PLF contre",
+  "valeur": "458",
+  "extrait": "Votants 460 ; Pour 0 ; Contre 458 ; Abstention 2 ; L'Assemblée nationale n'a pas adopté",
+  "media": "Assemblée nationale",
+  "titre": "Analyse du scrutin n°9759 - 17e législature",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Scrutin numéro",
+  "valeur": "9759",
+  "extrait": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture).",
+  "media": "Assemblée nationale",
+  "titre": "Analyse du scrutin n°9759 - 17e législature",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Scrutin pour",
+  "valeur": "0",
+  "extrait": "Votants 460 ; Pour 0 ; Contre 458 ; Abstention 2",
+  "media": "Assemblée nationale",
+  "titre": "Analyse du scrutin n°9759 - 17e législature",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Article 119 rejet total",
+  "valeur": "119",
+  "extrait": "troisième alinéa de l'article 119 du Règlement ; L'Assemblée nationale n'ayant pas adopté la première partie du projet de loi",
+  "media": "Assemblée nationale",
+  "titre": "Rejet, en première lecture, du projet de loi de finances pour 2027",
+  "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Sénat PLF 20 novembre",
+  "valeur": "20 novembre",
+  "extrait": "20 novembre : début de l'examen du projet de loi de finances (PLF) dans l'hémicycle du Sénat.",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 et budget de la Sécu : les dates clés et les nouveaux enjeux du calendrier",
+  "url": "https://moneyvox.fr/votre-argent/actualites/111123/budget-2027-et-budget-de-la-secu-les-dates-cles-et-les-nouveaux-enjeux-du-calendrier",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Sénat vote 9 décembre",
+  "valeur": "9 décembre",
+  "extrait": "9 décembre : vote solennel au Sénat sur l'ensemble du PLF.",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 et budget de la Sécu : les dates clés et les nouveaux enjeux du calendrier",
+  "url": "https://moneyvox.fr/votre-argent/actualites/111123/budget-2027-et-budget-de-la-secu-les-dates-cles-et-les-nouveaux-enjeux-du-calendrier",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Délai 70 jours",
+  "valeur": "70",
+  "extrait": "Le jeudi 17 décembre expire à minuit le délai de 70 jours d'examen au Parlement.",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 et budget de la Sécu : les dates clés et les nouveaux enjeux du calendrier",
+  "url": "https://moneyvox.fr/votre-argent/actualites/111123/budget-2027-et-budget-de-la-secu-les-dates-cles-et-les-nouveaux-enjeux-du-calendrier",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Délai 17 décembre",
+  "valeur": "17 décembre",
+  "extrait": "Le jeudi 17 décembre expire à minuit le délai de 70 jours d'examen au Parlement.",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 et budget de la Sécu : les dates clés et les nouveaux enjeux du calendrier",
+  "url": "https://moneyvox.fr/votre-argent/actualites/111123/budget-2027-et-budget-de-la-secu-les-dates-cles-et-les-nouveaux-enjeux-du-calendrier",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Ordonnance",
+  "valeur": "ordonnance",
+  "extrait": "le gouvernement peut procéder par ordonnance, pour faire passer le texte sans vote, mais il n'en a pas l'obligation.",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 et budget de la Sécu : les dates clés et les nouveaux enjeux du calendrier",
+  "url": "https://moneyvox.fr/votre-argent/actualites/111123/budget-2027-et-budget-de-la-secu-les-dates-cles-et-les-nouveaux-enjeux-du-calendrier",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "PLFSS Sénat 9-18 novembre",
+  "valeur": "9",
+  "extrait": "Le Sénat examine le budget en séance du 9 au 18 novembre 2026 ; vote solennel sur l'ensemble du texte le 18 novembre",
+  "media": "MoneyVox",
+  "titre": "Désindexation des retraites dès 1 400 euros de pension : ce que propose le Sénat pour le budget Sécu 2027",
+  "url": "https://www.moneyvox.fr/retraite/actualites/111102/desindexation-des-retraites-des-1-400-euros-de-pension-ce-que-propose-le-senat-pour-le-budget-secu-2027",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "PLFSS vote 18 novembre",
+  "valeur": "18",
+  "extrait": "vote solennel sur l'ensemble du texte le 18 novembre",
+  "media": "MoneyVox",
+  "titre": "Désindexation des retraites dès 1 400 euros de pension : ce que propose le Sénat pour le budget Sécu 2027",
+  "url": "https://www.moneyvox.fr/retraite/actualites/111102/desindexation-des-retraites-des-1-400-euros-de-pension-ce-que-propose-le-senat-pour-le-budget-secu-2027",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Livret A fourchette",
+  "valeur": "25 et 30 000",
+  "extrait": "une fourchette entre 25 et 30 000 euros",
+  "media": "MoneyVox",
+  "titre": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "url": "https://www.moneyvox.fr/livret-a/actualites/111094/entre-25-000-et-30-000-euros-le-plafond-du-livret-a-va-etre-releve-en-fevrier-2027",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A fourchette (titre)",
+  "valeur": "25 000",
+  "extrait": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "media": "MoneyVox",
+  "titre": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "url": "https://www.moneyvox.fr/livret-a/actualites/111094/entre-25-000-et-30-000-euros-le-plafond-du-livret-a-va-etre-releve-en-fevrier-2027",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A 30 000",
+  "valeur": "30 000",
+  "extrait": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "media": "MoneyVox",
+  "titre": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "url": "https://www.moneyvox.fr/livret-a/actualites/111094/entre-25-000-et-30-000-euros-le-plafond-du-livret-a-va-etre-releve-en-fevrier-2027",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A taux février projection",
+  "valeur": "2,50",
+  "extrait": "passer à 2,50%, voire un peu plus, en février",
+  "media": "MoneyVox",
+  "titre": "Entre 25 000 et 30 000 euros : le plafond du Livret A va être relevé en février 2027",
+  "url": "https://www.moneyvox.fr/livret-a/actualites/111094/entre-25-000-et-30-000-euros-le-plafond-du-livret-a-va-etre-releve-en-fevrier-2027",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A plafond actuel",
+  "valeur": "22 950",
+  "extrait": "Le montant maximum d'épargne inscrit sur le livret A est de 22 950 €.",
+  "media": "Service-public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365",
+  "date": "2026-08-01"
+ },
+ {
+  "affirmation": "Livret A taux actuel",
+  "valeur": "1,7",
+  "extrait": "Le taux d'intérêt annuel du livret A est de 1,7 %.",
+  "media": "Service-public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365",
+  "date": "2026-08-01"
+ },
+ {
+  "affirmation": "Livret A taux jusqu'au 31 janvier",
+  "valeur": "31 janvier 2027",
+  "extrait": "Taux d'intérêt pour la période du 1er août 2026 au 31 janvier 2027",
+  "media": "Service-public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365",
+  "date": "2026-08-01"
+ },
+ {
+  "affirmation": "Midterms Chambre",
+  "valeur": "245",
+  "extrait": "The desk projects Democrats will win at least 245 House seats.",
+  "media": "CNBC",
+  "titre": "Midterm Election Day recap: Democrats flip Senate and House in stunning victory",
+  "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Midterms Sénat bascule",
+  "valeur": "Senate",
+  "extrait": "Democrats' epic night led to projected victories in the House and Senate",
+  "media": "CNBC",
+  "titre": "Midterm Election Day recap: Democrats flip Senate and House in stunning victory",
+  "url": "https://www.cnbc.com/2026/11/03/midterm-elections-2026-live-updates.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "CPI US 10 novembre",
+  "valeur": "Nov. 10, 2026 08:30 AM",
+  "extrait": "October 2026 Nov. 10, 2026 08:30 AM",
+  "media": "BLS",
+  "titre": "Schedule of Releases for the Consumer Price Index",
+  "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "CPI heure Paris",
+  "valeur": "14 h 30",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "HEURES_NY : 8 h 30 à New York = 14 h 30 à Paris",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "790 A bis plafond donateur",
+  "valeur": "100 000",
+  "extrait": "dans la double limite de 100 000 euros par un même donateur à un même donataire",
+  "media": "Légifrance",
+  "titre": "Article 790 A bis - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203670",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "790 A bis plafond donataire",
+  "valeur": "300 000",
+  "extrait": "et de 300 000 euros par donataire si ces sommes sont affectées par ce dernier",
+  "media": "Légifrance",
+  "titre": "Article 790 A bis - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203670",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "790 A bis délai six mois",
+  "valeur": "sixième mois",
+  "extrait": "au plus tard le dernier jour du sixième mois suivant le versement",
+  "media": "Légifrance",
+  "titre": "Article 790 A bis - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203670",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "790 A bis cinq ans",
+  "valeur": "cinq ans",
+  "extrait": "pendant une durée de cinq ans à compter de la date d'acquisition de l'immeuble",
+  "media": "Légifrance",
+  "titre": "Article 790 A bis - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203670",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "790 A bis échéance",
+  "valeur": "31 décembre 2026",
+  "extrait": "et le 31 décembre 2026",
+  "media": "Légifrance",
+  "titre": "Article 790 A bis - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203670",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "790 A bis neuf ou VEFA",
+  "valeur": "neuf",
+  "extrait": "acquis neuf ou en l'état futur d'achèvement",
+  "media": "Légifrance",
+  "titre": "Article 790 A bis - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051203670",
+  "date": "2025-02-16"
+ },
+ {
+  "affirmation": "790 A bis début",
+  "valeur": "15 février 2025",
+  "extrait": "faits entre le 15 février 2025 et le 31 décembre 2026",
+  "media": "impots.gouv.fr",
+  "titre": "Que puis-je donner à mes enfants, petits-enfants sans avoir à payer de droits ?",
+  "url": "https://www.impots.gouv.fr/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "790 A bis bénéficiaires",
+  "valeur": "petit-enfant",
+  "extrait": "au profit d'un enfant, d'un petit-enfant, d'un arrière-petit-enfant ou, en l'absence d'une telle descendance",
+  "media": "BOFiP",
+  "titre": "ENR - Mutations à titre gratuit de meubles ou d'immeubles - Donations - Régimes spéciaux et exonérations - Exonérations",
+  "url": "https://bofip.impots.gouv.fr/doctrine/pgp/3362-PGP",
+  "date": "2025-09-04"
+ },
+ {
+  "affirmation": "790 A bis construction exclue",
+  "valeur": "construction",
+  "extrait": "l'affectation des sommes reçues à la construction par le donataire de sa résidence principale n'est pas visée",
+  "media": "BOFiP",
+  "titre": "ENR - Mutations à titre gratuit de meubles ou d'immeubles - Donations - Régimes spéciaux et exonérations - Exonérations",
+  "url": "https://bofip.impots.gouv.fr/doctrine/pgp/3362-PGP",
+  "date": "2025-09-04"
+ },
+ {
+  "affirmation": "790 A bis fraction affectée",
+  "valeur": "fraction",
+  "extrait": "seule la fraction du don effectivement affectée à cette acquisition ou à ces travaux peut bénéficier de l'exonération",
+  "media": "BOFiP",
+  "titre": "ENR - Mutations à titre gratuit de meubles ou d'immeubles - Donations - Régimes spéciaux et exonérations - Exonérations",
+  "url": "https://bofip.impots.gouv.fr/doctrine/pgp/3362-PGP",
+  "date": "2025-09-04"
+ },
+ {
+  "affirmation": "790 A bis excédent droit commun",
+  "valeur": "abattements",
+  "extrait": "bénéficier des dispositions de droit commun en matière d'abattements",
+  "media": "BOFiP",
+  "titre": "ENR - Mutations à titre gratuit de meubles ou d'immeubles - Donations - Régimes spéciaux et exonérations - Exonérations",
+  "url": "https://bofip.impots.gouv.fr/doctrine/pgp/3362-PGP",
+  "date": "2025-09-04"
+ },
+ {
+  "affirmation": "790 A bis sanction",
+  "valeur": "intérêt de retard",
+  "extrait": "If the conditions are not met, the donee or their successors become liable for the additional duties, plus late-payment interest (droits complémentaires et intérêt de retard, § 990)",
+  "media": "BOFiP",
+  "titre": "ENR - Mutations à titre gratuit de meubles ou d'immeubles - Donations - Régimes spéciaux et exonérations - Exonérations",
+  "url": "https://bofip.impots.gouv.fr/doctrine/pgp/3362-PGP",
+  "date": "2025-09-04"
+ },
+ {
+  "affirmation": "790 A bis don avant achat",
+  "valeur": "sixième mois",
+  "extrait": "au plus tard le dernier jour du sixième mois suivant le versement",
+  "media": "BOFiP",
+  "titre": "ENR - Mutations à titre gratuit de meubles ou d'immeubles - Donations - Régimes spéciaux et exonérations - Exonérations",
+  "url": "https://bofip.impots.gouv.fr/doctrine/pgp/3362-PGP",
+  "date": "2025-09-04"
+ },
+ {
+  "affirmation": "790 A bis pas d'âge",
+  "valeur": "790 A bis",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "BOFiP § 730-1000 : aucune condition d'âge (relevé par lecture)",
+  "url": "",
+  "date": "2025-09-04"
+ },
+ {
+  "affirmation": "790 G plafond",
+  "valeur": "31 865",
+  "extrait": "dans la limite de 31 865 € tous les quinze ans",
+  "media": "Légifrance",
+  "titre": "Article 790 G - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048838931",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "790 G âge donateur",
+  "valeur": "quatre-vingts ans",
+  "extrait": "moins de quatre-vingts ans au jour de la transmission",
+  "media": "Légifrance",
+  "titre": "Article 790 G - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048838931",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "790 G 80 ans",
+  "valeur": "80",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "quatre-vingts ans en chiffres",
+  "url": "",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "790 G majeur",
+  "valeur": "dix-huit ans",
+  "extrait": "est âgé de dix-huit ans révolus",
+  "media": "Légifrance",
+  "titre": "Article 790 G - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048838931",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "790 G 18 ans",
+  "valeur": "18",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "dix-huit ans en chiffres",
+  "url": "",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "790 G cumul 779",
+  "valeur": "779",
+  "extrait": "les abattements prévus aux I, II et V de l'article 779",
+  "media": "Légifrance",
+  "titre": "Article 790 G - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048838931",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "790 G déclaration un mois",
+  "valeur": "un mois",
+  "extrait": "dans le délai d'un mois qui suit la date du don",
+  "media": "Légifrance",
+  "titre": "Article 790 G - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048838931",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "790 G quinze ans",
+  "valeur": "quinze ans",
+  "extrait": "tous les quinze ans",
+  "media": "Légifrance",
+  "titre": "Article 790 G - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048838931",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "Abattement enfant 100 000",
+  "valeur": "100 000",
+  "extrait": "Chaque parent peut donner jusqu'à 100 000 € à chaque enfant sans payer de droits.",
+  "media": "impots.gouv.fr",
+  "titre": "Que puis-je donner à mes enfants, petits-enfants sans avoir à payer de droits ?",
+  "url": "https://www.impots.gouv.fr/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Abattement 15 ans",
+  "valeur": "15",
+  "extrait": "Ces abattements concernent les donations consenties par un même donateur à un même donataire sur une période de 15 ans.",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Abattement petits-enfants",
+  "valeur": "31 865",
+  "extrait": "Les donations consenties aux petits-enfants bénéficient d'un abattement de 31 865 €.",
+  "media": "impots.gouv.fr",
+  "titre": "Que puis-je donner à mes enfants, petits-enfants sans avoir à payer de droits ?",
+  "url": "https://www.impots.gouv.fr/particulier/questions/que-puis-je-donner-mes-enfants-petits-enfants-sans-avoir-payer-de-droits",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Barème 5 %",
+  "valeur": "8 072",
+  "extrait": "N'excédant pas 8 072 € : 5 %",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Barème 10 %",
+  "valeur": "12 109",
+  "extrait": "Compris entre 8 072 et 12 109 € : 10 %",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Barème 15 %",
+  "valeur": "15 932",
+  "extrait": "Compris entre 12 109 et 15 932 € : 15 %",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Barème 20 %",
+  "valeur": "20",
+  "extrait": "Compris entre 15 932 et 552 324 € : 20 %",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Barème 20 % plafond",
+  "valeur": "552 324",
+  "extrait": "Compris entre 15 932 et 552 324 € : 20 %",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul et paiement des droits",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-et-paiement-des-droits",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul don",
+  "valeur": "250 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "don de l'exemple",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul excédent",
+  "valeur": "150 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "250 000 - 100 000 = 150 000",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul après 790 G",
+  "valeur": "118 135",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "150 000 - 31 865 = 118 135",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul taxable",
+  "valeur": "18 135",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "118 135 - 100 000 = 18 135",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul tranche 1",
+  "valeur": "403,60",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "8 072 x 5 % = 403,60",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul tranche 2",
+  "valeur": "4 037",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "12 109 - 8 072 = 4 037",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul tranche 2 droits",
+  "valeur": "403,70",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4 037 x 10 % = 403,70",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul tranche 3",
+  "valeur": "3 823",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "15 932 - 12 109 = 3 823",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul tranche 3 droits",
+  "valeur": "573,45",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "3 823 x 15 % = 573,45",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul tranche 4",
+  "valeur": "2 203",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "18 135 - 15 932 = 2 203",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul tranche 4 droits",
+  "valeur": "440,60",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2 203 x 20 % = 440,60",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul total droits",
+  "valeur": "1 821,35",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "403,60 + 403,70 + 573,45 + 440,60 = 1 821,35",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul sans 790 A bis tranche 4",
+  "valeur": "102 203",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "118 135 - 15 932 = 102 203",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul sans 790 A bis tranche 4 droits",
+  "valeur": "20 440,60",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "102 203 x 20 % = 20 440,60",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul sans 790 A bis total",
+  "valeur": "21 821,35",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "403,60 + 403,70 + 573,45 + 20 440,60 = 21 821,35",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Calcul économie",
+  "valeur": "20 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "21 821,35 - 1 821,35 = 20 000",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Question : don 150 000",
+  "valeur": "150 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "don de la question",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Question : taxable",
+  "valeur": "18 135",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "150 000 - 100 000 - 31 865 = 18 135",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Exemple âges",
+  "valeur": "62",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "âge choisi pour l'exemple",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Exemple âges fils",
+  "valeur": "34",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "âge choisi pour l'exemple",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Exemple prix logement",
+  "valeur": "320 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "prix choisi pour l'exemple",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Question âges",
+  "valeur": "82",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "âge choisi pour la question",
+  "url": "",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Question âges petit-fils",
+  "valeur": "27",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "âge choisi pour la question",
+  "url": "",
+  "date": "2026-11-07"
+ }
+]
