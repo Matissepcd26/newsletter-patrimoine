@@ -1,0 +1,1145 @@
+[
+ {
+  "affirmation": "CAC 40 clôture 6 novembre",
+  "valeur": "8 139,00",
+  "extrait": "CAC 40 ; 8 139,00 pts ; +2,13 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "CAC 40 variation semaine",
+  "valeur": "+2,13 %",
+  "extrait": "CAC 40 ; 8 139,00 pts ; +2,13 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "CAC 40 séance vendredi",
+  "valeur": "-0,81",
+  "extrait": "Dernier cours 8 139,00 Pts Variation -0,81% (-66,37 points) 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours (recoupé Boursorama)",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "7 376,86",
+  "extrait": "S&P 500 ; 7 376,86 pts ; -2,68 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 semaine",
+  "valeur": "-2,68 %",
+  "extrait": "S&P 500 ; 7 376,86 pts ; -2,68 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 pire semaine depuis avril 2025",
+  "valeur": "2,68",
+  "extrait": "That 2.68% fall was its worst Friday-to-Friday week since the week ending April 4, 2025",
+  "media": "Yahoo Finance (24/7 Wall St.)",
+  "titre": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-just-had-worst-173339298.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "S&P 500 chute jeudi 5 novembre",
+  "valeur": "4,36",
+  "extrait": "Midterm results set off heavy selling in AI stocks, and the S&P 500 fell 4.36%",
+  "media": "Yahoo Finance (24/7 Wall St.)",
+  "titre": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-just-had-worst-173339298.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Indice des semi-conducteurs semaine",
+  "valeur": "12,15",
+  "extrait": "The Philadelphia Semiconductor Index fell 12.15% that week",
+  "media": "Yahoo Finance (24/7 Wall St.)",
+  "titre": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-just-had-worst-173339298.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "S&P 500 vendredi",
+  "valeur": "+0,31",
+  "extrait": "S&P 500: 7,376.86, up 23.13 points (+0.31%)",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Nasdaq vendredi",
+  "valeur": "+1,09",
+  "extrait": "Nasdaq: 24,579.42, up 264.43 points (+1.09%)",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "24 579,43",
+  "extrait": "Nasdaq Composite ; 24 579,43 pts ; -3,37 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Nasdaq semaine",
+  "valeur": "-3,37 %",
+  "extrait": "Nasdaq Composite ; 24 579,43 pts ; -3,37 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Nasdaq quatrième baisse hebdomadaire",
+  "valeur": "3,37",
+  "extrait": "The Nasdaq Composite fell 3.37% for its own fourth straight weekly loss.",
+  "media": "Yahoo Finance (24/7 Wall St.)",
+  "titre": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-just-had-worst-173339298.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture",
+  "valeur": "6 170,49",
+  "extrait": "Euro Stoxx 50 ; 6 170,49 pts ; +0,64 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 semaine",
+  "valeur": "+0,64 %",
+  "extrait": "Euro Stoxx 50 ; 6 170,49 pts ; +0,64 % sur la semaine ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "EUR/USD BCE",
+  "valeur": "1,1165",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1165 ; -0,06 % sur la semaine ; taux du 06/11/2026",
+  "media": "BCE",
+  "titre": "Taux de référence de l'euro",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "EUR/USD semaine",
+  "valeur": "-0,06 %",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1165 ; -0,06 % sur la semaine ; taux du 06/11/2026",
+  "media": "BCE",
+  "titre": "Taux de référence de l'euro",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Dollar plus haut depuis le 29 octobre",
+  "valeur": "0,7",
+  "extrait": "The dollar rose 0.7% to its highest level since October 29",
+  "media": "CNBC (Reuters)",
+  "titre": "Gold drops 1% as strong U.S payrolls boost dollar, yields",
+  "url": "https://www.cnbc.com/2026/11/06/gold-eases-on-inflation-worries-from-higher-oil-us-payrolls-data-in-focus.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "OAT 10 ans dernier relevé 5 novembre",
+  "valeur": "4,75",
+  "extrait": "FRA BENCHMARK 10A 4,752 % -3,3 BP ... 5 November 05-11 Der. 4,752 Var. -3,3 BP",
+  "media": "Boursorama",
+  "titre": "FRA BENCHMARK 10A",
+  "url": "https://www.boursorama.com/bourse/taux/cours/2xFRABM10A/",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "OAT variation séance 5 novembre",
+  "valeur": "-3,3",
+  "extrait": "FRA BENCHMARK 10A 4,752 % -3,3 BP",
+  "media": "Boursorama",
+  "titre": "FRA BENCHMARK 10A",
+  "url": "https://www.boursorama.com/bourse/taux/cours/2xFRABM10A/",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Bund 10 ans 6 novembre",
+  "valeur": "3,26",
+  "extrait": "DEU BENCHMARK 10A 3,26 +0,31% ... ALLEMAGNE BENCHMARK 10A 3,258 % +1,0 BP",
+  "media": "Boursorama",
+  "titre": "DEU BENCHMARK 10A",
+  "url": "https://www.boursorama.com/bourse/taux/cours/2xDEUBM10A/",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bund variation semaine",
+  "valeur": "-3,2",
+  "extrait": "Variation sur 5 jours : -3,2 BP ... 1 semaine -3,2 BP",
+  "media": "Boursorama",
+  "titre": "DEU BENCHMARK 10A",
+  "url": "https://www.boursorama.com/bourse/taux/cours/2xDEUBM10A/",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bund 5 novembre (écart OAT-Bund)",
+  "valeur": "3,248",
+  "extrait": "clôture veille 3,248",
+  "media": "Boursorama",
+  "titre": "DEU BENCHMARK 10A",
+  "url": "https://www.boursorama.com/bourse/taux/cours/2xDEUBM10A/",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Or contrat décembre",
+  "valeur": "4 075,80",
+  "extrait": "Or (contrat déc. 2026) ; 4 075,80 $/once ; +4,53 % sur la semaine ; cours du 06/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Or semaine",
+  "valeur": "+4,53 %",
+  "extrait": "Or (contrat déc. 2026) ; 4 075,80 $/once ; +4,53 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Brent contrat janvier",
+  "valeur": "98,35",
+  "extrait": "Brent (contrat janv. 2027) ; 98,35 $/baril ; -13,27 % sur la semaine ; cours du 06/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Brent semaine",
+  "valeur": "-13,27 %",
+  "extrait": "Brent (contrat janv. 2027) ; 98,35 $/baril ; -13,27 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Brent règlement officiel",
+  "valeur": "98,32",
+  "extrait": "Brent crude futures added 3 cents to close at $98.32 per barrel.",
+  "media": "CNBC",
+  "titre": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
+  "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Brent baisse hebdo selon CNBC",
+  "valeur": "16",
+  "extrait": "Brent fell more than 16% for the week",
+  "media": "CNBC",
+  "titre": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
+  "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Rapidan probabilité reprise combats",
+  "valeur": "80",
+  "extrait": "sees an 80% probability of military fighting resuming",
+  "media": "CNBC",
+  "titre": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
+  "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bitcoin clôture",
+  "valeur": "75 753,96",
+  "extrait": "Bitcoin ; 75 753,96 $ ; -2,17 % sur la semaine ; clôture du 07/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Bitcoin semaine",
+  "valeur": "-2,17 %",
+  "extrait": "Bitcoin ; 75 753,96 $ ; -2,17 % sur la semaine ; clôture du 07/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "BCE taux inchangés 29 octobre",
+  "valeur": "2,50",
+  "extrait": "Les taux d'intérêt de la facilité de dépôt, des opérations principales de refinancement et de la facilité de prêt marginal resteront inchangés, à respectivement 2,50 %, 2,65 % et 2,90 %.",
+  "media": "Banque de France (BCE)",
+  "titre": "Décisions de politique monétaire",
+  "url": "https://www.banque-france.fr/system/files/2026-10/Decisions_de_politique_monetaire_29-10.pdf",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE taux refi",
+  "valeur": "2,65",
+  "extrait": "à respectivement 2,50 %, 2,65 % et 2,90 %",
+  "media": "Banque de France (BCE)",
+  "titre": "Décisions de politique monétaire",
+  "url": "https://www.banque-france.fr/system/files/2026-10/Decisions_de_politique_monetaire_29-10.pdf",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE taux prêt marginal",
+  "valeur": "2,90",
+  "extrait": "à respectivement 2,50 %, 2,65 % et 2,90 %",
+  "media": "Banque de France (BCE)",
+  "titre": "Décisions de politique monétaire",
+  "url": "https://www.banque-france.fr/system/files/2026-10/Decisions_de_politique_monetaire_29-10.pdf",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE objectif inflation",
+  "valeur": "2 %",
+  "extrait": "assurer la stabilisation de l'inflation au niveau de son objectif de 2 % à moyen terme",
+  "media": "Banque de France (BCE)",
+  "titre": "Décisions de politique monétaire",
+  "url": "https://www.banque-france.fr/system/files/2026-10/Decisions_de_politique_monetaire_29-10.pdf",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE choc énergétique",
+  "valeur": "énergie",
+  "extrait": "Les prix de l'énergie ont continué d'augmenter, faisant peser des risques à la hausse sur les perspectives d'inflation et des risques à la baisse sur les perspectives de croissance.",
+  "media": "Banque de France (BCE)",
+  "titre": "Décisions de politique monétaire",
+  "url": "https://www.banque-france.fr/system/files/2026-10/Decisions_de_politique_monetaire_29-10.pdf",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Fed taux maintenus 28 octobre",
+  "valeur": "3-3/4 to 4",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed vote 10 contre 2",
+  "valeur": "10 – 2",
+  "extrait": "The Federal Open Market Committee approved the following statement for release by a 10 – 2 vote",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed dissidents hausse 1/4 point",
+  "valeur": "1/4",
+  "extrait": "Voting against the monetary policy action were Lisa D. Cook and Beth M. Hammack, who preferred to raise the target range for the federal funds rate by 1/4 percentage point",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed objectif 2 %",
+  "valeur": "2 percent",
+  "extrait": "ensure a timely return of inflation to the Committee's 2 percent goal",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Prochaine réunion Fed 8-9 décembre",
+  "valeur": "December 8-9",
+  "extrait": "October 27-28 Statement ... December 8-9*",
+  "media": "Federal Reserve",
+  "titre": "Meeting calendars and information",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Emplois US octobre",
+  "valeur": "165,000",
+  "extrait": "Total nonfarm payroll employment rose by 165,000 in October, and the unemployment rate changed little at 4.1 percent",
+  "media": "BLS",
+  "titre": "Employment Situation Summary",
+  "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Chômage US",
+  "valeur": "4.1",
+  "extrait": "the unemployment rate changed little at 4.1 percent",
+  "media": "BLS",
+  "titre": "Employment Situation Summary",
+  "url": "https://www.bls.gov/news.release/empsit.nr0.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Consensus emplois",
+  "valeur": "65,000",
+  "extrait": "Payrolls rose by 165,000 in October, well above economists' expectations of roughly 65,000 to 70,000.",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Consensus emplois haut",
+  "valeur": "70,000",
+  "extrait": "well above economists' expectations of roughly 65,000 to 70,000",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "FedWatch hausse décembre",
+  "valeur": "74,8",
+  "extrait": "Traders currently see a 74.8% chance that the Fed will raise rates in December.",
+  "media": "CNBC (Reuters, CME FedWatch)",
+  "titre": "Gold drops 1% as strong U.S payrolls boost dollar, yields",
+  "url": "https://www.cnbc.com/2026/11/06/gold-eases-on-inflation-worries-from-higher-oil-us-payrolls-data-in-focus.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "FedWatch avant emploi",
+  "valeur": "72,8",
+  "extrait": "up from 72.8% before the payrolls report",
+  "media": "CNBC (Reuters, CME FedWatch)",
+  "titre": "Gold drops 1% as strong U.S payrolls boost dollar, yields",
+  "url": "https://www.cnbc.com/2026/11/06/gold-eases-on-inflation-worries-from-higher-oil-us-payrolls-data-in-focus.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "CPI US octobre publié 10 novembre 8h30",
+  "valeur": "Nov. 10, 2026",
+  "extrait": "October 2026 Nov. 10, 2026 08:30 AM",
+  "media": "BLS",
+  "titre": "Schedule of Releases for the Consumer Price Index",
+  "url": "https://www.bls.gov/schedule/news_release/cpi.htm",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Inflation France octobre provisoire",
+  "valeur": "3,4",
+  "extrait": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an - Informations rapides - 266",
+  "url": "https://www.insee.fr/fr/statistiques/9107965",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "IPCH France octobre",
+  "valeur": "3,8",
+  "extrait": "Sur un an, l'indice des prix à la consommation harmonisé augmenterait de 3,8 % en octobre 2026, après +3,4 % en septembre.",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an - Informations rapides - 266",
+  "url": "https://www.insee.fr/fr/statistiques/9107965",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "IPC définitif 13 novembre 8h45",
+  "valeur": "13 novembre",
+  "extrait": "Publication des résultats définitifs (octobre 2026) : le 13 novembre 2026, à 8h45.",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an - Informations rapides - 266",
+  "url": "https://www.insee.fr/fr/statistiques/9107965",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Énergie quatrième mois",
+  "valeur": "quatrième mois",
+  "extrait": "Les prix de l'énergie accéléreraient pour le quatrième mois consécutif, tirés par ceux du gaz et des produits pétroliers.",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmenteraient de 3,4 % sur un an - Informations rapides - 266",
+  "url": "https://www.insee.fr/fr/statistiques/9107965",
+  "date": "2026-10-30"
+ },
+ {
+  "affirmation": "Livret A 1,7 % depuis le 1er août",
+  "valeur": "1,7",
+  "extrait": "À compter du 1 er août 2026, le taux d'intérêt annuel du livret A est fixé à 1,7 % (contre 1,5 % entre le 1 er février et le 31 juillet 2026).",
+  "media": "Service-public.fr",
+  "titre": "Livret A et LEP : quelle évolution des taux de rémunération à compter du 1er août 2026 ?",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A15818",
+  "date": "2026-07-15"
+ },
+ {
+  "affirmation": "Livret A ancien taux",
+  "valeur": "1,5",
+  "extrait": "contre 1,5 % entre le 1 er février et le 31 juillet 2026",
+  "media": "Service-public.fr",
+  "titre": "Livret A et LEP : quelle évolution des taux de rémunération à compter du 1er août 2026 ?",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A15818",
+  "date": "2026-07-15"
+ },
+ {
+  "affirmation": "LDDS période jusqu'au 31 janvier 2027",
+  "valeur": "31 janvier 2027",
+  "extrait": "pour la période du 1 er août 2026 au 31 janvier 2027 : Livret de développement durable et solidaire (LDDS) : 1,7 %",
+  "media": "Service-public.fr",
+  "titre": "Livret A et LEP : quelle évolution des taux de rémunération à compter du 1er août 2026 ?",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A15818",
+  "date": "2026-07-15"
+ },
+ {
+  "affirmation": "LEP 2,5 %",
+  "valeur": "2,5",
+  "extrait": "le taux reste à 2,5 %",
+  "media": "Service-public.fr",
+  "titre": "Livret A et LEP : quelle évolution des taux de rémunération à compter du 1er août 2026 ?",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A15818",
+  "date": "2026-07-15"
+ },
+ {
+  "affirmation": "Livret A exonéré",
+  "valeur": "exonérés",
+  "extrait": "Les intérêts sont exonérés d'impôt sur le revenu et de prélèvements sociaux.",
+  "media": "Service-public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365",
+  "date": "2026-11-01"
+ },
+ {
+  "affirmation": "Plafond Livret A",
+  "valeur": "22 950",
+  "extrait": "Le montant maximum d'épargne inscrit sur le livret A est de 22 950 € .",
+  "media": "Service-public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365",
+  "date": "2026-11-01"
+ },
+ {
+  "affirmation": "PLF 2027 première partie rejetée 4 novembre",
+  "valeur": "458",
+  "extrait": "Scrutin public n°9759 sur la première partie du projet de loi de finances pour 2027 (première lecture). Deuxième séance du mercredi 4 novembre 2026 Synthèse du vote Pour l'adoption : 0 Contre : 458 Abstention : 2 L'Assemblée nationale n'a pas adopté",
+  "media": "Assemblée nationale",
+  "titre": "Scrutin public n°9759",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "PLF 2027 abstentions",
+  "valeur": "2",
+  "extrait": "Pour l'adoption : 0 Contre : 458 Abstention : 2",
+  "media": "Assemblée nationale",
+  "titre": "Scrutin public n°9759",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/9759",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Sénat PLFSS 9 novembre 15 heures",
+  "valeur": "9 novembre",
+  "extrait": "Lundi 9 novembre 2026 À 15 heures, le soir et la nuit Projet de loi de financement de la sécurité sociale , considéré comme rejeté par l'Assemblée nationale, pour 2027 ( n° 138, 2026-2027",
+  "media": "Sénat",
+  "titre": "Ordre du jour",
+  "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Sénat PLFSS 15 heures",
+  "valeur": "15",
+  "extrait": "Lundi 9 novembre 2026 À 15 heures",
+  "media": "Sénat",
+  "titre": "Ordre du jour",
+  "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Sénat vote solennel 18 novembre",
+  "valeur": "18 novembre",
+  "extrait": "Mercredi 18 novembre 2026 À 15 heures ... scrutin public solennel sur le projet de loi de financement de la sécurité sociale",
+  "media": "Sénat",
+  "titre": "Ordre du jour",
+  "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "PLFSS texte n° 138",
+  "valeur": "138",
+  "extrait": "( n° 138, 2026-2027 )",
+  "media": "Sénat",
+  "titre": "Ordre du jour",
+  "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Taux immobiliers Pretto novembre 15 ans",
+  "valeur": "3,56",
+  "extrait": "En novembre 2026, les taux immobiliers moyens constatés par Pretto atteignent 3,56 % sur 15 ans, 3,76 % sur 20 ans et 3,85 % sur 25 ans, en hausse de 0,06 à 0,11 point en un mois.",
+  "media": "Pretto",
+  "titre": "Taux immobilier novembre 2026 : les 4 % franchis",
+  "url": "https://www.pretto.fr/taux-immobilier/historique-taux-immobilier/2026/analyse-taux-immobilier-novembre-2026/",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Taux immobiliers Pretto 20 ans",
+  "valeur": "3,76",
+  "extrait": "3,76 % sur 20 ans",
+  "media": "Pretto",
+  "titre": "Taux immobilier novembre 2026 : les 4 % franchis",
+  "url": "https://www.pretto.fr/taux-immobilier/historique-taux-immobilier/2026/analyse-taux-immobilier-novembre-2026/",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Taux immobiliers Pretto 25 ans",
+  "valeur": "3,85",
+  "extrait": "3,85 % sur 25 ans",
+  "media": "Pretto",
+  "titre": "Taux immobilier novembre 2026 : les 4 % franchis",
+  "url": "https://www.pretto.fr/taux-immobilier/historique-taux-immobilier/2026/analyse-taux-immobilier-novembre-2026/",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Hausse mensuelle taux",
+  "valeur": "0,06 à 0,11",
+  "extrait": "en hausse de 0,06 à 0,11 point en un mois",
+  "media": "Pretto",
+  "titre": "Taux immobilier novembre 2026 : les 4 % franchis",
+  "url": "https://www.pretto.fr/taux-immobilier/historique-taux-immobilier/2026/analyse-taux-immobilier-novembre-2026/",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Revenus modestes 4,07 %",
+  "valeur": "4,07",
+  "extrait": "Pour les ménages qui gagnent moins de 40 000 € par an, le taux moyen sur 25 ans dépasse désormais 4 %, à 4,07 %.",
+  "media": "Pretto",
+  "titre": "Taux immobilier novembre 2026 : les 4 % franchis",
+  "url": "https://www.pretto.fr/taux-immobilier/historique-taux-immobilier/2026/analyse-taux-immobilier-novembre-2026/",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Seuil revenus 40 000 €",
+  "valeur": "40 000",
+  "extrait": "ménages qui gagnent moins de 40 000 € par an",
+  "media": "Pretto",
+  "titre": "Taux immobilier novembre 2026 : les 4 % franchis",
+  "url": "https://www.pretto.fr/taux-immobilier/historique-taux-immobilier/2026/analyse-taux-immobilier-novembre-2026/",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Démocrates reprennent les deux chambres",
+  "valeur": "deux chambres",
+  "extrait": "Les élections de mi-mandat se sont traduites par une large défaite du camp républicain avec les démocrates qui ont repris les deux chambres du Congrès.",
+  "media": "BFM Bourse (Tradingsat)",
+  "titre": "La prise de pouvoir des démocrates au Congrès américain et au Texas, un coup dur pour l'IA en Bourse? Ce n'est pas si simple…",
+  "url": "https://www.tradingsat.com/actualites/marches-financiers/la-prise-de-pouvoir-des-democrates-au-congres-americain-et-au-texas-un-coup-dur-pour-l-ia-en-bourse-ce-n-est-pas-si-simple-1173123.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Nouveau Congrès en janvier, Deutsche Bank",
+  "valeur": "janvier",
+  "extrait": "Cela signifie que lorsque le nouveau Congrès se réunira en janvier, ce sera la première fois que les démocrates contrôleront les deux chambres depuis les deux premières années de la présidence de Joe Biden\", explique Deutsche Bank.",
+  "media": "BFM Bourse (Tradingsat)",
+  "titre": "La prise de pouvoir des démocrates au Congrès américain et au Texas, un coup dur pour l'IA en Bourse? Ce n'est pas si simple…",
+  "url": "https://www.tradingsat.com/actualites/marches-financiers/la-prise-de-pouvoir-des-democrates-au-congres-americain-et-au-texas-un-coup-dur-pour-l-ia-en-bourse-ce-n-est-pas-si-simple-1173123.html",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Crainte data centers",
+  "valeur": "data center",
+  "extrait": "Investors worried that new rules could slow data center construction and AI spending. The page notes that candidates from both parties campaigned against data centers.",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Lerner Truist IA thème principal",
+  "valeur": "AI",
+  "extrait": "Truist's Keith Lerner said \"AI is still the main theme of this bull market,\"",
+  "media": "Yahoo Finance (24/7 Wall St.)",
+  "titre": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-just-had-worst-173339298.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Turnquist LPL réaction réflexe",
+  "valeur": "knee-jerk",
+  "extrait": "Adam Turnquist, chief cross-asset strategist at LPL Financial, called the week a knee-jerk reaction to the midterms.",
+  "media": "Yahoo Finance (24/7 Wall St.)",
+  "titre": "The S&P 500 Just Had Its Worst Week Since the April 2025 Tariff Crash",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/p-500-just-had-worst-173339298.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Attaques de pétroliers à Ormuz",
+  "valeur": "three",
+  "extrait": "Iran reported three more attacks on oil tankers in the Strait of Hormuz",
+  "media": "CNBC",
+  "titre": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
+  "url": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Proposition iranienne via le Qatar, sept exigences",
+  "valeur": "seven",
+  "extrait": "Iran has sent the United States a nuclear proposal via Qatar, to be discussed only after Washington meets Tehran's seven demands, a senior Iranian official told Reuters",
+  "media": "Reuters (via Investing.com)",
+  "titre": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+  "url": "https://www.investing.com/news/commodities-news/iran-sent-nuclear-proposal-to-the-us-via-qatar-senior-iranian-official-tells-reuters-5006492",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Washington veut le nucléaire dès le départ",
+  "valeur": "nuclear",
+  "extrait": "Washington has said nuclear issues must be part of any initial negotiations",
+  "media": "Reuters (via Investing.com)",
+  "titre": "Iran sent nuclear proposal to the US via Qatar, senior Iranian official tells Reuters",
+  "url": "https://www.investing.com/news/commodities-news/iran-sent-nuclear-proposal-to-the-us-via-qatar-senior-iranian-official-tells-reuters-5006492",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "BCE définition taux réel",
+  "valeur": "2,5",
+  "extrait": "Un épargnant dépose 1 000 euros sur un compte pour une année et reçoit un taux d'intérêt nominal de 2,5 %. Au bout d'un an, il a donc 1 025 euros à sa disposition. Si, cependant, les prix ont augmenté de 3 % pendant cette même année, alors il aura besoin de 1 030 euros",
+  "media": "BCE",
+  "titre": "Quelle est la différence entre taux d'intérêt nominal et taux d'intérêt réel ?",
+  "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/nominal_and_real_interest_rates.fr.html",
+  "date": "2025-03-13"
+ },
+ {
+  "affirmation": "BCE exemple -0,5 %",
+  "valeur": "-0,5",
+  "extrait": "Dans ce cas, le rendement réel de cette épargne est en fait négatif : -0,5 %.",
+  "media": "BCE",
+  "titre": "Quelle est la différence entre taux d'intérêt nominal et taux d'intérêt réel ?",
+  "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/nominal_and_real_interest_rates.fr.html",
+  "date": "2025-03-13"
+ },
+ {
+  "affirmation": "BCE exemple 1 025 euros",
+  "valeur": "1 025",
+  "extrait": "il a donc 1 025 euros à sa disposition",
+  "media": "BCE",
+  "titre": "Quelle est la différence entre taux d'intérêt nominal et taux d'intérêt réel ?",
+  "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/nominal_and_real_interest_rates.fr.html",
+  "date": "2025-03-13"
+ },
+ {
+  "affirmation": "BCE exemple 1 030 euros",
+  "valeur": "1 030",
+  "extrait": "il aura besoin de 1 030 euros pour acheter les mêmes biens",
+  "media": "BCE",
+  "titre": "Quelle est la différence entre taux d'intérêt nominal et taux d'intérêt réel ?",
+  "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/nominal_and_real_interest_rates.fr.html",
+  "date": "2025-03-13"
+ },
+ {
+  "affirmation": "BCE exemple 1 000 euros",
+  "valeur": "1 000",
+  "extrait": "Un épargnant dépose 1 000 euros sur un compte pour une année",
+  "media": "BCE",
+  "titre": "Quelle est la différence entre taux d'intérêt nominal et taux d'intérêt réel ?",
+  "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/nominal_and_real_interest_rates.fr.html",
+  "date": "2025-03-13"
+ },
+ {
+  "affirmation": "BCE exemple inflation 3 %",
+  "valeur": "3 %",
+  "extrait": "si les prix ont augmenté de 3 % pendant cette même année",
+  "media": "BCE",
+  "titre": "Quelle est la différence entre taux d'intérêt nominal et taux d'intérêt réel ?",
+  "url": "https://www.ecb.europa.eu/ecb-and-you/explainers/tell-me/html/nominal_and_real_interest_rates.fr.html",
+  "date": "2025-03-13"
+ },
+ {
+  "affirmation": "Fisher 1907 inflation anticipée",
+  "valeur": "1907",
+  "extrait": "1907 Irving Fisher distingue taux nominal et taux réel dans son ouvrage « Theory of Interest ». Il formalise l'équation selon laquelle le taux réel est égal au taux nominal minoré de l'inflation anticipée.",
+  "media": "Banque de France",
+  "titre": "L'éco en bref : Taux d'intérêt nominal et réel",
+  "url": "https://www.banque-france.fr/system/files/2026-08/826260%20Eco-en-bref%20Taux%20interet%20nominal%20reel.pdf",
+  "date": "2026-07-01"
+ },
+ {
+  "affirmation": "BdF taux réel = nominal moins inflation",
+  "valeur": "inflation",
+  "extrait": "Le taux d'intérêt réel, quant à lui, est égal au taux d'intérêt nominal moins le taux d'inflation.",
+  "media": "Banque de France",
+  "titre": "L'éco en bref : Taux d'intérêt nominal et réel",
+  "url": "https://www.banque-france.fr/system/files/2026-08/826260%20Eco-en-bref%20Taux%20interet%20nominal%20reel.pdf",
+  "date": "2026-07-01"
+ },
+ {
+  "affirmation": "BdF crédit habitat 2025 nominal",
+  "valeur": "3,15",
+  "extrait": "Taux d'intérêt nominal (annuel) 13,5 % 3,15 % Taux d'inflation annuel 5,8 % 0,9 % Taux d'intérêt réel (annuel) 7,7 % 2,25 %",
+  "media": "Banque de France",
+  "titre": "L'éco en bref : Taux d'intérêt nominal et réel",
+  "url": "https://www.banque-france.fr/system/files/2026-08/826260%20Eco-en-bref%20Taux%20interet%20nominal%20reel.pdf",
+  "date": "2026-07-01"
+ },
+ {
+  "affirmation": "BdF crédit habitat 2025 inflation",
+  "valeur": "0,9",
+  "extrait": "Taux d'inflation annuel 5,8 % 0,9 %",
+  "media": "Banque de France",
+  "titre": "L'éco en bref : Taux d'intérêt nominal et réel",
+  "url": "https://www.banque-france.fr/system/files/2026-08/826260%20Eco-en-bref%20Taux%20interet%20nominal%20reel.pdf",
+  "date": "2026-07-01"
+ },
+ {
+  "affirmation": "BdF crédit habitat 2025 réel",
+  "valeur": "2,25",
+  "extrait": "Taux d'intérêt réel (annuel) 7,7 % 2,25 %",
+  "media": "Banque de France",
+  "titre": "L'éco en bref : Taux d'intérêt nominal et réel",
+  "url": "https://www.banque-france.fr/system/files/2026-08/826260%20Eco-en-bref%20Taux%20interet%20nominal%20reel.pdf",
+  "date": "2026-07-01"
+ },
+ {
+  "affirmation": "CNBC : risque d'escalade élevé malgré la vague démocrate",
+  "valeur": "80%",
+  "extrait": "The consulting group Rapidan Energy sees an 80% chance that fighting will resume as diplomacy stalls.",
+  "media": "CNBC",
+  "titre": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+  "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Explosions Qeshm selon médias d'État iraniens, non confirmé",
+  "valeur": "Qeshm",
+  "extrait": "Iran state media also reported on explosions on Qeshm Island in the Strait of Hormuz.",
+  "media": "CNBC",
+  "titre": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+  "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Troisième groupe aéronaval américain",
+  "valeur": "third",
+  "extrait": "A third U.S. carrier strike group is heading to the region.",
+  "media": "CNBC",
+  "titre": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+  "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Trump locked and loaded",
+  "valeur": "locked and loaded",
+  "extrait": "We're locked and loaded.",
+  "media": "CNBC",
+  "titre": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+  "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Démocrates résolution pouvoirs de guerre",
+  "valeur": "war powers",
+  "extrait": "Democrats plan to use their majorities to pass a war powers resolution that demands President Donald Trump end the war.",
+  "media": "CNBC",
+  "titre": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+  "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Financement fédéral expire 11 décembre",
+  "valeur": "Dec. 11",
+  "extrait": "Government funding expires Dec. 11.",
+  "media": "CNBC",
+  "titre": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+  "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Helima Croft RBC escalade",
+  "valeur": "Croft",
+  "extrait": "RBC's Helima Croft cites deepening escalation concerns in the Gulf.",
+  "media": "CNBC",
+  "titre": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+  "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Bloomberg : rapprochement, nucléaire de retour",
+  "valeur": "breakthrough",
+  "extrait": "A diplomat with knowledge of the talks says the two sides are moving closer to a potential breakthrough in efforts to end the war.",
+  "media": "Bloomberg (via Yahoo Finance)",
+  "titre": "US and Iran Edge Closer to Deal With Nuclear Issue Back in Play",
+  "url": "https://uk.finance.yahoo.com/news/us-iran-edge-closer-deal-122102955.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Intérêts Livret A sur 10 000 € à 1,7 %",
+  "valeur": "170",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "10 000 × 0,017 = 170",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Capital fin d'année",
+  "valeur": "10 170",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "10 000 × 1,017 = 10 170",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Pouvoir d'achat en euros d'aujourd'hui",
+  "valeur": "9 835,59",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "10 170 / 1,034 = 9 835,59",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Perte de pouvoir d'achat",
+  "valeur": "164,41",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "9 835,59 − 10 000 = −164,41",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Taux réel exact Livret A",
+  "valeur": "-1,64",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1,017 / 1,034 − 1 = −1,644 %",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Taux réel exact Livret A (3 décimales)",
+  "valeur": "-1,644",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1,017 / 1,034 − 1 = −1,644 %",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Taux réel approché Livret A",
+  "valeur": "-1,7",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1,7 − 3,4 = −1,7",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple BCE exact",
+  "valeur": "-0,485",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 025 / 1 030 − 1 = −0,485 %",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple BCE exact arrondi",
+  "valeur": "-0,49",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "−0,49 %",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Facteur Livret A",
+  "valeur": "1,017",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 + 0,017",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Facteur inflation",
+  "valeur": "1,034",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 + 0,034",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Facteur LEP",
+  "valeur": "1,025",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 + 0,025",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Taux réel exact LEP",
+  "valeur": "-0,87",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1,025 / 1,034 − 1 = −0,870 %",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Taux réel approché LEP",
+  "valeur": "-0,9",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2,5 − 3,4 = −0,9",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "LEP 5 000 € intérêts",
+  "valeur": "125",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "5 000 × 0,025 = 125",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "LEP 5 000 € capital fin",
+  "valeur": "5 125",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "5 000 × 1,025 = 5 125",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "LEP pouvoir d'achat",
+  "valeur": "4 956,48",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "5 125 / 1,034 = 4 956,48",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "LEP perte",
+  "valeur": "43,52",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4 956,48 − 5 000 = −43,52",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Livret A réel avec IPCH",
+  "valeur": "-2,02",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1,017 / 1,038 − 1 = −2,02 %",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Facteur IPCH",
+  "valeur": "1,038",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 + 0,038",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Écart OAT-Bund 5 novembre",
+  "valeur": "150",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "(4,752 − 3,248) × 100 = 150 pb",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Fourchette Livret A",
+  "valeur": "0,06",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "écart approx/exact 1,7 − 1,644 = 0,056 ≈ 0,06 point",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Emplois US octobre (ABC Bourse)",
+  "valeur": "165 000",
+  "extrait": "L'économie américaine a créé 165 000 emplois en octobre, bien davantage que les 65 000 anticipés par les économistes.",
+  "media": "ABC Bourse",
+  "titre": "USA: les créations d'emplois dépassent largement les attentes, le chômage recule",
+  "url": "https://www.abcbourse.com/marches/usa-les-creations-d-emplois-depassent-largement-les-attentes-le-chomage-recule_705772",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Consensus emplois (ABC Bourse)",
+  "valeur": "65 000",
+  "extrait": "bien davantage que les 65 000 anticipés par les économistes",
+  "media": "ABC Bourse",
+  "titre": "USA: les créations d'emplois dépassent largement les attentes, le chômage recule",
+  "url": "https://www.abcbourse.com/marches/usa-les-creations-d-emplois-depassent-largement-les-attentes-le-chomage-recule_705772",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Chômage 4,1 % contre 4,2 %",
+  "valeur": "4,2",
+  "extrait": "Le taux de chômage a parallèlement diminué à 4,1 %, contre 4,2 % en septembre.",
+  "media": "ABC Bourse",
+  "titre": "USA: les créations d'emplois dépassent largement les attentes, le chômage recule",
+  "url": "https://www.abcbourse.com/marches/usa-les-creations-d-emplois-depassent-largement-les-attentes-le-chomage-recule_705772",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Montant placé exemple",
+  "valeur": "10 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "hypothèse d'école 10 000 €",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Taux décimal Livret A",
+  "valeur": "0,017",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1,7 % = 0,017",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Trump maybe I'll have to",
+  "valeur": "maybe I'll have to",
+  "extrait": "He says he would rather not destroy the rest of the country if possible but maybe I'll have to.",
+  "media": "CNBC",
+  "titre": "Risk of Iran war escalation remains high despite Democratic sweep in U.S. midterm elections",
+  "url": "https://www.cnbc.com/2026/11/07/iran-war-midterm-election-oil-price-trump.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Plafond Livret A personnes physiques, intérêts capitalisés",
+  "valeur": "22 950",
+  "extrait": "Personnes physiques Le montant maximum d'épargne inscrit sur le livret A est de 22 950 € . L'ajout des intérêts au 31 décembre peut porter la valeur du livret au-delà de 22 950 € .",
+  "media": "Service-public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365",
+  "date": "2026-11-01"
+ }
+]
