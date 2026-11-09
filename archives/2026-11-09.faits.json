@@ -1,0 +1,1289 @@
+[
+ {
+  "affirmation": "CAC 40 clôture 6/11",
+  "valeur": "8 139,00",
+  "extrait": "CAC 40 ; 8 139,00 pts ; -0,81 % sur la séance ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "0,81",
+  "extrait": "Le CAC 40 a cédé 0,81%, à 8.139 points, vendredi 6 novembre.",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : Malgré des chiffres de l'emploi américain solides et un sursaut du Nasdaq, le CAC 40 recule",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-solides-et-un-sursaut-du-nasdaq-le-cac-40-finit-la-semaine-en-baisse-1173355.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 chute veille",
+  "valeur": "4,4",
+  "extrait": "Le S&P 500 avait alors chuté de 4,4%",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : Malgré des chiffres de l'emploi américain solides et un sursaut du Nasdaq, le CAC 40 recule",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-malgre-des-chiffres-de-l-emploi-solides-et-un-sursaut-du-nasdaq-le-cac-40-finit-la-semaine-en-baisse-1173355.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "7 376,86",
+  "extrait": "S&P 500 ; 7 376,86 pts ; +0,31 % sur la séance ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "+0,31",
+  "extrait": "S&P 500 ; 7 376,86 pts ; +0,31 % sur la séance ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "24 579,43",
+  "extrait": "Nasdaq Composite ; 24 579,43 pts ; +1,09 % sur la séance ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "+1,09",
+  "extrait": "Nasdaq Composite ; 24 579,43 pts ; +1,09 % sur la séance ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Semi-conducteurs rebond en séance (non publié)",
+  "valeur": "4",
+  "extrait": "The semiconductor index bounced 4%",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Euro Stoxx 50",
+  "valeur": "6 170,49",
+  "extrait": "Euro Stoxx 50 ; 6 170,49 pts ; -0,98 % sur la séance ; clôture du 06/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "-0,98",
+  "extrait": "6 170,49 Pts, -0,98 %",
+  "media": "Boursorama",
+  "titre": "DJ Euro Stoxx 50, ESTX 50, Cours Indice SX5E",
+  "url": "https://www.boursorama.com/bourse/indices/cours/2cSX5E/",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "EUR/USD BCE",
+  "valeur": "1,1165",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1165 ; -0,53 % sur la séance ; taux du 06/11/2026",
+  "media": "BCE",
+  "titre": "US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "-0,53",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1165 ; -0,53 % sur la séance ; taux du 06/11/2026",
+  "media": "BCE",
+  "titre": "US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Dollar plus forte hausse en cinq mois",
+  "valeur": "cinq",
+  "extrait": "sa plus forte hausse journalière en cinq mois",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture 6/11",
+  "valeur": "4.763",
+  "extrait": "Nov 06, 2026 ; 4.763 ; -0.36%",
+  "media": "Investing.com",
+  "titre": "France 10 ans Données Historiques",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "OAT 10 ans veille",
+  "valeur": "4.781",
+  "extrait": "Nov 05, 2026 ; 4.781 ; -0.03%",
+  "media": "Investing.com",
+  "titre": "France 10 ans Données Historiques",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "OAT variation pb",
+  "valeur": "-1,8",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4,763 - 4,781 = -0,018 point",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "OAT arrondi",
+  "valeur": "4,76",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "arrondi de 4,763",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "OAT Zonebourse",
+  "valeur": "4,766",
+  "extrait": "06/11/26 ; 4,766 % ; -0.378",
+  "media": "Zonebourse",
+  "titre": "Obligations France 10 ans - Taux d'intérêts",
+  "url": "https://www.zonebourse.com/cours/taux-interet/FRANCE-10Y-CASH-146043504/",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bund 10 ans clôture",
+  "valeur": "3.2537",
+  "extrait": "Nov 06, 2026 ; 3.2537 ; +0.22%",
+  "media": "Investing.com",
+  "titre": "Allemagne 10 ans Données Historiques",
+  "url": "https://www.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bund veille",
+  "valeur": "3.2466",
+  "extrait": "Nov 05, 2026 ; 3.2466 ; -1.22%",
+  "media": "Investing.com",
+  "titre": "Allemagne 10 ans Données Historiques",
+  "url": "https://www.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Bund variation pb",
+  "valeur": "+0,7",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "3,2537 - 3,2466 = +0,0071 point",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Bund arrondi",
+  "valeur": "3,25",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "arrondi de 3,2537",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Bund Zonebourse",
+  "valeur": "3,242",
+  "extrait": "06/11/26 ; 3,242 % ; +0.031",
+  "media": "Zonebourse",
+  "titre": "Obligations Allemagne 10 ans - Taux d'intérêts",
+  "url": "https://www.zonebourse.com/cours/taux-interet/GERMANY-10Y-CASH-146043340/",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Spread OAT-Bund",
+  "valeur": "151",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4,76 - 3,25 = 1,51 point = 151 pb",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Spread seuil",
+  "valeur": "150",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "151 > 150",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "4 075,80",
+  "extrait": "Or (contrat déc. 2026) ; 4 075,80 $/once ; -0,90 % sur la séance ; cours du 06/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "-0,90",
+  "extrait": "Or (contrat déc. 2026) ; 4 075,80 $/once ; -0,90 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Or recule après l'emploi",
+  "valeur": "165,000",
+  "extrait": "Gold falls as U.S. payrolls surge by 165,000",
+  "media": "Kitco",
+  "titre": "Gold falls as U.S. payrolls surge by 165,000",
+  "url": "https://www.kitco.com/news/article/2026-11-06/gold-falls-us-payrolls-surge-165000-strengthening-december-fed-hike-case",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Brent règlement",
+  "valeur": "98,35",
+  "extrait": "Brent (contrat janv. 2027) ; 98,35 $/baril ; +0,05 % sur la séance ; cours du 06/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Brent variation",
+  "valeur": "+0,05",
+  "extrait": "Brent (contrat janv. 2027) ; 98,35 $/baril ; +0,05 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Brent seuil 100",
+  "valeur": "100",
+  "extrait": "Brent crude futures fell below $100 per barrel",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bitcoin clôture",
+  "valeur": "74 724,93",
+  "extrait": "Bitcoin ; 74 724,93 $ ; -1,36 % sur la séance ; clôture du 08/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "-1,36",
+  "extrait": "Bitcoin ; 74 724,93 $ ; -1,36 % sur la séance ; clôture du 08/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Bitcoin heure 24 h UTC",
+  "valeur": "24",
+  "extrait": "clôture du 08/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Bitcoin ce matin",
+  "valeur": "74.934",
+  "extrait": "a progressé de plus de 1 % à 74.934 dollars",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Bitcoin hausse ce matin",
+  "valeur": "1 %",
+  "extrait": "a progressé de plus de 1 % à 74.934 dollars",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "FedWatch hausse décembre",
+  "valeur": "80",
+  "extrait": "les probabilités d'une hausse de taux d'au moins 25 points de base lors de la réunion de décembre ont grimpé à près de 80 %",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "FedWatch 25 pb",
+  "valeur": "25",
+  "extrait": "une hausse de taux d'au moins 25 points de base",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Emplois plus du double des prévisions",
+  "valeur": "165.000",
+  "extrait": "avaient créé 165.000 emplois le mois dernier, soit plus du double des prévisions des économistes",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Williams croissance résiliente",
+  "valeur": "Williams",
+  "extrait": "John Williams : la croissance économique américaine était restée remarquablement résiliente face à des chocs successifs",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Emploi US octobre",
+  "valeur": "165,000",
+  "extrait": "Total nonfarm payroll employment rose by 165,000 in October",
+  "media": "BLS",
+  "titre": "The Employment Situation — October 2026",
+  "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Chômage US",
+  "valeur": "4.1",
+  "extrait": "the unemployment rate changed little at 4.1 percent",
+  "media": "BLS",
+  "titre": "The Employment Situation — October 2026",
+  "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Salaire horaire US sur un an",
+  "valeur": "3.1",
+  "extrait": "Over the past 12 months, average hourly earnings have increased by 3.1 percent.",
+  "media": "BLS",
+  "titre": "The Employment Situation — October 2026",
+  "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Attentes emploi Reuters",
+  "valeur": "65,000",
+  "extrait": "Non-farm payrolls increased by 165,000 last month, compared with 65,000 jobs expected by economists polled by Reuters",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Fed maintien fourchette",
+  "valeur": "3-3/4 to 4",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Fed",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed fourchette 3,75",
+  "valeur": "3,75",
+  "extrait": "3-3/4 to 4 percent soit 3,75 % à 4 %",
+  "media": "Fed",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed dissidents",
+  "valeur": "Cook",
+  "extrait": "Voting against the monetary policy action were Lisa D. Cook and Beth M. Hammack ... preferred to raise the target range for the federal funds rate by 1/4 percentage point",
+  "media": "Fed",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed inflation élevée",
+  "valeur": "elevated",
+  "extrait": "Inflation remains elevated.",
+  "media": "Fed",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "BCE taux dépôt",
+  "valeur": "2.50",
+  "extrait": "The interest rates on the deposit facility, the main refinancing operations and the marginal lending facility will remain unchanged at 2.50%, 2.65% and 2.90% respectively",
+  "media": "BCE",
+  "titre": "Monetary policy decisions",
+  "url": "https://ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE taux refi",
+  "valeur": "2.65",
+  "extrait": "unchanged at 2.50%, 2.65% and 2.90% respectively",
+  "media": "BCE",
+  "titre": "Monetary policy decisions",
+  "url": "https://ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE taux prêt marginal",
+  "valeur": "2.90",
+  "extrait": "unchanged at 2.50%, 2.65% and 2.90% respectively",
+  "media": "BCE",
+  "titre": "Monetary policy decisions",
+  "url": "https://ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE énergie risque",
+  "valeur": "upside",
+  "extrait": "Energy prices have continued to rise, posing upside risks to the inflation outlook and downside risks to the growth outlook.",
+  "media": "BCE",
+  "titre": "Monetary policy decisions",
+  "url": "https://ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "MSCI Asie hors Japon",
+  "valeur": "2 %",
+  "extrait": "a progressé de 2 % après avoir chuté de 4,6 % la semaine dernière",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "MSCI semaine",
+  "valeur": "4,6",
+  "extrait": "après avoir chuté de 4,6 % la semaine dernière",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Nikkei",
+  "valeur": "3,5",
+  "extrait": "Le Nikkei japonais a gagné 3,5 %",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Taïwan",
+  "valeur": "6 %",
+  "extrait": "l'indice de Taïwan a progressé de plus de 6 %, après sa plus forte baisse hebdomadaire depuis deux décennies",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Trump Iran",
+  "valeur": "très peu probable",
+  "extrait": "Donald Trump a déclaré qu'il était « très peu probable » qu'il ordonne de nouvelles attaques tant que les négociations visant à mettre fin au conflit progressaient",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Brent ce matin",
+  "valeur": "98,2",
+  "extrait": "Le Brent a chuté à 98,2 dollars le baril",
+  "media": "Reuters via Boursorama",
+  "titre": "Les marchés boursiers asiatiques rebondissent alors que les inquiétudes liées à l'IA et au Moyen-Orient s'estompent ; le dollar reste ferme sur fond de spéculations concernant la Fed",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-asiatiques-rebondissent-alors-que-les-inquietudes-liees-a-l-ia-et-au-moyen-orient-s-estompent-le-dollar-reste-ferme-sur-fond-de-speculations-concernant-la-fed-2da92c62e9261def56ed7ec93b7d90ec",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Anthropic contrat",
+  "valeur": "3,4",
+  "extrait": "Anthropic a conclu un accord d'une valeur d'environ 3,4 milliards de dollars",
+  "media": "Reuters via Boursorama",
+  "titre": "Anthropic conclut un contrat de 3,4 milliards de dollars pour la fourniture de groupes électrogènes destinés à des centres de données, selon le Financial Times",
+  "url": "https://www.boursorama.com/bourse/actualites/anthropic-conclut-un-contrat-de-3-4-milliards-de-dollars-pour-la-fourniture-de-groupes-electrogenes-destines-a-des-centres-de-donnees-selon-le-financial-times-368635e887a4286ab7b266ac41ee41c9",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Anthropic gigawatts",
+  "valeur": "1,7",
+  "extrait": "engagements pris fin septembre pour 1,7 gigawatt de groupes électrogènes lourds auprès de OnePWR Solutions, un fournisseur d'équipements basé à San Antonio, au Texas",
+  "media": "Reuters via Boursorama",
+  "titre": "Anthropic conclut un contrat de 3,4 milliards de dollars pour la fourniture de groupes électrogènes destinés à des centres de données, selon le Financial Times",
+  "url": "https://www.boursorama.com/bourse/actualites/anthropic-conclut-un-contrat-de-3-4-milliards-de-dollars-pour-la-fourniture-de-groupes-electrogenes-destines-a-des-centres-de-donnees-selon-le-financial-times-368635e887a4286ab7b266ac41ee41c9",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Démocrates règles data centers",
+  "valeur": "Democrats",
+  "extrait": "Democrats' congressional wins raised worries about new rules for data centers",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Conférence sociale",
+  "valeur": "pouvoir d'achat",
+  "extrait": "conférence sociale permettant d'apporter des réponses aux questions de pouvoir d'achat et de salaires",
+  "media": "Boursorama",
+  "titre": "Mouvement social : quelles réponses le gouvernement peut-il apporter ?",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/mouvement-social-quelles-reponses-le-gouvernement-peut-il-apporter-218e3365154004c0a43a04b55ab5f230",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Smic net",
+  "valeur": "1 477,93",
+  "extrait": "le Smic mensuel net est de 1 477,93 euros",
+  "media": "MoneyVox",
+  "titre": "Entre 1 500 à 1 700 euros nets par mois : le scénario de la hausse du Smic au 1er décembre",
+  "url": "https://www.moneyvox.fr/votre-argent/actualites/111153/entre-1-500-a-1-700-euros-nets-par-mois-le-scenario-de-la-hausse-du-smic-au-1er-decembre",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Farandou emploi",
+  "valeur": "nuirait à l'emploi",
+  "extrait": "Je ne proposerai pas de mesure qui nuirait à l'emploi",
+  "media": "MoneyVox",
+  "titre": "Entre 1 500 à 1 700 euros nets par mois : le scénario de la hausse du Smic au 1er décembre",
+  "url": "https://www.moneyvox.fr/votre-argent/actualites/111153/entre-1-500-a-1-700-euros-nets-par-mois-le-scenario-de-la-hausse-du-smic-au-1er-decembre",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "CFDT 100 euros",
+  "valeur": "100",
+  "extrait": "La CFDT demande 100 euros net de hausse",
+  "media": "MoneyVox",
+  "titre": "Entre 1 500 à 1 700 euros nets par mois : le scénario de la hausse du Smic au 1er décembre",
+  "url": "https://www.moneyvox.fr/votre-argent/actualites/111153/entre-1-500-a-1-700-euros-nets-par-mois-le-scenario-de-la-hausse-du-smic-au-1er-decembre",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "CGT 10 %",
+  "valeur": "10 %",
+  "extrait": "La CGT réclame 10 %, soit environ 150 euros",
+  "media": "MoneyVox",
+  "titre": "Entre 1 500 à 1 700 euros nets par mois : le scénario de la hausse du Smic au 1er décembre",
+  "url": "https://www.moneyvox.fr/votre-argent/actualites/111153/entre-1-500-a-1-700-euros-nets-par-mois-le-scenario-de-la-hausse-du-smic-au-1er-decembre",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Logement 40 % un ménage sur dix",
+  "valeur": "40 %",
+  "extrait": "Un ménage sur dix consacre plus de 40 % de ses revenus au logement, charges et taxes comprises",
+  "media": "AFP via Boursorama",
+  "titre": "Le logement au coeur des problèmes de la vie chère",
+  "url": "https://www.boursorama.com/bourse/actualites/le-logement-au-coeur-des-problemes-de-la-vie-chere-dfe3aff01e5a2a93be58394eee015de8",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Logement 16,8 %",
+  "valeur": "16,8",
+  "extrait": "En moyenne, les Français consacrent 16,8 % de leurs revenus au logement (Insee, 2024)",
+  "media": "AFP via Boursorama",
+  "titre": "Le logement au coeur des problèmes de la vie chère",
+  "url": "https://www.boursorama.com/bourse/actualites/le-logement-au-coeur-des-problemes-de-la-vie-chere-dfe3aff01e5a2a93be58394eee015de8",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Logement 32,1 %",
+  "valeur": "32,1",
+  "extrait": "Pour les 25 % de ménages les plus modestes, le taux grimpe à 32,1 %",
+  "media": "AFP via Boursorama",
+  "titre": "Le logement au coeur des problèmes de la vie chère",
+  "url": "https://www.boursorama.com/bourse/actualites/le-logement-au-coeur-des-problemes-de-la-vie-chere-dfe3aff01e5a2a93be58394eee015de8",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Logement année 2024",
+  "valeur": "2024",
+  "extrait": "Insee (2024) : 16,8 % des revenus consacrés au logement",
+  "media": "AFP via Boursorama",
+  "titre": "Le logement au coeur des problèmes de la vie chère",
+  "url": "https://www.boursorama.com/bourse/actualites/le-logement-au-coeur-des-problemes-de-la-vie-chere-dfe3aff01e5a2a93be58394eee015de8",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Gel aides au logement PLF 2027",
+  "valeur": "gel",
+  "extrait": "Les associations de locataires s'inquiètent du gel des aides au logement prévu par le projet de budget de l'Etat pour 2027",
+  "media": "AFP via Boursorama",
+  "titre": "Le logement au coeur des problèmes de la vie chère",
+  "url": "https://www.boursorama.com/bourse/actualites/le-logement-au-coeur-des-problemes-de-la-vie-chere-dfe3aff01e5a2a93be58394eee015de8",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Sénat PLFSS 9 nov 15 h",
+  "valeur": "15 heures",
+  "extrait": "Lundi 9 novembre 2026 À 15 heures, le soir et la nuit : Projet de loi de financement de la sécurité sociale, considéré comme rejeté par l'Assemblée nationale, pour 2027",
+  "media": "Sénat",
+  "titre": "Séance publique - Ordre du jour",
+  "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Sénat vote solennel PLFSS 18 nov",
+  "valeur": "18 novembre",
+  "extrait": "Mercredi 18 novembre 2026 à 16 h 30 : scrutin public solennel sur le projet de loi de financement de la sécurité sociale",
+  "media": "Sénat",
+  "titre": "Séance publique - Ordre du jour",
+  "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Sénat PLF 2027 20 nov",
+  "valeur": "20 novembre",
+  "extrait": "Vendredi 20 novembre, sous réserve de sa transmission : projet de loi de finances pour 2027, discussion générale",
+  "media": "Sénat",
+  "titre": "Séance publique - Ordre du jour",
+  "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "PLF 2027 rejet 458",
+  "valeur": "458",
+  "extrait": "Nombre de votants 460 Nombre de suffrages exprimés 458 Majorité absolue 230 Pour l'adoption 0 Contre 458",
+  "media": "Assemblée nationale",
+  "titre": "Compte rendu de la deuxième séance du mercredi 04 novembre 2026",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-mercredi-04-novembre-2026",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "PLF 2027 pour 0",
+  "valeur": "0",
+  "extrait": "Pour l'adoption 0 Contre 458",
+  "media": "Assemblée nationale",
+  "titre": "Compte rendu de la deuxième séance du mercredi 04 novembre 2026",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/deuxieme-seance-du-mercredi-04-novembre-2026",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "PLF 2027 rejeté première lecture",
+  "valeur": "rejeté",
+  "extrait": "est considéré comme rejeté en première lecture",
+  "media": "Assemblée nationale",
+  "titre": "Rejet, en première lecture, du projet de loi de finances pour 2027",
+  "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "PLF 2027 version initiale",
+  "valeur": "version initiale",
+  "extrait": "le texte part au Sénat dans sa version initiale",
+  "media": "MoneyVox",
+  "titre": "L'Assemblée rejette à l'unanimité un budget 2027 profondément transformé, le texte part au Sénat",
+  "url": "https://www.moneyvox.fr/impot/actualites/111122/assemblee-rejette-a-unanimite-un-budget-2027-profondement-transforme-le-texte-part-au-senat",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Agenda Sentix 10h30",
+  "valeur": "10h30",
+  "extrait": "Zone Euro: Indice Sentix de confiance des investisseurs en novembre (10h30)",
+  "media": "ABC Bourse",
+  "titre": "AGENDA DU 9 AU 13 NOVEMBRE: L'inflation américaine au centre de l'attention",
+  "url": "https://www.abcbourse.com/marches/newsContent/705780",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Agenda Barkin 18h15",
+  "valeur": "18h15",
+  "extrait": "Etats-Unis: Allocution du président de la Fed de Richmond Thomas Barkin (18h15)",
+  "media": "ABC Bourse",
+  "titre": "AGENDA DU 9 AU 13 NOVEMBRE: L'inflation américaine au centre de l'attention",
+  "url": "https://www.abcbourse.com/marches/newsContent/705780",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Agenda CPI mardi 14h30",
+  "valeur": "14h30",
+  "extrait": "Etats-Unis: Indice des prix à la consommation (CPI) en octobre (14h30)",
+  "media": "ABC Bourse",
+  "titre": "AGENDA DU 9 AU 13 NOVEMBRE: L'inflation américaine au centre de l'attention",
+  "url": "https://www.abcbourse.com/marches/newsContent/705780",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Agenda UniCredit KKR Take-Two",
+  "valeur": "KKR",
+  "extrait": "UniCredit - Résultats T3 ; KKR - Résultats T3 (12h45) ; Take-Two Interactive - Résultats T2",
+  "media": "ABC Bourse",
+  "titre": "AGENDA DU 9 AU 13 NOVEMBRE: L'inflation américaine au centre de l'attention",
+  "url": "https://www.abcbourse.com/marches/newsContent/705780",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Agenda KKR 12h45",
+  "valeur": "12h45",
+  "extrait": "KKR - Résultats T3 (12h45)",
+  "media": "ABC Bourse",
+  "titre": "AGENDA DU 9 AU 13 NOVEMBRE: L'inflation américaine au centre de l'attention",
+  "url": "https://www.abcbourse.com/marches/newsContent/705780",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Agenda Bowman 8:40 ET",
+  "valeur": "8:40",
+  "extrait": "8:40 AM ET - FOMC Member Bowman Speaks",
+  "media": "Investing.com",
+  "titre": "Fed speakers and Treasury auctions highlight Monday's economic calendar",
+  "url": "https://www.investing.com/news/stock-market-news/fed-speakers-and-treasury-auctions-highlight-mondays-economic-calendar-93CH-5009018",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Agenda Goolsbee 10:00 ET",
+  "valeur": "10:00",
+  "extrait": "10:00 AM ET - Fed Goolsbee Speaks",
+  "media": "Investing.com",
+  "titre": "Fed speakers and Treasury auctions highlight Monday's economic calendar",
+  "url": "https://www.investing.com/news/stock-market-news/fed-speakers-and-treasury-auctions-highlight-mondays-economic-calendar-93CH-5009018",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Agenda NY Fed anticipations 11:00 ET",
+  "valeur": "11:00",
+  "extrait": "11:00 AM ET - NY Fed 1-Year Consumer Inflation Expectations (Previous:3.9%)",
+  "media": "Investing.com",
+  "titre": "Fed speakers and Treasury auctions highlight Monday's economic calendar",
+  "url": "https://www.investing.com/news/stock-market-news/fed-speakers-and-treasury-auctions-highlight-mondays-economic-calendar-93CH-5009018",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Anticipations précédentes",
+  "valeur": "3.9",
+  "extrait": "NY Fed 1-Year Consumer Inflation Expectations (Previous:3.9%)",
+  "media": "Investing.com",
+  "titre": "Fed speakers and Treasury auctions highlight Monday's economic calendar",
+  "url": "https://www.investing.com/news/stock-market-news/fed-speakers-and-treasury-auctions-highlight-mondays-economic-calendar-93CH-5009018",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Conversion heures NY",
+  "valeur": "14 h 40",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "8 h 30 à New York = 14 h 30 à Paris (outils.py variables) donc 8 h 40 = 14 h 40 ; 10 h 00 = 16 h 00 ; 11 h 00 = 17 h 00",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Conversion 16 h 00",
+  "valeur": "16 h 00",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "10 h 00 à New York = 16 h 00 à Paris",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Conversion 17 h",
+  "valeur": "17 h",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "11 h 00 à New York = 17 h 00 à Paris",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "QF art. 197 plafond demi-part",
+  "valeur": "1 807",
+  "extrait": "La réduction d'impôt résultant de l'application du quotient familial ne peut excéder 1 807 € par demi-part",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "QF quart de part",
+  "valeur": "moitié",
+  "extrait": "par demi-part ou la moitié de cette somme par quart de part s'ajoutant à une part",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "QF deux parts couple",
+  "valeur": "deux parts",
+  "extrait": "et à deux parts pour les contribuables mariés soumis à une imposition commune",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "QF parent isolé premier enfant",
+  "valeur": "4 262",
+  "extrait": "la réduction d'impôt correspondant à la part accordée au titre du premier enfant à charge est limitée à 4 262 €",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "QF art. 195 plafond",
+  "valeur": "1 079",
+  "extrait": "bénéficient des dispositions des a, b et e du 1 de l'article 195, ne peut excéder 1 079 €",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Art 197 version",
+  "valeur": "2026-103",
+  "extrait": "En vigueur depuis le 21 février 2026 ; Modifié par LOI n°2026-103 du 19 février 2026 - art. 4 (V)",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Art 197 entrée vigueur",
+  "valeur": "21 février 2026",
+  "extrait": "En vigueur depuis le 21 février 2026",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Barème seuil 11 600",
+  "valeur": "11 600",
+  "extrait": "L'impôt est calculé en appliquant à la fraction de chaque part de revenu qui excède 11 600 € le taux de :",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Barème 11 %",
+  "valeur": "29 579",
+  "extrait": "11 % pour la fraction supérieure à 11 600 € et inférieure ou égale à 29 579 € ;",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Barème 30 %",
+  "valeur": "84 577",
+  "extrait": "30 % pour la fraction supérieure à 29 579 € et inférieure ou égale à 84 577 € ;",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Barème taux 11",
+  "valeur": "11 %",
+  "extrait": "11 % pour la fraction supérieure à 11 600 €",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Barème taux 30",
+  "valeur": "30 %",
+  "extrait": "30 % pour la fraction supérieure à 29 579 €",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "BOFiP premier terme",
+  "valeur": "premier terme",
+  "extrait": "premier terme : impôt calculé dans les conditions de droit commun en retenant le nombre de parts correspondant à la situation et aux charges de famille du contribuable",
+  "media": "BOFiP",
+  "titre": "IR - Liquidation - Calcul de l'impôt - Corrections affectant le montant de l'impôt brut - Plafonnement des effets du quotient familial",
+  "url": "https://bofip.impots.gouv.fr/bofip/2494-PGP.html/identifiant=BOI-IR-LIQ-20-20-20-20250414",
+  "date": "2025-04-14"
+ },
+ {
+  "affirmation": "BOFiP second terme",
+  "valeur": "second terme",
+  "extrait": "second terme : impôt calculé sur une part si le contribuable est célibataire, divorcé, séparé ou veuf ou sur deux parts s'il est marié, lié par un PACS ... Le montant ainsi obtenu est ensuite diminué de la somme des plafonds en impôt résultant des demi-parts ou quarts de part additionnelles.",
+  "media": "BOFiP",
+  "titre": "IR - Liquidation - Calcul de l'impôt - Corrections affectant le montant de l'impôt brut - Plafonnement des effets du quotient familial",
+  "url": "https://bofip.impots.gouv.fr/bofip/2494-PGP.html/identifiant=BOI-IR-LIQ-20-20-20-20250414",
+  "date": "2025-04-14"
+ },
+ {
+  "affirmation": "BOFiP application",
+  "valeur": "applicable",
+  "extrait": "Si le premier terme est inférieur au second, le plafonnement est applicable",
+  "media": "BOFiP",
+  "titre": "IR - Liquidation - Calcul de l'impôt - Corrections affectant le montant de l'impôt brut - Plafonnement des effets du quotient familial",
+  "url": "https://bofip.impots.gouv.fr/bofip/2494-PGP.html/identifiant=BOI-IR-LIQ-20-20-20-20250414",
+  "date": "2025-04-14"
+ },
+ {
+  "affirmation": "BOFiP champ",
+  "valeur": "situation particulière",
+  "extrait": "que ces majorations de quotient familial soient accordées au titre des charges de famille ou au titre d'une situation particulière (invalide, ancien combattant, parent isolé, etc.)",
+  "media": "BOFiP",
+  "titre": "IR - Liquidation - Calcul de l'impôt - Corrections affectant le montant de l'impôt brut - Plafonnement des effets du quotient familial",
+  "url": "https://bofip.impots.gouv.fr/bofip/2494-PGP.html/identifiant=BOI-IR-LIQ-20-20-20-20250414",
+  "date": "2025-04-14"
+ },
+ {
+  "affirmation": "Parts enfants",
+  "valeur": "2 premiers",
+  "extrait": "1 demi-part pour chacun des 2 premiers enfants à charge ; 1 part entière à partir du 3e",
+  "media": "Service-public.fr",
+  "titre": "Impôt sur le revenu - Quotient familial d'un couple marié ou pacsé",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2705",
+  "date": "2026-04-15"
+ },
+ {
+  "affirmation": "Parts 3e enfant",
+  "valeur": "3e",
+  "extrait": "1 part entière à partir du 3e",
+  "media": "Service-public.fr",
+  "titre": "Impôt sur le revenu - Quotient familial d'un couple marié ou pacsé",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2705",
+  "date": "2026-04-15"
+ },
+ {
+  "affirmation": "Couple 2 enfants 3 parts",
+  "valeur": "3 parts",
+  "extrait": "Couple avec 2 enfants à charge : 3 parts",
+  "media": "Service-public.fr",
+  "titre": "Impôt sur le revenu - Quotient familial d'un couple marié ou pacsé",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2705",
+  "date": "2026-04-15"
+ },
+ {
+  "affirmation": "Exemple revenu",
+  "valeur": "120 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "revenu net imposable retenu pour l'exemple",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex QF 3 parts",
+  "valeur": "40 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "120 000 / 3",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex tranche 11",
+  "valeur": "17 979",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "29 579 - 11 600",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex tranche 11 impôt",
+  "valeur": "1 977,69",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "17 979 x 0,11",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex tranche 30 (3 parts)",
+  "valeur": "10 421",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "40 000 - 29 579",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex 30 % 3 parts",
+  "valeur": "3 126,30",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "10 421 x 0,30",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex impôt par part 3",
+  "valeur": "5 103,99",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 977,69 + 3 126,30",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex impôt foyer 3 parts",
+  "valeur": "15 311,97",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "5 103,99 x 3",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex QF 2 parts",
+  "valeur": "60 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "120 000 / 2",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex tranche 30 (2 parts)",
+  "valeur": "30 421",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "60 000 - 29 579",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex 30 % 2 parts",
+  "valeur": "9 126,30",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "30 421 x 0,30",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex impôt par part 2",
+  "valeur": "11 103,99",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 977,69 + 9 126,30",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex impôt 2 parts",
+  "valeur": "22 207,98",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "11 103,99 x 2",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex avantage",
+  "valeur": "6 896,01",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "22 207,98 - 15 311,97",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex plafond",
+  "valeur": "3 614",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2 x 1 807",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex impôt retenu",
+  "valeur": "18 593,98",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "22 207,98 - 3 614",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Ex surcoût",
+  "valeur": "3 282,01",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "18 593,98 - 15 311,97",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q revenu",
+  "valeur": "150 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "revenu de la question",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q 4 parts",
+  "valeur": "37 500",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "150 000 / 4",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q tranche",
+  "valeur": "7 921",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "37 500 - 29 579",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q impôt part 4",
+  "valeur": "4 353,99",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 977,69 + 7 921 x 0,30",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q impôt 4 parts",
+  "valeur": "17 415,96",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4 353,99 x 4",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q 2 parts",
+  "valeur": "75 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "150 000 / 2",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q tranche 2",
+  "valeur": "45 421",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "75 000 - 29 579",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q impôt part 2",
+  "valeur": "15 603,99",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 977,69 + 45 421 x 0,30",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q impôt 2 parts",
+  "valeur": "31 207,98",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "15 603,99 x 2",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q avantage",
+  "valeur": "13 792,02",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "31 207,98 - 17 415,96",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q plafond",
+  "valeur": "7 228",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4 x 1 807",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q impôt",
+  "valeur": "23 979,98",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "31 207,98 - 7 228",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Q demi-parts",
+  "valeur": "4",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2 enfants x 1 demi-part + 1 part entière = 4 demi-parts",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Emploi US octobre (format français)",
+  "valeur": "165 000",
+  "extrait": "Total nonfarm payroll employment rose by 165,000 in October soit 165 000",
+  "media": "BLS",
+  "titre": "The Employment Situation — October 2026",
+  "url": "https://www.bls.gov/news.release/archives/empsit_11062026.htm",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Attentes Reuters (format français)",
+  "valeur": "65 000",
+  "extrait": "compared with 65,000 jobs expected by economists polled by Reuters soit 65 000",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Nasdaq and S&P 500 rebound, Dow slips to cap bruising week for AI stocks",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-friday-november-6-dow-sp-500-nasdaq-jobs-report-earnings-135953863.html",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Art 194 II parent isolé",
+  "valeur": "194",
+  "extrait": "pour les contribuables célibataires ou divorcés qui remplissent les conditions du II de l'article 194, la réduction d'impôt correspondant à la part accordée au titre du premier enfant à charge est limitée à 4 262 €",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Art 195 a b e",
+  "valeur": "195",
+  "extrait": "bénéficient des dispositions des a, b et e du 1 de l'article 195, ne peut excéder 1 079 €",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051212954",
+  "date": "2026-02-21"
+ }
+]
