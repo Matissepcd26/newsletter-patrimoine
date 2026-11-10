@@ -1,0 +1,920 @@
+[
+ {
+  "affirmation": "CAC 40 clôture 9/11",
+  "valeur": "8 233,30",
+  "extrait": "CAC 40 ; 8 233,30 pts ; +1,16 % sur la séance ; clôture du 09/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "+1,16 %",
+  "extrait": "CAC 40 ; 8 233,30 pts ; +1,16 % sur la séance ; clôture du 09/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "CAC 40 confirmé AFP",
+  "valeur": "1,16 %",
+  "extrait": "L'indice CAC 40 a gagné 1,16 % à 8.233,30 points.",
+  "media": "Boursorama (AFP)",
+  "titre": "La Bourse de Paris termine en hausse avec la baisse des prix du brut",
+  "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-avec-la-baisse-des-prix-du-brut-23611a6b7793fc822f18e2d6449e06c3",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "STMicro tête du CAC",
+  "valeur": "5,30 %",
+  "extrait": "STMicroelectronics s'est ainsi octroyé 5,30 % à 39,63 euros, prenant la tête du CAC 40 lundi.",
+  "media": "Boursorama (AFP)",
+  "titre": "La Bourse de Paris termine en hausse avec la baisse des prix du brut",
+  "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-en-hausse-avec-la-baisse-des-prix-du-brut-23611a6b7793fc822f18e2d6449e06c3",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "7 549,94",
+  "extrait": "S&P 500 ; 7 549,94 pts ; +2,35 % sur la séance ; clôture du 09/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "+2,35 %",
+  "extrait": "S&P 500 ; 7 549,94 pts ; +2,35 % sur la séance ; clôture du 09/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "S&P 500 meilleure séance depuis le 8 avril",
+  "valeur": "2.35%",
+  "extrait": "rose 2.35% to end at 7,549.94, its best day since April 8",
+  "media": "CNBC",
+  "titre": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week's tumult: Live updates",
+  "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "25 253,14",
+  "extrait": "Nasdaq Composite ; 25 253,14 pts ; +2,74 % sur la séance ; clôture du 09/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "+2,74 %",
+  "extrait": "Nasdaq Composite ; 25 253,14 pts ; +2,74 % sur la séance ; clôture du 09/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture",
+  "valeur": "6 290,45",
+  "extrait": "Euro Stoxx 50 ; 6 290,45 pts ; +1,94 % sur la séance ; clôture du 09/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "+1,94 %",
+  "extrait": "Euro Stoxx 50 ; 6 290,45 pts ; +1,94 % sur la séance ; clôture du 09/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 confirmé Reuters, banques",
+  "valeur": "2,79",
+  "extrait": "L'indice EuroStoxx 50 a avancé de 1,94% [...] le compartiment bancaire européen a enregistré l'une des meilleures performances de la séance (+2,79%)",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe efface les pertes de la semaine dernière, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-efface-les-pertes-de-la-semaine-derniere-le-petrole-recule-3e097ed96dc1be7d80bda972d2802ce2",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Banco BPM",
+  "valeur": "10,67",
+  "extrait": "l'envol de 10,67% de Banco BPM",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe efface les pertes de la semaine dernière, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-efface-les-pertes-de-la-semaine-derniere-le-petrole-recule-3e097ed96dc1be7d80bda972d2802ce2",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "EUR/USD BCE",
+  "valeur": "1,1193",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1193 ; +0,25 % sur la séance ; taux du 09/11/2026",
+  "media": "BCE",
+  "titre": "Taux de référence de l'euro",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "+0,25 %",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1193 ; +0,25 % sur la séance ; taux du 09/11/2026",
+  "media": "BCE",
+  "titre": "Taux de référence de l'euro",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "OAT 10 ans",
+  "valeur": "4,7386",
+  "extrait": "Le rendement de l'OAT à dix ans a lâché 0,4 point de base à 4,7386%.",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe efface les pertes de la semaine dernière, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-efface-les-pertes-de-la-semaine-derniere-le-petrole-recule-3e097ed96dc1be7d80bda972d2802ce2",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "OAT arrondi",
+  "valeur": "4,74",
+  "extrait": "OAT 10 ans 09/11/2026 dernier 4,736 (arrondi 4,74) ; Boursorama/Reuters 4,7386 %",
+  "media": "Investing.com",
+  "titre": "Rendement Obligation France 10 ans - Historique",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "OAT variation",
+  "valeur": "0,4",
+  "extrait": "Le rendement de l'OAT à dix ans a lâché 0,4 point de base à 4,7386%.",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe efface les pertes de la semaine dernière, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-efface-les-pertes-de-la-semaine-derniere-le-petrole-recule-3e097ed96dc1be7d80bda972d2802ce2",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Bund 10 ans",
+  "valeur": "3,2650",
+  "extrait": "Le rendement du Bund allemand à dix ans a reculé de 0,2 point de base à 3,2650%",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe efface les pertes de la semaine dernière, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-efface-les-pertes-de-la-semaine-derniere-le-petrole-recule-3e097ed96dc1be7d80bda972d2802ce2",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Bund arrondi",
+  "valeur": "3,27",
+  "extrait": "Bund 10 ans 09/11/2026 dernier 3,2654 (arrondi 3,27) ; Boursorama/Reuters 3,2650 %",
+  "media": "Investing.com",
+  "titre": "Rendement Obligation Allemagne 10 ans - Historique",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Bund variation",
+  "valeur": "0,2",
+  "extrait": "Le rendement du Bund allemand à dix ans a reculé de 0,2 point de base à 3,2650%",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe efface les pertes de la semaine dernière, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-efface-les-pertes-de-la-semaine-derniere-le-petrole-recule-3e097ed96dc1be7d80bda972d2802ce2",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Spread OAT-Bund 9/11",
+  "valeur": "147",
+  "extrait": "4,7386 - 3,2650 = 1,4736 point soit 147 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Spread 5/11 pour rappel",
+  "valeur": "148",
+  "extrait": "L'écart OAT-Bund se réduit ainsi ce jeudi à 148 points de base, selon les données d'Euronext",
+  "media": "abcbourse",
+  "titre": "Les taux se replient en zone euro, l'OAT en net recul",
+  "url": "https://www.abcbourse.com/marches/newsContent/705683",
+  "date": "2026-11-05"
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "4,114.50",
+  "extrait": "U.S. gold futures for December delivery settled 1% higher at $4,114.50.",
+  "media": "CNBC",
+  "titre": "Gold climbs more than 1% as inflation fears ease on lower crude prices",
+  "url": "https://www.cnbc.com/2026/11/09/gold-gains-more-than-1percent-as-softer-oil-prices-ease-inflation-worries.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "1%",
+  "extrait": "settled 1% higher at $4,114.50",
+  "media": "CNBC",
+  "titre": "Gold climbs more than 1% as inflation fears ease on lower crude prices",
+  "url": "https://www.cnbc.com/2026/11/09/gold-gains-more-than-1percent-as-softer-oil-prices-ease-inflation-worries.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Or script",
+  "valeur": "4 115,00",
+  "extrait": "Or (contrat déc. 2026) ; 4 115,00 $/once ; +0,96 % sur la séance ; cours du 09/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Or variation script",
+  "valeur": "+0,96 %",
+  "extrait": "Or (contrat déc. 2026) ; 4 115,00 $/once ; +0,96 % sur la séance ; cours du 09/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Or hausse semaine précédente",
+  "valeur": "5%",
+  "extrait": "Gold also gained about 5% the prior week after Democrats won control of both chambers of Congress",
+  "media": "CNBC",
+  "titre": "Gold climbs more than 1% as inflation fears ease on lower crude prices",
+  "url": "https://www.cnbc.com/2026/11/09/gold-gains-more-than-1percent-as-softer-oil-prices-ease-inflation-worries.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Brent règlement",
+  "valeur": "92.57",
+  "extrait": "Brent fell 5.85% to $92.57 per barrel",
+  "media": "CNBC",
+  "titre": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week's tumult: Live updates",
+  "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Brent variation",
+  "valeur": "5.85%",
+  "extrait": "Brent fell 5.85% to $92.57 per barrel",
+  "media": "CNBC",
+  "titre": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week's tumult: Live updates",
+  "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Brent script",
+  "valeur": "92,55",
+  "extrait": "Brent (contrat janv. 2027) ; 92,55 $/baril ; -5,90 % sur la séance ; cours du 09/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Brent script variation",
+  "valeur": "-5,90 %",
+  "extrait": "Brent (contrat janv. 2027) ; 92,55 $/baril ; -5,90 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "WTI",
+  "valeur": "86.85",
+  "extrait": "U.S. West Texas Intermediate futures fell 4.38% to $86.85 per barrel.",
+  "media": "CNBC",
+  "titre": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week's tumult: Live updates",
+  "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Bitcoin",
+  "valeur": "75 264,49",
+  "extrait": "Bitcoin ; 75 264,49 $ ; +0,72 % sur la séance ; clôture du 09/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "+0,72 %",
+  "extrait": "Bitcoin ; 75 264,49 $ ; +0,72 % sur la séance ; clôture du 09/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Bitcoin moyenne 200 jours",
+  "valeur": "73,151",
+  "extrait": "just above its 200-day moving average at $73,151",
+  "media": "CoinDesk",
+  "titre": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
+  "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Nvidia recul",
+  "valeur": "4%",
+  "extrait": "Nvidia shares closed down 4%. Its board opened an investigation into CEO Jensen Huang's relationship with a businesswoman whom U.S. intelligence agencies say is a Chinese spy",
+  "media": "CNBC",
+  "titre": "Dow surges 1,100 points, Nasdaq climbs more than 2% as tech rebounds from last week's tumult: Live updates",
+  "url": "https://www.cnbc.com/2026/11/08/stock-market-today-live-updates.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Trump CNN dimanche",
+  "valeur": "highly unlikely",
+  "extrait": "\"The answer is highly unlikely it's going to be necessary. They're a failing nation.\"",
+  "media": "CNBC",
+  "titre": "Trump says renewed Iran strikes 'highly unlikely' if talks progress but warns he could still strike",
+  "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Trump trois porte-avions",
+  "valeur": "three aircraft carriers",
+  "extrait": "\"I've got three aircraft carriers here. The other one just arrived. We have three.\"",
+  "media": "CNBC",
+  "titre": "Trump says renewed Iran strikes 'highly unlikely' if talks progress but warns he could still strike",
+  "url": "https://www.cnbc.com/2026/11/08/trump-iran-strikes-unlikely-talks-hormuz.html",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Rubio pas de percée",
+  "valeur": "verge of a breakthrough",
+  "extrait": "\"I wouldn't say we're on the verge of a breakthrough.\" ... demands are \"outrageous and ridiculous and really not realistic.\"",
+  "media": "CNBC",
+  "titre": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
+  "url": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Baghaei conditions, délai 7 à 2 jours",
+  "valeur": "two",
+  "extrait": "Esmaeil Baghaei, Iranian Foreign Ministry spokesperson, said Monday that Tehran wants U.S. sanctions lifted and the war ended on all fronts before negotiations begin. Tehran proposed shortening the timetable for restarting talks from seven days to two.",
+  "media": "CNBC",
+  "titre": "Rubio sees little hope of diplomatic breakthrough to Mideast deadlock amid 'outrageous' Iranian demands",
+  "url": "https://www.cnbc.com/2026/11/09/us-iran-war-trump-hormuz.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "BCE marchés 66% hausse décembre",
+  "valeur": "66%",
+  "extrait": "les marchés parient à 66% sur une hausse des taux par la Banque centrale européenne (BCE) à l'issue de sa prochaine réunion en décembre (LSEG)",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe efface les pertes de la semaine dernière, le pétrole recule",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-efface-les-pertes-de-la-semaine-derniere-le-petrole-recule-3e097ed96dc1be7d80bda972d2802ce2",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "BCE taux de dépôt pour rappel",
+  "valeur": "2,50%",
+  "extrait": "laisse le taux de dépôt à 2,50%, celui du refinancement à 2,65% et celui du prêt marginal à 2,90%",
+  "media": "Boursorama",
+  "titre": "La BCE laisse ses taux inchangés, met en garde contre un risque accru d'inflation",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/la-bce-laisse-ses-taux-inchanges-met-en-garde-contre-un-risque-accru-d-inflation-8b428bd510ad2d453650a3cb5a52df3f",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE inflation septembre pour rappel",
+  "valeur": "3,8%",
+  "extrait": "s'est accélérée à 3,8% sur un an en septembre, dépassant largement l'objectif de 2% de Francfort",
+  "media": "Boursorama",
+  "titre": "La BCE laisse ses taux inchangés, met en garde contre un risque accru d'inflation",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/la-bce-laisse-ses-taux-inchanges-met-en-garde-contre-un-risque-accru-d-inflation-8b428bd510ad2d453650a3cb5a52df3f",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Lagarde Yomiuri pour rappel",
+  "valeur": "décembre",
+  "extrait": "« Je ne peux pas vous dire aujourd'hui que nous le ferons certainement en décembre. »",
+  "media": "Investing.com",
+  "titre": "Lagarde (BCE) : l'inflation restera élevée, pas de raison de changer de cap",
+  "url": "https://fr.investing.com/news/economy-news/lagarde-bce--linflation-restera-elevee-pas-de-raison-de-changer-de-cap-3683629",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Eurogroupe deux candidats",
+  "valeur": "deux",
+  "extrait": "« Nous avons reçu deux excellentes candidatures » (Kyriakos Pierrakakis) ; le Néerlandais Klaas Knot et l'Espagnol Pablo Hernandez de Cos",
+  "media": "Boursorama (AFP)",
+  "titre": "Succession de Lagarde à la BCE : la zone euro veut trancher \"d'ici la fin de l'année\"",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/succession-de-lagarde-a-la-bce-la-zone-euro-veut-trancher-d-ici-la-fin-de-l-annee-d2cde5e074b3d7197674cf5b9f112b7c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Knot FT",
+  "valeur": "n'hésitera pas",
+  "extrait": "Klaas Knot, dans un entretien au Financial Times, a affirmé que, s'il était nommé, il « n'hésitera pas » à utiliser les outils de la BCE en cas de nouvelle crise de la dette",
+  "media": "Boursorama (AFP)",
+  "titre": "Succession de Lagarde à la BCE : la zone euro veut trancher \"d'ici la fin de l'année\"",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/succession-de-lagarde-a-la-bce-la-zone-euro-veut-trancher-d-ici-la-fin-de-l-annee-d2cde5e074b3d7197674cf5b9f112b7c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "CPI US consensus",
+  "valeur": "0.3%",
+  "extrait": "Headline CPI is expected to rise 0.3% month over month. Core CPI is forecast at 0.2% (Dow Jones); slower than September's gains of 0.6% (headline) and 0.3% (core)",
+  "media": "CNBC",
+  "titre": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+  "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "CPI core consensus",
+  "valeur": "0.2%",
+  "extrait": "Core CPI is forecast at 0.2%",
+  "media": "CNBC",
+  "titre": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+  "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "CPI septembre",
+  "valeur": "0.6%",
+  "extrait": "September's gains of 0.6% (headline)",
+  "media": "CNBC",
+  "titre": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+  "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "FedWatch 80% hausse décembre",
+  "valeur": "80%",
+  "extrait": "a better than 80% probability that the central bank will raise rates by a quarter percentage point (CME FedWatch)",
+  "media": "CNBC",
+  "titre": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+  "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "CPI 8h30 ET",
+  "valeur": "8:30",
+  "extrait": "Tuesday at 8:30 a.m. ET, from the Bureau of Labor Statistics",
+  "media": "CNBC",
+  "titre": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+  "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "CPI 14h30 Paris",
+  "valeur": "14h30",
+  "extrait": "14h30 États-Unis IPC ; 07h30 France Taux de chômage",
+  "media": "Boursorama (AOF)",
+  "titre": "Agenda Macro Zonebourse : le 10 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-10-novembre-2026-a7303c0ab1a1ab1554464735ada53331",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Chômage France 7h30",
+  "valeur": "07h30",
+  "extrait": "07h30 France Taux de chômage",
+  "media": "Boursorama (AOF)",
+  "titre": "Agenda Macro Zonebourse : le 10 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-10-novembre-2026-a7303c0ab1a1ab1554464735ada53331",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Smic coup de pouce",
+  "valeur": "0,6 %",
+  "extrait": "Coup de pouce de 0,6 %, « ce qui n'est pas arrivé depuis 2012 », qui s'ajoute à la revalorisation automatique de +1 %",
+  "media": "Boursorama (AFP)",
+  "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-tente-de-repondre-a-la-colere-sociale-une-hausse-du-smic-attendue-af8819f6d438d3e1c5dbaa0c90d8b89c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Smic revalorisation automatique",
+  "valeur": "1 %",
+  "extrait": "qui s'ajoute à la revalorisation automatique de +1 %",
+  "media": "Boursorama (AFP)",
+  "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-tente-de-repondre-a-la-colere-sociale-une-hausse-du-smic-attendue-af8819f6d438d3e1c5dbaa0c90d8b89c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Smic 1502 net 1er décembre",
+  "valeur": "1 502",
+  "extrait": "dès le 1er décembre, pour un salaire minimum d'environ 1 502 euros net par mois, soit une hausse d'environ 24 euros",
+  "media": "Boursorama (AFP)",
+  "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-tente-de-repondre-a-la-colere-sociale-une-hausse-du-smic-attendue-af8819f6d438d3e1c5dbaa0c90d8b89c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Smic hausse 24 euros",
+  "valeur": "24",
+  "extrait": "soit une hausse d'environ 24 euros",
+  "media": "Boursorama (AFP)",
+  "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-tente-de-repondre-a-la-colere-sociale-une-hausse-du-smic-attendue-af8819f6d438d3e1c5dbaa0c90d8b89c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Heures sup plafond 10000 projet",
+  "valeur": "10 000",
+  "extrait": "le gouvernement proposera, dans le débat budgétaire, de relever à 10 000 euros le plafond de défiscalisation des heures supplémentaires",
+  "media": "Boursorama (AFP)",
+  "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-tente-de-repondre-a-la-colere-sociale-une-hausse-du-smic-attendue-af8819f6d438d3e1c5dbaa0c90d8b89c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Prime carburant 1000 prolongée 2027",
+  "valeur": "1 000",
+  "extrait": "Prime carburant (aide défiscalisée jusqu'à 1 000 euros) prolongée en 2027",
+  "media": "Boursorama (AFP)",
+  "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-tente-de-repondre-a-la-colere-sociale-une-hausse-du-smic-attendue-af8819f6d438d3e1c5dbaa0c90d8b89c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "CFDT 100 euros",
+  "valeur": "100",
+  "extrait": "CFDT (Marylise Léon) : hausse « insuffisante », réclamait 100 euros",
+  "media": "Boursorama (AFP)",
+  "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-tente-de-repondre-a-la-colere-sociale-une-hausse-du-smic-attendue-af8819f6d438d3e1c5dbaa0c90d8b89c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "CGT miettes 150",
+  "valeur": "150",
+  "extrait": "CGT (Sophie Binet) : parle de « miettes » ; elle réclamait environ 150 euros",
+  "media": "Boursorama (AFP)",
+  "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-tente-de-repondre-a-la-colere-sociale-une-hausse-du-smic-attendue-af8819f6d438d3e1c5dbaa0c90d8b89c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Medef négocier à l'aveugle",
+  "valeur": "négocier à l'aveugle",
+  "extrait": "Medef (Patrick Martin) : les branches vont devoir « négocier à l'aveugle »",
+  "media": "Boursorama (AFP)",
+  "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-tente-de-repondre-a-la-colere-sociale-une-hausse-du-smic-attendue-af8819f6d438d3e1c5dbaa0c90d8b89c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Grève fonction publique 17 novembre",
+  "valeur": "17 novembre",
+  "extrait": "nouvelle grève appelée le 17 novembre contre le gel du point d'indice",
+  "media": "Boursorama (AFP)",
+  "titre": "Lecornu donne un coup de pouce au Smic, les syndicats entre colère et expectative",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/lecornu-tente-de-repondre-a-la-colere-sociale-une-hausse-du-smic-attendue-af8819f6d438d3e1c5dbaa0c90d8b89c",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Plan d'épargne dépendance rapport Grégoire",
+  "valeur": "26",
+  "extrait": "rapport de la députée Olivia Grégoire « relatif à la croissance et à la transmission des Très petites entreprises » ; 26 propositions ; Plan d'épargne dépendance (PED), calqué sur le PER",
+  "media": "Boursorama (Moneyvox)",
+  "titre": "Placements : le PER pourrait-il bientôt permettre de financer la perte d'autonomie des seniors ?",
+  "url": "https://www.boursorama.com/epargne/retraite/actualites/placements-le-per-pourrait-il-bientot-permettre-de-financer-la-perte-d-autonomie-des-seniors-0063558bf550e9a820a1ff82a5ae5761",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "PED blocage 10 à 15 ans",
+  "valeur": "10 à 15 ans",
+  "extrait": "Les sommes transférées resteraient bloquées 10 à 15 ans de plus",
+  "media": "Boursorama (Moneyvox)",
+  "titre": "Placements : le PER pourrait-il bientôt permettre de financer la perte d'autonomie des seniors ?",
+  "url": "https://www.boursorama.com/epargne/retraite/actualites/placements-le-per-pourrait-il-bientot-permettre-de-financer-la-perte-d-autonomie-des-seniors-0063558bf550e9a820a1ff82a5ae5761",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "PED accès 75 ou 80 ans",
+  "valeur": "75 ou 80 ans",
+  "extrait": "Les retraités ne pourraient y accéder qu'à 75 ou 80 ans",
+  "media": "Boursorama (Moneyvox)",
+  "titre": "Placements : le PER pourrait-il bientôt permettre de financer la perte d'autonomie des seniors ?",
+  "url": "https://www.boursorama.com/epargne/retraite/actualites/placements-le-per-pourrait-il-bientot-permettre-de-financer-la-perte-d-autonomie-des-seniors-0063558bf550e9a820a1ff82a5ae5761",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Livret A plafond annoncé pour rappel",
+  "valeur": "22 950",
+  "extrait": "un nouveau seuil « entre 25 000 et 30 000 euros », contre 22 950 euros actuellement ; 1er février 2027 ; « ne nécessite pas le vote d'une loi »",
+  "media": "Moneyvox",
+  "titre": "Nouveau plafond du Livret A, arnaque bancaire, cumul emploi-retraite... Les 5 infos de la semaine",
+  "url": "https://www.moneyvox.fr/votre-argent/actualites/111142/nouveau-plafond-du-livret-a-arnaque-bancaire-cumul-emploi-retraite-les-5-infos-de-la-semaine",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "Livret A plafond 25000-30000",
+  "valeur": "25 000 et 30 000",
+  "extrait": "un nouveau seuil « entre 25 000 et 30 000 euros »",
+  "media": "Moneyvox",
+  "titre": "Nouveau plafond du Livret A, arnaque bancaire, cumul emploi-retraite... Les 5 infos de la semaine",
+  "url": "https://www.moneyvox.fr/votre-argent/actualites/111142/nouveau-plafond-du-livret-a-arnaque-bancaire-cumul-emploi-retraite-les-5-infos-de-la-semaine",
+  "date": "2026-11-08"
+ },
+ {
+  "affirmation": "PLF 2027 rejeté AN pour rappel",
+  "valeur": "458",
+  "extrait": "0 pour et 458 contre ; l'ensemble du projet de loi de finances pour 2027 est considéré comme rejeté",
+  "media": "Assemblée nationale",
+  "titre": "Rejet, en première lecture, du projet de loi de finances pour 2027",
+  "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Crédit immo taux 20 ans pour rappel",
+  "valeur": "3,70 %",
+  "extrait": "Taux moyens négociés : 3,50 % sur 15 ans, 3,70 % sur 20 ans et 3,80 % sur 25 ans",
+  "media": "Meilleurtaux",
+  "titre": "Crédit immobilier : les banques durcissent les négociations",
+  "url": "https://www.meilleurtaux.com/credit-immobilier/actualites/2026-novembre/credit-immobilier-les-banques-durcissent-les-negociations.html",
+  "date": "2026-11-02"
+ },
+ {
+  "affirmation": "IS taux normal",
+  "valeur": "25 %",
+  "extrait": "Le taux normal de l'impôt est fixé à 25 %.",
+  "media": "Légifrance",
+  "titre": "Article 219 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042908577/",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "IS taux réduit art 219 I b",
+  "valeur": "15 %",
+  "extrait": "b. Par exception [...] pour les redevables ayant réalisé un chiffre d'affaires n'excédant pas 10 millions d'euros au cours de l'exercice ou de la période d'imposition, ramené s'il y a lieu à douze mois, le taux de l'impôt applicable au bénéfice imposable est fixé, dans la limite de 42 500 € de bénéfice imposable par période de douze mois, à 25 % pour les exercices ouverts en 2001 et à 15 % pour les exercices ouverts à compter du 1er janvier 2002.",
+  "media": "Légifrance",
+  "titre": "Article 219 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042908577/",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "IS plafond 42500",
+  "valeur": "42 500",
+  "extrait": "dans la limite de 42 500 € de bénéfice imposable par période de douze mois",
+  "media": "Légifrance",
+  "titre": "Article 219 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042908577/",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "IS seuil CA 10 M€",
+  "valeur": "10 millions",
+  "extrait": "un chiffre d'affaires n'excédant pas 10 millions d'euros au cours de l'exercice ou de la période d'imposition, ramené s'il y a lieu à douze mois",
+  "media": "Légifrance",
+  "titre": "Article 219 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042908577/",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "IS condition capital 75 %",
+  "valeur": "75 %",
+  "extrait": "Le capital des sociétés mentionnées au premier alinéa du présent b doit être entièrement libéré et détenu de manière continue pour 75 % au moins par des personnes physiques ou par une société répondant aux mêmes conditions dont le capital est détenu, pour 75 % au moins, par des personnes physiques.",
+  "media": "Légifrance",
+  "titre": "Article 219 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042908577/",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "IS exclusions capital-risque",
+  "valeur": "capital-risque",
+  "extrait": "les participations des sociétés de capital-risque, des fonds communs de placement à risques, des fonds professionnels spécialisés [...], des fonds professionnels de capital investissement, des sociétés de développement régional et des sociétés financières d'innovation ne sont pas prises en compte à la condition qu'il n'existe pas de lien de dépendance au sens du 12 de l'article 39",
+  "media": "Légifrance",
+  "titre": "Article 219 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042908577/",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "IS groupe intégré somme des CA",
+  "valeur": "somme des chiffres d'affaires",
+  "extrait": "Pour la société mère d'un groupe mentionné à l'article 223 A ou à l'article 223 A bis, le chiffre d'affaires est apprécié en faisant la somme des chiffres d'affaires de chacune des sociétés membres de ce groupe.",
+  "media": "Légifrance",
+  "titre": "Article 219 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042908577/",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "BOFiP plafond 42500 exercices clos 31/12/2022",
+  "valeur": "42 500",
+  "extrait": "La limite de 42 500 € s'applique au titre des exercices clos à compter du 31 décembre 2022. Remarque : Pour les exercices clos antérieurement à cette date, la limite est fixée à 38 120 €.",
+  "media": "BOFiP",
+  "titre": "IS - Liquidation et taux - Taux réduit applicable au bénéfice des petites et moyennes entreprises - Redevables concernés",
+  "url": "https://bofip.impots.gouv.fr/bofip/2062-PGP.html/identifiant=BOI-IS-LIQ-20-10-20230621",
+  "date": "2023-06-21"
+ },
+ {
+  "affirmation": "BOFiP ancien plafond 38120",
+  "valeur": "38 120",
+  "extrait": "Pour les exercices clos antérieurement à cette date, la limite est fixée à 38 120 €.",
+  "media": "BOFiP",
+  "titre": "IS - Liquidation et taux - Taux réduit applicable au bénéfice des petites et moyennes entreprises - Redevables concernés",
+  "url": "https://bofip.impots.gouv.fr/bofip/2062-PGP.html/identifiant=BOI-IS-LIQ-20-10-20230621",
+  "date": "2023-06-21"
+ },
+ {
+  "affirmation": "BOFiP capital libéré continu",
+  "valeur": "entièrement libéré",
+  "extrait": "Les sociétés doivent avoir un capital entièrement libéré et détenu de manière continue pour 75 % au moins : par des personnes physiques ; ou par une ou plusieurs sociétés respectant la condition tenant au chiffre d'affaires [...] et dont le capital, entièrement libéré, est directement détenu pour au moins 75 % par des personnes physiques.",
+  "media": "BOFiP",
+  "titre": "IS - Liquidation et taux - Taux réduit applicable au bénéfice des petites et moyennes entreprises - Redevables concernés",
+  "url": "https://bofip.impots.gouv.fr/bofip/2062-PGP.html/identifiant=BOI-IS-LIQ-20-10-20230621",
+  "date": "2023-06-21"
+ },
+ {
+  "affirmation": "CE TDA CA du groupe",
+  "valeur": "481 538",
+  "extrait": "Dans une décision récente en date du 13 mars 2025, n° 481 538, Sté TDA, le Conseil d'Etat [...] indique qu'il convient de se référer, en tout état de cause, au chiffre d'affaires de l'ensemble du groupe détenant la société éligible, que ce groupe soit fiscalement intégré ou non.",
+  "media": "impots.gouv.fr",
+  "titre": "Taux réduit d'impôt sur les sociétés (IS) : le critère du chiffre d'affaires revu pour les entreprises appartenant à des groupes",
+  "url": "https://www.impots.gouv.fr/actualite/taux-reduit-dimpot-sur-les-societes-le-critere-du-chiffre-daffaires-revu-pour-les",
+  "date": "2026-04-14"
+ },
+ {
+  "affirmation": "CE TDA date",
+  "valeur": "13 mars 2025",
+  "extrait": "Dans une décision récente en date du 13 mars 2025, n° 481 538, Sté TDA",
+  "media": "impots.gouv.fr",
+  "titre": "Taux réduit d'impôt sur les sociétés (IS) : le critère du chiffre d'affaires revu pour les entreprises appartenant à des groupes",
+  "url": "https://www.impots.gouv.fr/actualite/taux-reduit-dimpot-sur-les-societes-le-critere-du-chiffre-daffaires-revu-pour-les",
+  "date": "2026-04-14"
+ },
+ {
+  "affirmation": "Régularisation 20 mai 2026",
+  "valeur": "20 mai 2026",
+  "extrait": "Elles n'encourront aucune pénalité, pour les régularisations effectuées jusqu'au 20 mai 2026.",
+  "media": "impots.gouv.fr",
+  "titre": "Taux réduit d'impôt sur les sociétés (IS) : le critère du chiffre d'affaires revu pour les entreprises appartenant à des groupes",
+  "url": "https://www.impots.gouv.fr/actualite/taux-reduit-dimpot-sur-les-societes-le-critere-du-chiffre-daffaires-revu-pour-les",
+  "date": "2026-04-14"
+ },
+ {
+  "affirmation": "Focus bénéfice exemple",
+  "valeur": "120 000",
+  "extrait": "hypothèse de l'exemple : bénéfice imposable 120 000 €",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus tranche 15 %",
+  "valeur": "6 375",
+  "extrait": "42 500 x 0,15 = 6 375",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus reste",
+  "valeur": "77 500",
+  "extrait": "120 000 - 42 500 = 77 500",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus tranche 25 %",
+  "valeur": "19 375",
+  "extrait": "77 500 x 0,25 = 19 375",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus IS total",
+  "valeur": "25 750",
+  "extrait": "6 375 + 19 375 = 25 750",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus IS plein",
+  "valeur": "30 000",
+  "extrait": "120 000 x 0,25 = 30 000",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus économie",
+  "valeur": "4 250",
+  "extrait": "30 000 - 25 750 = 4 250 = 42 500 x 0,10",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus taux effectif",
+  "valeur": "21,46",
+  "extrait": "25 750 / 120 000 = 21,46 %",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus écart de taux",
+  "valeur": "10 points",
+  "extrait": "25 % - 15 % = 10 points",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus CA exemple",
+  "valeur": "3 millions",
+  "extrait": "hypothèse : chiffre d'affaires 3 millions d'euros ; groupe 12 millions",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Focus groupe 12 M",
+  "valeur": "12 millions",
+  "extrait": "hypothèse : groupe de la holding 12 millions d'euros de chiffre d'affaires",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Or règlement (format français)",
+  "valeur": "4 114,50",
+  "extrait": "settled 1% higher at $4,114.50 [4 114,50 $]",
+  "media": "CNBC",
+  "titre": "Gold climbs more than 1% as inflation fears ease on lower crude prices",
+  "url": "https://www.cnbc.com/2026/11/09/gold-gains-more-than-1percent-as-softer-oil-prices-ease-inflation-worries.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Bitcoin MM200 (format français)",
+  "valeur": "73 151",
+  "extrait": "just above its 200-day moving average at $73,151 [73 151 $]",
+  "media": "CoinDesk",
+  "titre": "Live news: Crypto prices give ground even as stocks and gold surge, oil plunges",
+  "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Article 219 CGI",
+  "valeur": "219",
+  "extrait": "Article 219 - Code général des impôts",
+  "media": "Légifrance",
+  "titre": "Article 219 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042908577/",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "CPI core septembre",
+  "valeur": "0.3%",
+  "extrait": "slower than September's gains of 0.6% (headline) and 0.3% (core)",
+  "media": "CNBC",
+  "titre": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+  "url": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Chômage T3 2026",
+  "valeur": "8,2 %",
+  "extrait": "Au troisième trimestre 2026, le taux de chômage s'établit à 8,2 %, en hausse de 0,4 point sur un an ; 3 e trimestre 2026 8,2 % – 0,1",
+  "media": "INSEE",
+  "titre": "Tableau de bord de la conjoncture",
+  "url": "https://www.insee.fr/fr/statistiques/2107840",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "Chômage +0,4 sur un an",
+  "valeur": "0,4 point",
+  "extrait": "en hausse de 0,4 point sur un an",
+  "media": "INSEE",
+  "titre": "Tableau de bord de la conjoncture",
+  "url": "https://www.insee.fr/fr/statistiques/2107840",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "Chômage -0,1 trimestre",
+  "valeur": "0,1",
+  "extrait": "3 e trimestre 2026 8,2 % – 0,1 (T/(T–1) en points)",
+  "media": "INSEE",
+  "titre": "Tableau de bord de la conjoncture",
+  "url": "https://www.insee.fr/fr/statistiques/2107840",
+  "date": "2026-11-10"
+ }
+]
