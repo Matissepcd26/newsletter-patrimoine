@@ -1,0 +1,875 @@
+[
+ {
+  "affirmation": "CAC 40 clôture",
+  "valeur": "8 332,87",
+  "extrait": "CAC 40 ; 8 332,87 pts ; +0,66 % sur la séance ; clôture du 11/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "+0,66",
+  "extrait": "CAC 40 ; 8 332,87 pts ; +0,66 % sur la séance ; clôture du 11/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "CAC 40 confirmation",
+  "valeur": "8.332,87",
+  "extrait": "Son indice phare, le CAC 40, a pris 0,66%à 8.332,87 points.",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : L'IA rebondit en Bourse grâce notamemnt aux espoirs autour d'un relèvement de la valorisation cible d'Anthropic pour son entrée à Wall Street, le CAC 40 termine en hausse",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-l-ia-rebondit-en-bourse-grace-notamemnt-aux-espoirs-autour-d-un-relevement-de-la-valorisation-cible-d-anthropic-pour-son-entree-a-wall-street-le-cac-40-termine-en-hausse-1173605.html",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "STMicro et Soitec",
+  "valeur": "11,93",
+  "extrait": "STMicroelectronics et Soitec ont respectivement pris 11,93% et 5,16%.",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : L'IA rebondit en Bourse…",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-l-ia-rebondit-en-bourse-grace-notamemnt-aux-espoirs-autour-d-un-relevement-de-la-valorisation-cible-d-anthropic-pour-son-entree-a-wall-street-le-cac-40-termine-en-hausse-1173605.html",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Soitec",
+  "valeur": "5,16",
+  "extrait": "STMicroelectronics et Soitec ont respectivement pris 11,93% et 5,16%.",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : L'IA rebondit en Bourse…",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-l-ia-rebondit-en-bourse-grace-notamemnt-aux-espoirs-autour-d-un-relevement-de-la-valorisation-cible-d-anthropic-pour-son-entree-a-wall-street-le-cac-40-termine-en-hausse-1173605.html",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Moteurs CoreWeave Anthropic",
+  "valeur": "CoreWeave",
+  "extrait": "Coreweave a présenté des perspectives optimistes ; Anthropic envisagerait de revoir à la hausse sa valorisation cible pour son introduction en Bourse",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : L'IA rebondit en Bourse…",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-l-ia-rebondit-en-bourse-grace-notamemnt-aux-espoirs-autour-d-un-relevement-de-la-valorisation-cible-d-anthropic-pour-son-entree-a-wall-street-le-cac-40-termine-en-hausse-1173605.html",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Volumes Paris",
+  "valeur": "500",
+  "extrait": "à peine 500 millions d'euros ont été échangés depuis l'ouverture sur le principal indice français",
+  "media": "Zonebourse",
+  "titre": "11 novembre : l'IA rallume la flamme dans un marché déserté",
+  "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "7 619,38",
+  "extrait": "S&P 500 ; 7 619,38 pts ; +1,31 % sur la séance ; clôture du 11/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "+1,31",
+  "extrait": "S&P 500 ; 7 619,38 pts ; +1,31 % sur la séance ; clôture du 11/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "S&P 500 AP",
+  "valeur": "7,619.38",
+  "extrait": "S&P 500: up 98.45 points (1.3%) to 7,619.38 ; The bond market was closed for a holiday",
+  "media": "AP via Yahoo Finance",
+  "titre": "How major US stock indexes fared Wednesday 11/11/2026",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/major-us-stock-indexes-fared-211834867.html",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "25 466,19",
+  "extrait": "Nasdaq Composite ; 25 466,19 pts ; +1,60 % sur la séance ; clôture du 11/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "+1,60",
+  "extrait": "Nasdaq Composite ; 25 466,19 pts ; +1,60 % sur la séance ; clôture du 11/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture",
+  "valeur": "6 393,39",
+  "extrait": "Euro Stoxx 50 ; 6 393,39 pts ; +1,04 % sur la séance ; clôture du 11/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "+1,04",
+  "extrait": "Euro Stoxx 50 ; 6 393,39 pts ; +1,04 % sur la séance ; clôture du 11/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "EUR/USD BCE",
+  "valeur": "1,1127",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1127 ; -0,78 % sur la séance ; taux du 11/11/2026",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar américain (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "-0,78",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1127 ; -0,78 % sur la séance ; taux du 11/11/2026",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar américain (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "EUR/USD veille",
+  "valeur": "1,1214",
+  "extrait": "EXR.D.USD.EUR.SP00.A 2026-11-10 1.1214",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar américain (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Euro BFM",
+  "valeur": "1,1090",
+  "extrait": "l'euro reperd 0,7% face au dollar à 1,1090 dollar",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : L'IA rebondit en Bourse…",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-l-ia-rebondit-en-bourse-grace-notamemnt-aux-espoirs-autour-d-un-relevement-de-la-valorisation-cible-d-anthropic-pour-son-entree-a-wall-street-le-cac-40-termine-en-hausse-1173605.html",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture",
+  "valeur": "4.785",
+  "extrait": "Nov 11, 2026 / 4.785 / 4.766 / 4.815 / 4.732 / -0.34%",
+  "media": "Investing.com",
+  "titre": "France 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "OAT 10 ans arrondi",
+  "valeur": "4,79",
+  "extrait": "une OAT de même échéance à 4,79%, soit un spread de 149 pb",
+  "media": "Zonebourse",
+  "titre": "11 novembre : l'IA rallume la flamme dans un marché déserté",
+  "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "OAT 10 ans veille",
+  "valeur": "4.802",
+  "extrait": "Nov 10, 2026 / 4.802 / 4.710 / 4.807 / 4.669 / +1.38%",
+  "media": "Investing.com",
+  "titre": "France 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Bund 10 ans clôture",
+  "valeur": "3.3236",
+  "extrait": "Nov 11, 2026 / 3.3236 / 3.3023 / 3.3333 / 3.2849 / +0.51%",
+  "media": "Investing.com",
+  "titre": "Germany 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Bund arrondi",
+  "valeur": "3,32",
+  "extrait": "Taux de référence Allemagne 10 ans 3,32%",
+  "media": "Boursorama",
+  "titre": "Taux",
+  "url": "https://www.boursorama.com/bourse/taux/",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Bund 10 ans veille",
+  "valeur": "3.3069",
+  "extrait": "Nov 10, 2026 / 3.3069 / 3.2605 / 3.3077 / 3.2364 / +1.27%",
+  "media": "Investing.com",
+  "titre": "Germany 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Spread mi-séance",
+  "valeur": "149",
+  "extrait": "une OAT de même échéance à 4,79%, soit un spread de 149 pb",
+  "media": "Zonebourse",
+  "titre": "11 novembre : l'IA rallume la flamme dans un marché déserté",
+  "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Variation OAT pb",
+  "valeur": "-2",
+  "extrait": "calcul",
+  "media": "calcul : 4,785 - 4,802 = -0,017 point, soit -1,7 pb arrondi à -2 pb",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Variation Bund pb",
+  "valeur": "+2",
+  "extrait": "calcul",
+  "media": "calcul : 3,3236 - 3,3069 = +0,0167 point, soit +1,7 pb arrondi à +2 pb",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Spread clôture",
+  "valeur": "146",
+  "extrait": "calcul",
+  "media": "calcul : 4,785 - 3,3236 = 1,4614 point, soit 146 pb",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "3 999,90",
+  "extrait": "Or (contrat déc. 2026) ; 3 999,90 $/once ; -0,76 % sur la séance ; cours du 11/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "-0,76",
+  "extrait": "Or (contrat déc. 2026) ; 3 999,90 $/once ; -0,76 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Or heure",
+  "valeur": "13 h 30",
+  "extrait": "cours du 11/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Brent règlement",
+  "valeur": "92,62",
+  "extrait": "Brent (contrat janv. 2027) ; 92,62 $/baril ; +1,16 % sur la séance ; cours du 11/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Brent variation",
+  "valeur": "+1,16",
+  "extrait": "Brent (contrat janv. 2027) ; 92,62 $/baril ; +1,16 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Brent heure",
+  "valeur": "14 h 30",
+  "extrait": "cours du 11/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Brent séance Reuters",
+  "valeur": "3",
+  "extrait": "Oil rose about 3% on Wednesday from the two-month lows reached in the previous session",
+  "media": "Reuters via Boursorama",
+  "titre": "Les valeurs pétrolières progressent face à l'incertitude qui plane sur les négociations visant à mettre fin à la guerre en Iran",
+  "url": "https://boursorama.com/bourse/actualites/les-valeurs-petrolieres-progressent-face-a-l-incertitude-qui-plane-sur-les-negociations-visant-a-mettre-fin-a-la-guerre-en-iran-9f44eefa2cb815ff961b33d7dcfe3df1",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Brent 94,26",
+  "valeur": "94,26",
+  "extrait": "At 15:31 GMT, Brent futures were up $2.77 (3.03%) at $94.26 a barrel",
+  "media": "Reuters via Boursorama",
+  "titre": "Les valeurs pétrolières progressent…",
+  "url": "https://boursorama.com/bourse/actualites/les-valeurs-petrolieres-progressent-face-a-l-incertitude-qui-plane-sur-les-negociations-visant-a-mettre-fin-a-la-guerre-en-iran-9f44eefa2cb815ff961b33d7dcfe3df1",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Iran matériel enrichi",
+  "valeur": "Iran",
+  "extrait": "Tehran would not allow any enriched nuclear material to leave the country (chef de la sécurité iranien, rapporté par Reuters)",
+  "media": "Reuters via Boursorama",
+  "titre": "Les valeurs pétrolières progressent…",
+  "url": "https://boursorama.com/bourse/actualites/les-valeurs-petrolieres-progressent-face-a-l-incertitude-qui-plane-sur-les-negociations-visant-a-mettre-fin-a-la-guerre-en-iran-9f44eefa2cb815ff961b33d7dcfe3df1",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "ING Iran",
+  "valeur": "ING",
+  "extrait": "l'incertitude entourant le conflit entre les États-Unis et l'Iran continue d'apporter un certain soutien (analyste d'ING, dans une note)",
+  "media": "Reuters via Boursorama",
+  "titre": "Les valeurs pétrolières progressent…",
+  "url": "https://boursorama.com/bourse/actualites/les-valeurs-petrolieres-progressent-face-a-l-incertitude-qui-plane-sur-les-negociations-visant-a-mettre-fin-a-la-guerre-en-iran-9f44eefa2cb815ff961b33d7dcfe3df1",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Bitcoin",
+  "valeur": "73 927,63",
+  "extrait": "Bitcoin ; 73 927,63 $ ; +0,31 % sur la séance ; clôture du 11/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "+0,31",
+  "extrait": "Bitcoin ; 73 927,63 $ ; +0,31 % sur la séance ; clôture du 11/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Bitcoin heure",
+  "valeur": "24 h",
+  "extrait": "clôture du 11/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "CPI octobre",
+  "valeur": "0,4",
+  "extrait": "The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.4 percent on a seasonally adjusted basis in October",
+  "media": "BLS",
+  "titre": "Consumer Price Index News Release",
+  "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "CPI sous-jacent",
+  "valeur": "0,3",
+  "extrait": "The index for all items less food and energy rose 0.3 percent in October, as it did in September and August.",
+  "media": "BLS",
+  "titre": "Consumer Price Index News Release",
+  "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "CPI 12 mois absent",
+  "valeur": "12",
+  "extrait": "BLS cannot publish 12-month percent changes for October 2026 for indexes where October 2025 data are unavailable.",
+  "media": "BLS",
+  "titre": "Consumer Price Index News Release",
+  "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "Fed fourchette",
+  "valeur": "3-3/4 to 4",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent (communiqué du 28 octobre 2026)",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed fourchette basse",
+  "valeur": "3,75",
+  "extrait": "3-3/4 percent = 3,75 % (borne basse de la fourchette, 3-3/4 to 4 percent)",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed fourchette haute",
+  "valeur": "4",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Waller 50 pb",
+  "valeur": "50",
+  "extrait": "In that case, I believe a 50 basis point hike in the policy rate should be considered at the December meeting",
+  "media": "CNBC",
+  "titre": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+  "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "Waller 25 pb",
+  "valeur": "25",
+  "extrait": "Hiking only 25 basis points would put our credibility at risk, a risk I am not eager to take.",
+  "media": "CNBC",
+  "titre": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+  "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "Probabilité 50 pb",
+  "valeur": "12,5",
+  "extrait": "traders fully priced in a quarter-point hike in December and gave 12.5% odds to a half-point move",
+  "media": "CNBC",
+  "titre": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+  "url": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "Commerzbank",
+  "valeur": "25",
+  "extrait": "Les marchés anticipent désormais, pour la Fed, une hausse supérieure à un palier standard (25 points de base)",
+  "media": "Zonebourse",
+  "titre": "11 novembre : l'IA rallume la flamme dans un marché déserté",
+  "url": "https://www.zonebourse.com/actualite-bourse/11-novembre-l-ia-rallume-la-flamme-dans-un-marche-deserte-ce785edbdd8bf52c",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "BCE taux dépôt",
+  "valeur": "2.50",
+  "extrait": "16 Sep. 2026 / 2.50 / 2.65 / - / 2.90 (deposit facility)",
+  "media": "BCE",
+  "titre": "Key ECB interest rates",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html",
+  "date": "2026-09-16"
+ },
+ {
+  "affirmation": "BCE statu quo 29 octobre",
+  "valeur": "29 October 2026",
+  "extrait": "The Governing Council today decided to keep the three key ECB interest rates unchanged. (29 October 2026)",
+  "media": "BCE",
+  "titre": "Monetary policy statement (with Q&A)",
+  "url": "https://ecb.europa.eu/press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Lagarde forum",
+  "valeur": "Lagarde",
+  "extrait": "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion ; A digital euro, homegrown AI",
+  "media": "Courthouse News",
+  "titre": "At Paris Peace Forum, Lagarde hails European autonomy as shield against coercion",
+  "url": "https://www.courthousenews.com/at-paris-peace-forum-lagarde-hails-european-autonomy-as-shield-against-coercion/",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Lagarde départ",
+  "valeur": "7 février 2027",
+  "extrait": "Lagarde a annoncé le mois dernier qu'elle quitterait ses fonctions le 7 février 2027",
+  "media": "La Libre (Belga)",
+  "titre": "BCE: la succession de Lagarde et de deux membres du directoire sera décidée avant fin 2026",
+  "url": "https://www.lalibre.be/dernieres-depeches/2026/11/09/bce-la-succession-de-lagarde-et-de-deux-membres-du-directoire-sera-decidee-avant-fin-2026-UM7FPYB7IBBXTM7VGXFVLD5AXA/",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Livret A plafond actuel",
+  "valeur": "22.950",
+  "extrait": "contre 22.950 euros actuellement",
+  "media": "Boursorama avec Media Services",
+  "titre": "Epargne : le plafond du Livret A relevé en février dans une fourchette allant jusqu'à 30.000 euros, annonce le gouvernement",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/epargne-le-plafond-du-livret-a-releve-en-fevrier-dans-une-fourchette-allant-jusqu-a-30-000-euros-annonce-le-gouvernement-7d9831c12333997846aa6eced54e55a9",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A plafond futur",
+  "valeur": "25.000 et 30.000",
+  "extrait": "entre 25.000 et 30.000 euros",
+  "media": "Boursorama avec Media Services",
+  "titre": "Epargne : le plafond du Livret A relevé en février…",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/epargne-le-plafond-du-livret-a-releve-en-fevrier-dans-une-fourchette-allant-jusqu-a-30-000-euros-annonce-le-gouvernement-7d9831c12333997846aa6eced54e55a9",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A taux",
+  "valeur": "1,7",
+  "extrait": "actuellement de 1,7%",
+  "media": "Boursorama avec Media Services",
+  "titre": "Epargne : le plafond du Livret A relevé en février…",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/epargne-le-plafond-du-livret-a-releve-en-fevrier-dans-une-fourchette-allant-jusqu-a-30-000-euros-annonce-le-gouvernement-7d9831c12333997846aa6eced54e55a9",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Inflation France octobre",
+  "valeur": "3,4",
+  "extrait": "les prix à la consommation ont progressé de 3,4% sur un an en octobre 2026, après 3,1% en septembre",
+  "media": "Le Particulier via Boursorama",
+  "titre": "Inflation à 3,4% en octobre: quels placements privilégier pour protéger son argent?",
+  "url": "https://www.boursorama.com/epargne/placements-bancaires/actualites/inflation-a-3-4-en-octobre-quels-placements-privilegier-pour-proteger-son-argent-356246b60d5984bda7878e38cabc3b4d",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "Fonds euros 2026",
+  "valeur": "2,9",
+  "extrait": "Leur rendement moyen, estimé à 2,9% en 2026 selon le cabinet Good Value for Money",
+  "media": "Le Particulier via Boursorama",
+  "titre": "Inflation à 3,4% en octobre…",
+  "url": "https://www.boursorama.com/epargne/placements-bancaires/actualites/inflation-a-3-4-en-octobre-quels-placements-privilegier-pour-proteger-son-argent-356246b60d5984bda7878e38cabc3b4d",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "Taux réel Livret A",
+  "valeur": "-1,7",
+  "extrait": "calcul",
+  "media": "calcul : 1,7 - 3,4 = -1,7 point",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "Crédit immo 20 ans",
+  "valeur": "3,70",
+  "extrait": "3,70 % sur 20 ans",
+  "media": "Meilleurtaux",
+  "titre": "Taux immobilier - Taux d'intérêt immobilier Novembre 2026 - Meilleurtaux",
+  "url": "https://www.meilleurtaux.com/credit-immobilier/barometre-des-taux.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Crédit immo 25 ans",
+  "valeur": "3,80",
+  "extrait": "3,80 % sur 25 ans",
+  "media": "Meilleurtaux",
+  "titre": "Taux immobilier - Taux d'intérêt immobilier Novembre 2026 - Meilleurtaux",
+  "url": "https://www.meilleurtaux.com/credit-immobilier/barometre-des-taux.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Crédit immo 15 ans",
+  "valeur": "3,50",
+  "extrait": "3,50 % sur 15 ans",
+  "media": "Meilleurtaux",
+  "titre": "Taux immobilier - Taux d'intérêt immobilier Novembre 2026 - Meilleurtaux",
+  "url": "https://www.meilleurtaux.com/credit-immobilier/barometre-des-taux.html",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "PLFSS Sénat séance",
+  "valeur": "9 au 17 novembre",
+  "extrait": "Il est débattu en séance publique du 9 au 17 novembre.",
+  "media": "Sénat",
+  "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2027.html",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "PLFSS vote solennel",
+  "valeur": "18 novembre",
+  "extrait": "Un vote solennel est prévu le 18 novembre.",
+  "media": "Sénat",
+  "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2027.html",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "PLFSS déficit",
+  "valeur": "12,7",
+  "extrait": "Le PLFSS 2027 prévoit de réduire de moitié le déficit, en le ramenant à 12,7 Md€.",
+  "media": "Sénat",
+  "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2027.html",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Agenda chômage US",
+  "valeur": "195 000",
+  "extrait": "Weekly initial jobless claims are expected to rise by about 6,000 to 195,000 (195 000) for the week ended November 7",
+  "media": "Reuters via Boursorama",
+  "titre": "À suivre aujourd'hui - Jeudi 12 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/a-suivre-aujourd-hui-jeudi-12-novembre-8b811cea7180762ebd44300903cdca3a",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Agenda logements",
+  "valeur": "3,85",
+  "extrait": "Existing home sales for October are expected to fall to 3.85 (3,85) million, from 3.99 million in September",
+  "media": "Reuters via Boursorama",
+  "titre": "À suivre aujourd'hui - Jeudi 12 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/a-suivre-aujourd-hui-jeudi-12-novembre-8b811cea7180762ebd44300903cdca3a",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Agenda logements sept",
+  "valeur": "3,99",
+  "extrait": "from 3.99 (3,99) million in September",
+  "media": "Reuters via Boursorama",
+  "titre": "À suivre aujourd'hui - Jeudi 12 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/a-suivre-aujourd-hui-jeudi-12-novembre-8b811cea7180762ebd44300903cdca3a",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Agenda Fed orateurs",
+  "valeur": "Barr",
+  "extrait": "Michael Barr, Jeffrey Schmid, Mary Daly, Austan Goolsbee, Beth Hammack, John Williams sont attendus",
+  "media": "Reuters via Boursorama",
+  "titre": "À suivre aujourd'hui - Jeudi 12 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/a-suivre-aujourd-hui-jeudi-12-novembre-8b811cea7180762ebd44300903cdca3a",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Agenda résultats",
+  "valeur": "Cisco",
+  "extrait": "Cisco, Applied Materials, Cerebras Systems publient leurs résultats",
+  "media": "Reuters via Boursorama",
+  "titre": "À suivre aujourd'hui - Jeudi 12 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/a-suivre-aujourd-hui-jeudi-12-novembre-8b811cea7180762ebd44300903cdca3a",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Heures NY",
+  "valeur": "14 h 30",
+  "extrait": "8 h 30 à New York = 14 h 30 à Paris ; 10 h 00 à New York = 16 h 00 à Paris",
+  "media": "routine",
+  "titre": "HEURES_NY",
+  "url": "calcul",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Heures NY 16h",
+  "valeur": "16 h 00",
+  "extrait": "10 h 00 à New York = 16 h 00 à Paris",
+  "media": "routine",
+  "titre": "HEURES_NY",
+  "url": "calcul",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "FOMC décembre",
+  "valeur": "8-9",
+  "extrait": "December 8-9*",
+  "media": "Federal Reserve",
+  "titre": "Meeting calendars and information",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Succession Lagarde",
+  "valeur": "fin 2026",
+  "extrait": "BCE: la succession de Lagarde et de deux membres du directoire sera décidée avant fin 2026",
+  "media": "La Libre (Belga)",
+  "titre": "BCE: la succession de Lagarde et de deux membres du directoire sera décidée avant fin 2026",
+  "url": "https://www.lalibre.be/dernieres-depeches/2026/11/09/bce-la-succession-de-lagarde-et-de-deux-membres-du-directoire-sera-decidee-avant-fin-2026-UM7FPYB7IBBXTM7VGXFVLD5AXA/",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Ratio STMicro/CAC",
+  "valeur": "18",
+  "extrait": "calcul",
+  "media": "calcul : 11,93 / 0,66 = 18,08, soit environ dix-huit fois (18)",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Focus hypothèses",
+  "valeur": "3",
+  "extrait": "calcul",
+  "media": "hypothèses d'école : taux sans risque 3 %, prime 5 %, volatilité titre 30 %, marché 15 %, corrélation 0,7",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Focus prime",
+  "valeur": "5",
+  "extrait": "calcul",
+  "media": "prime de risque du marché 5 %",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Focus vol titre",
+  "valeur": "30",
+  "extrait": "calcul",
+  "media": "volatilité du titre 30 %",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Focus vol marché",
+  "valeur": "15",
+  "extrait": "calcul",
+  "media": "volatilité du marché 15 %",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Focus corrélation",
+  "valeur": "0,7",
+  "extrait": "calcul",
+  "media": "0,7 × 30 / 15 = 1,4",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Focus bêta",
+  "valeur": "1,4",
+  "extrait": "calcul",
+  "media": "0,7 × 30 / 15 = 1,4 ; 1,4 × 5 = 7 ; 3 + 7 = 10",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Focus rendement exigé",
+  "valeur": "10",
+  "extrait": "calcul",
+  "media": "3 + 1,4 × 5 = 3 + 7 = 10 %",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Focus produit",
+  "valeur": "7",
+  "extrait": "calcul",
+  "media": "1,4 × 5 = 7 ; 3 + 0,8 × 5 = 7",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Focus alpha",
+  "valeur": "2",
+  "extrait": "calcul",
+  "media": "12 - 10 = 2",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Focus rendement réalisé",
+  "valeur": "12",
+  "extrait": "calcul",
+  "media": "rendement réalisé hypothétique 12 %",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Focus marché +1",
+  "valeur": "1",
+  "extrait": "calcul",
+  "media": "marché +1 % × bêta 1,4 = +1,4 % ; bêta inférieur à 1",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Question bêta",
+  "valeur": "0,8",
+  "extrait": "calcul",
+  "media": "3 + 0,8 × 5 = 3 + 4 = 7 %",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Question prime titre",
+  "valeur": "4",
+  "extrait": "calcul",
+  "media": "0,8 × 5 = 4",
+  "titre": "",
+  "url": "",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Livret A plafond 25 000",
+  "valeur": "25 000",
+  "extrait": "entre 25.000 et 30.000 euros (25 000 et 30 000)",
+  "media": "Boursorama avec Media Services",
+  "titre": "Epargne : le plafond du Livret A relevé en février…",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/epargne-le-plafond-du-livret-a-releve-en-fevrier-dans-une-fourchette-allant-jusqu-a-30-000-euros-annonce-le-gouvernement-7d9831c12333997846aa6eced54e55a9",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Livret A plafond 22 950",
+  "valeur": "22 950",
+  "extrait": "contre 22.950 euros actuellement (22 950)",
+  "media": "Boursorama avec Media Services",
+  "titre": "Epargne : le plafond du Livret A relevé en février…",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/epargne-le-plafond-du-livret-a-releve-en-fevrier-dans-une-fourchette-allant-jusqu-a-30-000-euros-annonce-le-gouvernement-7d9831c12333997846aa6eced54e55a9",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Brent règlement officiel",
+  "valeur": "92,76",
+  "extrait": "Brent settled up $1.27, or 1.39%, at $92.76 ; Yahoo BZ=F 11-11 close 92.76 vs 11-10 91.49",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZ%3DF/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Brent règlement variation",
+  "valeur": "1,39",
+  "extrait": "Brent settled up $1.27, or 1.39%, at $92.76",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZ%3DF/history",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Or règlement officiel",
+  "valeur": "4 000,50",
+  "extrait": "GC=F 11-11 close 4000.5 (4 000,50) vs 11-10 4030.2 ; règlement Comex décembre 2026 4 000,50, -0,74 %",
+  "media": "AP via Yahoo Finance",
+  "titre": "BC-Gold-Silver",
+  "url": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-silver-200013017.html",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Or règlement variation",
+  "valeur": "-0,74",
+  "extrait": "règlement Comex décembre 2026 4 000,50, -0,74 % (calcul 4000,5/4030,2-1 = -0,74 %)",
+  "media": "AP via Yahoo Finance",
+  "titre": "BC-Gold-Silver",
+  "url": "https://finance.yahoo.com/markets/commodities/articles/bc-gold-silver-200013017.html",
+  "date": "2026-11-11"
+ },
+ {
+  "affirmation": "Brent Reuters 15h31",
+  "valeur": "15 h 31",
+  "extrait": "At 15:31 GMT, Brent futures were up $2.77 (3.03%) at $94.26 (15 h 31)",
+  "media": "Reuters via Boursorama",
+  "titre": "Les valeurs pétrolières progressent…",
+  "url": "https://boursorama.com/bourse/actualites/les-valeurs-petrolieres-progressent-face-a-l-incertitude-qui-plane-sur-les-negociations-visant-a-mettre-fin-a-la-guerre-en-iran-9f44eefa2cb815ff961b33d7dcfe3df1",
+  "date": "2026-11-11"
+ }
+]
