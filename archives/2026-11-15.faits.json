@@ -1,0 +1,1127 @@
+[
+ {
+  "affirmation": "CAC 40 clôture 13/11",
+  "valeur": "8 368,91",
+  "extrait": "CAC 40 ; 8 368,91 pts ; +2,82 % sur la semaine ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "CAC 40 semaine",
+  "valeur": "2,82",
+  "extrait": "Sur l'ensemble de la semaine, l'indice phare parisien a porté ses gains à 2,82%",
+  "media": "Zonebourse (via Boursorama)",
+  "titre": "Cinq sur cinq pour le CAC 40 sur la semaine",
+  "url": "https://www.boursorama.com/bourse/actualites/cinq-sur-cinq-pour-le-cac-40-sur-la-semaine-de2fcbec62e3ccc0a2e58f1c60018d85",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "CAC 40 vendredi",
+  "valeur": "0,09",
+  "extrait": "Le CAC 40 a gagné 0,09% à 8 368,91 points, au plus haut depuis fin août.",
+  "media": "Zonebourse (via Boursorama)",
+  "titre": "Cinq sur cinq pour le CAC 40 sur la semaine",
+  "url": "https://www.boursorama.com/bourse/actualites/cinq-sur-cinq-pour-le-cac-40-sur-la-semaine-de2fcbec62e3ccc0a2e58f1c60018d85",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "S&P 500 clôture 13/11",
+  "valeur": "7 561,67",
+  "extrait": "S&P 500 ; 7 561,67 pts ; +2,51 % sur la semaine ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "S&P 500 vendredi",
+  "valeur": "0,4",
+  "extrait": "le S&P 500 a reculé de 0,4%, à 7.561,67 points.",
+  "media": "ABC Bourse (Agefi-Dow Jones)",
+  "titre": "USA: Wall Street finit en baisse vendredi, Nvidia pèse sur les technologiques",
+  "url": "https://www.abcbourse.com/marches/usa-wall-street-finit-en-baisse-vendredi-nvidia-pese-sur-les-technologiques_706107",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Nasdaq clôture 13/11",
+  "valeur": "25 136,27",
+  "extrait": "Nasdaq Composite ; 25 136,27 pts ; +2,27 % sur la semaine ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Nasdaq vendredi",
+  "valeur": "0,91",
+  "extrait": "a cédé 0,91 % et l'indice élargi S&P 500 a reculé de 0,40 %",
+  "media": "AFP (via Boursorama)",
+  "titre": "Wall Street termine orientée en baisse, le secteur des puces boudé",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-orientee-en-baisse-le-secteur-des-puces-boude-5bb64cbb53ae8ef47209661e5277ccf6",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "AMD vendredi",
+  "valeur": "8,75",
+  "extrait": "Ses concurrents ont aussi souffert vendredi à l'image de Broadcom (-4,76 %) ou AMD (-8,75 %).",
+  "media": "AFP (via Boursorama)",
+  "titre": "Wall Street termine orientée en baisse, le secteur des puces boudé",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-orientee-en-baisse-le-secteur-des-puces-boude-5bb64cbb53ae8ef47209661e5277ccf6",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Broadcom vendredi",
+  "valeur": "4,76",
+  "extrait": "Ses concurrents ont aussi souffert vendredi à l'image de Broadcom (-4,76 %) ou AMD (-8,75 %).",
+  "media": "AFP (via Boursorama)",
+  "titre": "Wall Street termine orientée en baisse, le secteur des puces boudé",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-orientee-en-baisse-le-secteur-des-puces-boude-5bb64cbb53ae8ef47209661e5277ccf6",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Nvidia semaine",
+  "valeur": "13",
+  "extrait": "Le titre a chuté de 13% cette semaine, effaçant près de 580 milliards de dollars de capitalisation boursière.",
+  "media": "ABC Bourse (Agefi-Dow Jones)",
+  "titre": "USA: Wall Street finit en baisse vendredi, Nvidia pèse sur les technologiques",
+  "url": "https://www.abcbourse.com/marches/usa-wall-street-finit-en-baisse-vendredi-nvidia-pese-sur-les-technologiques_706107",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Nvidia capitalisation effacée",
+  "valeur": "580",
+  "extrait": "Le titre a chuté de 13% cette semaine, effaçant près de 580 milliards de dollars de capitalisation boursière.",
+  "media": "ABC Bourse (Agefi-Dow Jones)",
+  "titre": "USA: Wall Street finit en baisse vendredi, Nvidia pèse sur les technologiques",
+  "url": "https://www.abcbourse.com/marches/usa-wall-street-finit-en-baisse-vendredi-nvidia-pese-sur-les-technologiques_706107",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Taux US 10 ans 13/11",
+  "valeur": "5,15",
+  "extrait": "Le rendement à échéance dix ans des emprunts de l'État évoluait à 5,15 %",
+  "media": "AFP (via Boursorama)",
+  "titre": "Wall Street termine orientée en baisse, le secteur des puces boudé",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-orientee-en-baisse-le-secteur-des-puces-boude-5bb64cbb53ae8ef47209661e5277ccf6",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture 13/11",
+  "valeur": "6 386,86",
+  "extrait": "Euro Stoxx 50 ; 6 386,86 pts ; +3,51 % sur la semaine ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 semaine",
+  "valeur": "3,51",
+  "extrait": "Euro Stoxx 50 ; 6 386,86 pts ; +3,51 % sur la semaine ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Stoxx 600 meilleure semaine depuis juin",
+  "valeur": "2",
+  "extrait": "a progressé de plus de 2% sur la semaine",
+  "media": "Reuters (via Boursorama)",
+  "titre": "Les marchés boursiers européens clôturent leur meilleure semaine depuis juin, les bons résultats des entreprises ayant redonné confiance aux investisseurs",
+  "url": "https://www.boursorama.com/bourse/actualites/les-marches-boursiers-europeens-cloturent-leur-meilleure-semaine-depuis-juin-les-bons-resultats-des-entreprises-ayant-redonne-confiance-aux-investisseurs-977baafcd94318ca71535750cb292646",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "EUR/USD référence BCE 13/11",
+  "valeur": "1,1052",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1052 ; -1,01 % sur la semaine ; taux du 13/11/2026",
+  "media": "BCE",
+  "titre": "Taux de référence de l'euro : dollar américain",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "EUR/USD semaine",
+  "valeur": "1,01",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1052 ; -1,01 % sur la semaine ; taux du 13/11/2026",
+  "media": "BCE",
+  "titre": "Taux de référence de l'euro : dollar américain",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Euro au plus bas depuis avril 2025",
+  "valeur": "1,103",
+  "extrait": "reculait de 0,23 % à 1,103 dollar",
+  "media": "Reuters (via Boursorama)",
+  "titre": "FOREX-Le dollar s'apprête à enregistrer sa plus forte hausse hebdomadaire depuis deux mois",
+  "url": "https://www.boursorama.com/bourse/actualites/forex-le-dollar-s-apprete-a-enregistrer-sa-plus-forte-hausse-hebdomadaire-depuis-deux-mois-9087f49b383340dd20abd627ddb36e7a",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture 13/11",
+  "valeur": "4,926",
+  "extrait": "13/11/2026 ; 4,926 ; 4,871 ; 4,928 ; 4,865 ; +1.80%",
+  "media": "Investing.com France",
+  "titre": "Rendement obligation France 10 ans - Données historiques",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "OAT 10 ans arrondi",
+  "valeur": "4,93",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "arrondi de 4,926",
+  "url": "calcul",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "OAT 10 ans 13/11 seconde source",
+  "valeur": "4,92",
+  "extrait": "Le taux de l'obligation assimilable du Trésor (OAT) à dix ans montait de plus de 8 points de base, à 4,92%.",
+  "media": "ABC Bourse (Agefi-Dow Jones)",
+  "titre": "CAC 40: La Bourse de Paris finit en très légère hausse, les taux remontent",
+  "url": "https://www.abcbourse.com/marches/cac-40-la-bourse-de-paris-finit-en-tres-legere-hausse-les-taux-remontent_706093",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture 06/11",
+  "valeur": "4,763",
+  "extrait": "06/11/2026 ; 4,763 ; 4,774 ; 4,823 ; 4,751 ; -0.36%",
+  "media": "Investing.com France",
+  "titre": "Rendement obligation France 10 ans - Données historiques",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "OAT variation semaine (4,926-4,763)",
+  "valeur": "16",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "16,3 pb",
+  "url": "calcul",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Bund 10 ans clôture 13/11",
+  "valeur": "3,3762",
+  "extrait": "13/11/2026 ; 3,3762 ; 3,3642 ; 3,3895 ; 3,3553 ; +1.52%",
+  "media": "Investing.com France",
+  "titre": "Rendement obligation Allemagne 10 ans - Données historiques",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Bund 13/11 seconde source",
+  "valeur": "3,378",
+  "extrait": "3,378 %",
+  "media": "Boursorama",
+  "titre": "DEU BENCHMARK 10A",
+  "url": "https://www.boursorama.com/bourse/taux/cours/2xDEUBM10A/",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Bund variation semaine (3,3762-3,2537)",
+  "valeur": "12",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "12,25 pb",
+  "url": "calcul",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Spread OAT-Bund (4,926-3,3762)",
+  "valeur": "155",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "155 pb",
+  "url": "calcul",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Or règlement 13/11",
+  "valeur": "3 886,20",
+  "extrait": "Or (contrat déc. 2026) ; 3 886,20 $/once ; -4,65 % sur la semaine ; cours du 13/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Or semaine",
+  "valeur": "4,65",
+  "extrait": "Or (contrat déc. 2026) ; 3 886,20 $/once ; -4,65 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Or plus bas de 13 mois jeudi",
+  "valeur": "13",
+  "extrait": "L'or tente de se stabiliser après un plus bas de 13 mois",
+  "media": "ABC Bourse",
+  "titre": "L'or tente de se stabiliser après un plus bas de 13 mois",
+  "url": "https://www.abcbourse.com/marches/l-or-tente-de-se-stabiliser-apres-un-plus-bas-de-13-mois_706088",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Brent règlement 13/11",
+  "valeur": "95,75",
+  "extrait": "Brent (contrat janv. 2027) ; 95,75 $/baril ; -2,64 % sur la semaine ; cours du 13/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Brent semaine",
+  "valeur": "2,64",
+  "extrait": "Brent (contrat janv. 2027) ; 95,75 $/baril ; -2,64 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Brent : conflit iranien sans issue",
+  "valeur": "iranien",
+  "extrait": "L'absence de progrès en vue d'une résolution du conflit iranien a fait repartir à la hausse le prix du baril",
+  "media": "ABC Bourse (Agefi-Dow Jones)",
+  "titre": "PETROLE: Le cours du baril est en légère hausse vendredi mais il s'est détendu cette semaine",
+  "url": "https://www.abcbourse.com/marches/petrole-le-cours-du-baril-est-en-legere-hausse-vendredi-mais-il-s-est-detendu-c_706090",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Bitcoin clôture 14/11",
+  "valeur": "64 113,45",
+  "extrait": "Bitcoin ; 64 113,45 $ ; -15,37 % sur la semaine ; clôture du 14/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-14"
+ },
+ {
+  "affirmation": "Bitcoin semaine",
+  "valeur": "15,37",
+  "extrait": "Bitcoin ; 64 113,45 $ ; -15,37 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-14"
+ },
+ {
+  "affirmation": "Bitcoin plus bas 3 mois sous 63000",
+  "valeur": "63,000",
+  "extrait": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
+  "media": "CoinDesk",
+  "titre": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
+  "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+  "date": "2026-11-14"
+ },
+ {
+  "affirmation": "Bitcoin -8% depuis clôture Wall Street vendredi",
+  "valeur": "8%",
+  "extrait": "Bitcoin has plunged 8% since U.S. stock market closed on Friday evening.",
+  "media": "CoinDesk",
+  "titre": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
+  "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+  "date": "2026-11-14"
+ },
+ {
+  "affirmation": "Bitcoin : remontée des taux et IA",
+  "valeur": "taux",
+  "extrait": "pénalisé par la remontée des taux d'intérêt et les inquiétudes concernant le secteur de l'IA",
+  "media": "ABC Bourse (Agefi-Dow Jones)",
+  "titre": "Le bitcoin poursuit son repli sous les 69.000 dollars",
+  "url": "https://www.abcbourse.com/marches/le-bitcoin-poursuit-son-repli-sous-les-69000-dollars_706105",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Fed hausse en décembre crainte",
+  "valeur": "décembre",
+  "extrait": "contraindre la banque centrale américaine (Fed) à relever ses taux directeurs en décembre",
+  "media": "AFP (via Boursorama)",
+  "titre": "Wall Street termine orientée en baisse, le secteur des puces boudé",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-termine-orientee-en-baisse-le-secteur-des-puces-boude-5bb64cbb53ae8ef47209661e5277ccf6",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Eramet plus forte baisse SBF 120",
+  "valeur": "10,64",
+  "extrait": "A Paris, Eramet (-10,64%) a enregistré le plus fort repli de l'indice SBF 120.",
+  "media": "Zonebourse (via Boursorama)",
+  "titre": "Cinq sur cinq pour le CAC 40 sur la semaine",
+  "url": "https://www.boursorama.com/bourse/actualites/cinq-sur-cinq-pour-le-cac-40-sur-la-semaine-de2fcbec62e3ccc0a2e58f1c60018d85",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Assurance-vie prestations septembre",
+  "valeur": "11,3",
+  "extrait": "s'élevant à 11,3 milliards d'euros",
+  "media": "MoneyVox",
+  "titre": "L'assurance vie connaît le meilleur mois de septembre de son histoire : 15,4 milliards d'euros déposés",
+  "url": "https://www.moneyvox.fr/assurance-vie/actualites/111031/assurance-vie-connait-le-meilleur-mois-de-septembre-de-son-histoire-15-4-milliards-euros-deposes",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Assurance-vie collecte nette septembre",
+  "valeur": "4,1",
+  "extrait": "s'élève donc à 4,1 milliards d'euros",
+  "media": "MoneyVox",
+  "titre": "L'assurance vie connaît le meilleur mois de septembre de son histoire : 15,4 milliards d'euros déposés",
+  "url": "https://www.moneyvox.fr/assurance-vie/actualites/111031/assurance-vie-connait-le-meilleur-mois-de-septembre-de-son-histoire-15-4-milliards-euros-deposes",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Assurance-vie cotisations septembre",
+  "valeur": "15,4",
+  "extrait": "L'assurance vie connaît le meilleur mois de septembre de son histoire : 15,4 milliards d'euros déposés",
+  "media": "MoneyVox",
+  "titre": "L'assurance vie connaît le meilleur mois de septembre de son histoire : 15,4 milliards d'euros déposés",
+  "url": "https://www.moneyvox.fr/assurance-vie/actualites/111031/assurance-vie-connait-le-meilleur-mois-de-septembre-de-son-histoire-15-4-milliards-euros-deposes",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Assurance-vie encours",
+  "valeur": "2.161",
+  "extrait": "portant les encours de ces contrats à 2.161 milliards d'euros à fin septembre",
+  "media": "MoneyVox",
+  "titre": "L'assurance vie connaît le meilleur mois de septembre de son histoire : 15,4 milliards d'euros déposés",
+  "url": "https://www.moneyvox.fr/assurance-vie/actualites/111031/assurance-vie-connait-le-meilleur-mois-de-septembre-de-son-histoire-15-4-milliards-euros-deposes",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Livret A taux",
+  "valeur": "1,7",
+  "extrait": "Le taux d'intérêt annuel du livret A est de 1,7 %.",
+  "media": "Service-Public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365",
+  "date": "2026-08-01"
+ },
+ {
+  "affirmation": "Livret A période",
+  "valeur": "31 janvier 2027",
+  "extrait": "Taux d'intérêt pour la période du 1er août 2026 au 31 janvier 2027",
+  "media": "Service-Public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365",
+  "date": "2026-08-01"
+ },
+ {
+  "affirmation": "PER définition AMF",
+  "valeur": "cours/BNPA",
+  "extrait": "Le PER (Price Earning Ratio), qui identifie le rapport entre le cours de l'action et le bénéfice net par action (cours/BNPA).",
+  "media": "AMF",
+  "titre": "Actionnaire individuel : à quoi devez-vous faire attention ?",
+  "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/actionnaire-individuel-quoi-devez-vous-faire-attention",
+  "date": "2018-10-19"
+ },
+ {
+  "affirmation": "BNPA définition AMF",
+  "valeur": "bénéfice net/nombre d'actions",
+  "extrait": "Le bénéfice net par action (BNPA), qui constitue le rapport entre le bénéfice net et le nombre d'actions en circulation (bénéfice net/nombre d'actions).",
+  "media": "AMF",
+  "titre": "Actionnaire individuel : à quoi devez-vous faire attention ?",
+  "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/actionnaire-individuel-quoi-devez-vous-faire-attention",
+  "date": "2018-10-19"
+ },
+ {
+  "affirmation": "Rendement dividende AMF",
+  "valeur": "100",
+  "extrait": "Il est exprimé en pourcentage et se calcule en divisant le dividende par le cours de l'action X 100.",
+  "media": "AMF",
+  "titre": "Actionnaire individuel : à quoi devez-vous faire attention ?",
+  "url": "https://www.amf-france.org/fr/espace-epargnants/savoir-bien-investir/etre-un-actionnaire-individuel/actionnaire-individuel-quoi-devez-vous-faire-attention",
+  "date": "2018-10-19"
+ },
+ {
+  "affirmation": "S&P 500 PER forward 5/11 FactSet",
+  "valeur": "17.7",
+  "extrait": "On November 5, the forward 12-month P/E ratio for the S&P 500 was 17.7.",
+  "media": "FactSet",
+  "titre": "Lowest Forward 12-Month P/E Ratio For the S&P 500 in More Than 3 Years",
+  "url": "https://insight.factset.com/lowest-forward-12-month-p/e-ratio-for-the-sp-500-in-more-than-3-years",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 cours et BPA forward 5/11",
+  "valeur": "415.82",
+  "extrait": "This forward 12-month P/E ratio was based on a closing price of 7353.73 and a forward 12-month EPS estimate of $415.82.",
+  "media": "FactSet",
+  "titre": "Lowest Forward 12-Month P/E Ratio For the S&P 500 in More Than 3 Years",
+  "url": "https://insight.factset.com/lowest-forward-12-month-p/e-ratio-for-the-sp-500-in-more-than-3-years",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 cours 5/11",
+  "valeur": "7353.73",
+  "extrait": "This forward 12-month P/E ratio was based on a closing price of 7353.73 and a forward 12-month EPS estimate of $415.82.",
+  "media": "FactSet",
+  "titre": "Lowest Forward 12-Month P/E Ratio For the S&P 500 in More Than 3 Years",
+  "url": "https://insight.factset.com/lowest-forward-12-month-p/e-ratio-for-the-sp-500-in-more-than-3-years",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 PER moyenne 5 ans",
+  "valeur": "19.8",
+  "extrait": "This P/E ratio is below the 5-year average of 19.8",
+  "media": "FactSet",
+  "titre": "Lowest Forward 12-Month P/E Ratio For the S&P 500 in More Than 3 Years",
+  "url": "https://insight.factset.com/lowest-forward-12-month-p/e-ratio-for-the-sp-500-in-more-than-3-years",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 prix depuis début d'année",
+  "valeur": "7.4%",
+  "extrait": "Since the start of the year, the price of the S&P 500 has increased by 7.4%, while the forward 12-month EPS estimate increased by 33.6%.",
+  "media": "FactSet",
+  "titre": "Lowest Forward 12-Month P/E Ratio For the S&P 500 in More Than 3 Years",
+  "url": "https://insight.factset.com/lowest-forward-12-month-p/e-ratio-for-the-sp-500-in-more-than-3-years",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "S&P 500 BPA forward depuis début d'année",
+  "valeur": "33.6%",
+  "extrait": "Since the start of the year, the price of the S&P 500 has increased by 7.4%, while the forward 12-month EPS estimate increased by 33.6%.",
+  "media": "FactSet",
+  "titre": "Lowest Forward 12-Month P/E Ratio For the S&P 500 in More Than 3 Years",
+  "url": "https://insight.factset.com/lowest-forward-12-month-p/e-ratio-for-the-sp-500-in-more-than-3-years",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Tech PER forward",
+  "valeur": "17.3",
+  "extrait": "Information Technology (17.3 vs. 20.0)",
+  "media": "FactSet",
+  "titre": "Lowest Forward 12-Month P/E Ratio For the S&P 500 in More Than 3 Years",
+  "url": "https://insight.factset.com/lowest-forward-12-month-p/e-ratio-for-the-sp-500-in-more-than-3-years",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Tech PER moyenne 25 ans",
+  "valeur": "20.0",
+  "extrait": "Information Technology (17.3 vs. 20.0)",
+  "media": "FactSet",
+  "titre": "Lowest Forward 12-Month P/E Ratio For the S&P 500 in More Than 3 Years",
+  "url": "https://insight.factset.com/lowest-forward-12-month-p/e-ratio-for-the-sp-500-in-more-than-3-years",
+  "date": "2026-11-06"
+ },
+ {
+  "affirmation": "Bund arrondi",
+  "valeur": "3,38",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "arrondi de 3,3762",
+  "url": "calcul",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Brent règlement officiel 13/11",
+  "valeur": "95.84",
+  "extrait": "Brent futures settled at $95.84 a barrel, up 2 cents, or 0.02%.",
+  "media": "CNBC (Reuters)",
+  "titre": "Oil prices post second straight weekly drop on signs of growing supply surplus",
+  "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Brent semaine environ",
+  "valeur": "2.5%",
+  "extrait": "For the week, Brent and WTI both dropped about 2.5%.",
+  "media": "CNBC (Reuters)",
+  "titre": "Oil prices post second straight weekly drop on signs of growing supply surplus",
+  "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Brent semaine précédente",
+  "valeur": "16%",
+  "extrait": "the benchmarks fell 16% and 13%, respectively, the previous week",
+  "media": "CNBC (Reuters)",
+  "titre": "Oil prices post second straight weekly drop on signs of growing supply surplus",
+  "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Trump : accord avec l'Iran pas nécessaire",
+  "valeur": "not necessary",
+  "extrait": "Trump said on Truth Social a deal with Iran was \"not necessary\" to end the war",
+  "media": "CNBC (Reuters)",
+  "titre": "Oil prices post second straight weekly drop on signs of growing supply surplus",
+  "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Armée iranienne : quatre pétroliers touchés à Ormuz, non vérifié",
+  "valeur": "four",
+  "extrait": "Iran's military said four oil tankers were hit by explosions in the Strait of Hormuz after ignoring warnings; Reuters could not immediately verify",
+  "media": "CNBC (Reuters)",
+  "titre": "Oil prices post second straight weekly drop on signs of growing supply surplus",
+  "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Houthis revendiquent attaques Arabie saoudite",
+  "valeur": "Yanbu",
+  "extrait": "The Houthis said they attacked a pumping station on the Saudi East-West oil pipeline, an oil facility in the Saudi Red Sea city of Yanbu, and an Aramco building in Riyadh",
+  "media": "CNBC (Reuters)",
+  "titre": "Oil prices post second straight weekly drop on signs of growing supply surplus",
+  "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "AIE surplus d'offre",
+  "valeur": "growing global supply surplus",
+  "extrait": "An International Energy Agency report released Friday pointed to a rise in the \"growing global supply surplus\"",
+  "media": "CNBC (Reuters)",
+  "titre": "Oil prices post second straight weekly drop on signs of growing supply surplus",
+  "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Chine : surtaxe 24 % suspendue deux mois, 10 % maintenue",
+  "valeur": "24%",
+  "extrait": "A 24% additional tariff on US imports will remain suspended for two months from 1.01pm (5.01am GMT) on Tuesday, but a tariff of 10% will remain.",
+  "media": "TimesLIVE (Reuters)",
+  "titre": "China extends US trade truce by two months",
+  "url": "https://www.timeslive.co.za/news/world/2026-11-09-china-extends-us-trade-truce-by-two-months/",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Chine : mesures suspendues jusqu'au 10 janvier 2027",
+  "valeur": "January 10 2027",
+  "extrait": "Measures affecting 11 US firms on China's unreliable entities list and 16 on its export control list will remain suspended until January 10 2027",
+  "media": "TimesLIVE (Reuters)",
+  "titre": "China extends US trade truce by two months",
+  "url": "https://www.timeslive.co.za/news/world/2026-11-09-china-extends-us-trade-truce-by-two-months/",
+  "date": "2026-11-09"
+ },
+ {
+  "affirmation": "Nvidia : démission jeudi de Jensen Huang",
+  "valeur": "Jensen Huang",
+  "extrait": "la démission jeudi de son cofondateur et directeur général, Jensen Huang",
+  "media": "ABC Bourse (Agefi-Dow Jones)",
+  "titre": "USA: Wall Street finit en baisse vendredi, Nvidia pèse sur les technologiques",
+  "url": "https://www.abcbourse.com/marches/usa-wall-street-finit-en-baisse-vendredi-nvidia-pese-sur-les-technologiques_706107",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Nvidia : intérim Colette Kress",
+  "valeur": "Colette Kress",
+  "extrait": "chief financial officer and interim CEO Colette Kress",
+  "media": "CNBC",
+  "titre": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO",
+  "url": "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Nvidia résultats mardi après clôture",
+  "valeur": "Tuesday",
+  "extrait": "Nvidia's earnings Tuesday after the market closes",
+  "media": "CNBC",
+  "titre": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO",
+  "url": "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Ventes au détail US mardi 8h30 NY",
+  "valeur": "8:30",
+  "extrait": "8:30 a.m. Retail Sales (October)",
+  "media": "CNBC",
+  "titre": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO",
+  "url": "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Minutes FOMC mercredi 14h NY",
+  "valeur": "2:00",
+  "extrait": "2:00 p.m. FOMC Minutes",
+  "media": "CNBC",
+  "titre": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO",
+  "url": "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Walmart résultats jeudi",
+  "valeur": "Walmart",
+  "extrait": "Earnings: Keysight Technologies , Ross Stores , Intuit , Walmart",
+  "media": "CNBC",
+  "titre": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO",
+  "url": "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Anthropic IPO jeudi 19 Nasdaq fourchette",
+  "valeur": "70",
+  "extrait": "indicative range of $70 to $78 per share, trading expected to begin Thursday on the Nasdaq Global Select Market",
+  "media": "CNBC",
+  "titre": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO",
+  "url": "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Anthropic IPO fourchette haute",
+  "valeur": "78",
+  "extrait": "indicative range of $70 to $78 per share",
+  "media": "CNBC",
+  "titre": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO",
+  "url": "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Michigan final vendredi 10h NY",
+  "valeur": "10:00",
+  "extrait": "10:00 a.m. Michigan Sentiment final (November)",
+  "media": "CNBC",
+  "titre": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO",
+  "url": "https://www.cnbc.com/2026/11/13/stock-market-next-week-outlook-for-nov-16-20-2026.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "BCE taux de dépôt inchangé 29/10",
+  "valeur": "2.50%",
+  "extrait": "The interest rates on the deposit facility, the main refinancing operations and the marginal lending facility will remain unchanged at 2.50%, 2.65% and 2.90% respectively.",
+  "media": "BCE",
+  "titre": "Monetary policy decisions",
+  "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE pas d'engagement",
+  "valeur": "meeting-by-meeting",
+  "extrait": "data-dependent and meeting-by-meeting approach ... is not pre-committing to a particular rate path",
+  "media": "BCE",
+  "titre": "Monetary policy decisions",
+  "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE prochaine réunion 17/12",
+  "valeur": "17/12/2026",
+  "extrait": "17/12/2026 : Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2), followed by press conference",
+  "media": "BCE",
+  "titre": "Meetings of the Governing Council",
+  "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Lagarde inflation octobre 4 %",
+  "valeur": "4%",
+  "extrait": "Headline inflation in October was at 4%, which was higher than we had expected a few months ago",
+  "media": "BCE",
+  "titre": "Interview with Yomiuri Shimbun",
+  "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Lagarde pas d'engagement décembre",
+  "valeur": "December",
+  "extrait": "I cannot tell you today that we will for sure do this in December.",
+  "media": "BCE",
+  "titre": "Interview with Yomiuri Shimbun",
+  "url": "https://www.ecb.europa.eu/press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+  "date": "2026-11-07"
+ },
+ {
+  "affirmation": "Zone euro PIB T3",
+  "valeur": "0.4%",
+  "extrait": "In the third quarter of 2026, seasonally adjusted GDP increased by 0.4% in the euro area",
+  "media": "Eurostat",
+  "titre": "GDP up by 0.4% and employment stable in the euro area",
+  "url": "https://ec.europa.eu/eurostat/product?code=2-13112026-ap",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Fed fourchette maintenue 28/10",
+  "valeur": "3-3/4 to 4 percent",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed fourchette basse",
+  "valeur": "3,75",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "3-3/4 = 3,75",
+  "url": "calcul",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed dissidents Cook Hammack",
+  "valeur": "Hammack",
+  "extrait": "Voting against the monetary policy action were Lisa D. Cook and Beth M. Hammack, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "FOMC décembre 8-9",
+  "valeur": "8-9",
+  "extrait": "December: 8-9*",
+  "media": "Federal Reserve",
+  "titre": "Meeting calendars and information",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Waller 25 pb décembre",
+  "valeur": "25 basis point",
+  "extrait": "I would still support a 25 basis point increase in the FOMC's policy rate at our December meeting.",
+  "media": "Federal Reserve",
+  "titre": "The Economic Outlook and Some Thoughts on Labor Market Dynamism",
+  "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "Waller 50 pb envisagé",
+  "valeur": "50 basis point",
+  "extrait": "I believe a 50 basis point hike in the policy rate should be considered at the December meeting.",
+  "media": "Federal Reserve",
+  "titre": "The Economic Outlook and Some Thoughts on Labor Market Dynamism",
+  "url": "https://www.federalreserve.gov/newsevents/speech/waller20261110a.htm",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "FedWatch 100 % hausse 9 décembre",
+  "valeur": "100%",
+  "extrait": "Traders are pricing in 100% odds of a rise at the Dec. 9 meeting, according to the CME Group's FedWatch tool.",
+  "media": "CNBC",
+  "titre": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
+  "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "US 10 ans 13/11",
+  "valeur": "5.143%",
+  "extrait": "rose 4 basis points to 5.143%",
+  "media": "CNBC",
+  "titre": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
+  "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "US 10 ans plus haut séance",
+  "valeur": "5.174%",
+  "extrait": "It hit an intraday high of 5.174%",
+  "media": "CNBC",
+  "titre": "10-year Treasury yield moves to 5.17% as traders weigh producer price report",
+  "url": "https://www.cnbc.com/2026/11/13/treasury-yields-fed-rates.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "CPI US octobre mensuel",
+  "valeur": "0.4 percent",
+  "extrait": "The Consumer Price Index for All Urban Consumers (CPI-U) increased 0.4 percent on a seasonally adjusted basis in October",
+  "media": "BLS",
+  "titre": "Consumer Price Index Summary - 2026 M10 Results",
+  "url": "https://www.bls.gov/news.release/cpi.nr0.htm",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "CPI consensus",
+  "valeur": "0.3%",
+  "extrait": "had been looking for a 0.3% increase.",
+  "media": "CNBC",
+  "titre": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+  "url": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "PPI US sur un an",
+  "valeur": "6.5 percent",
+  "extrait": "On an unadjusted basis, the index for final demand increased 6.5 percent for the 12 months ended in October",
+  "media": "BLS",
+  "titre": "Producer Price Index News Release summary - 2026 M10 Results",
+  "url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "PPI plus forte depuis novembre 2022",
+  "valeur": "6,5",
+  "extrait": "Sur un an, la hausse atteint 6,5 %, la plus forte depuis novembre 2022",
+  "media": "ABC Bourse (Agefi-Dow Jones)",
+  "titre": "USA: Wall Street finit en baisse vendredi, Nvidia pèse sur les technologiques",
+  "url": "https://www.abcbourse.com/marches/usa-wall-street-finit-en-baisse-vendredi-nvidia-pese-sur-les-technologiques_706107",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "France IPC octobre sur un an",
+  "valeur": "3,4 %",
+  "extrait": "Sur un an, les prix à la consommation augmentent de 3,4 % en octobre 2026, après +3,1 % en septembre.",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmentent de 3,4 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9131332",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "France IPC septembre",
+  "valeur": "3,1 %",
+  "extrait": "Sur un an, les prix à la consommation augmentent de 3,4 % en octobre 2026, après +3,1 % en septembre.",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmentent de 3,4 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9131332",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "France énergie sur un an",
+  "valeur": "24,1 %",
+  "extrait": "Sur un an, les prix de l'énergie accélèrent de nouveau : +24,1 % en octobre 2026",
+  "media": "Insee",
+  "titre": "En octobre 2026, les prix à la consommation augmentent de 3,4 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9131332",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "France chômage T3",
+  "valeur": "8,2 %",
+  "extrait": "Au troisième trimestre 2026, le taux de chômage s'établit à 8,2 %, en hausse de 0,4 point sur un an",
+  "media": "Insee",
+  "titre": "Au troisième trimestre 2026, le taux de chômage s'établit à 8,2 %, en hausse de 0,4 point sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9118603",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "PLF 2027 rejeté première lecture AN",
+  "valeur": "rejeté en première lecture",
+  "extrait": "celui-ci est considéré comme rejeté en première lecture",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 (texte n° 362)",
+  "url": "https://www.assemblee-nationale.fr/dyn/docs/PRJLANR5L17BTA0362.raw",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Sénat scrutin solennel PLFSS mercredi 18 à 16h30",
+  "valeur": "16 h 30",
+  "extrait": "À 16 h 30 et le soir : Explications de vote des groupes puis scrutin public solennel sur le projet de loi de financement de la sécurité sociale, considéré comme rejeté par l'Assemblée nationale, pour 2027",
+  "media": "Sénat",
+  "titre": "Séance publique - Ordre du jour - Sénat",
+  "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+  "date": "2026-11-14"
+ },
+ {
+  "affirmation": "Sénat PLF 2027 vendredi 20 à 9h30",
+  "valeur": "9 h 30",
+  "extrait": "Vendredi 20 novembre 2026 À 9 h 30 Sous réserve de sa transmission, projet de loi de finances pour 2027 (A.N., n° 3210)",
+  "media": "Sénat",
+  "titre": "Séance publique - Ordre du jour - Sénat",
+  "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+  "date": "2026-11-14"
+ },
+ {
+  "affirmation": "Sénat vote ensemble PLF 9 décembre",
+  "valeur": "9 décembre",
+  "extrait": "Mercredi 9 décembre 2026 : Explications de vote sur l'ensemble du projet de loi de finances pour 2027",
+  "media": "Sénat",
+  "titre": "Séance publique - Ordre du jour - Sénat",
+  "url": "https://www.senat.fr/ordre-du-jour/ordre-du-jour.html",
+  "date": "2026-11-14"
+ },
+ {
+  "affirmation": "BCE Revue de stabilité financière mercredi 10h",
+  "valeur": "10:00",
+  "extrait": "Wed 18 Nov, 10:00 CET: Publication of the ECB Financial Stability Review - November 2026",
+  "media": "BCE",
+  "titre": "Weekly schedule of public speaking engagements and other activities",
+  "url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Lagarde European Banking Congress vendredi 9h30",
+  "valeur": "09:30",
+  "extrait": "Fri 20 Nov, 09:30 CET: Keynote speech by Ms Lagarde at European Banking Congress 2026 in Frankfurt, Germany",
+  "media": "BCE",
+  "titre": "Weekly schedule of public speaking engagements and other activities",
+  "url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Warsh discours lundi 12h NY",
+  "valeur": "12:00",
+  "extrait": "12:00 p.m. Speech - Chairman Kevin Warsh Opening Remarks",
+  "media": "Federal Reserve",
+  "titre": "November 2026",
+  "url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "STMicro vendredi",
+  "valeur": "0,93",
+  "extrait": "STMicroelectronics a cédé 0,93 % à 41,95 €",
+  "media": "AFP (via Boursorama)",
+  "titre": "La Bourse de Paris termine à plat",
+  "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-a-plat-695c6ee72d23e1ea052f64f8bd98892d",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Inflation zone euro finale mercredi 12h",
+  "valeur": "12:00",
+  "extrait": "Wed 18 Nov, 12:00: Euro area seasonally adjusted HICP (Dataset: HICP)",
+  "media": "BCE",
+  "titre": "Weekly schedule of public speaking engagements and other activities",
+  "url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Focus BNPA exemple",
+  "valeur": "6",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "600 / 100 = 6",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Focus PER exemple",
+  "valeur": "25",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "150 / 6 = 25",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Focus rendement bénéficiaire",
+  "valeur": "4",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "6 / 150 x 100 = 4 %",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Focus écart OAT",
+  "valeur": "0,93",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4,00 - 4,93 = -0,93",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Focus BNPA +20 %",
+  "valeur": "7,2",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "6 x 1,2 = 7,2",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Focus PER cours constant",
+  "valeur": "20,83",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "150 / 7,2 = 20,83",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Focus cours pour PER 25",
+  "valeur": "180",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "25 x 7,2 = 180",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Focus variante 20",
+  "valeur": "20",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "hausse de 20 %",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Focus 600 M et 100 M",
+  "valeur": "600",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "bénéfice 600 M€, 100 M actions, cours 150 €",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Focus 100 M actions",
+  "valeur": "100",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "100 M actions",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Focus cours 150",
+  "valeur": "150",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "cours 150 €",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "BCE décision date",
+  "valeur": "29",
+  "extrait": "Monetary policy decisions, 29 October 2026",
+  "media": "BCE",
+  "titre": "Monetary policy decisions",
+  "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "Focus coefficient 1,2",
+  "valeur": "1,2",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 + 20 % = 1,2",
+  "url": "calcul",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Zone euro inflation flash octobre",
+  "valeur": "4.0%",
+  "extrait": "Euro area annual inflation is expected to be 4.0% in October 2026, up from 3.8% in September",
+  "media": "Eurostat",
+  "titre": "Euro area annual inflation up to 4.0%",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-04112026-ap",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "PPI un peu moins que prévu",
+  "valeur": "moins augmenté que prévu",
+  "extrait": "Les prix à la production ont un peu moins augmenté que prévu en octobre aux Etats-Unis.",
+  "media": "ABC Bourse (Agefi-Dow Jones)",
+  "titre": "USA: Wall Street finit en baisse vendredi, Nvidia pèse sur les technologiques",
+  "url": "https://www.abcbourse.com/marches/usa-wall-street-finit-en-baisse-vendredi-nvidia-pese-sur-les-technologiques_706107",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "France chômage hausse sur un an",
+  "valeur": "0,4 point",
+  "extrait": "Au troisième trimestre 2026, le taux de chômage s'établit à 8,2 %, en hausse de 0,4 point sur un an",
+  "media": "Insee",
+  "titre": "Au troisième trimestre 2026, le taux de chômage s'établit à 8,2 %, en hausse de 0,4 point sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9118603",
+  "date": "2026-11-10"
+ },
+ {
+  "affirmation": "Démission Huang 12 novembre",
+  "valeur": "12",
+  "extrait": "Nvidia's Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO (2026/11/12)",
+  "media": "TechCrunch",
+  "titre": "Nvidia's Jensen Huang resigns, chipmaker names CFO Colette Kress as interim CEO",
+  "url": "https://techcrunch.com/2026/11/12/nvidias-jensen-huang-resigns-chipmaker-names-cfo-colette-kress-as-interim-ceo/",
+  "date": "2026-11-12"
+ }
+]
