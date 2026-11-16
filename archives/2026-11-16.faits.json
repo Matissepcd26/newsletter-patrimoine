@@ -1,0 +1,1046 @@
+[
+ {
+  "affirmation": "CAC 40 clôture du 13/11",
+  "valeur": "8 368,91",
+  "extrait": "CAC 40 ; 8 368,91 pts ; +0,09 % sur la séance ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "CAC 40 variation 13/11",
+  "valeur": "+0,09",
+  "extrait": "CAC 40 ; 8 368,91 pts ; +0,09 % sur la séance ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "S&P 500 clôture 13/11",
+  "valeur": "7 561,67",
+  "extrait": "S&P 500 ; 7 561,67 pts ; -0,40 % sur la séance ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "-0,40",
+  "extrait": "S&P 500 ; 7 561,67 pts ; -0,40 % sur la séance ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Nasdaq clôture 13/11",
+  "valeur": "25 136,27",
+  "extrait": "Nasdaq Composite ; 25 136,27 pts ; -0,91 % sur la séance ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "-0,91",
+  "extrait": "Nasdaq Composite ; 25 136,27 pts ; -0,91 % sur la séance ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture",
+  "valeur": "6 386,86",
+  "extrait": "Euro Stoxx 50 ; 6 386,86 pts ; -0,19 % sur la séance ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "-0,19",
+  "extrait": "Euro Stoxx 50 ; 6 386,86 pts ; -0,19 % sur la séance ; clôture du 13/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "EUR/USD référence BCE",
+  "valeur": "1,1052",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1052 ; -0,26 % sur la séance ; taux du 13/11/2026",
+  "media": "BCE",
+  "titre": "Euro foreign exchange reference rates (yahoo/ECB via script)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "-0,26",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1052 ; -0,26 % sur la séance ; taux du 13/11/2026",
+  "media": "BCE",
+  "titre": "Euro foreign exchange reference rates (yahoo/ECB via script)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "OAT 10 ans 13/11",
+  "valeur": "4,926",
+  "extrait": "Nov 13, 2026 4.926 +1.80%",
+  "media": "Investing.com",
+  "titre": "France 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "OAT 10 ans 12/11",
+  "valeur": "4,838",
+  "extrait": "Nov 12, 2026 4.838 +1.11%",
+  "media": "Investing.com",
+  "titre": "France 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Bund 10 ans 13/11",
+  "valeur": "3,3762",
+  "extrait": "Nov 13, 2026 3.3762 +1.52%",
+  "media": "Investing.com",
+  "titre": "Germany 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Bund 10 ans 12/11",
+  "valeur": "3,3256",
+  "extrait": "Nov 12, 2026 3.3256 +0.06%",
+  "media": "Investing.com",
+  "titre": "Germany 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "OAT arrondie",
+  "valeur": "4,93",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "arrondi de 4,926",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Bund arrondi",
+  "valeur": "3,38",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "arrondi de 3,3762",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "OAT variation pb",
+  "valeur": "+8,8",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4,926 - 4,838 = 0,088",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Bund variation pb",
+  "valeur": "+5,1",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "3,3762 - 3,3256 = 0,0506",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Spread OAT-Bund",
+  "valeur": "155",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4,926 - 3,3762 = 1,5498",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Or règlement 13/11",
+  "valeur": "3 886,20",
+  "extrait": "Or (contrat déc. 2026) ; 3 886,20 $/once ; +0,01 % sur la séance ; cours du 13/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "+0,01",
+  "extrait": "Or (contrat déc. 2026) ; 3 886,20 $/once ; +0,01 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Or pire semaine depuis quatre mois",
+  "valeur": "four",
+  "extrait": "Rate hike bets keep gold on track for its worst week in four months",
+  "media": "Kitco (Reuters)",
+  "titre": "Rate hike bets keep gold on track for its worst week in four months",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-13/rate-hike-bets-keep-gold-track-its-worst-week-four-months",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Brent Yahoo 13/11",
+  "valeur": "95,75",
+  "extrait": "Brent (contrat janv. 2027) ; 95,75 $/baril ; -0,14 % sur la séance ; cours du 13/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Brent variation Yahoo",
+  "valeur": "-0,14",
+  "extrait": "Brent (contrat janv. 2027) ; 95,75 $/baril ; -0,14 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Brent règlement Reuters",
+  "valeur": "95,84",
+  "extrait": "Brent futures settled at $95.84 a barrel, up 2 cents, or 0.02%.",
+  "media": "CNBC (Reuters)",
+  "titre": "Oil prices post second straight weekly drop on signs of growing supply surplus",
+  "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Brent règlement variation",
+  "valeur": "0,02",
+  "extrait": "Brent futures settled at $95.84 a barrel, up 2 cents, or 0.02%.",
+  "media": "CNBC (Reuters)",
+  "titre": "Oil prices post second straight weekly drop on signs of growing supply surplus",
+  "url": "https://www.cnbc.com/2026/11/13/oil-prices-set-for-second-weekly-decline-as-trump-to-stay-with-iran-blockade.html",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Bitcoin clôture 15/11",
+  "valeur": "65 316,69",
+  "extrait": "Bitcoin ; 65 316,69 $ ; +1,88 % sur la séance ; clôture du 15/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "+1,88",
+  "extrait": "Bitcoin ; 65 316,69 $ ; +1,88 % sur la séance ; clôture du 15/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Put 60 000 $ premier pari sur Deribit",
+  "valeur": "900",
+  "extrait": "$900 million in open interest after the recent slide",
+  "media": "CoinDesk",
+  "titre": "Bitcoin's biggest bet is now a drop below $60,000, not a rally above $100,000",
+  "url": "https://coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Put 60 000 $",
+  "valeur": "60,000",
+  "extrait": "Bitcoin's biggest bet is now a drop below $60,000, not a rally above $100,000",
+  "media": "CoinDesk",
+  "titre": "Bitcoin's biggest bet is now a drop below $60,000, not a rally above $100,000",
+  "url": "https://coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "TotalEnergies",
+  "valeur": "+1,91",
+  "extrait": "TotalEnergies : +1,91%",
+  "media": "Boursorama (AFP)",
+  "titre": "La Bourse de Paris termine à plat",
+  "url": "https://www.boursorama.com/bourse/actualites/la-bourse-de-paris-termine-a-plat-695c6ee72d23e1ea052f64f8bd98892d",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Nvidia -2 % vendredi",
+  "valeur": "2%",
+  "extrait": "Shares fell 4.3% Thursday after CEO Jensen Huang's resignation was announced, then lost 2% Friday",
+  "media": "Yahoo Finance (AP)",
+  "titre": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Nikkei lundi",
+  "valeur": "1,6",
+  "extrait": "Japan's Nikkei 225 fell 1.6% to 60,182.50",
+  "media": "Yahoo Finance (AP)",
+  "titre": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Nikkei niveau",
+  "valeur": "60,182.50",
+  "extrait": "Japan's Nikkei 225 fell 1.6% to 60,182.50",
+  "media": "Yahoo Finance (AP)",
+  "titre": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Kospi lundi",
+  "valeur": "2.8",
+  "extrait": "South Korea's benchmark Kospi index lost 2.8% to 5,142.84",
+  "media": "Yahoo Finance (AP)",
+  "titre": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "SK Hynix",
+  "valeur": "5.5",
+  "extrait": "SK Hynix down 5.5%",
+  "media": "Yahoo Finance (AP)",
+  "titre": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Brent lundi matin",
+  "valeur": "94.91",
+  "extrait": "Brent crude, the international standard, slid 1% to $94.91 per barrel.",
+  "media": "Yahoo Finance (AP)",
+  "titre": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Brent avant guerre fin février",
+  "valeur": "72",
+  "extrait": "Prices remain well above the roughly $72 level from late February, before the Iran war began.",
+  "media": "Yahoo Finance (AP)",
+  "titre": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Euro lundi matin",
+  "valeur": "1.1017",
+  "extrait": "The euro was trading at $1.1017, down from $1.1029.",
+  "media": "Yahoo Finance (AP)",
+  "titre": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Sommet APEC jeudi Shenzhen Trump Xi Poutine",
+  "valeur": "APEC",
+  "extrait": "a meeting Thursday between Trump, Xi, and Putin on the sidelines of the APEC summit in Shenzhen",
+  "media": "Yahoo Finance (AP)",
+  "titre": "Stocks decline in Asia as investor concerns over Nvidia fallout extend into another week",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-decline-asia-investor-concerns-045636045.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Futures Nasdaq-100 dimanche soir",
+  "valeur": "0.58",
+  "extrait": "Nasdaq-100 futures: down 0.58%",
+  "media": "Yahoo Finance (Stocktwits)",
+  "titre": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-020421221.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Résultats Nvidia mardi 17 après Bourse",
+  "valeur": "17",
+  "extrait": "Nvidia Q3 results: Nov. 17, a Tuesday",
+  "media": "Yahoo Finance (Stocktwits)",
+  "titre": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-020421221.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Valorisation visée Anthropic",
+  "valeur": "1.4",
+  "extrait": "The AI giant is reportedly eyeing a valuation of about $1.4 trillion",
+  "media": "Yahoo Finance (Stocktwits)",
+  "titre": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-020421221.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Taux US 10 ans",
+  "valeur": "5.141",
+  "extrait": "10-year Treasury yield: 5.141%",
+  "media": "Yahoo Finance (Stocktwits)",
+  "titre": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-020421221.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Fed fourchette 3,75-4 vote 10-2",
+  "valeur": "3.75",
+  "extrait": "rates were held at 3.75% to 4.00% in a 10–2 vote",
+  "media": "Yahoo Finance (Stocktwits)",
+  "titre": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-020421221.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Fed haut fourchette",
+  "valeur": "4.00",
+  "extrait": "rates were held at 3.75% to 4.00% in a 10–2 vote",
+  "media": "Yahoo Finance (Stocktwits)",
+  "titre": "Dow, S&P 500, Nasdaq Futures Edge Lower As Markets Brace For Nvidia Earnings, Anthropic IPO, Fed Minutes",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/dow-p-500-nasdaq-futures-020421221.html",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Warsh discours 16/11 12 h ET San Francisco",
+  "valeur": "12:00",
+  "extrait": "12:00 p.m.: Speech by Chairman Kevin Warsh, \"Opening Remarks,\" at the Federal Reserve's Productivity and Jobs Task Force Conference",
+  "media": "Federal Reserve",
+  "titre": "November 2026 calendar",
+  "url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Minutes FOMC 18/11 14 h ET",
+  "valeur": "2:00",
+  "extrait": "2:00 p.m.: FOMC Minutes, Meeting of October 27-28",
+  "media": "Federal Reserve",
+  "titre": "November 2026 calendar",
+  "url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Barr discours 16/11 5 h",
+  "valeur": "5:00",
+  "extrait": "5:00 a.m.: Speech by Governor Michael S. Barr, \"Artificial Intelligence and Financial Stability,\"",
+  "media": "Federal Reserve",
+  "titre": "November 2026 calendar",
+  "url": "https://www.federalreserve.gov/newsevents/2026-november.htm",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Probabilité hausse 25 pb décembre après PPI",
+  "valeur": "89,4",
+  "extrait": "Markets priced an 89.4% chance of a 25-basis-point US rate hike in December, down from 96.2%",
+  "media": "Kitco (Reuters)",
+  "titre": "Rate hike bets keep gold on track for its worst week in four months",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-13/rate-hike-bets-keep-gold-track-its-worst-week-four-months",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "Probabilité avant PPI",
+  "valeur": "96,2",
+  "extrait": "Markets priced an 89.4% chance of a 25-basis-point US rate hike in December, down from 96.2%",
+  "media": "Kitco (Reuters)",
+  "titre": "Rate hike bets keep gold on track for its worst week in four months",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-13/rate-hike-bets-keep-gold-track-its-worst-week-four-months",
+  "date": "2026-11-13"
+ },
+ {
+  "affirmation": "PIB Japon T3 annualisé",
+  "valeur": "0,1",
+  "extrait": "Japan's economy contracted an annualised 0.1% in the July-September quarter",
+  "media": "Investing.com (Reuters)",
+  "titre": "Japan's economy contracts annualised 0.1% in July-September",
+  "url": "https://www.investing.com/news/economic-indicators/japans-economy-contracts-annualised-01-in-julyseptember-5028208",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "PIB Japon consensus",
+  "valeur": "0,3",
+  "extrait": "against a median market forecast for a 0.3% increase",
+  "media": "Investing.com (Reuters)",
+  "titre": "Japan's economy contracts annualised 0.1% in July-September",
+  "url": "https://www.investing.com/news/economic-indicators/japans-economy-contracts-annualised-01-in-julyseptember-5028208",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Chine production industrielle octobre",
+  "valeur": "4,8",
+  "extrait": "Industrial output expanded 4.8% from a year earlier last month, missing analysts' estimates for 5.3% growth",
+  "media": "CNBC",
+  "titre": "China's slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+  "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Chine production consensus",
+  "valeur": "5,3",
+  "extrait": "Industrial output expanded 4.8% from a year earlier last month, missing analysts' estimates for 5.3% growth",
+  "media": "CNBC",
+  "titre": "China's slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+  "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Chine ventes au détail octobre",
+  "valeur": "0,4",
+  "extrait": "Retail sales, a gauge of consumption, rose 0.4% from a year ago in October, disappointing analysts' forecast for a 0.8% rise",
+  "media": "CNBC",
+  "titre": "China's slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+  "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Chine ventes consensus",
+  "valeur": "0,8",
+  "extrait": "Retail sales, a gauge of consumption, rose 0.4% from a year ago in October, disappointing analysts' forecast for a 0.8% rise",
+  "media": "CNBC",
+  "titre": "China's slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+  "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Chine investissement fixe",
+  "valeur": "8,1",
+  "extrait": "fixed-asset investments, including property and infrastructure, shrank 8.1%",
+  "media": "CNBC",
+  "titre": "China's slowdown deepens in October as industrial output, retail sales, investment miss estimates",
+  "url": "https://www.cnbc.com/2026/11/16/china-retail-sales-october-industrial-output-investment.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "AIE excédent T4 2026",
+  "valeur": "105",
+  "extrait": "L'AIE prévoit une offre journalière de pétrole de 105 millions de barils au quatrième trimestre",
+  "media": "Investing.com",
+  "titre": "Les prix du pétrole reculent malgré les tensions au Moyen-Orient",
+  "url": "https://fr.investing.com/news/commodities-news/les-prix-du-petrole-reculent-malgre-les-tensions-au-moyenorient-3696722",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "AIE excédent",
+  "valeur": "excédent",
+  "extrait": "les marchés pétroliers mondiaux retrouveront un excédent au quatrième trimestre 2026",
+  "media": "Investing.com",
+  "titre": "Les prix du pétrole reculent malgré les tensions au Moyen-Orient",
+  "url": "https://fr.investing.com/news/commodities-news/les-prix-du-petrole-reculent-malgre-les-tensions-au-moyenorient-3696722",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Pétrolier en feu à Ormuz ce week-end",
+  "valeur": "feu",
+  "extrait": "Un autre pétrolier a été aperçu en feu dans le détroit d'Ormuz au cours du week-end",
+  "media": "Investing.com",
+  "titre": "Les prix du pétrole reculent malgré les tensions au Moyen-Orient",
+  "url": "https://fr.investing.com/news/commodities-news/les-prix-du-petrole-reculent-malgre-les-tensions-au-moyenorient-3696722",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Coût revalorisations bas salaires",
+  "valeur": "un peu plus d'un milliard",
+  "extrait": "un peu plus d'un milliard d'euros",
+  "media": "Boursorama (AFP)",
+  "titre": "Bas salaires : les revalorisations annoncées coûteront plus d'un milliard d'euros aux finances publiques, dit Amiel",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/bas-salaires-les-revalorisations-annoncees-couteront-plus-d-un-milliard-d-euros-aux-finances-publiques-dit-amiel-8171a960727ab9842cd40bc920e96bec",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Agents concernés",
+  "valeur": "1,35 million",
+  "extrait": "1,35 million",
+  "media": "Boursorama (AFP)",
+  "titre": "Bas salaires : les revalorisations annoncées coûteront plus d'un milliard d'euros aux finances publiques, dit Amiel",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/bas-salaires-les-revalorisations-annoncees-couteront-plus-d-un-milliard-d-euros-aux-finances-publiques-dit-amiel-8171a960727ab9842cd40bc920e96bec",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Gain moyen agents",
+  "valeur": "350",
+  "extrait": "350 euros brut",
+  "media": "Boursorama (AFP)",
+  "titre": "Bas salaires : les revalorisations annoncées coûteront plus d'un milliard d'euros aux finances publiques, dit Amiel",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/bas-salaires-les-revalorisations-annoncees-couteront-plus-d-un-milliard-d-euros-aux-finances-publiques-dit-amiel-8171a960727ab9842cd40bc920e96bec",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Smic net au 1er décembre",
+  "valeur": "1.502",
+  "extrait": "1.502 euros net environ",
+  "media": "Boursorama (AFP)",
+  "titre": "Bas salaires : les revalorisations annoncées coûteront plus d'un milliard d'euros aux finances publiques, dit Amiel",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/bas-salaires-les-revalorisations-annoncees-couteront-plus-d-un-milliard-d-euros-aux-finances-publiques-dit-amiel-8171a960727ab9842cd40bc920e96bec",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Smic gain mensuel",
+  "valeur": "24",
+  "extrait": "une hausse mensuelle d'environ 24 euros",
+  "media": "Boursorama (AFP)",
+  "titre": "Répondre aux attentes sur le pouvoir d'achat sans aggraver les comptes : l'exercice délicat du gouvernement",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/repondre-aux-attentes-sur-le-pouvoir-d-achat-sans-aggraver-les-comptes-l-exercice-delicat-du-gouvernement-6cd4b17a853db616c8531f75683fa511",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Allègements généraux de cotisations",
+  "valeur": "70",
+  "extrait": "plus de 70 milliards d'euros par an",
+  "media": "Boursorama (AFP)",
+  "titre": "Répondre aux attentes sur le pouvoir d'achat sans aggraver les comptes : l'exercice délicat du gouvernement",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/repondre-aux-attentes-sur-le-pouvoir-d-achat-sans-aggraver-les-comptes-l-exercice-delicat-du-gouvernement-6cd4b17a853db616c8531f75683fa511",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "PLF 2027 au Sénat à partir du 20 novembre",
+  "valeur": "20 novembre",
+  "extrait": "à partir du 20 novembre",
+  "media": "Boursorama (AFP)",
+  "titre": "Répondre aux attentes sur le pouvoir d'achat sans aggraver les comptes : l'exercice délicat du gouvernement",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/repondre-aux-attentes-sur-le-pouvoir-d-achat-sans-aggraver-les-comptes-l-exercice-delicat-du-gouvernement-6cd4b17a853db616c8531f75683fa511",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "Grève intersyndicale 17 novembre",
+  "valeur": "17 novembre",
+  "extrait": "l'intersyndicale a appelé à une journée de mobilisation et de grève le 17 novembre",
+  "media": "Boursorama (AFP)",
+  "titre": "Bas salaires : les revalorisations annoncées coûteront plus d'un milliard d'euros aux finances publiques, dit Amiel",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/bas-salaires-les-revalorisations-annoncees-couteront-plus-d-un-milliard-d-euros-aux-finances-publiques-dit-amiel-8171a960727ab9842cd40bc920e96bec",
+  "date": "2026-11-15"
+ },
+ {
+  "affirmation": "PLFSS 2027 séance Sénat 16-18 nov",
+  "valeur": "16, 17 et 18 novembre",
+  "extrait": "discussion en séance publique les 16, 17 et 18 novembre 2026",
+  "media": "Sénat",
+  "titre": "Financement de la sécurité sociale pour 2027",
+  "url": "https://www.senat.fr/dossier-legislatif/plfss2027.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "IFI date limite 16/11 hors paiement dématérialisé",
+  "valeur": "16 November",
+  "extrait": "16 November: Impôt sur la fortune immobilière : date limite de paiement",
+  "media": "impots.gouv.fr",
+  "titre": "Consulter votre calendrier fiscal",
+  "url": "https://www.impots.gouv.fr/particulier/calendrier-fiscal",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "IFI paiement en ligne 21/11 prélèvement 26/11",
+  "valeur": "21 novembre",
+  "extrait": "Si la date limite de paiement de votre impôt est au 16 novembre 2026, vous avez jusqu'au 21 novembre minuit pour payer en ligne ; prélèvement à compter du 26 novembre 2026",
+  "media": "impots.gouv.fr",
+  "titre": "Consulter votre calendrier fiscal",
+  "url": "https://www.impots.gouv.fr/particulier/calendrier-fiscal",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "PAS acompte 16/11",
+  "valeur": "11ème",
+  "extrait": "11ème prélèvement mensuel ou 4ème prélèvement trimestriel d'acompte PAS",
+  "media": "impots.gouv.fr",
+  "titre": "Consulter votre calendrier fiscal",
+  "url": "https://www.impots.gouv.fr/particulier/calendrier-fiscal",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Majoration retard",
+  "valeur": "10 %",
+  "extrait": "majoration de 10 % calculée sur l'impôt dû",
+  "media": "impots.gouv.fr",
+  "titre": "Quand dois-je acquitter mon IFI (impôt sur la fortune immobilière) ?",
+  "url": "https://www.impots.gouv.fr/particulier/questions/quand-dois-je-acquitter-mon-isf",
+  "date": "2026-07-22"
+ },
+ {
+  "affirmation": "Art. 197 en vigueur depuis 21/02/2026 loi 2026-103",
+  "valeur": "2026-103",
+  "extrait": "En vigueur depuis le 21 février 2026, modifié par LOI n°2026-103 du 19 février 2026, art. 4 (V)",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542636",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Décote célibataire 897 et 45,25 %",
+  "valeur": "897",
+  "extrait": "la différence entre 897 € et 45,25 % de son montant",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542636",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Décote taux",
+  "valeur": "45,25",
+  "extrait": "la différence entre 897 € et 45,25 % de son montant",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542636",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Décote couple 1 483",
+  "valeur": "1 483",
+  "extrait": "la différence entre 1 483 € et 45,25 % de son montant",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542636",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Décote dans la limite de son montant",
+  "valeur": "dans la limite de son montant",
+  "extrait": "Le montant de l'impôt résultant de l'application des dispositions précédentes est diminué, dans la limite de son montant",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542636",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Décote contribuables visés",
+  "valeur": "célibataires, divorcés ou veufs",
+  "extrait": "pour les contribuables célibataires, divorcés ou veufs ; pour les contribuables soumis à imposition commune",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542636",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Tranche 0 % jusqu'à 11 600",
+  "valeur": "11 600",
+  "extrait": "L'impôt est calculé en appliquant à la fraction de chaque part de revenu qui excède 11 600 €",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542636",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Tranche 11 %",
+  "valeur": "29 579",
+  "extrait": "11 % pour la fraction supérieure à 11 600 € et inférieure ou égale à 29 579 €",
+  "media": "Légifrance",
+  "titre": "Article 197 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053542636",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Barème revenus 2025 tranche 11 % (service-public)",
+  "valeur": "11 %",
+  "extrait": "De 11 601 € à 29 579 € 11 %",
+  "media": "service-public.fr",
+  "titre": "Quel est le barème de l'impôt sur le revenu ?",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1419",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Seuil décote célibataire",
+  "valeur": "1 982",
+  "extrait": "inférieure à 1 982 € pour les contribuables célibataires",
+  "media": "BOFiP",
+  "titre": "BOI-IR-LIQ-20-20-30 - Décote prévue au 4 du I de l'article 197 du CGI",
+  "url": "https://bofip.impots.gouv.fr/bofip/2495-PGP.html",
+  "date": "2026-04-07"
+ },
+ {
+  "affirmation": "Seuil décote couple",
+  "valeur": "3 277",
+  "extrait": "à 3 277 € pour les contribuables soumis à imposition commune",
+  "media": "BOFiP",
+  "titre": "BOI-IR-LIQ-20-20-30 - Décote prévue au 4 du I de l'article 197 du CGI",
+  "url": "https://bofip.impots.gouv.fr/bofip/2495-PGP.html",
+  "date": "2026-04-07"
+ },
+ {
+  "affirmation": "Taux décote revenus 2025",
+  "valeur": "45,25",
+  "extrait": "(45,25 % pour l'imposition des revenus de 2025)",
+  "media": "BOFiP",
+  "titre": "BOI-IR-LIQ-20-20-30 - Décote prévue au 4 du I de l'article 197 du CGI",
+  "url": "https://bofip.impots.gouv.fr/bofip/2495-PGP.html",
+  "date": "2026-04-07"
+ },
+ {
+  "affirmation": "Décote sur droits du barème, après plafonnement QF, avant réductions",
+  "valeur": "barème progressif",
+  "extrait": "La décote s'applique sur le montant des droits directement obtenu par application du barème progressif",
+  "media": "BOFiP",
+  "titre": "BOI-IR-LIQ-20-20-30 - Décote prévue au 4 du I de l'article 197 du CGI",
+  "url": "https://bofip.impots.gouv.fr/bofip/2495-PGP.html",
+  "date": "2026-04-07"
+ },
+ {
+  "affirmation": "Décote pas sur taux proportionnel (§ 20)",
+  "valeur": "taux proportionnel",
+  "extrait": "la décote ne s'applique pas à l'impôt sur le revenu calculé suivant un taux proportionnel",
+  "media": "BOFiP",
+  "titre": "BOI-IR-LIQ-20-20-30 - Décote prévue au 4 du I de l'article 197 du CGI",
+  "url": "https://bofip.impots.gouv.fr/bofip/2495-PGP.html",
+  "date": "2026-04-07"
+ },
+ {
+  "affirmation": "Imposition distincte = célibataires (§ 50)",
+  "valeur": "assimilés à des contribuables célibataires",
+  "extrait": "sont assimilés à des contribuables célibataires",
+  "media": "BOFiP",
+  "titre": "BOI-IR-LIQ-20-20-30 - Décote prévue au 4 du I de l'article 197 du CGI",
+  "url": "https://bofip.impots.gouv.fr/bofip/2495-PGP.html",
+  "date": "2026-04-07"
+ },
+ {
+  "affirmation": "Calcul seuil célibataire",
+  "valeur": "1 982,32",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "897 / 0,4525 = 1 982,32",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul revenu par part au-delà 11 600",
+  "valeur": "8 400",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "20 000 - 11 600 = 8 400",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul impôt brut",
+  "valeur": "924",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "8 400 x 0,11 = 924",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul 45,25 % de 924",
+  "valeur": "418,11",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "924 x 0,4525 = 418,11",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul décote",
+  "valeur": "478,89",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "897 - 418,11 = 478,89",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul impôt après décote",
+  "valeur": "445,11",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "924 - 478,89 = 445,11",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul revenu exemple",
+  "valeur": "20 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "revenu net imposable retenu 20 000",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul taux marginal effectif",
+  "valeur": "15,98",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "11 % x 1,4525 = 15,9775 %",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul coefficient",
+  "valeur": "1,4525",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 + 0,4525",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul 100 € supplémentaires impôt brut",
+  "valeur": "11",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "100 x 0,11 = 11",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul baisse de décote pour 100 €",
+  "valeur": "4,98",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "11 x 0,4525 = 4,9775",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul 100 € de revenu",
+  "valeur": "100",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "100",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Calcul seuil couple",
+  "valeur": "3 277,35",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 483 / 0,4525 = 3 277,35",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Valorisation Anthropic en milliards",
+  "valeur": "1 400",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1,4 trillion = 1 400 milliards de dollars",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Réponse : 45,25 % de 2 000",
+  "valeur": "905",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2 000 x 0,4525 = 905",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Réponse : décote couple",
+  "valeur": "578",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 483 - 905 = 578",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Réponse : impôt après décote",
+  "valeur": "1 422",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2 000 - 578 = 1 422",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Réponse : impôt brut couple exemple",
+  "valeur": "2 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "hypothèse 2 000",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Sommet APEC jeudi = 19 novembre",
+  "valeur": "19",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "jeudi suivant le lundi 16 novembre = 19 novembre",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Smic net écriture française",
+  "valeur": "1 502",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1.502 euros (AFP) écrit 1 502 euros",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Put Deribit écriture française",
+  "valeur": "60 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "$60,000 écrit 60 000 $",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Article 197 du CGI, décote",
+  "valeur": "197",
+  "extrait": "Décote prévue au 4 du I de l'article 197 du code général des impôts",
+  "media": "BOFiP",
+  "titre": "BOI-IR-LIQ-20-20-30 - Décote prévue au 4 du I de l'article 197 du CGI",
+  "url": "https://bofip.impots.gouv.fr/bofip/2495-PGP.html",
+  "date": "2026-04-07"
+ },
+ {
+  "affirmation": "Taux 11 % en décimal",
+  "valeur": "0,11",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "11 % = 0,11",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Taux 45,25 % en décimal",
+  "valeur": "0,4525",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "45,25 % = 0,4525",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Décote après plafonnement QF",
+  "valeur": "plafonnement",
+  "extrait": "après application éventuelle du plafonnement des effets du quotient familial",
+  "media": "BOFiP",
+  "titre": "BOI-IR-LIQ-20-20-30 - Décote prévue au 4 du I de l'article 197 du CGI",
+  "url": "https://bofip.impots.gouv.fr/bofip/2495-PGP.html",
+  "date": "2026-04-07"
+ },
+ {
+  "affirmation": "Décote avant réductions d'impôt",
+  "valeur": "réductions d'impôt",
+  "extrait": "avant prise en compte des réductions d’impôt",
+  "media": "BOFiP",
+  "titre": "BOI-IR-LIQ-20-20-30 - Décote prévue au 4 du I de l'article 197 du CGI",
+  "url": "https://bofip.impots.gouv.fr/bofip/2495-PGP.html",
+  "date": "2026-04-07"
+ },
+ {
+  "affirmation": "Imposition distincte (rappel BOFiP §50)",
+  "valeur": "assimilés à des contribuables célibataires",
+  "extrait": "sont assimilés à des contribuables célibataires",
+  "media": "BOFiP",
+  "titre": "BOI-IR-LIQ-20-20-30 - Décote prévue au 4 du I de l'article 197 du CGI",
+  "url": "https://bofip.impots.gouv.fr/bofip/2495-PGP.html",
+  "date": "2026-04-07"
+ }
+]
