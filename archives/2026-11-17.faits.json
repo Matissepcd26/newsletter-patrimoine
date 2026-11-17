@@ -1,0 +1,1055 @@
+[
+ {
+  "affirmation": "CAC 40 clôture 16/11",
+  "valeur": "8 352,00",
+  "extrait": "CAC 40 ; 8 352,00 pts ; -0,20 % sur la séance ; clôture du 16/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "-0,20",
+  "extrait": "CAC 40 ; 8 352,00 pts ; -0,20 % sur la séance ; clôture du 16/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "CAC 40 fin de série de cinq hausses",
+  "valeur": "cinq",
+  "extrait": "Paris cède 0,20% (à 8 352 points), mettant fin à une série de cinq hausses consécutives.",
+  "media": "Zonebourse",
+  "titre": "Fin de série pour le CAC 40, les marchés scrutent Nvidia et Anthropic",
+  "url": "https://www.zonebourse.com/actualite-bourse/fin-de-serie-pour-le-cac-40-les-marches-scrutent-nvidia-et-anthropic-ce785edfda81f626",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Soutiens du CAC",
+  "valeur": "Accor",
+  "extrait": "Accor (+2 %), Danone (+1,2 %), EssilorLuxottica (+1,18 %) : soutien du CAC 40",
+  "media": "Zonebourse",
+  "titre": "Fin de série pour le CAC 40, les marchés scrutent Nvidia et Anthropic",
+  "url": "https://www.zonebourse.com/actualite-bourse/fin-de-serie-pour-le-cac-40-les-marches-scrutent-nvidia-et-anthropic-ce785edfda81f626",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "ASM International en baisse",
+  "valeur": "-3,6",
+  "extrait": "ASM International (-3,6 %)",
+  "media": "Zonebourse",
+  "titre": "Fin de série pour le CAC 40, les marchés scrutent Nvidia et Anthropic",
+  "url": "https://www.zonebourse.com/actualite-bourse/fin-de-serie-pour-le-cac-40-les-marches-scrutent-nvidia-et-anthropic-ce785edfda81f626",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "7 416,59",
+  "extrait": "S&P 500 ; 7 416,59 pts ; -1,92 % sur la séance ; clôture du 16/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "-1,92",
+  "extrait": "S&P 500 ; 7 416,59 pts ; -1,92 % sur la séance ; clôture du 16/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "24 509,76",
+  "extrait": "Nasdaq Composite ; 24 509,76 pts ; -2,49 % sur la séance ; clôture du 16/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "-2,49",
+  "extrait": "Nasdaq Composite ; 24 509,76 pts ; -2,49 % sur la séance ; clôture du 16/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Restrictions puces Chine",
+  "valeur": "China",
+  "extrait": "tighter US restrictions aimed at preventing circumvention of controls on semiconductor access to China weighed on the broader chip sector",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower, Anthropic IPO looms",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture",
+  "valeur": "6 348,35",
+  "extrait": "Euro Stoxx 50 ; 6 348,35 pts ; -0,60 % sur la séance ; clôture du 16/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "-0,60",
+  "extrait": "Euro Stoxx 50 ; 6 348,35 pts ; -0,60 % sur la séance ; clôture du 16/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "EUR/USD référence BCE",
+  "valeur": "1,1014",
+  "extrait": "16 November 2026: 1.1014",
+  "media": "BCE",
+  "titre": "US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "-0,34",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,1014 ; -0,34 % sur la séance ; taux du 16/11/2026",
+  "media": "BCE",
+  "titre": "US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Dollar fort",
+  "valeur": "April 2025",
+  "extrait": "trading near its strongest level since April 2025",
+  "media": "CNBC",
+  "titre": "Gold drops to more than one-year low as U.S. dollar marches higher",
+  "url": "https://www.cnbc.com/2026/11/16/gold-holds-steady-as-investors-await-warsh-remarks-for-rate-signals.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture",
+  "valeur": "4,9480",
+  "extrait": "Le rendement de l'OAT à dix ans a gagné 2,9 points de base à 4,9480%",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe finit en légère baisse, la \"tech\" à nouveau dans le rouge à Wall Street",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-legere-baisse-la-tech-a-nouveau-dans-le-rouge-a-wall-street-baa6de2a05f36e0b1cc58df8fb7904a5",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "OAT variation",
+  "valeur": "2,9",
+  "extrait": "a gagné 2,9 points de base à 4,9480%",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe finit en légère baisse, la \"tech\" à nouveau dans le rouge à Wall Street",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-legere-baisse-la-tech-a-nouveau-dans-le-rouge-a-wall-street-baa6de2a05f36e0b1cc58df8fb7904a5",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "OAT arrondie deux décimales",
+  "valeur": "4,95",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "arrondi de 4,9480 %",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Bund 10 ans clôture",
+  "valeur": "3,3827",
+  "extrait": "a grappillé 0,5 point de base à 3,3827%",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe finit en légère baisse, la \"tech\" à nouveau dans le rouge à Wall Street",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-legere-baisse-la-tech-a-nouveau-dans-le-rouge-a-wall-street-baa6de2a05f36e0b1cc58df8fb7904a5",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Bund variation",
+  "valeur": "0,5",
+  "extrait": "a grappillé 0,5 point de base à 3,3827%",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe finit en légère baisse, la \"tech\" à nouveau dans le rouge à Wall Street",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-en-legere-baisse-la-tech-a-nouveau-dans-le-rouge-a-wall-street-baa6de2a05f36e0b1cc58df8fb7904a5",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Bund arrondi",
+  "valeur": "3,38",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "arrondi de 3,3827 %",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Spread OAT-Bund",
+  "valeur": "157",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "(4,9480 - 3,3827) x 100 = 156,53 pb, arrondi 157",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Spread: rendements à trois décimales",
+  "valeur": "4,948",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4,9480 % ; 3,3827 % arrondi 3,383 %",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Spread Bund trois décimales",
+  "valeur": "3,383",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "arrondi de 3,3827 %",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "3 852,20",
+  "extrait": "Or (contrat déc. 2026) ; 3 852,20 $/once ; -0,87 % sur la séance ; cours du 16/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "-0,87",
+  "extrait": "Or (contrat déc. 2026) ; 3 852,20 $/once ; -0,87 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Or plus bas depuis octobre 2025",
+  "valeur": "October 2025",
+  "extrait": "lowest level since October 2025 at $3,830",
+  "media": "CNBC",
+  "titre": "Gold drops to more than one-year low as U.S. dollar marches higher",
+  "url": "https://www.cnbc.com/2026/11/16/gold-holds-steady-as-investors-await-warsh-remarks-for-rate-signals.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Brent règlement",
+  "valeur": "92,44",
+  "extrait": "Brent crude futures closed down $3.40, or 3.6%, at $92.44 a barrel",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "Oil settles lower as recovering Middle East exports bolster surplus outlook",
+  "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Brent variation",
+  "valeur": "3,6",
+  "extrait": "Brent crude futures closed down $3.40, or 3.6%, at $92.44 a barrel",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "Oil settles lower as recovering Middle East exports bolster surplus outlook",
+  "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Brent contrat janvier 2027",
+  "valeur": "2027",
+  "extrait": "Brent (contrat janv. 2027) ; 92,43 $/baril ; -3,47 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Bitcoin clôture",
+  "valeur": "64 816,79",
+  "extrait": "Bitcoin ; 64 816,79 $ ; -0,77 % sur la séance ; clôture du 16/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "-0,77",
+  "extrait": "Bitcoin ; 64 816,79 $ ; -0,77 % sur la séance ; clôture du 16/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Bitcoin plus bas séance",
+  "valeur": "64,000",
+  "extrait": "Bitcoin fell as low as $64,000, a 2% drop over the last 24 hours",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Dow and S&P 500 drop, Nasdaq sinks over 2% as Nvidia leads AI trade lower, Anthropic IPO looms",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-monday-november-16-dow-sp-500-nasdaq-nvidia-oil-091631084.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "AIE excédent T4",
+  "valeur": "1.7 million",
+  "extrait": "Oil supply will average 105 million barrels per day in the fourth quarter, 1.7 million bpd higher than forecast demand",
+  "media": "CNBC",
+  "titre": "Oil falls as recovering Middle East exports bolster surplus outlook",
+  "url": "https://www.cnbc.com/2026/11/16/oil-prices-brent-wti-latest.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "AIE offre T4",
+  "valeur": "105",
+  "extrait": "Oil supply will average 105 million barrels per day in the fourth quarter",
+  "media": "CNBC",
+  "titre": "Oil falls as recovering Middle East exports bolster surplus outlook",
+  "url": "https://www.cnbc.com/2026/11/16/oil-prices-brent-wti-latest.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "AIE déficit prévu auparavant",
+  "valeur": "deficit",
+  "extrait": "The IEA had previously forecast a fourth-quarter deficit",
+  "media": "CNBC",
+  "titre": "Oil falls as recovering Middle East exports bolster surplus outlook",
+  "url": "https://www.cnbc.com/2026/11/16/oil-prices-brent-wti-latest.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Nvidia résultats 17 novembre après clôture",
+  "valeur": "4:20 PM ET",
+  "extrait": "results at about 4:20 PM ET and the conference call at 5 PM ET",
+  "media": "Yahoo Finance",
+  "titre": "Nvidia Reports Earnings Tuesday Without Jensen Huang for the First Time. It Promised $108 Billion, and the Stock Fell After 3 of Its Last 4 Reports",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-reports-earnings-tuesday-without-164548681.html",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Nvidia guidance",
+  "valeur": "108.0",
+  "extrait": "expected third-quarter revenue of $108.0 billion, plus or minus 2%",
+  "media": "Yahoo Finance",
+  "titre": "Nvidia Reports Earnings Tuesday Without Jensen Huang for the First Time. It Promised $108 Billion, and the Stock Fell After 3 of Its Last 4 Reports",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-reports-earnings-tuesday-without-164548681.html",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Nvidia guidance marge",
+  "valeur": "2%",
+  "extrait": "plus or minus 2%",
+  "media": "Yahoo Finance",
+  "titre": "Nvidia Reports Earnings Tuesday Without Jensen Huang for the First Time",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-reports-earnings-tuesday-without-164548681.html",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Démission Huang",
+  "valeur": "resigned",
+  "extrait": "Huang resigned on Thursday morning, effective immediately",
+  "media": "Yahoo Finance",
+  "titre": "Nvidia Reports Earnings Tuesday Without Jensen Huang for the First Time",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-reports-earnings-tuesday-without-164548681.html",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Clôture Wall Street 16h NY = 22h Paris",
+  "valeur": "22 h 00",
+  "extrait": "16 h 00 à New York = 22 h 00 à Paris",
+  "media": "outils.py",
+  "titre": "HEURES_NY",
+  "url": "",
+  "date": "2026-11-17"
+ },
+ {
+  "affirmation": "Anthropic fourchette",
+  "valeur": "$70 and $78",
+  "extrait": "at a price between $70 and $78 per share",
+  "media": "CNBC",
+  "titre": "Anthropic IPO guide: Everything you need to know",
+  "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Anthropic fourchette basse",
+  "valeur": "70",
+  "extrait": "at a price between $70 and $78 per share",
+  "media": "CNBC",
+  "titre": "Anthropic IPO guide",
+  "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Anthropic fourchette haute",
+  "valeur": "78",
+  "extrait": "at a price between $70 and $78 per share",
+  "media": "CNBC",
+  "titre": "Anthropic IPO guide",
+  "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Anthropic valorisation",
+  "valeur": "1.405 trillion",
+  "extrait": "giving the company a valuation of $1.405 trillion",
+  "media": "CNBC",
+  "titre": "Anthropic IPO guide: Everything you need to know",
+  "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Anthropic valorisation en milliards",
+  "valeur": "1 405",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1,405 trillion $ = 1 405 milliards $",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Anthropic calendrier",
+  "valeur": "Nov. 18",
+  "extrait": "The IPO is expected to price the evening of Nov. 18, and begin trading on the Nasdaq on Thursday, Nov. 19",
+  "media": "CNBC",
+  "titre": "Anthropic IPO guide: Everything you need to know",
+  "url": "https://www.cnbc.com/2026/11/16/anthropic-ipo-date-price-range.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "FedWatch hausse décembre",
+  "valeur": "95%",
+  "extrait": "Traders see a 95% chance of a 25-basis-point Fed rate hike next month",
+  "media": "CNBC",
+  "titre": "Gold drops to more than one-year low as U.S. dollar marches higher",
+  "url": "https://www.cnbc.com/2026/11/16/gold-holds-steady-as-investors-await-warsh-remarks-for-rate-signals.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "FedWatch 25 pb",
+  "valeur": "25",
+  "extrait": "Traders see a 95% chance of a 25-basis-point Fed rate hike next month",
+  "media": "CNBC",
+  "titre": "Gold drops to more than one-year low as U.S. dollar marches higher",
+  "url": "https://www.cnbc.com/2026/11/16/gold-holds-steady-as-investors-await-warsh-remarks-for-rate-signals.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Réunion Fed 9 décembre",
+  "valeur": "9 décembre",
+  "extrait": "Réunion de la Fed le 9 décembre, où les marchés anticipent à 91,4 % une hausse d'un quart de point",
+  "media": "Zonebourse",
+  "titre": "Fin de série pour le CAC 40, les marchés scrutent Nvidia et Anthropic",
+  "url": "https://www.zonebourse.com/actualite-bourse/fin-de-serie-pour-le-cac-40-les-marches-scrutent-nvidia-et-anthropic-ce785edfda81f626",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Fed maintien 28 octobre (pour rappel)",
+  "valeur": "3-3/4 to 4 percent",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed fourchette en décimal",
+  "valeur": "3,75",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "3-3/4 % = 3,75 %",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Fed dissidents",
+  "valeur": "Cook",
+  "extrait": "Voting against the monetary policy action were Lisa D. Cook and Beth M. Hammack",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed dissidents quart de point",
+  "valeur": "1/4",
+  "extrait": "preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Empire State novembre",
+  "valeur": "7.8",
+  "extrait": "Empire State Manufacturing Survey dropped to a reading of 7.8, down sharply from October's reading of 25.5",
+  "media": "Kitco",
+  "titre": "Gold price struggles even as New York Fed's Empire State survey weakens",
+  "url": "https://www.kitco.com/news/article/2026-11-16/gold-price-struggles-even-new-york-feds-empire-state-survey-weakens",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Empire State octobre",
+  "valeur": "25.5",
+  "extrait": "down sharply from October's reading of 25.5",
+  "media": "Kitco",
+  "titre": "Gold price struggles even as New York Fed's Empire State survey weakens",
+  "url": "https://www.kitco.com/news/article/2026-11-16/gold-price-struggles-even-new-york-feds-empire-state-survey-weakens",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Empire State consensus",
+  "valeur": "17.6",
+  "extrait": "economists had forecast a reading of 17.6, according to consensus estimates",
+  "media": "Kitco",
+  "titre": "Gold price struggles even as New York Fed's Empire State survey weakens",
+  "url": "https://www.kitco.com/news/article/2026-11-16/gold-price-struggles-even-new-york-feds-empire-state-survey-weakens",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Empire prix payés",
+  "valeur": "45.9",
+  "extrait": "The Prices Paid Index fell to 45.9, down from October's reading of 59.5",
+  "media": "Kitco",
+  "titre": "Gold price struggles even as New York Fed's Empire State survey weakens",
+  "url": "https://www.kitco.com/news/article/2026-11-16/gold-price-struggles-even-new-york-feds-empire-state-survey-weakens",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Empire prix payés octobre",
+  "valeur": "59.5",
+  "extrait": "down from October's reading of 59.5",
+  "media": "Kitco",
+  "titre": "Gold price struggles even as New York Fed's Empire State survey weakens",
+  "url": "https://www.kitco.com/news/article/2026-11-16/gold-price-struggles-even-new-york-feds-empire-state-survey-weakens",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "BCE taux de dépôt",
+  "valeur": "2.50",
+  "extrait": "16 Sep. 2026 ; deposit facility 2.50 ; MRO 2.65 ; marginal lending 2.90",
+  "media": "BCE",
+  "titre": "Key ECB interest rates",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.en.html",
+  "date": "2026-09-16"
+ },
+ {
+  "affirmation": "BCE réunion décembre",
+  "valeur": "17/12/2026",
+  "extrait": "16/12/2026: Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 1) ; 17/12/2026: Governing Council of the ECB: monetary policy meeting in Frankfurt (Day 2), followed by press conference",
+  "media": "BCE",
+  "titre": "Meeting calendars for the Governing Council and General Council",
+  "url": "https://www.ecb.europa.eu/press/calendars/mgcgc/html/index.en.html",
+  "date": "2026-11-17"
+ },
+ {
+  "affirmation": "Crédit conso 20 novembre",
+  "valeur": "20 novembre 2026",
+  "extrait": "À partir du 20 novembre 2026, des nouvelles règles s'appliqueront aux contrats de crédit à la consommation.",
+  "media": "Service-public.fr",
+  "titre": "Crédits à la consommation : les règles évoluent pour prévenir le surendettement",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18451?lang=fr",
+  "date": "2026-10-27"
+ },
+ {
+  "affirmation": "Crédit conso 75 000 à 100 000",
+  "valeur": "100 000",
+  "extrait": "crédits à la consommation de 75 000 € à 100 000 €",
+  "media": "Service-public.fr",
+  "titre": "Crédits à la consommation : les règles évoluent pour prévenir le surendettement",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18451?lang=fr",
+  "date": "2026-10-27"
+ },
+ {
+  "affirmation": "Crédit conso 75 000",
+  "valeur": "75 000",
+  "extrait": "crédits à la consommation de 75 000 € à 100 000 €",
+  "media": "Service-public.fr",
+  "titre": "Crédits à la consommation : les règles évoluent pour prévenir le surendettement",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18451?lang=fr",
+  "date": "2026-10-27"
+ },
+ {
+  "affirmation": "Mini-crédits",
+  "valeur": "200",
+  "extrait": "crédits de moins de 200 €, dits « mini-crédits »",
+  "media": "Service-public.fr",
+  "titre": "Crédits à la consommation : les règles évoluent pour prévenir le surendettement",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18451?lang=fr",
+  "date": "2026-10-27"
+ },
+ {
+  "affirmation": "Crédits courts",
+  "valeur": "3 mois",
+  "extrait": "crédits courts, de moins de 3 mois avec des frais négligeables (paiement fractionné ou différé)",
+  "media": "Service-public.fr",
+  "titre": "Crédits à la consommation : les règles évoluent pour prévenir le surendettement",
+  "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18451?lang=fr",
+  "date": "2026-10-27"
+ },
+ {
+  "affirmation": "Ordonnance 2025-1154",
+  "valeur": "2025-1154",
+  "extrait": "Ordonnance n° 2025-1154 du 2 décembre 2025 relative au crédit à la consommation",
+  "media": "Légifrance",
+  "titre": "Ordonnance n° 2025-1154 du 2 décembre 2025 relative au crédit à la consommation",
+  "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052982995",
+  "date": "2025-12-03"
+ },
+ {
+  "affirmation": "Directive transposée",
+  "valeur": "2023/2225",
+  "extrait": "directive (UE) 2023/2225 du Parlement européen et du Conseil du 18 octobre 2023",
+  "media": "Légifrance",
+  "titre": "Ordonnance n° 2025-1154 du 2 décembre 2025 relative au crédit à la consommation",
+  "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052982995",
+  "date": "2025-12-03"
+ },
+ {
+  "affirmation": "Contrats en cours",
+  "valeur": "20 novembre 2026",
+  "extrait": "Les contrats de crédit en cours au 20 novembre 2026 restent régis par les dispositions",
+  "media": "Légifrance",
+  "titre": "Ordonnance n° 2025-1154 du 2 décembre 2025 relative au crédit à la consommation",
+  "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052982995",
+  "date": "2025-12-03"
+ },
+ {
+  "affirmation": "Découvert nouvelles demandes",
+  "valeur": "nouvelles demandes",
+  "extrait": "concerne seulement les nouvelles demandes",
+  "media": "MoneyVox",
+  "titre": "Découvert, paiement en plusieurs fois, petit crédits.. Ce qui change à partir du 20 novembre",
+  "url": "https://www.moneyvox.fr/credit/actualites/111234/decouvert-paiement-en-plusieurs-fois-petit-credits-ce-qui-change-a-partir-du-20-novembre",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "PJL logement séance AN 16 novembre",
+  "valeur": "16 novembre 2026",
+  "extrait": "Séance publique à l'Assemblée nationale : lundi 16 novembre 2026, sur le texte de la commission n° 3188-A0",
+  "media": "Assemblée nationale",
+  "titre": "La relance et la décentralisation du logement - Dossiers législatifs - 17e législature",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "PJL logement adopté Sénat 8 juillet",
+  "valeur": "8 juillet 2026",
+  "extrait": "Séance publique au Sénat : mercredi 8 juillet 2026. Le texte est adopté (T.A. n° 157)",
+  "media": "Assemblée nationale",
+  "titre": "La relance et la décentralisation du logement - Dossiers législatifs - 17e législature",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_relance_decentralisation_logement_2",
+  "date": "2026-07-08"
+ },
+ {
+  "affirmation": "PJL logement amendements",
+  "valeur": "1 100",
+  "extrait": "Plus de 1 100 amendements ont été déposés",
+  "media": "MoneyVox",
+  "titre": "Logement classé F ou G au DPE : ce que change le projet de loi du gouvernement pour la location",
+  "url": "https://www.moneyvox.fr/immobilier/actualites/111248/logement-classe-f-ou-g-au-dpe-ce-que-change-le-projet-de-loi-du-gouvernement-pour-la-location",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "PJL logement examen jusqu'à vendredi",
+  "valeur": "vendredi",
+  "extrait": "examiné à l'Assemblée nationale à partir du lundi 16 novembre 2026, avec un examen programmé jusqu'au vendredi soir",
+  "media": "MoneyVox",
+  "titre": "Logement classé F ou G au DPE : ce que change le projet de loi du gouvernement pour la location",
+  "url": "https://www.moneyvox.fr/immobilier/actualites/111248/logement-classe-f-ou-g-au-dpe-ce-que-change-le-projet-de-loi-du-gouvernement-pour-la-location",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "PJL logement report bail",
+  "valeur": "trois ans",
+  "extrait": "les nouvelles exigences de performance énergétique s'appliqueraient au renouvellement ou à la reconduction tacite du bail. Ce report serait toutefois limité à trois ans maximum après cette date.",
+  "media": "MoneyVox",
+  "titre": "Logement classé F ou G au DPE : ce que change le projet de loi du gouvernement pour la location",
+  "url": "https://www.moneyvox.fr/immobilier/actualites/111248/logement-classe-f-ou-g-au-dpe-ce-que-change-le-projet-de-loi-du-gouvernement-pour-la-location",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "PJL logement F 2028 -> 2031",
+  "valeur": "1er janvier 2031",
+  "extrait": "un logement classé F déjà loué resterait décent jusqu'au 1er janvier 2028. Le projet le repousserait au plus tard au 1er janvier 2031",
+  "media": "MoneyVox",
+  "titre": "Logement classé F ou G au DPE : ce que change le projet de loi du gouvernement pour la location",
+  "url": "https://www.moneyvox.fr/immobilier/actualites/111248/logement-classe-f-ou-g-au-dpe-ce-que-change-le-projet-de-loi-du-gouvernement-pour-la-location",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "PJL logement F 2028",
+  "valeur": "1er janvier 2028",
+  "extrait": "un logement classé F déjà loué resterait décent jusqu'au 1er janvier 2028",
+  "media": "MoneyVox",
+  "titre": "Logement classé F ou G au DPE : ce que change le projet de loi du gouvernement pour la location",
+  "url": "https://www.moneyvox.fr/immobilier/actualites/111248/logement-classe-f-ou-g-au-dpe-ce-que-change-le-projet-de-loi-du-gouvernement-pour-la-location",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Ormuz quatre pétroliers revendiqués",
+  "valeur": "Four",
+  "extrait": "Four oil tankers reportedly struck mines and caught fire in the eastern strait over the previous 24 hours (Iranian navy claim)",
+  "media": "CNBC",
+  "titre": "Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran",
+  "url": "https://cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Ormuz 24 heures",
+  "valeur": "24 hours",
+  "extrait": "over the previous 24 hours",
+  "media": "CNBC",
+  "titre": "Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran",
+  "url": "https://cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "UKMTO projectile",
+  "valeur": "unidentified projectile",
+  "extrait": "struck by an unidentified projectile",
+  "media": "CNBC",
+  "titre": "Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran",
+  "url": "https://cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Reuters ne peut vérifier",
+  "valeur": "verify",
+  "extrait": "Reuters could not verify the report independently",
+  "media": "CNBC",
+  "titre": "Oil falls as recovering Middle East exports bolster surplus outlook",
+  "url": "https://www.cnbc.com/2026/11/16/oil-prices-brent-wti-latest.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "USS Theodore Roosevelt",
+  "valeur": "Theodore Roosevelt",
+  "extrait": "the USS Theodore Roosevelt arrived in the Gulf region on Sunday",
+  "media": "CNBC",
+  "titre": "Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran",
+  "url": "https://cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Trump guerre",
+  "valeur": "effectively over",
+  "extrait": "militarily is effectively over",
+  "media": "CNBC",
+  "titre": "Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran",
+  "url": "https://cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Akrami-Nia",
+  "valeur": "Akrami-Nia",
+  "extrait": "Army spokesperson Brig. Gen. Mohammad Akrami-Nia said the strait would not reopen until \"the enemy accepts Iran's conditions.\"",
+  "media": "CNBC",
+  "titre": "Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran",
+  "url": "https://cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Qatar impasse",
+  "valeur": "stalemate",
+  "extrait": "Indirect talks through Qatar have \"appeared to run into a stalemate.\"",
+  "media": "CNBC",
+  "titre": "Third U.S. carrier arrives in the Gulf, stoking concerns about renewed conflicts with Iran",
+  "url": "https://cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Art. 209 I plafond",
+  "valeur": "1 000 000 €",
+  "extrait": "dans la limite d'un montant de 1 000 000 € majoré de 50 % du montant correspondant au bénéfice imposable dudit exercice excédant ce premier montant",
+  "media": "Légifrance",
+  "titre": "Article 209 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048847486",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "Art. 209 I 50 %",
+  "valeur": "50 %",
+  "extrait": "dans la limite d'un montant de 1 000 000 € majoré de 50 % du montant correspondant au bénéfice imposable dudit exercice excédant ce premier montant",
+  "media": "Légifrance",
+  "titre": "Article 209 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048847486",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "Art. 209 I excédent reporté",
+  "valeur": "mêmes conditions",
+  "extrait": "l'excédent du déficit est reporté dans les mêmes conditions sur les exercices suivants",
+  "media": "Légifrance",
+  "titre": "Article 209 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048847486",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "Art. 209 I abandons de créances",
+  "valeur": "abandons de créances",
+  "extrait": "la limite de 1 000 000 € mentionnée au troisième alinéa du présent I est majorée du montant desdits abandons de créances",
+  "media": "Légifrance",
+  "titre": "Article 209 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048847486",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "Art. 209 I procédures",
+  "valeur": "sauvegarde",
+  "extrait": "Pour les sociétés auxquelles sont consentis des abandons de créances dans le cadre d'un accord constaté ou homologué [...] d'une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire",
+  "media": "BOFiP",
+  "titre": "IS - Déficits et moins-values nettes à long terme - Modalités de report en avant des déficits",
+  "url": "https://bofip.impots.gouv.fr/bofip/2103-PGP",
+  "date": "2013-04-10"
+ },
+ {
+  "affirmation": "BOFiP sans limitation de durée",
+  "valeur": "sans limitation de durée",
+  "extrait": "Le déficit de l'exercice peut être reporté en avant \"sans limitation de durée\"",
+  "media": "BOFiP",
+  "titre": "IS - Déficits et moins-values nettes à long terme - Modalités de report en avant des déficits",
+  "url": "https://bofip.impots.gouv.fr/bofip/2103-PGP",
+  "date": "2013-04-10"
+ },
+ {
+  "affirmation": "BOFiP inférieur à 1 M€",
+  "valeur": "1 000 000 €",
+  "extrait": "sont inférieurs à 1 000 000 €, les mesures de plafonnement précédemment évoquées ne trouvent pas à s'appliquer",
+  "media": "BOFiP",
+  "titre": "IS - Déficits et moins-values nettes à long terme - Modalités de report en avant des déficits",
+  "url": "https://bofip.impots.gouv.fr/bofip/2103-PGP",
+  "date": "2013-04-10"
+ },
+ {
+  "affirmation": "BOFiP référence",
+  "valeur": "BOI-IS-DEF-10-30",
+  "extrait": "BOI-IS-DEF-10-30-20130410",
+  "media": "BOFiP",
+  "titre": "IS - Déficits et moins-values nettes à long terme - Modalités de report en avant des déficits",
+  "url": "https://bofip.impots.gouv.fr/bofip/2103-PGP",
+  "date": "2013-04-10"
+ },
+ {
+  "affirmation": "Report en arrière 220 quinquies",
+  "valeur": "1 000 000 €",
+  "extrait": "dans la limite du montant le plus faible entre le bénéfice déclaré au titre de l'exercice précédent et un montant de 1 000 000 €",
+  "media": "BOFiP",
+  "titre": "IS - Déficits et moins-values nettes à long terme - Report en arrière - Modalités du report en arrière du déficit",
+  "url": "https://bofip.impots.gouv.fr/bofip/5645-PGP.html/identifiant=BOI-IS-DEF-20-10-20230621",
+  "date": "2023-06-21"
+ },
+ {
+  "affirmation": "Report en arrière déficit de l'exercice",
+  "valeur": "seul déficit",
+  "extrait": "L'option pour le report en arrière des déficits porte sur le seul déficit constaté au titre de l'exercice",
+  "media": "BOFiP",
+  "titre": "IS - Déficits et moins-values nettes à long terme - Report en arrière - Modalités du report en arrière du déficit",
+  "url": "https://bofip.impots.gouv.fr/bofip/5645-PGP.html/identifiant=BOI-IS-DEF-20-10-20230621",
+  "date": "2023-06-21"
+ },
+ {
+  "affirmation": "IS taux normal",
+  "valeur": "25 %",
+  "extrait": "Le taux de l'IS est désormais de 25 %.",
+  "media": "impots.gouv.fr",
+  "titre": "Imposition des résultats",
+  "url": "https://www.impots.gouv.fr/professionnel/imposition-des-resultats",
+  "date": "2026-11-17"
+ },
+ {
+  "affirmation": "Taux réduit condition CA",
+  "valeur": "10 millions",
+  "extrait": "sous réserve que leur chiffre d'affaires soit inférieur à 10 millions d'euros",
+  "media": "impots.gouv.fr",
+  "titre": "Imposition des résultats",
+  "url": "https://www.impots.gouv.fr/professionnel/imposition-des-resultats",
+  "date": "2026-11-17"
+ },
+ {
+  "affirmation": "Exemple fraction excédentaire",
+  "valeur": "800 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 800 000 - 1 000 000 = 800 000",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple 50 %",
+  "valeur": "400 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "0,5 x 800 000 = 400 000",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple imputable",
+  "valeur": "1 400 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 000 000 + 400 000 = 1 400 000",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple bénéfice",
+  "valeur": "1 800 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "hypothèse de l'exemple",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple déficits",
+  "valeur": "3 000 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "hypothèse de l'exemple",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple IS",
+  "valeur": "100 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "400 000 x 25 % = 100 000",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple reste",
+  "valeur": "1 600 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "3 000 000 - 1 400 000 = 1 600 000",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Question déficits",
+  "valeur": "2 500 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "hypothèse de la question",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Question fraction",
+  "valeur": "2 000 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "3 000 000 - 1 000 000 = 2 000 000 ; 1 000 000 + 0,5 x 2 000 000 = 2 000 000",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Question reste",
+  "valeur": "500 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2 500 000 - 2 000 000 = 500 000",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Question taxable",
+  "valeur": "1 000 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "3 000 000 - 2 000 000 = 1 000 000",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Ventes au détail octobre mardi",
+  "valeur": "October retail sales (Tue)",
+  "extrait": "October retail sales (Tue) follow September's 0.8% m/m gain",
+  "media": "Investing.com",
+  "titre": "Economic Week Ahead: Inflation, Fed Minutes and Nvidia Earnings Take Centre Stage",
+  "url": "https://investing.com/analysis/economic-week-ahead-inflation-fed-minutes-and-nvidia-earnings-take-centre-stage-200691606",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Production industrielle octobre mardi",
+  "valeur": "industrial production (Tue)",
+  "extrait": "October's industrial production (Tue) follows September's 0.7% m/m gain",
+  "media": "Investing.com",
+  "titre": "Economic Week Ahead: Inflation, Fed Minutes and Nvidia Earnings Take Centre Stage",
+  "url": "https://investing.com/analysis/economic-week-ahead-inflation-fed-minutes-and-nvidia-earnings-take-centre-stage-200691606",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Minutes FOMC mercredi",
+  "valeur": "FOMC minutes",
+  "extrait": "Wednesday: FOMC minutes",
+  "media": "Investing.com",
+  "titre": "Economic Week Ahead: Inflation, Fed Minutes and Nvidia Earnings Take Centre Stage",
+  "url": "https://investing.com/analysis/economic-week-ahead-inflation-fed-minutes-and-nvidia-earnings-take-centre-stage-200691606",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "Bitcoin plus bas séance (format français)",
+  "valeur": "64 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "$64,000 = 64 000 $",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Article 209 du CGI",
+  "valeur": "209",
+  "extrait": "Article 209 - Code général des impôts",
+  "media": "Légifrance",
+  "titre": "Article 209 - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048847486",
+  "date": "2023-12-31"
+ },
+ {
+  "affirmation": "Article 220 quinquies report en arrière",
+  "valeur": "220 quinquies",
+  "extrait": "1° : Report en arrière (Article 220 quinquies)",
+  "media": "Légifrance",
+  "titre": "1° : Report en arrière (Article 220 quinquies)",
+  "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006179988",
+  "date": "2026-11-17"
+ },
+ {
+  "affirmation": "Ordonnance 2025-880 transposition",
+  "valeur": "2025-880",
+  "extrait": "Ordonnance n° 2025-880 du 3 septembre 2025 relative au crédit à la consommation ; transposition de la directive (UE) 2023/2225",
+  "media": "Légifrance",
+  "titre": "Ordonnance n° 2025-880 du 3 septembre 2025 relative au crédit à la consommation",
+  "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052184230",
+  "date": "2025-09-04"
+ },
+ {
+  "affirmation": "FedWatch Zonebourse",
+  "valeur": "91,4",
+  "extrait": "Réunion de la Fed le 9 décembre, où les marchés anticipent à 91,4 % une hausse d'un quart de point",
+  "media": "Zonebourse",
+  "titre": "Fin de série pour le CAC 40, les marchés scrutent Nvidia et Anthropic",
+  "url": "https://www.zonebourse.com/actualite-bourse/fin-de-serie-pour-le-cac-40-les-marches-scrutent-nvidia-et-anthropic-ce785edfda81f626",
+  "date": "2026-11-16"
+ },
+ {
+  "affirmation": "AIE prévision vendredi",
+  "valeur": "Friday",
+  "extrait": "the International Energy Agency said on Friday, as exports from the Middle East recover faster than global oil demand",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "Oil settles lower as recovering Middle East exports bolster surplus outlook",
+  "url": "https://finance.yahoo.com/energy/articles/oil-prices-fall-expectations-coming-020042042.html",
+  "date": "2026-11-16"
+ }
+]
