@@ -1,0 +1,929 @@
+[
+ {
+  "affirmation": "CAC 40 clôture 18/11",
+  "valeur": "8 146,83",
+  "extrait": "CAC 40 ; 8 146,83 pts ; -0,85 % sur la séance ; clôture du 18/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "-0,85",
+  "extrait": "CAC 40 ; 8 146,83 pts ; -0,85 % sur la séance ; clôture du 18/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "S&P 500",
+  "valeur": "7 323,63",
+  "extrait": "S&P 500 ; 7 323,63 pts ; -0,23 % sur la séance ; clôture du 18/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "-0,23",
+  "extrait": "S&P 500 ; 7 323,63 pts ; -0,23 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Nasdaq",
+  "valeur": "24 429,88",
+  "extrait": "Nasdaq Composite ; 24 429,88 pts ; +0,42 % sur la séance ; clôture du 18/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "+0,42",
+  "extrait": "Nasdaq Composite ; 24 429,88 pts ; +0,42 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Euro Stoxx 50",
+  "valeur": "6 154,39",
+  "extrait": "Euro Stoxx 50 ; 6 154,39 pts ; -0,93 % sur la séance ; clôture du 18/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "-0,93",
+  "extrait": "Euro Stoxx 50 ; 6 154,39 pts ; -0,93 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Or",
+  "valeur": "3 741,10",
+  "extrait": "Or (contrat déc. 2026) ; 3 741,10 $/once ; -3,19 % sur la séance ; cours du 18/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "-3,19",
+  "extrait": "3 741,10 $/once ; -3,19 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Brent",
+  "valeur": "91,94",
+  "extrait": "Brent (contrat janv. 2027) ; 91,94 $/baril ; -1,29 % sur la séance ; cours du 18/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Brent variation",
+  "valeur": "-1,29",
+  "extrait": "91,94 $/baril ; -1,29 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Bitcoin",
+  "valeur": "62 981,71",
+  "extrait": "Bitcoin ; 62 981,71 $ ; -2,92 % sur la séance ; clôture du 18/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "-2,92",
+  "extrait": "62 981,71 $ ; -2,92 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "EUR/USD BCE 18/11",
+  "valeur": "1,0968",
+  "extrait": "18 November 2026: 1.0968",
+  "media": "BCE",
+  "titre": "Euro exchange rates charts - US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "-0,19",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,0968 ; -0,19 % sur la séance ; taux du 18/11/2026",
+  "media": "BCE",
+  "titre": "Euro exchange rates charts - US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Bund 10 ans clôture",
+  "valeur": "3,37",
+  "extrait": "18/11/2026 : 3,3747 (-0,17 %) ; 17/11/2026 : 3,3806 ; arrondi 3,37",
+  "media": "Investing.com",
+  "titre": "Rendement Obligation Allemagne 10 ans - Historique",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Bund variation pb",
+  "valeur": "0,6",
+  "extrait": "3,3806 - 3,3747 = 0,0059 point, soit -0,6 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Bund Reuters",
+  "valeur": "3,377",
+  "extrait": "Le Bund à dix ans reste stable à 3,377 % et le deux ans à 3,126 %.",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe efface en clôture ses gains initiaux, prudence sur la \"tech\" et les matières premières",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-efface-en-cloture-ses-gains-initiaux-prudence-sur-la-tech-et-les-matieres-premieres-abf05cadac3b62659058f5cd6ccded57",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Treasury 10 ans",
+  "valeur": "5,07",
+  "extrait": "le rendement du Treasury à dix ans baisse de trois points de base, à 5,072 %",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe efface en clôture ses gains initiaux, prudence sur la \"tech\" et les matières premières",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-efface-en-cloture-ses-gains-initiaux-prudence-sur-la-tech-et-les-matieres-premieres-abf05cadac3b62659058f5cd6ccded57",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Dollar plus haut 19 mois",
+  "valeur": "19",
+  "extrait": "il gagne environ 0,33 % face à un panier de devises, à un plus haut de 19 mois",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe efface en clôture ses gains initiaux, prudence sur la \"tech\" et les matières premières",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-efface-en-cloture-ses-gains-initiaux-prudence-sur-la-tech-et-les-matieres-premieres-abf05cadac3b62659058f5cd6ccded57",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Ressources de base",
+  "valeur": "4,86",
+  "extrait": "le secteur des ressources de base chute de 4,86 %, jusqu'à un plus bas de huit mois",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe efface en clôture ses gains initiaux, prudence sur la \"tech\" et les matières premières",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-efface-en-cloture-ses-gains-initiaux-prudence-sur-la-tech-et-les-matieres-premieres-abf05cadac3b62659058f5cd6ccded57",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Alstom",
+  "valeur": "7,15",
+  "extrait": "Alstom a perdu 7,15%",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : Les résultats tonitruants de Nvidia ne suffisent pas à apaiser Wall Street, le CAC 40 termine en nette baisse",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-les-resultats-tonitruants-de-nvidia-ne-suffisent-pas-a-apaiser-wall-street-le-cac-40-termine-en-nette-baisse-1174041.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Accor Ennismore",
+  "valeur": "4,2",
+  "extrait": "Accor a abandonné 4,2% après avoir annoncé le rachat des minoritaires de sa filiale d'hôtellerie lifestyle Ennismore.",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : Les résultats tonitruants de Nvidia ne suffisent pas à apaiser Wall Street, le CAC 40 termine en nette baisse",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-les-resultats-tonitruants-de-nvidia-ne-suffisent-pas-a-apaiser-wall-street-le-cac-40-termine-en-nette-baisse-1174041.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Nvidia clôture européenne",
+  "valeur": "2,5",
+  "extrait": "Le repli du titre (-2,5% à la clôture européenne) entraîne dans son sillage le secteur américain de l'IA.",
+  "media": "Zonebourse (Agefi-Dow Jones)",
+  "titre": "CAC 40 : La Bourse de Paris prolonge son repli, Nvidia pèse sur la tendance",
+  "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-prolonge-son-repli-nvidia-pese-sur-la-tendance-ce785edddd8af625",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Nvidia CA",
+  "valeur": "115,8",
+  "extrait": "ses revenus s'élèvent à 115,8 milliards de dollars (+103% sur un an), au-dessus des 109 milliards anticipés par les analystes dans un consensus FactSet",
+  "media": "Option Finance",
+  "titre": "Nvidia s'offre un répit grâce à des résultats étincelants",
+  "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-11-18-nvidia-soffre-un-repit-grace-a-des-resultats-etincelants.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Nvidia consensus",
+  "valeur": "109",
+  "extrait": "au-dessus des 109 milliards anticipés par les analystes dans un consensus FactSet",
+  "media": "Option Finance",
+  "titre": "Nvidia s'offre un répit grâce à des résultats étincelants",
+  "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-11-18-nvidia-soffre-un-repit-grace-a-des-resultats-etincelants.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Nvidia croissance",
+  "valeur": "103",
+  "extrait": "115,8 milliards de dollars (+103% sur un an)",
+  "media": "Option Finance",
+  "titre": "Nvidia s'offre un répit grâce à des résultats étincelants",
+  "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-11-18-nvidia-soffre-un-repit-grace-a-des-resultats-etincelants.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Plassard Cité Gestion",
+  "valeur": "Cité Gestion",
+  "extrait": "Selon John Plassard (Cité Gestion), les chiffres de Nvidia « ne suffisent pas à dissiper les interrogations concernant la rentabilité des investissements massifs dans le secteur »",
+  "media": "BFM Bourse",
+  "titre": "Cac 40 : Les résultats tonitruants de Nvidia ne suffisent pas à apaiser Wall Street, le CAC 40 termine en nette baisse",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-les-resultats-tonitruants-de-nvidia-ne-suffisent-pas-a-apaiser-wall-street-le-cac-40-termine-en-nette-baisse-1174041.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Fed fourchette maintenue",
+  "valeur": "3,75",
+  "extrait": "kept its target range for the federal funds rate unchanged at 3.75 to 4 percent",
+  "media": "Yahoo Finance",
+  "titre": "Fed minutes: Officials favored holding rates steady in October, but they see hikes ahead",
+  "url": "https://finance.yahoo.com/economy/policy/article/fed-minutes-officials-favored-holding-rates-steady-in-october-but-they-see-hikes-ahead-195719301.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Fed fourchette haute",
+  "valeur": "4",
+  "extrait": "unchanged at 3.75 to 4 percent",
+  "media": "Yahoo Finance",
+  "titre": "Fed minutes: Officials favored holding rates steady in October, but they see hikes ahead",
+  "url": "https://finance.yahoo.com/economy/policy/article/fed-minutes-officials-favored-holding-rates-steady-in-october-but-they-see-hikes-ahead-195719301.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Minutes: dissidents Cook et Hammack",
+  "valeur": "Hammack",
+  "extrait": "Lisa D. Cook and Beth M. Hammack, who preferred to raise the target range",
+  "media": "Federal Reserve",
+  "titre": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Minutes: deux votes contre",
+  "valeur": "Two members",
+  "extrait": "Two members voted against the decision to maintain the target range for the federal funds rate",
+  "media": "Federal Reserve",
+  "titre": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Minutes: almost all",
+  "valeur": "almost all",
+  "extrait": "almost all participants judged that, under their baseline outlooks for inflation and the labor market, further action to raise the target range for the federal funds rate",
+  "media": "Federal Reserve",
+  "titre": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Minutes: close call",
+  "valeur": "close call",
+  "extrait": "A few participants... indicated that they viewed the decision as a close call",
+  "media": "Federal Reserve",
+  "titre": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Minutes réunion 27-28 octobre",
+  "valeur": "27",
+  "extrait": "Minutes of the Federal Open Market Committee, October 27-28, 2026 ; Last Update: November 18, 2026",
+  "media": "Federal Reserve",
+  "titre": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "PCE septembre",
+  "valeur": "3,6",
+  "extrait": "rose to 3.6 percent in September",
+  "media": "Federal Reserve",
+  "titre": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "PCE sous-jacent septembre",
+  "valeur": "3,1",
+  "extrait": "edged up to 3.1 percent in September",
+  "media": "Federal Reserve",
+  "titre": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomcminutes20261028.htm",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Waller 50 pb",
+  "valeur": "50",
+  "extrait": "my view is then you have to go 50 [basis points] in December to put it in place and get it done",
+  "media": "CNBC",
+  "titre": "Fed's Waller says central bank may need to 'shock people' with half-point rate hike",
+  "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Waller shock people",
+  "valeur": "shock people",
+  "extrait": "You might need to, like, shock people",
+  "media": "CNBC",
+  "titre": "Fed's Waller says central bank may need to 'shock people' with half-point rate hike",
+  "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Réunion FOMC 8-9 décembre",
+  "valeur": "8-9",
+  "extrait": "a half-point increase is probably necessary at the Dec. 8-9 FOMC meeting",
+  "media": "CNBC",
+  "titre": "Fed's Waller says central bank may need to 'shock people' with half-point rate hike",
+  "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "FedWatch quart de point intégré",
+  "valeur": "quarter-point",
+  "extrait": "Futures fully price in a quarter-point hike at the December meeting (CME FedWatch)",
+  "media": "CNBC",
+  "titre": "Fed's Waller says central bank may need to 'shock people' with half-point rate hike",
+  "url": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Inflation zone euro octobre",
+  "valeur": "4,0",
+  "extrait": "The euro area annual inflation rate was 4.0% in October 2026, up from 3.8% in September.",
+  "media": "Eurostat",
+  "titre": "Annual inflation up to 4.0% in the euro area",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Inflation zone euro septembre",
+  "valeur": "3,8",
+  "extrait": "The euro area annual inflation rate was 4.0% in October 2026, up from 3.8% in September.",
+  "media": "Eurostat",
+  "titre": "Annual inflation up to 4.0% in the euro area",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Énergie zone euro",
+  "valeur": "21,0",
+  "extrait": "Energy: 21.0% annual rate, contributing +1.89 percentage points",
+  "media": "Eurostat",
+  "titre": "Annual inflation up to 4.0% in the euro area",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Énergie contribution",
+  "valeur": "1,89",
+  "extrait": "Energy: 21.0% annual rate, contributing +1.89 percentage points",
+  "media": "Eurostat",
+  "titre": "Annual inflation up to 4.0% in the euro area",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Services zone euro",
+  "valeur": "3,3",
+  "extrait": "Services: 3.3% annual rate, contributing +1.55 percentage points",
+  "media": "Eurostat",
+  "titre": "Annual inflation up to 4.0% in the euro area",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Inflation France IPCH octobre",
+  "valeur": "3,7",
+  "extrait": "France: 3.7% in October, up from 3.4% in September",
+  "media": "Eurostat",
+  "titre": "Annual inflation up to 4.0% in the euro area",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Inflation France septembre",
+  "valeur": "3,4",
+  "extrait": "France: 3.7% in October, up from 3.4% in September",
+  "media": "Eurostat",
+  "titre": "Annual inflation up to 4.0% in the euro area",
+  "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "BCE taux de dépôt depuis 16 sept",
+  "valeur": "2,50",
+  "extrait": "Latest row (effective 16 Sep. 2026): Deposit facility: 2.50 ; Main refinancing operations: 2.65 ; Marginal lending facility: 2.90",
+  "media": "BCE",
+  "titre": "Official interest rates",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/key_ecb_interest_rates/html/index.fr.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Livret A taux",
+  "valeur": "1,7",
+  "extrait": "Le taux d'intérêt annuel du livret A est de 1,7 %.",
+  "media": "service-public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365",
+  "date": "2026-07-28"
+ },
+ {
+  "affirmation": "Livret A période",
+  "valeur": "31 janvier 2027",
+  "extrait": "Taux d'intérêt pour la période du 1er août 2026 au 31 janvier 2027",
+  "media": "service-public.fr",
+  "titre": "Livret A",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2365",
+  "date": "2026-07-28"
+ },
+ {
+  "affirmation": "Livret A rendement réel",
+  "valeur": "-1,93",
+  "extrait": "(1,017 / 1,037 - 1) x 100 = -1,93",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "PLFSS Sénat pour",
+  "valeur": "201",
+  "extrait": "Le Sénat a adopté le texte le mercredi 18 novembre 2026, par 201 voix pour et 124 contre.",
+  "media": "Sénat",
+  "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2027.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "PLFSS Sénat contre",
+  "valeur": "124",
+  "extrait": "par 201 voix pour et 124 contre",
+  "media": "Sénat",
+  "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2027.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "PLFSS retraites",
+  "valeur": "600",
+  "extrait": "annulation de la suspension de la réforme de 2023 (gain attendu de 600 M€)",
+  "media": "Sénat",
+  "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2027.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "PLFSS pensions indexation",
+  "valeur": "1 260",
+  "extrait": "Rejet, à l'unanimité, de la suppression de l'indexation des pensions supérieures à 1 260 € sur l'inflation",
+  "media": "Sénat",
+  "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2027.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "PLFSS mutuelles",
+  "valeur": "1,1",
+  "extrait": "la contribution exceptionnelle des mutuelles (1,1 Md€) est transformée en transfert de charges en matière de prévention",
+  "media": "Sénat",
+  "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2027.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "PLFSS déficit Sénat",
+  "valeur": "14",
+  "extrait": "Déficit : ramené à 14 Md€ selon le Sénat, contre 12,7 Md€ dans le texte initial",
+  "media": "Sénat",
+  "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2027.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "PLFSS déficit initial",
+  "valeur": "12,7",
+  "extrait": "contre 12,7 Md€ dans le texte initial",
+  "media": "Sénat",
+  "titre": "Projet de loi de financement de la sécurité sociale pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2027.html",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "PLF 2027 rejeté AN 4 novembre (pour rappel)",
+  "valeur": "119",
+  "extrait": "L'Assemblée nationale n'ayant pas adopté la première partie du projet de loi, celui-ci est considéré comme rejeté en première lecture en application du troisième alinéa de l'article 119 du Règlement.",
+  "media": "Assemblée nationale",
+  "titre": "Rejet, en première lecture, du projet de loi de finances pour 2027",
+  "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/examen-de-la-premiere-partie-du-projet-de-loi-de-finances-pour-2027",
+  "date": "2026-11-04"
+ },
+ {
+  "affirmation": "Sommet Shenzhen durée",
+  "valeur": "hour-and-a-half",
+  "extrait": "The meeting lasted roughly hour-and-a-half ; on the sidelines of the Asia-Pacific Economic Cooperation summit ; at a villa in the Chinese city of Shenzhen",
+  "media": "Yahoo Finance (Investing.com)",
+  "titre": "U.S., China, and Russia agree to increase energy supplies after historic summit",
+  "url": "https://www.yahoo.com/news/politics/articles/trump-begins-historic-trilateral-talks-103444607.html",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Sommet produits raffinés",
+  "valeur": "refined petroleum",
+  "extrait": "The leaders agreed to \"lift supplies of refined petroleum products for all countries.\"",
+  "media": "Yahoo Finance (Investing.com)",
+  "titre": "U.S., China, and Russia agree to increase energy supplies after historic summit",
+  "url": "https://www.yahoo.com/news/politics/articles/trump-begins-historic-trilateral-talks-103444607.html",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Xi citation",
+  "valeur": "major powers clash",
+  "extrait": "When major powers clash, the world falls into turmoil.",
+  "media": "Yahoo Finance (Investing.com)",
+  "titre": "U.S., China, and Russia agree to increase energy supplies after historic summit",
+  "url": "https://www.yahoo.com/news/politics/articles/trump-begins-historic-trilateral-talks-103444607.html",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Putin citation",
+  "valeur": "common interests",
+  "extrait": "Russia, China and the U.S. \"share many common interests regarding the resolution of regional conflicts.\"",
+  "media": "Yahoo Finance (Investing.com)",
+  "titre": "U.S., China, and Russia agree to increase energy supplies after historic summit",
+  "url": "https://www.yahoo.com/news/politics/articles/trump-begins-historic-trilateral-talks-103444607.html",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Déclaration ONU",
+  "valeur": "United Nations",
+  "extrait": "A so-called \"peace declaration\" pledged to reform the United Nations and uphold immunity for state officials in international courts.",
+  "media": "Yahoo Finance (Investing.com)",
+  "titre": "U.S., China, and Russia agree to increase energy supplies after historic summit",
+  "url": "https://www.yahoo.com/news/politics/articles/trump-begins-historic-trilateral-talks-103444607.html",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Hormuz pour rappel troisième porte-avions",
+  "valeur": "third",
+  "extrait": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz ; The USS Theodore Roosevelt arrived in the Gulf region on Sunday",
+  "media": "CNBC",
+  "titre": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+  "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "date": "2026-11-17"
+ },
+ {
+  "affirmation": "Trump guerre effectively over",
+  "valeur": "effectively over",
+  "extrait": "Trump said the war with Iran could end \"fairly soon\" and that it \"militarily is effectively over.\"",
+  "media": "CNBC",
+  "titre": "Iran escalates threats as third U.S. carrier arrives in Middle East, tanker struck in Hormuz",
+  "url": "https://www.cnbc.com/2026/11/17/iran-war-trump-hormuz-oil-.html",
+  "date": "2026-11-17"
+ },
+ {
+  "affirmation": "Anthropic IPO prix",
+  "valeur": "83",
+  "extrait": "Anthropic (ANT) has priced tonight's IPO at $83 per share (Bloomberg), above the previously hoped-for range of $70-$78",
+  "media": "CoinDesk",
+  "titre": "Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
+  "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Anthropic fourchette basse",
+  "valeur": "70",
+  "extrait": "above the previously hoped-for range of $70-$78",
+  "media": "CoinDesk",
+  "titre": "Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
+  "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Anthropic fourchette haute",
+  "valeur": "78",
+  "extrait": "above the previously hoped-for range of $70-$78",
+  "media": "CoinDesk",
+  "titre": "Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
+  "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Anthropic valorisation",
+  "valeur": "1.5 trillion",
+  "extrait": "At $83 per share, the company would be valued at more than $1.5 trillion",
+  "media": "CoinDesk",
+  "titre": "Bitcoin falls below $63,000 as Anthropic prices IPO at $83, raising nearly $100 billion",
+  "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Agenda 14h30 Paris",
+  "valeur": "14h30",
+  "extrait": "Inscriptions hebdomadaires au chômage, États-Unis ; Indice manufacturier de la Fed de Philadelphie ; Discours de la présidente de la BCE, Christine Lagarde (14h30)",
+  "media": "Boursorama (AOF)",
+  "titre": "Agenda Macro Zonebourse : le 19 novembre 2026",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-macro-zonebourse-le-19-novembre-2026-a230155c2c5a49364d4d647f07b7826c",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Inscriptions chômage consensus",
+  "valeur": "197 000",
+  "extrait": "demandes initiales d'allocations chômage attendues en baisse de 3 000 pour atteindre 197 000 (semaine close le 14 novembre)",
+  "media": "Boursorama (Reuters)",
+  "titre": "À suivre aujourd'hui - Jeudi 19 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites-amp/a-suivre-aujourd-hui-jeudi-19-novembre-c6f9fda9be32d08186007ce35c71b6f6",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Hammack 14h50",
+  "valeur": "08h50",
+  "extrait": "Beth Hammack (Fed de Cleveland), discours d'ouverture sur la stabilité financière : 08h50 / 13h50 GMT",
+  "media": "Boursorama (Reuters)",
+  "titre": "À suivre aujourd'hui - Jeudi 19 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites-amp/a-suivre-aujourd-hui-jeudi-19-novembre-c6f9fda9be32d08186007ce35c71b6f6",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Hammack 14h50 Paris",
+  "valeur": "14h50",
+  "extrait": "08h50 à New York = 14h50 à Paris (8 h 30 à New York = 14 h 30 à Paris)",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Goolsbee 18h30 Paris",
+  "valeur": "18h30",
+  "extrait": "Austan Goolsbee (Fed de Chicago), questions-réponses lors d'un déjeuner à Indianapolis : 12h30 / 17h30 GMT, soit 18h30 Paris",
+  "media": "Boursorama (Reuters)",
+  "titre": "À suivre aujourd'hui - Jeudi 19 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites-amp/a-suivre-aujourd-hui-jeudi-19-novembre-c6f9fda9be32d08186007ce35c71b6f6",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Walmart résultats",
+  "valeur": "Walmart",
+  "extrait": "Walmart : résultats du troisième trimestre, avec une hausse de chiffre d'affaires attendue.",
+  "media": "Boursorama (Reuters)",
+  "titre": "À suivre aujourd'hui - Jeudi 19 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites-amp/a-suivre-aujourd-hui-jeudi-19-novembre-c6f9fda9be32d08186007ce35c71b6f6",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "Nasdaq ouverture 15h30 Paris",
+  "valeur": "15h30",
+  "extrait": "9 h 30 à New York = 15 h 30 à Paris (8 h 30 à New York = 14 h 30 à Paris)",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "AMF DOC-2011-15 intervalle mini",
+  "valeur": "95",
+  "extrait": "L'intervalle de confiance ne soit pas inférieur à 95 % ; La période d'observation n'excède pas 20 jours ouvrés.",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/doctrine/fr/Instruction/DOC-2011-15/4.0/Modalites%20de%20calcul%20du%20risque%20global%20des%20OPCVM%20et%20des%20FIA%20agrees.pdf",
+  "date": "2018-06-26"
+ },
+ {
+  "affirmation": "AMF DOC-2011-15 20 jours",
+  "valeur": "20 jours ouvrés",
+  "extrait": "La période d'observation n'excède pas 20 jours ouvrés.",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/doctrine/fr/Instruction/DOC-2011-15/4.0/Modalites%20de%20calcul%20du%20risque%20global%20des%20OPCVM%20et%20des%20FIA%20agrees.pdf",
+  "date": "2018-06-26"
+ },
+ {
+  "affirmation": "AMF art 12 renvoi 411-77",
+  "valeur": "411-77",
+  "extrait": "Un intervalle de confiance et/ou une période d'observation différents que ceux mentionnés au II de l'article 411-77 ou de l'article 422-56 du règlement général de l'AMF peuvent être utilisés lors du calcul",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/doctrine/fr/Instruction/DOC-2011-15/4.0/Modalites%20de%20calcul%20du%20risque%20global%20des%20OPCVM%20et%20des%20FIA%20agrees.pdf",
+  "date": "2018-06-26"
+ },
+ {
+  "affirmation": "AMF art 12 normale racine",
+  "valeur": "racine carrée du temps",
+  "extrait": "en faisant l'hypothèse que les rendements de l'OPCVM ou du FIA sont indépendants et identiquement distribués selon une loi normale, et en utilisant les quantiles de la loi normale et la racine carrée du temps",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/doctrine/fr/Instruction/DOC-2011-15/4.0/Modalites%20de%20calcul%20du%20risque%20global%20des%20OPCVM%20et%20des%20FIA%20agrees.pdf",
+  "date": "2018-06-26"
+ },
+ {
+  "affirmation": "AMF art 13 VaR relative deux fois",
+  "valeur": "deux fois",
+  "extrait": "La VaR de l'OPCVM ou du FIA est ainsi limitée à deux fois la VaR du portefeuille de référence.",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/doctrine/fr/Instruction/DOC-2011-15/4.0/Modalites%20de%20calcul%20du%20risque%20global%20des%20OPCVM%20et%20des%20FIA%20agrees.pdf",
+  "date": "2018-06-26"
+ },
+ {
+  "affirmation": "AMF backtesting 4 dépassements 250 jours 99 %",
+  "valeur": "250",
+  "extrait": "les instances dirigeantes sont alertées au moins tous les trimestres si le nombre de dépassements de seuil survenus au cours des 250 derniers jours est supérieur à 4 dans le cas d'un intervalle de confiance à 99 %",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/doctrine/fr/Instruction/DOC-2011-15/4.0/Modalites%20de%20calcul%20du%20risque%20global%20des%20OPCVM%20et%20des%20FIA%20agrees.pdf",
+  "date": "2018-06-26"
+ },
+ {
+  "affirmation": "AMF backtesting supérieur à 4",
+  "valeur": "4",
+  "extrait": "est supérieur à 4 dans le cas d'un intervalle de confiance à 99 %",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/doctrine/fr/Instruction/DOC-2011-15/4.0/Modalites%20de%20calcul%20du%20risque%20global%20des%20OPCVM%20et%20des%20FIA%20agrees.pdf",
+  "date": "2018-06-26"
+ },
+ {
+  "affirmation": "AMF backtesting tests mensuels",
+  "valeur": "une fois par mois",
+  "extrait": "des tests de performance a posteriori sont réalisés au moins une fois par mois",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/doctrine/fr/Instruction/DOC-2011-15/4.0/Modalites%20de%20calcul%20du%20risque%20global%20des%20OPCVM%20et%20des%20FIA%20agrees.pdf",
+  "date": "2018-06-26"
+ },
+ {
+  "affirmation": "AMF dépassement définition",
+  "valeur": "horizon un jour",
+  "extrait": "lorsque la variation sur une journée de la valeur du portefeuille de l'OPCVM ou du FIA est supérieure à la VaR à horizon un jour calculée par le modèle",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/doctrine/fr/Instruction/DOC-2011-15/4.0/Modalites%20de%20calcul%20du%20risque%20global%20des%20OPCVM%20et%20des%20FIA%20agrees.pdf",
+  "date": "2018-06-26"
+ },
+ {
+  "affirmation": "AMF version applicable",
+  "valeur": "26 juin 2018",
+  "extrait": "Applicable au 26 juin 2018 Instruction DOC-2011-15",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/fr/reglementation/doctrine/doc-2011-15",
+  "date": "2018-06-26"
+ },
+ {
+  "affirmation": "Calcul quantile 99 %",
+  "valeur": "2,3263",
+  "extrait": "NormalDist().inv_cdf(0.99) = 2,3263",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calcul quantile 95 %",
+  "valeur": "1,6449",
+  "extrait": "NormalDist().inv_cdf(0.95) = 1,6449",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calcul VaR 1 jour 99 %",
+  "valeur": "13 957,80",
+  "extrait": "2,3263 x 0,012 x 500 000 = 13 957,80",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calcul hypothèses",
+  "valeur": "500 000",
+  "extrait": "portefeuille 500 000 euros, volatilité quotidienne 1,2 %",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calcul volatilité",
+  "valeur": "1,2",
+  "extrait": "volatilité quotidienne 1,2 % = 0,012",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calcul racine 20",
+  "valeur": "4,4721",
+  "extrait": "racine(20) = 4,4721",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calcul VaR 20 jours",
+  "valeur": "62 420,68",
+  "extrait": "13 957,80 x 4,4721 = 62 420,68",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calcul VaR 20 jours en %",
+  "valeur": "12,48",
+  "extrait": "62 420,68 / 500 000 = 12,48 %",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calcul VaR 95 %",
+  "valeur": "9 869,40",
+  "extrait": "1,6449 x 0,012 x 500 000 = 9 869,40",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calcul rapport quantiles",
+  "valeur": "1,4143",
+  "extrait": "2,3263 / 1,6449 = 1,4143",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calcul dépassements attendus",
+  "valeur": "2,5",
+  "extrait": "250 x 1 % = 2,5",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calcul or plus de 3 %",
+  "valeur": "3",
+  "extrait": "-3,19 % sur la séance",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "AMF textes de référence",
+  "valeur": "411-72",
+  "extrait": "Textes de référence : articles 411-72 à 411-81 et 422-51 à 422-60 du règlement général de l'AMF",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/doctrine/fr/Instruction/DOC-2011-15/4.0/Modalites%20de%20calcul%20du%20risque%20global%20des%20OPCVM%20et%20des%20FIA%20agrees.pdf",
+  "date": "2018-06-26"
+ },
+ {
+  "affirmation": "AMF textes de référence fin",
+  "valeur": "422-60",
+  "extrait": "articles 411-72 à 411-81 et 422-51 à 422-60 du règlement général de l'AMF",
+  "media": "AMF",
+  "titre": "Instruction DOC-2011-15 - Modalités de calcul du risque global des OPCVM et des FIA agréés",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/doctrine/fr/Instruction/DOC-2011-15/4.0/Modalites%20de%20calcul%20du%20risque%20global%20des%20OPCVM%20et%20des%20FIA%20agrees.pdf",
+  "date": "2018-06-26"
+ }
+]
