@@ -1,0 +1,929 @@
+[
+ {
+  "affirmation": "CAC 40 clôture 20/11",
+  "valeur": "7 927,75",
+  "extrait": "CAC 40 ; 7 927,75 pts ; -1,89 % sur la séance ; clôture du 20/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "-1,89",
+  "extrait": "Le CAC 40 a plongé de -1,89 % vendredi 20 novembre à 7 927,75 points.",
+  "media": "Investing.com",
+  "titre": "Le CAC 40 sous 8000 pts, -5% en 1 semaine",
+  "url": "https://fr.investing.com/news/stock-market-news/le-cac-40-sous-8000-pts-5-en-1-semaine--ceder-a-la-panique-ou-profiter-des-soldes-3707782",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "CAC 40 semaine",
+  "valeur": "5,27",
+  "extrait": "Sur la semaine, le CAC 40 perd -5,27 %.",
+  "media": "Investing.com",
+  "titre": "Le CAC 40 sous 8000 pts, -5% en 1 semaine",
+  "url": "https://fr.investing.com/news/stock-market-news/le-cac-40-sous-8000-pts-5-en-1-semaine--ceder-a-la-panique-ou-profiter-des-soldes-3707782",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "CAC sous 8000",
+  "valeur": "8000",
+  "extrait": "Le CAC 40 sous 8000 pts, -5% en 1 semaine",
+  "media": "Investing.com",
+  "titre": "Le CAC 40 sous 8000 pts, -5% en 1 semaine",
+  "url": "https://fr.investing.com/news/stock-market-news/le-cac-40-sous-8000-pts-5-en-1-semaine--ceder-a-la-panique-ou-profiter-des-soldes-3707782",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Ubisoft chute",
+  "valeur": "23",
+  "extrait": "une chute encore plus marquée de 23 %",
+  "media": "ABC Bourse",
+  "titre": "Le CAC 40 chute de plus de 5 % et signe sa deuxième pire semaine de l'année",
+  "url": "https://www.abcbourse.com/marches/le-cac-40-chute-de-plus-de-5-et-signe-sa-deuxieme-pire-semaine-de-l-annee_706467",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Ubisoft ventes semestrielles",
+  "valeur": "18",
+  "extrait": "une diminution de 18 % de ses ventes semestrielles",
+  "media": "ABC Bourse",
+  "titre": "Le CAC 40 chute de plus de 5 % et signe sa deuxième pire semaine de l'année",
+  "url": "https://www.abcbourse.com/marches/le-cac-40-chute-de-plus-de-5-et-signe-sa-deuxieme-pire-semaine-de-l-annee_706467",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "6 910,39",
+  "extrait": "S&P 500 ; 6 910,39 pts ; -3,70 % sur la séance ; clôture du 20/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "-3,70",
+  "extrait": "S&P 500 ; 6 910,39 pts ; -3,70 % sur la séance ; clôture du 20/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "S&P 500 7e séance de baisse",
+  "valeur": "7",
+  "extrait": "The S&P 500 declined 3.7%, losing ground for the 7th straight session",
+  "media": "Yahoo Finance",
+  "titre": "Markets News, Nov. 20, 2026: Major Stock Indexes Sink, Wipe Out 2026 Gains as AI Trade Melts Down",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-plunge-131303598.html",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "22 617,73",
+  "extrait": "Nasdaq Composite ; 22 617,73 pts ; -5,28 % sur la séance ; clôture du 20/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "-5,28",
+  "extrait": "Nasdaq Composite ; 22 617,73 pts ; -5,28 % sur la séance ; clôture du 20/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Nasdaq semaine -10 % pire depuis pandémie",
+  "valeur": "10",
+  "extrait": "La chute de 10 % enregistrée la semaine dernière par l'indice Nasdaq a constitué sa plus forte baisse hebdomadaire depuis que la panique liée à la pandémie s'était emparée des marchés",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les contrats à terme américains rebondissent alors que l'Asie s'efforce de stabiliser les marchés boursiers après une chute provoquée par l'IA",
+  "url": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-americains-rebondissent-alors-que-l-asie-s-efforce-de-stabiliser-les-marches-boursiers-apres-une-chute-provoquee-par-l-ia-57ebbfeab08b02bed8ace98cb70a9646",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Nvidia -14 %",
+  "valeur": "14",
+  "extrait": "Nvidia shares fell 14%",
+  "media": "Yahoo Finance",
+  "titre": "Markets News, Nov. 20, 2026: Major Stock Indexes Sink, Wipe Out 2026 Gains as AI Trade Melts Down",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-futures-plunge-131303598.html",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Anthropic -8,5 % clôture 1re séance complète",
+  "valeur": "8,5",
+  "extrait": "the faltering debut of AI company Anthropic, which closed 8.5% lower on its first full day of trading",
+  "media": "Investing.com (Reuters)",
+  "titre": "US futures bounce while Asia markets brace for AI wipeout",
+  "url": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-americains-rebondissent-alors-que-l-asie-s-efforce-de-stabiliser-les-marches-boursiers-apres-une-chute-provoquee-par-l-ia-57ebbfeab08b02bed8ace98cb70a9646",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture",
+  "valeur": "5 941,95",
+  "extrait": "20/11/2026 ; 5 941,95 ; -2,81 %",
+  "media": "Investing.com",
+  "titre": "Euro Stoxx 50 données historiques",
+  "url": "https://fr.investing.com/indices/eu-stoxx50-historical-data",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "-2,81",
+  "extrait": "Euro Stoxx 50 ; 5 941,95 pts ; -2,81 % sur la séance ; clôture du 20/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "EUR/USD BCE",
+  "valeur": "1,0990",
+  "extrait": "20 November 2026: 1.0990",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar des États-Unis",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "-0,02",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,0990 ; -0,02 % sur la séance ; taux du 20/11/2026",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar des États-Unis",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Euro sous 1,10 dollar",
+  "valeur": "1,10",
+  "extrait": "sous la barre des 1,10 dollar",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les contrats à terme américains rebondissent alors que l'Asie s'efforce de stabiliser les marchés boursiers après une chute provoquée par l'IA",
+  "url": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-americains-rebondissent-alors-que-l-asie-s-efforce-de-stabiliser-les-marches-boursiers-apres-une-chute-provoquee-par-l-ia-57ebbfeab08b02bed8ace98cb70a9646",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture",
+  "valeur": "4,87",
+  "extrait": "20/11/2026 ; 4,872 ; -1,55 %",
+  "media": "Investing.com",
+  "titre": "Rendement Obligation France 10 ans données historiques",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "OAT veille",
+  "valeur": "4,949",
+  "extrait": "19/11/2026 ; 4,949 ; +1,63 %",
+  "media": "Investing.com",
+  "titre": "Rendement Obligation France 10 ans données historiques",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "OAT variation pb",
+  "valeur": "-8",
+  "extrait": "calcul",
+  "media": "calcul : 4,872 - 4,949 = -0,077 point, soit -8 pb",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Bund clôture",
+  "valeur": "3,30",
+  "extrait": "20/11/2026 ; 3,3026 ; -3,15 %",
+  "media": "Investing.com",
+  "titre": "Rendement Obligation Allemagne 10 ans données historiques",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Bund veille",
+  "valeur": "3,4101",
+  "extrait": "19/11/2026 ; 3,4101 ; +1,05 %",
+  "media": "Investing.com",
+  "titre": "Rendement Obligation Allemagne 10 ans données historiques",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Bund variation pb",
+  "valeur": "-11",
+  "extrait": "calcul",
+  "media": "calcul : 3,3026 - 3,4101 = -0,1075 point, soit -11 pb",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Spread OAT-Bund",
+  "valeur": "157",
+  "extrait": "calcul",
+  "media": "calcul : 4,872 - 3,3026 = 1,5694 point, soit 157 pb",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "3 514,50",
+  "extrait": "Or (contrat déc. 2026) ; 3 514,50 $/once ; -4,65 % sur la séance ; cours du 20/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "-4,65",
+  "extrait": "Or (contrat déc. 2026) ; 3 514,50 $/once ; -4,65 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Or Fed hausse 96 %",
+  "valeur": "96",
+  "extrait": "Markets see a 96% chance of a 25-basis-point US rate hike in December",
+  "media": "CNBC",
+  "titre": "Gold's slide deepens as AI rout, rate hike bets hurt bullion",
+  "url": "https://www.cnbc.com/2026/11/20/gold-federal-reserve-price-dollar-metals.html",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Fed hausse 25 pb",
+  "valeur": "25",
+  "extrait": "Markets see a 96% chance of a 25-basis-point US rate hike in December",
+  "media": "CNBC",
+  "titre": "Gold's slide deepens as AI rout, rate hike bets hurt bullion",
+  "url": "https://www.cnbc.com/2026/11/20/gold-federal-reserve-price-dollar-metals.html",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Brent",
+  "valeur": "92,44",
+  "extrait": "Brent (contrat janv. 2027) ; 92,44 $/baril ; +0,52 % sur la séance ; cours du 20/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Brent variation",
+  "valeur": "+0,52",
+  "extrait": "Brent (contrat janv. 2027) ; 92,44 $/baril ; +0,52 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Brent semaine -3,4 %",
+  "valeur": "3.4",
+  "extrait": "For the week, Brent crude fell 3.4% and U.S. crude fell 5.2%.",
+  "media": "CNBC",
+  "titre": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+  "url": "https://cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Bitcoin",
+  "valeur": "61 160,70",
+  "extrait": "Bitcoin ; 61 160,70 $ ; +1,79 % sur la séance ; clôture du 22/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "+1,79",
+  "extrait": "Bitcoin ; 61 160,70 $ ; +1,79 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Bitcoin sous 60000 vendredi",
+  "valeur": "60.000",
+  "extrait": "Le bitcoin tombe sous la barre des 60.000 dollars",
+  "media": "ABC Bourse",
+  "titre": "Le CAC 40 chute de plus de 5 % et signe sa deuxième pire semaine de l'année",
+  "url": "https://www.abcbourse.com/marches/le-cac-40-chute-de-plus-de-5-et-signe-sa-deuxieme-pire-semaine-de-l-annee_706467",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Futures Nasdaq 100 +3 % S&P +2 %",
+  "valeur": "3",
+  "extrait": "les contrats à terme sur le Nasdaq 100 NQc1 ont rebondi de près de 3 %, ceux sur le S&P 500 ont progressé de 2 %",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les contrats à terme américains rebondissent alors que l'Asie s'efforce de stabiliser les marchés boursiers après une chute provoquée par l'IA",
+  "url": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-americains-rebondissent-alors-que-l-asie-s-efforce-de-stabiliser-les-marches-boursiers-apres-une-chute-provoquee-par-l-ia-57ebbfeab08b02bed8ace98cb70a9646",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Futures S&P +2 %",
+  "valeur": "2",
+  "extrait": "ceux sur le S&P 500 ont progressé de 2 %",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les contrats à terme américains rebondissent alors que l'Asie s'efforce de stabiliser les marchés boursiers après une chute provoquée par l'IA",
+  "url": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-americains-rebondissent-alors-que-l-asie-s-efforce-de-stabiliser-les-marches-boursiers-apres-une-chute-provoquee-par-l-ia-57ebbfeab08b02bed8ace98cb70a9646",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "KOSPI -5 % plus bas 10 mois",
+  "valeur": "5",
+  "extrait": "l'indice sud-coréen KOSPI .KS11 , qui a reculé d'environ 5 % pour atteindre son plus bas niveau depuis dix mois.",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les contrats à terme américains rebondissent alors que l'Asie s'efforce de stabiliser les marchés boursiers après une chute provoquée par l'IA",
+  "url": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-americains-rebondissent-alors-que-l-asie-s-efforce-de-stabiliser-les-marches-boursiers-apres-une-chute-provoquee-par-l-ia-57ebbfeab08b02bed8ace98cb70a9646",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Corée ministre Finances stabiliser",
+  "valeur": "ministre",
+  "extrait": "le ministre sud-coréen des Finances a réitéré lundi son intention de stabiliser le marché , si nécessaire",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les contrats à terme américains rebondissent alors que l'Asie s'efforce de stabiliser les marchés boursiers après une chute provoquée par l'IA",
+  "url": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-americains-rebondissent-alors-que-l-asie-s-efforce-de-stabiliser-les-marches-boursiers-apres-une-chute-provoquee-par-l-ia-57ebbfeab08b02bed8ace98cb70a9646",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Taïwan +2 % lundi",
+  "valeur": "2",
+  "extrait": "Taiwanese stocks gained 2% on Monday (Les actions taïwanaises ont gagné 2 %)",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les contrats à terme américains rebondissent alors que l'Asie s'efforce de stabiliser les marchés boursiers après une chute provoquée par l'IA",
+  "url": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-americains-rebondissent-alors-que-l-asie-s-efforce-de-stabiliser-les-marches-boursiers-apres-une-chute-provoquee-par-l-ia-57ebbfeab08b02bed8ace98cb70a9646",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Tokyo fermé jour férié",
+  "valeur": "Japon",
+  "extrait": "Marchés boursiers fermés au Japon (jour férié)",
+  "media": "ABC Bourse",
+  "titre": "AGENDA DU 23 AU 27 NOVEMBRE: L'inflation américaine au menu de Thanksgiving",
+  "url": "https://www.abcbourse.com/marches/agenda-du-23-au-27-novembre-l-inflation-americaine-au-menu-de-thanksgiving_706453",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Morgan Stanley capex hyperscalers +70 % 1600 Md$",
+  "valeur": "70",
+  "extrait": "Morgan Stanley prévoit une hausse de plus de 70 % des dépenses d'investissement des hyperscalers l'an prochain, à plus de 1 600 milliards de dollars",
+  "media": "Boursorama (Reuters)",
+  "titre": "Les contrats à terme américains rebondissent alors que l'Asie s'efforce de stabiliser les marchés boursiers après une chute provoquée par l'IA",
+  "url": "https://www.boursorama.com/bourse/actualites/les-contrats-a-terme-americains-rebondissent-alors-que-l-asie-s-efforce-de-stabiliser-les-marches-boursiers-apres-une-chute-provoquee-par-l-ia-57ebbfeab08b02bed8ace98cb70a9646",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Bessent dimanche surresserrement",
+  "valeur": "Sunday",
+  "extrait": "Bessent warned Sunday that the Federal Reserve risks hurting the economy by overtightening policy",
+  "media": "Yahoo Finance (Semafor)",
+  "titre": "Bessent warns on Fed hike as AI bubble fears mount",
+  "url": "https://finance.yahoo.com/economy/policy/articles/bessent-warns-fed-hike-ai-222612699.html",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Hausse d'un demi-point 9 décembre moins anticipée",
+  "valeur": "9",
+  "extrait": "Traders have pared back expectations of a half-point hike on Dec. 9.",
+  "media": "Yahoo Finance (Semafor)",
+  "titre": "Bessent warns on Fed hike as AI bubble fears mount",
+  "url": "https://finance.yahoo.com/economy/policy/articles/bessent-warns-fed-hike-ai-222612699.html",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Fed fourchette 3,75-4 %",
+  "valeur": "3-3/4 to 4",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed dissidents Cook Hammack",
+  "valeur": "Cook",
+  "extrait": "Voting against the monetary policy action were Lisa D. Cook and Beth M. Hammack",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "BCE taux dépôt 2,50 %",
+  "valeur": "2,50",
+  "extrait": "will remain unchanged at 2.50%, 2.65% and 2.90% respectively.",
+  "media": "BCE",
+  "titre": "Monetary policy decisions",
+  "url": "https://ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE conseil 25 novembre sans décision",
+  "valeur": "25",
+  "extrait": "Mercredi 25 : réunion du Conseil des gouverneurs de la BCE à Francfort, sans décision de politique monétaire",
+  "media": "Boursorama",
+  "titre": "AGENDA FRANCE & INTERNATIONAL - Semaine du 23 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-france-international-semaine-du-23-novembre-2a812f1c01bac339ae3d6aa94b657cdf",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "PCE américain mercredi 14h30",
+  "valeur": "14h30",
+  "extrait": "Publication de l'inflation PCE américaine d'octobre (14h30)",
+  "media": "Boursorama",
+  "titre": "AGENDA FRANCE & INTERNATIONAL - Semaine du 23 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-france-international-semaine-du-23-novembre-2a812f1c01bac339ae3d6aa94b657cdf",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Thanksgiving jeudi 26 Wall Street fermée",
+  "valeur": "26",
+  "extrait": "Jeudi 26 : Wall Street fermée pour Thanksgiving",
+  "media": "Boursorama",
+  "titre": "AGENDA FRANCE & INTERNATIONAL - Semaine du 23 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-france-international-semaine-du-23-novembre-2a812f1c01bac339ae3d6aa94b657cdf",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Inflation flash France vendredi 27 8h45",
+  "valeur": "27",
+  "extrait": "Vendredi 27 : En France : inflation flash de novembre, PIB final du T3 et dépenses des ménages d'octobre (08h45)",
+  "media": "Boursorama",
+  "titre": "AGENDA FRANCE & INTERNATIONAL - Semaine du 23 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-france-international-semaine-du-23-novembre-2a812f1c01bac339ae3d6aa94b657cdf",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "PMI France 9h15",
+  "valeur": "9h15",
+  "extrait": "France: indice PMI composite flash en novembre (9h15)",
+  "media": "ABC Bourse",
+  "titre": "AGENDA DU 23 AU 27 NOVEMBRE: L'inflation américaine au menu de Thanksgiving",
+  "url": "https://www.abcbourse.com/marches/agenda-du-23-au-27-novembre-l-inflation-americaine-au-menu-de-thanksgiving_706453",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "PMI zone euro 10h00",
+  "valeur": "10h00",
+  "extrait": "Zone euro: indice PMI composite flash en novembre (10h00)",
+  "media": "ABC Bourse",
+  "titre": "AGENDA DU 23 AU 27 NOVEMBRE: L'inflation américaine au menu de Thanksgiving",
+  "url": "https://www.abcbourse.com/marches/agenda-du-23-au-27-novembre-l-inflation-americaine-au-menu-de-thanksgiving_706453",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "PMI US 15h45",
+  "valeur": "15h45",
+  "extrait": "Etats-Unis: enquête manufacturière PMI de S&P de novembre (15h45)",
+  "media": "ABC Bourse",
+  "titre": "AGENDA DU 23 AU 27 NOVEMBRE: L'inflation américaine au menu de Thanksgiving",
+  "url": "https://www.abcbourse.com/marches/agenda-du-23-au-27-novembre-l-inflation-americaine-au-menu-de-thanksgiving_706453",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Williams 22h00",
+  "valeur": "22h00",
+  "extrait": "Etats-Unis: allocution du président de la Fed de New York John Williams (22h00)",
+  "media": "ABC Bourse",
+  "titre": "AGENDA DU 23 AU 27 NOVEMBRE: L'inflation américaine au menu de Thanksgiving",
+  "url": "https://www.abcbourse.com/marches/agenda-du-23-au-27-novembre-l-inflation-americaine-au-menu-de-thanksgiving_706453",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "HPE résultats après Wall Street",
+  "valeur": "HPE",
+  "extrait": "Après Wall Street HPE - Résultats annuels",
+  "media": "ABC Bourse",
+  "titre": "AGENDA DU 23 AU 27 NOVEMBRE: L'inflation américaine au menu de Thanksgiving",
+  "url": "https://www.abcbourse.com/marches/agenda-du-23-au-27-novembre-l-inflation-americaine-au-menu-de-thanksgiving_706453",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Macron discours Airbus Toulouse 10h45",
+  "valeur": "10h45",
+  "extrait": "TOULOUSE - 10h45 Emmanuel Macron fait un discours sur un site d'Airbus",
+  "media": "Boursorama",
+  "titre": "AGENDA FRANCE & INTERNATIONAL - Semaine du 23 novembre",
+  "url": "https://www.boursorama.com/bourse/actualites/agenda-france-international-semaine-du-23-novembre-2a812f1c01bac339ae3d6aa94b657cdf",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Règle d'or Congrès janvier selon La Tribune Dimanche",
+  "valeur": "janvier",
+  "extrait": "Emmanuel Macron envisagerait de réunir le Congrès en janvier pour inscrire une règle d'or budgétaire dans la Constitution, selon La Tribune Dimanche",
+  "media": "Boursorama (Reuters)",
+  "titre": "France-Macron réfléchit à l'idée d'une \"règle d'or\" budgétaire - presse",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/france-macron-reflechit-a-l-idee-d-une-regle-d-or-budgetaire-presse-e9702c43fa164af3fcc6b8955bbd6043",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Majorité trois cinquièmes",
+  "valeur": "trois cinquièmes",
+  "extrait": "une modification de la Constitution, par la voie du Congrès, doit être adoptée par au moins trois cinquièmes des parlementaires réunis à Versailles",
+  "media": "Boursorama (Reuters)",
+  "titre": "France-Macron réfléchit à l'idée d'une \"règle d'or\" budgétaire - presse",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/france-macron-reflechit-a-l-idee-d-une-regle-d-or-budgetaire-presse-e9702c43fa164af3fcc6b8955bbd6043",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Élysée sans commentaire",
+  "valeur": "Élysée",
+  "extrait": "L'Élysée n'a pas souhaité faire de commentaire",
+  "media": "Moneyvox",
+  "titre": "Projet de règle d'or budgétaire : Macron réfléchirait à convoquer le Congrès",
+  "url": "https://www.moneyvox.fr/impot/actualites/111357/projet-de-regle-or-budgetaire-macron-reflechirait-a-convoquer-le-congres",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Bardella vote RN",
+  "valeur": "saine gestion",
+  "extrait": "Si elle correspond dans ses modalités à ce que nous demandions, nous voterons cette mesure de saine gestion",
+  "media": "Boursorama (Reuters)",
+  "titre": "France-Macron réfléchit à l'idée d'une \"règle d'or\" budgétaire - presse",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/france-macron-reflechit-a-l-idee-d-une-regle-d-or-budgetaire-presse-e9702c43fa164af3fcc6b8955bbd6043",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Retailleau bonne chose",
+  "valeur": "bonne chose",
+  "extrait": "serait une bonne chose",
+  "media": "Moneyvox",
+  "titre": "Projet de règle d'or budgétaire : Macron réfléchirait à convoquer le Congrès",
+  "url": "https://www.moneyvox.fr/impot/actualites/111357/projet-de-regle-or-budgetaire-macron-reflechirait-a-convoquer-le-congres",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Texte de 2011",
+  "valeur": "2011",
+  "extrait": "un texte voté dans les mêmes termes par les deux chambres en 2011, sous Nicolas Sarkozy et François Fillon",
+  "media": "Moneyvox",
+  "titre": "Projet de règle d'or budgétaire : Macron réfléchirait à convoquer le Congrès",
+  "url": "https://www.moneyvox.fr/impot/actualites/111357/projet-de-regle-or-budgetaire-macron-reflechirait-a-convoquer-le-congres",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Zucman ironique",
+  "valeur": "ironique",
+  "extrait": "c'est quand même ironique",
+  "media": "Moneyvox",
+  "titre": "Projet de règle d'or budgétaire : Macron réfléchirait à convoquer le Congrès",
+  "url": "https://www.moneyvox.fr/impot/actualites/111357/projet-de-regle-or-budgetaire-macron-reflechirait-a-convoquer-le-congres",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "PLF 2027 Sénat 20 nov - 9 déc",
+  "valeur": "9 décembre",
+  "extrait": "du lundi 30 novembre au mercredi 9 décembre",
+  "media": "Sénat",
+  "titre": "Projet de loi de finances pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-finances-pour-2027.html",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "PLF 2027 première partie 28 ou 29 nov",
+  "valeur": "28 ou dimanche 29 novembre",
+  "extrait": "du vendredi 20 novembre au samedi 28 ou dimanche 29 novembre.",
+  "media": "Sénat",
+  "titre": "Projet de loi de finances pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-finances-pour-2027.html",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "AN rejet 4 novembre",
+  "valeur": "4 novembre",
+  "extrait": "Mercredi 4 novembre 2026, le texte a été rejeté par l'Assemblée nationale.",
+  "media": "Sénat",
+  "titre": "Projet de loi de finances pour 2027",
+  "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-finances-pour-2027.html",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Livret A 1,7 % depuis 1er août",
+  "valeur": "1,7",
+  "extrait": "Elle est de 1,7 % depuis le 1er août 2026 (auparavant 1.5% entre le 1er février 2026 et le 31 juillet 2026).",
+  "media": "Banque de France",
+  "titre": "Livret A",
+  "url": "https://www.banque-france.fr/fr/a-votre-service/particuliers/connaitre-pratiques-bancaires-assurance/epargne/livret-a",
+  "date": "2026-08-01"
+ },
+ {
+  "affirmation": "Livret A plafond",
+  "valeur": "22 950",
+  "extrait": "Le plafond du livret A est de 22 950 euros.",
+  "media": "Banque de France",
+  "titre": "Livret A",
+  "url": "https://www.banque-france.fr/fr/a-votre-service/particuliers/connaitre-pratiques-bancaires-assurance/epargne/livret-a",
+  "date": "2026-08-01"
+ },
+ {
+  "affirmation": "Iran Araghchi mémorandum",
+  "valeur": "Islamabad",
+  "extrait": "The Islamabad Memorandum of Understanding is no longer on the table and has no implementation relevance.",
+  "media": "CNBC",
+  "titre": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+  "url": "https://cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Bahreïn deux blessés",
+  "valeur": "two",
+  "extrait": "Two people were injured, a Bahraini citizen and a Pakistani resident",
+  "media": "CNBC",
+  "titre": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+  "url": "https://cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Drone houthi vers Riyad",
+  "valeur": "Riyadh",
+  "extrait": "Intercepted and destroyed a drone launched by the Houthi terrorist militia toward the Riyadh area.",
+  "media": "CNBC",
+  "titre": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+  "url": "https://cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Deux pétroliers touchés samedi près d'Oman",
+  "valeur": "two tankers",
+  "extrait": "The UK Maritime Trade Operations reported that two tankers near Oman were struck by unidentified projectiles on Saturday.",
+  "media": "CNBC",
+  "titre": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+  "url": "https://cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Guerre depuis 28 février",
+  "valeur": "28",
+  "extrait": "The war began with U.S. and Israeli airstrikes on Iranian targets on Feb. 28.",
+  "media": "CNBC",
+  "titre": "Saudi Arabia, Bahrain report new attacks as Iran says it remains open to a deal with U.S.",
+  "url": "https://cnbc.com/2026/11/22/saudi-houthi-bahrain-iran-attacks-araghchi-talks.html",
+  "date": "2026-11-22"
+ },
+ {
+  "affirmation": "Dons 66 % limite 20 %",
+  "valeur": "66",
+  "extrait": "égale à 66 % de leur montant, retenu dans la limite de 20 % du revenu imposable.",
+  "media": "BOFiP",
+  "titre": "IR - Réduction d'impôt au titre des dons faits par les particuliers - Modalités d'application de la réduction d'impôt",
+  "url": "https://bofip.impots.gouv.fr/bofip/5873-PGP.html/identifiant=BOI-IR-RICI-250-30-20260706",
+  "date": "2026-07-06"
+ },
+ {
+  "affirmation": "Dons limite 20 %",
+  "valeur": "20",
+  "extrait": "égale à 66 % de leur montant, retenu dans la limite de 20 % du revenu imposable.",
+  "media": "BOFiP",
+  "titre": "IR - Réduction d'impôt au titre des dons faits par les particuliers - Modalités d'application de la réduction d'impôt",
+  "url": "https://bofip.impots.gouv.fr/bofip/5873-PGP.html/identifiant=BOI-IR-RICI-250-30-20260706",
+  "date": "2026-07-06"
+ },
+ {
+  "affirmation": "Dons 75 % plafond 2000",
+  "valeur": "2 000",
+  "extrait": "ouvrent droit à une réduction d'impôt égale à 75 % de leur montant et dans la limite d'un plafond spécifique de 2 000 €",
+  "media": "BOFiP",
+  "titre": "IR - Réduction d'impôt au titre des dons faits par les particuliers - Modalités d'application de la réduction d'impôt",
+  "url": "https://bofip.impots.gouv.fr/bofip/5873-PGP.html/identifiant=BOI-IR-RICI-250-30-20260706",
+  "date": "2026-07-06"
+ },
+ {
+  "affirmation": "Dons 75 %",
+  "valeur": "75",
+  "extrait": "ouvrent droit à une réduction d'impôt égale à 75 % de leur montant et dans la limite d'un plafond spécifique de 2 000 €",
+  "media": "BOFiP",
+  "titre": "IR - Réduction d'impôt au titre des dons faits par les particuliers - Modalités d'application de la réduction d'impôt",
+  "url": "https://bofip.impots.gouv.fr/bofip/5873-PGP.html/identifiant=BOI-IR-RICI-250-30-20260706",
+  "date": "2026-07-06"
+ },
+ {
+  "affirmation": "Plafond 2000 depuis 14 octobre 2025",
+  "valeur": "14 octobre 2025",
+  "extrait": "a porté ce plafond à 2 000 € pour les versements effectués à compter du 14 octobre 2025.",
+  "media": "BOFiP",
+  "titre": "IR - Réduction d'impôt au titre des dons faits par les particuliers - Modalités d'application de la réduction d'impôt",
+  "url": "https://bofip.impots.gouv.fr/bofip/5873-PGP.html/identifiant=BOI-IR-RICI-250-30-20260706",
+  "date": "2026-07-06"
+ },
+ {
+  "affirmation": "Loi 2026-103 art 28",
+  "valeur": "2026-103",
+  "extrait": "1 ter de l'article 200 du CGI, modifié par l'article 28 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026",
+  "media": "BOFiP",
+  "titre": "IR - Réduction d'impôt au titre des dons faits par les particuliers - Modalités d'application de la réduction d'impôt",
+  "url": "https://bofip.impots.gouv.fr/bofip/5873-PGP.html/identifiant=BOI-IR-RICI-250-30-20260706",
+  "date": "2026-07-06"
+ },
+ {
+  "affirmation": "Part 75 % hors limite 20 %",
+  "valeur": "75",
+  "extrait": "La fraction des dons qui bénéficie de la réduction d'impôt au taux de 75 % n'est pas prise en compte",
+  "media": "BOFiP",
+  "titre": "IR - Réduction d'impôt au titre des dons faits par les particuliers - Modalités d'application de la réduction d'impôt",
+  "url": "https://bofip.impots.gouv.fr/bofip/5873-PGP.html/identifiant=BOI-IR-RICI-250-30-20260706",
+  "date": "2026-07-06"
+ },
+ {
+  "affirmation": "Organismes 75 % repas soins logement violences",
+  "valeur": "repas",
+  "extrait": "réduction de 75 % pour l'aide aux personnes en difficulté (repas, soins, logement) et l'aide aux victimes de violence domestique",
+  "media": "Service-public.fr",
+  "titre": "Impôt sur le revenu - Dons aux associations et organismes d'intérêt général",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F426",
+  "date": "2026-04-15"
+ },
+ {
+  "affirmation": "Excédent 2000 au taux 66 %",
+  "valeur": "2 000",
+  "extrait": "Donations above 2,000 € get 75% on the first 2,000 € and 66% on the excess (les dons au-delà de 2 000 € ouvrent droit à 66 %)",
+  "media": "Service-public.fr",
+  "titre": "Impôt sur le revenu - Dons aux associations et organismes d'intérêt général",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F426",
+  "date": "2026-04-15"
+ },
+ {
+  "affirmation": "Report excédent 5 ans",
+  "valeur": "cinquième année",
+  "extrait": "l'excédent est reportable successivement au titre de l'année suivante, jusqu'à la cinquième année",
+  "media": "BOFiP",
+  "titre": "IR - Réduction d'impôt au titre des dons faits par les particuliers - Modalités d'application de la réduction d'impôt",
+  "url": "https://bofip.impots.gouv.fr/bofip/5873-PGP.html/identifiant=BOI-IR-RICI-250-30-20260706",
+  "date": "2026-07-06"
+ },
+ {
+  "affirmation": "Pas d'imputation taux proportionnels ni remboursement",
+  "valeur": "remboursement",
+  "extrait": "Elle ne peut pas s'imputer sur les impositions à taux proportionnels et ne peut pas donner lieu à remboursement.",
+  "media": "BOFiP",
+  "titre": "IR - Réduction d'impôt au titre des dons faits par les particuliers - Modalités d'application de la réduction d'impôt",
+  "url": "https://bofip.impots.gouv.fr/bofip/5873-PGP.html/identifiant=BOI-IR-RICI-250-30-20260706",
+  "date": "2026-07-06"
+ },
+ {
+  "affirmation": "Reports avant versements de l'année",
+  "valeur": "avant les versements",
+  "extrait": "Ils sont pris en considération avant les versements de l'année",
+  "media": "BOFiP",
+  "titre": "IR - Réduction d'impôt au titre des dons faits par les particuliers - Modalités d'application de la réduction d'impôt",
+  "url": "https://bofip.impots.gouv.fr/bofip/5873-PGP.html/identifiant=BOI-IR-RICI-250-30-20260706",
+  "date": "2026-07-06"
+ },
+ {
+  "affirmation": "Exemple revenu 40000",
+  "valeur": "40 000",
+  "extrait": "calcul",
+  "media": "calcul : revenu imposable 40 000 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple plafond 20 %",
+  "valeur": "8 000",
+  "extrait": "calcul",
+  "media": "calcul : 20 % x 40 000 = 8 000 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple dons aide",
+  "valeur": "2 500",
+  "extrait": "calcul",
+  "media": "calcul : dons à un organisme d'aide 2 500 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple 75 %",
+  "valeur": "1 500",
+  "extrait": "calcul",
+  "media": "calcul : 75 % x 2 000 = 1 500 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple excédent",
+  "valeur": "500",
+  "extrait": "calcul",
+  "media": "calcul : 2 500 - 2 000 = 500 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple base 66 %",
+  "valeur": "8 500",
+  "extrait": "calcul",
+  "media": "calcul : 500 + 8 000 = 8 500 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple 66 %",
+  "valeur": "5 280",
+  "extrait": "calcul",
+  "media": "calcul : 66 % x 8 000 = 5 280 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Exemple total",
+  "valeur": "6 780",
+  "extrait": "calcul",
+  "media": "calcul : 1 500 + 5 280 = 6 780 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Question revenu 30000",
+  "valeur": "30 000",
+  "extrait": "calcul",
+  "media": "calcul : revenu imposable 30 000 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Question plafond",
+  "valeur": "6 000",
+  "extrait": "calcul",
+  "media": "calcul : 20 % x 30 000 = 6 000 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Question 75 %",
+  "valeur": "1 125",
+  "extrait": "calcul",
+  "media": "calcul : 75 % x 1 500 = 1 125 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Question 66 %",
+  "valeur": "3 960",
+  "extrait": "calcul",
+  "media": "calcul : 66 % x 6 000 = 3 960 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Question total",
+  "valeur": "5 085",
+  "extrait": "calcul",
+  "media": "calcul : 1 125 + 3 960 = 5 085 €",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Fed fourchette basse 3,75 %",
+  "valeur": "3,75",
+  "extrait": "calcul",
+  "media": "calcul : 3-3/4 percent = 3,75 % (communiqué FOMC du 28 octobre 2026)",
+  "titre": "calcul",
+  "url": "",
+  "date": ""
+ },
+ {
+  "affirmation": "Brent règlement 20/11",
+  "valeur": "92,57",
+  "extrait": "20/11/2026 ; 92,57 ; +0,64 %",
+  "media": "Investing.com",
+  "titre": "Pétrole Brent données historiques",
+  "url": "https://fr.investing.com/commodities/brent-oil-historical-data",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Brent variation règlement",
+  "valeur": "+0,64",
+  "extrait": "20/11/2026 ; 92,57 ; +0,64 %",
+  "media": "Investing.com",
+  "titre": "Pétrole Brent données historiques",
+  "url": "https://fr.investing.com/commodities/brent-oil-historical-data",
+  "date": "2026-11-20"
+ }
+]
