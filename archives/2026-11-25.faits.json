@@ -1,0 +1,1064 @@
+[
+ {
+  "affirmation": "CAC 40 clôture 24/11",
+  "valeur": "8 040,49",
+  "extrait": "CAC 40 ; 8 040,49 pts ; -0,05 % sur la séance ; clôture du 24/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "-0,05 %",
+  "extrait": "CAC 40 ; 8 040,49 pts ; -0,05 % sur la séance ; clôture du 24/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "7 201,09",
+  "extrait": "S&P 500 ; 7 201,09 pts ; -0,50 % sur la séance ; clôture du 24/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "-0,50 %",
+  "extrait": "S&P 500 ; 7 201,09 pts ; -0,50 % sur la séance ; clôture du 24/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "23 733,54",
+  "extrait": "Nasdaq Composite ; 23 733,54 pts ; -1,48 % sur la séance ; clôture du 24/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "-1,48 %",
+  "extrait": "Nasdaq Composite ; 23 733,54 pts ; -1,48 % sur la séance ; clôture du 24/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 clôture",
+  "valeur": "6 003,76",
+  "extrait": "Euro Stoxx 50 ; 6 003,76 pts ; -1,16 % sur la séance ; clôture du 24/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "-1,16 %",
+  "extrait": "Euro Stoxx 50 ; 6 003,76 pts ; -1,16 % sur la séance ; clôture du 24/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "3 562,10",
+  "extrait": "Or (contrat déc. 2026) ; 3 562,10 $/once ; -2,45 % sur la séance ; cours du 24/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "-2,45 %",
+  "extrait": "Or (contrat déc. 2026) ; 3 562,10 $/once ; -2,45 % sur la séance ; cours du 24/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Brent",
+  "valeur": "91,41",
+  "extrait": "Brent (contrat janv. 2027) ; 91,41 $/baril ; +2,34 % sur la séance ; cours du 24/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Brent variation",
+  "valeur": "+2,34 %",
+  "extrait": "Brent (contrat janv. 2027) ; 91,41 $/baril ; +2,34 % sur la séance ; cours du 24/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Bitcoin",
+  "valeur": "59 740,87",
+  "extrait": "Bitcoin ; 59 740,87 $ ; -2,39 % sur la séance ; clôture du 24/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "-2,39 %",
+  "extrait": "Bitcoin ; 59 740,87 $ ; -2,39 % sur la séance ; clôture du 24/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "EUR/USD BCE",
+  "valeur": "1,0963",
+  "extrait": "24 November: 1.0963",
+  "media": "BCE",
+  "titre": "US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "+0,22 %",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,0963 ; +0,22 % sur la séance ; taux du 24/11/2026",
+  "media": "BCE",
+  "titre": "US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "EUR/USD veille",
+  "valeur": "1,0939",
+  "extrait": "23 November: 1.0939",
+  "media": "BCE",
+  "titre": "US dollar (USD)",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "OAT 10 ans 24/11",
+  "valeur": "4,77 %",
+  "extrait": "10Y OAT (France): 4.77%, down 6 bps from 4.83% on Nov 23",
+  "media": "Idéal Investisseur",
+  "titre": "10-year OAT / German Bund spread",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "OAT veille",
+  "valeur": "4,83 %",
+  "extrait": "10Y OAT (France): 4.77%, down 6 bps from 4.83% on Nov 23",
+  "media": "Idéal Investisseur",
+  "titre": "10-year OAT / German Bund spread",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "OAT variation",
+  "valeur": "6 bps",
+  "extrait": "10Y OAT (France): 4.77%, down 6 bps from 4.83% on Nov 23",
+  "media": "Idéal Investisseur",
+  "titre": "10-year OAT / German Bund spread",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Bund 10 ans",
+  "valeur": "3,27 %",
+  "extrait": "10Y Bund (Germany): 3.27%, down 3 bps from 3.30% on Nov 23",
+  "media": "Idéal Investisseur",
+  "titre": "10-year OAT / German Bund spread",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Bund variation",
+  "valeur": "3 bps",
+  "extrait": "10Y Bund (Germany): 3.27%, down 3 bps from 3.30% on Nov 23",
+  "media": "Idéal Investisseur",
+  "titre": "10-year OAT / German Bund spread",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Spread OAT-Bund",
+  "valeur": "149,6",
+  "extrait": "the OAT / Bund spread stands at 149.6 basis points, down 3.5 bps from the previous session",
+  "media": "Idéal Investisseur",
+  "titre": "10-year OAT / German Bund spread",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Spread variation",
+  "valeur": "3,5",
+  "extrait": "the OAT / Bund spread stands at 149.6 basis points, down 3.5 bps from the previous session",
+  "media": "Idéal Investisseur",
+  "titre": "10-year OAT / German Bund spread",
+  "url": "https://www.ideal-investisseur.fr/en/markets/oat-bund-spread.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Sanofi hausse",
+  "valeur": "9,76 %",
+  "extrait": "Le géant pharmaceutique français bondit de 9,76% à 93,58 euros",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en équilibre, carton pour Sanofi... Le Journal de la bourse du mardi 24 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111392/le-cac-40-en-equilibre-carton-pour-sanofi-le-journal-de-la-bourse-du-mardi-24-novembre-2026",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Sanofi cours",
+  "valeur": "93,58",
+  "extrait": "Le géant pharmaceutique français bondit de 9,76% à 93,58 euros",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en équilibre, carton pour Sanofi... Le Journal de la bourse du mardi 24 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111392/le-cac-40-en-equilibre-carton-pour-sanofi-le-journal-de-la-bourse-du-mardi-24-novembre-2026",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Insmed montant dollars",
+  "valeur": "41 milliards",
+  "extrait": "41 milliards de dollars, soit 37,6 milliards d'euros",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en équilibre, carton pour Sanofi... Le Journal de la bourse du mardi 24 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111392/le-cac-40-en-equilibre-carton-pour-sanofi-le-journal-de-la-bourse-du-mardi-24-novembre-2026",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Insmed montant euros",
+  "valeur": "37,6 milliards",
+  "extrait": "41 milliards de dollars, soit 37,6 milliards d'euros",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en équilibre, carton pour Sanofi... Le Journal de la bourse du mardi 24 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111392/le-cac-40-en-equilibre-carton-pour-sanofi-le-journal-de-la-bourse-du-mardi-24-novembre-2026",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "STMicro baisse",
+  "valeur": "10,22 %",
+  "extrait": "Hier +8,96%, aujourd'hui -10,22% !",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en équilibre, carton pour Sanofi... Le Journal de la bourse du mardi 24 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111392/le-cac-40-en-equilibre-carton-pour-sanofi-le-journal-de-la-bourse-du-mardi-24-novembre-2026",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Clariane hausse",
+  "valeur": "35,30 %",
+  "extrait": "bondit de 35,30% à 4,50 euros",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en équilibre, carton pour Sanofi... Le Journal de la bourse du mardi 24 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111392/le-cac-40-en-equilibre-carton-pour-sanofi-le-journal-de-la-bourse-du-mardi-24-novembre-2026",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Clariane cours",
+  "valeur": "4,50",
+  "extrait": "bondit de 35,30% à 4,50 euros",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en équilibre, carton pour Sanofi... Le Journal de la bourse du mardi 24 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111392/le-cac-40-en-equilibre-carton-pour-sanofi-le-journal-de-la-bourse-du-mardi-24-novembre-2026",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Clariane offre HLD Europe prix",
+  "valeur": "4,60",
+  "extrait": "HLD Europe offers €4.60 per share",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en légère hausse mardi 24 novembre, soutenu par Sanofi",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111378/le-cac-40-en-legere-hausse-mardi-24-novembre-soutenu-par-sanofi",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Clariane HLD détention",
+  "valeur": "27 %",
+  "extrait": "HLD Europe and Crédit Agricole Assurances hold about 27% and 26% of Clariane's capital",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en légère hausse mardi 24 novembre, soutenu par Sanofi",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111378/le-cac-40-en-legere-hausse-mardi-24-novembre-soutenu-par-sanofi",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Clariane CAA détention",
+  "valeur": "26 %",
+  "extrait": "HLD Europe and Crédit Agricole Assurances hold about 27% and 26% of Clariane's capital",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en légère hausse mardi 24 novembre, soutenu par Sanofi",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111378/le-cac-40-en-legere-hausse-mardi-24-novembre-soutenu-par-sanofi",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Publications US mercredi 14h30 PCE et PIB T3 deuxième estimation",
+  "valeur": "14h30",
+  "extrait": "l'inflation d'octobre et « la deuxième estimation de la croissance américaine du troisième trimestre ». Elles sont annoncées à 14h30",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en équilibre, carton pour Sanofi... Le Journal de la bourse du mardi 24 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111392/le-cac-40-en-equilibre-carton-pour-sanofi-le-journal-de-la-bourse-du-mardi-24-novembre-2026",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Pétrole plus bas trois mois en séance",
+  "valeur": "90",
+  "extrait": "à son plus bas niveau depuis trois mois, sous les 90$ le baril",
+  "media": "Moneyvox",
+  "titre": "Le CAC 40 en équilibre, carton pour Sanofi... Le Journal de la bourse du mardi 24 novembre 2026",
+  "url": "https://www.moneyvox.fr/bourse/actualites/111392/le-cac-40-en-equilibre-carton-pour-sanofi-le-journal-de-la-bourse-du-mardi-24-novembre-2026",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Dow Jones hausse points",
+  "valeur": "423,39",
+  "extrait": "Dow Jones Industrial Average: Up 423.39 points (0.85%) to 50,018.70",
+  "media": "CNBC",
+  "titre": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Dow Jones variation",
+  "valeur": "0,85 %",
+  "extrait": "Up 423.39 points (0.85%)",
+  "media": "CNBC",
+  "titre": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Nvidia rebond lundi",
+  "valeur": "31 %",
+  "extrait": "Nvidia: Fell nearly 6% after its 31% surge on Monday",
+  "media": "CNBC",
+  "titre": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Nvidia baisse mardi",
+  "valeur": "6 %",
+  "extrait": "Nvidia: Fell nearly 6% after its 31% surge on Monday",
+  "media": "CNBC",
+  "titre": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Anthropic sous prix IPO",
+  "valeur": "83",
+  "extrait": "Fell more than 6%, with shares \"breaking below its $83 IPO price.\"",
+  "media": "CNBC",
+  "titre": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Analog Devices",
+  "valeur": "18 %",
+  "extrait": "Analog Devices: Dropped 18% despite a fiscal fourth-quarter beat",
+  "media": "CNBC",
+  "titre": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Confiance des consommateurs Conference Board novembre",
+  "valeur": "103,3",
+  "extrait": "Rose to 103.3, up 11.4 points from October and well above the Dow Jones consensus of 92.2",
+  "media": "CNBC",
+  "titre": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Confiance hausse",
+  "valeur": "11,4",
+  "extrait": "Rose to 103.3, up 11.4 points from October and well above the Dow Jones consensus of 92.2",
+  "media": "CNBC",
+  "titre": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Confiance consensus Dow Jones",
+  "valeur": "92,2",
+  "extrait": "Rose to 103.3, up 11.4 points from October and well above the Dow Jones consensus of 92.2",
+  "media": "CNBC",
+  "titre": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Hausse de 25 pb de la Fed anticipée",
+  "valeur": "25",
+  "extrait": "Money market pricing suggests expectations for a 25 basis point rate hike are firmly locked in",
+  "media": "CNBC",
+  "titre": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Fourchette Fed actuelle",
+  "valeur": "3,75 %",
+  "extrait": "the current 3.75%-4.00% range",
+  "media": "Kitco (Reuters)",
+  "titre": "Fed's Williams says inflation still too high, signals more rate hikes possible",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-23/feds-williams-says-inflation-still-too-high-signals-more-rate-hikes",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Fourchette Fed haut",
+  "valeur": "4,00 %",
+  "extrait": "the current 3.75%-4.00% range",
+  "media": "Kitco (Reuters)",
+  "titre": "Fed's Williams says inflation still too high, signals more rate hikes possible",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-23/feds-williams-says-inflation-still-too-high-signals-more-rate-hikes",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Réunion Fed 8-9 décembre",
+  "valeur": "8-9",
+  "extrait": "The Fed's policy meeting is on December 8-9",
+  "media": "Kitco (Reuters)",
+  "titre": "Fed's Williams says inflation still too high, signals more rate hikes possible",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-23/feds-williams-says-inflation-still-too-high-signals-more-rate-hikes",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Williams inflation fin 2026",
+  "valeur": "3,5 %",
+  "extrait": "Williams expects inflation to end the year at 3.5%",
+  "media": "Kitco (Reuters)",
+  "titre": "Fed's Williams says inflation still too high, signals more rate hikes possible",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-23/feds-williams-says-inflation-still-too-high-signals-more-rate-hikes",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Williams cible 2028",
+  "valeur": "2028",
+  "extrait": "He sees inflation easing to the target in 2028",
+  "media": "Kitco (Reuters)",
+  "titre": "Fed's Williams says inflation still too high, signals more rate hikes possible",
+  "url": "https://www.kitco.com/news/off-the-wire/2026-11-23/feds-williams-says-inflation-still-too-high-signals-more-rate-hikes",
+  "date": "2026-11-23"
+ },
+ {
+  "affirmation": "Thanksgiving marché fermé jeudi",
+  "valeur": "Thursday",
+  "extrait": "open on Wednesday, but closed on Thursday for the Thanksgiving holiday",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6%",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Huang réintégré PDG Nvidia",
+  "valeur": "Jensen Huang",
+  "extrait": "The prior-day surge followed the board's decision to reinstate Jensen Huang as CEO",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6%",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Krishna Guha Evercore Warsh",
+  "valeur": "Warsh",
+  "extrait": "Krishna Guha of Evercore ISI said: \"Fed Chair Warsh not talking is a problem.\"",
+  "media": "Yahoo Finance",
+  "titre": "Stock market today: Dow rises, S&P 500 and Nasdaq decline as chip sector tumbles, Nvidia stock falls 6%",
+  "url": "https://finance.yahoo.com/markets/live/stock-market-today-tuesday-november-24-dow-sp-500-nasdaq-chip-stocks-nvidia-140629923.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "UKMTO trois navires frappés lundi soir",
+  "valeur": "three",
+  "extrait": "three vessels being struck by projectiles in the Strait of Hormuz on Monday evening",
+  "media": "Yahoo News",
+  "titre": "Iran live updates: 3 tankers attacked in Strait of Hormuz, UKMTO says",
+  "url": "https://www.yahoo.com/news/world/articles/iran-live-updates-tehran-says-093556900.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Équipages saufs",
+  "valeur": "crew",
+  "extrait": "continued their transit with all crew members accounted for",
+  "media": "Yahoo News",
+  "titre": "Iran live updates: 3 tankers attacked in Strait of Hormuz, UKMTO says",
+  "url": "https://www.yahoo.com/news/world/articles/iran-live-updates-tehran-says-093556900.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "IRGC mines",
+  "valeur": "mines",
+  "extrait": "hit naval mines in the Strait of Hormuz",
+  "media": "Yahoo News",
+  "titre": "Iran live updates: 3 tankers attacked in Strait of Hormuz, UKMTO says",
+  "url": "https://www.yahoo.com/news/world/articles/iran-live-updates-tehran-says-093556900.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "CENTCOM conteste",
+  "valeur": "false",
+  "extrait": "U.S. Central Command has called previous claims false",
+  "media": "Yahoo News",
+  "titre": "Iran live updates: 3 tankers attacked in Strait of Hormuz, UKMTO says",
+  "url": "https://www.yahoo.com/news/world/articles/iran-live-updates-tehran-says-093556900.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Mémorandum juin pourparlers bloqués",
+  "valeur": "June",
+  "extrait": "remain stalled despite the two countries signing a memorandum of understanding in June",
+  "media": "Yahoo News",
+  "titre": "Iran live updates: 3 tankers attacked in Strait of Hormuz, UKMTO says",
+  "url": "https://www.yahoo.com/news/world/articles/iran-live-updates-tehran-says-093556900.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Baqaei conditions",
+  "valeur": "sanctions",
+  "extrait": "safe navigation could return if the U.S. meets Iran's conditions, including lifting sanctions and the U.S. naval blockade",
+  "media": "Yahoo News",
+  "titre": "Iran live updates: 3 tankers attacked in Strait of Hormuz, UKMTO says",
+  "url": "https://www.yahoo.com/news/world/articles/iran-live-updates-tehran-says-093556900.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Trump drones",
+  "valeur": "drones",
+  "extrait": "Iran has launched more drones and missiles in the last week than at any time for over a year",
+  "media": "Yahoo News",
+  "titre": "Iran live updates: 3 tankers attacked in Strait of Hormuz, UKMTO says",
+  "url": "https://www.yahoo.com/news/world/articles/iran-live-updates-tehran-says-093556900.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Scrutin 163 Sénat pour",
+  "valeur": "175",
+  "extrait": "Pour : 175",
+  "media": "Sénat",
+  "titre": "Scrutin n°163 - séance du 24 novembre 2026 - Sénat",
+  "url": "https://www.senat.fr/scrutin-public/2026/scr2026-163.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Scrutin 163 contre",
+  "valeur": "161",
+  "extrait": "Contre : 161",
+  "media": "Sénat",
+  "titre": "Scrutin n°163 - séance du 24 novembre 2026 - Sénat",
+  "url": "https://www.senat.fr/scrutin-public/2026/scr2026-163.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Scrutin 163 objet",
+  "valeur": "I-3124",
+  "extrait": "sous-amendement n° I-3124, présenté par MM. Jean-François Husson et Michel Canévet, à l'amendement n° I-212 ... à l'article 3 du projet de loi de finances pour 2027",
+  "media": "Sénat",
+  "titre": "Scrutin n°163 - séance du 24 novembre 2026 - Sénat",
+  "url": "https://www.senat.fr/scrutin-public/2026/scr2026-163.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Amendement I-212 RDPI Lévrier",
+  "valeur": "I-212",
+  "extrait": "amendement n° I-212, déposé par M. Lévrier et les membres du groupe Rassemblement des démocrates, progressistes et indépendants",
+  "media": "Sénat",
+  "titre": "Projet de loi de finances pour 2027 (1ère lecture), Première partie — sous-amendement n° I-3124",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-3124.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Sous-amendement remplace 2 200 € par 1 000 €",
+  "valeur": "2 200 €",
+  "extrait": "Remplacer « 2 200 € » par « 1 000 € »",
+  "media": "Sénat",
+  "titre": "Projet de loi de finances pour 2027 (1ère lecture), Première partie — sous-amendement n° I-3124",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-3124.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Plafond abattement 10 % à 1 000 €",
+  "valeur": "1 000 euros",
+  "extrait": "abaisser à 1 000 euros le plafond de l'abattement de 10 %",
+  "media": "Sénat",
+  "titre": "Projet de loi de finances pour 2027 (1ère lecture), Première partie — sous-amendement n° I-3124",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-3124.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Abattement 10 %",
+  "valeur": "10 %",
+  "extrait": "abaisser à 1 000 euros le plafond de l'abattement de 10 %",
+  "media": "Sénat",
+  "titre": "Projet de loi de finances pour 2027 (1ère lecture), Première partie — sous-amendement n° I-3124",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-3124.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Coût abattement 5,6 Md€",
+  "valeur": "5,6 Md €",
+  "extrait": "estimé à 5,6 Md € en 2026",
+  "media": "Sénat",
+  "titre": "Projet de loi de finances pour 2027 (1ère lecture), Première partie — sous-amendement n° I-3124",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-3124.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Proposition gouvernement 3 000 €",
+  "valeur": "3 000 euros",
+  "extrait": "abaisser son plafond à 3 000 euros",
+  "media": "Sénat",
+  "titre": "Projet de loi de finances pour 2027 (1ère lecture), Première partie — sous-amendement n° I-3124",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-3124.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Avis sagesse",
+  "valeur": "Sagesse",
+  "extrait": "Sagesse du Sénat",
+  "media": "Sénat",
+  "titre": "Projet de loi de finances pour 2027 (1ère lecture), Première partie — sous-amendement n° I-3124",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-3124.html",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "IFI seuil",
+  "valeur": "1 300 000 €",
+  "extrait": "l'IFI s'applique aux personnes dont le patrimoine net taxable dépasse 1 300 000 €",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul de l'IFI (impôt sur la fortune immobilière)",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-de-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "IFI barème tranche 0",
+  "valeur": "800 000 €",
+  "extrait": "0 % jusqu'à 800 000 €",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul de l'IFI (impôt sur la fortune immobilière)",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-de-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "IFI barème 0,5 %",
+  "valeur": "0,5 %",
+  "extrait": "0,5 % de 800 000 € à 1 300 000 €",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul de l'IFI (impôt sur la fortune immobilière)",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-de-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "IFI barème 0,7 %",
+  "valeur": "0,7 %",
+  "extrait": "0,7 % de 1 300 000 € à 2 570 000 €",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul de l'IFI (impôt sur la fortune immobilière)",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-de-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "IFI barème 2 570 000",
+  "valeur": "2 570 000 €",
+  "extrait": "0,7 % de 1 300 000 € à 2 570 000 €",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul de l'IFI (impôt sur la fortune immobilière)",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-de-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "IFI barème 1 %",
+  "valeur": "1 %",
+  "extrait": "1 % de 2 570 000 € à 5 000 000 €",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul de l'IFI (impôt sur la fortune immobilière)",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-de-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "IFI barème 1,25 %",
+  "valeur": "1,25 %",
+  "extrait": "1,25 % de 5 000 000 € à 10 000 000 €",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul de l'IFI (impôt sur la fortune immobilière)",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-de-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "IFI barème 1,5 %",
+  "valeur": "1,5 %",
+  "extrait": "1,5 % au-delà de 10 000 000 €",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul de l'IFI (impôt sur la fortune immobilière)",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-de-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "IFI décote bornes",
+  "valeur": "1 400 000",
+  "extrait": "elle ne concerne que les patrimoines compris entre 1 300 000 € et 1 400 000€",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul de l'IFI (impôt sur la fortune immobilière)",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-de-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "IFI décote formule",
+  "valeur": "17 500",
+  "extrait": "Le montant de la décote est égal à : 17 500 – (1,25 x montant du patrimoine net taxable).",
+  "media": "impots.gouv.fr",
+  "titre": "Calcul de l'IFI (impôt sur la fortune immobilière)",
+  "url": "https://www.impots.gouv.fr/particulier/calcul-de-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "IFI abattement RP 30 %",
+  "valeur": "30 %",
+  "extrait": "Un abattement de 30 % de la valeur vénale du bien est à déduire pour la résidence principale.",
+  "media": "impots.gouv.fr",
+  "titre": "Patrimoine taxable à l'IFI",
+  "url": "https://www.impots.gouv.fr/particulier/patrimoine-taxable-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "IFI évaluation 1er janvier",
+  "valeur": "1er janvier",
+  "extrait": "Les biens doivent être évalués au 1er janvier de l'année d'après leur valeur vénale.",
+  "media": "impots.gouv.fr",
+  "titre": "Patrimoine taxable à l'IFI",
+  "url": "https://www.impots.gouv.fr/particulier/patrimoine-taxable-lifi",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "BOFiP abattement art. 973",
+  "valeur": "30 %",
+  "extrait": "un abattement de 30 % est effectué sur la valeur vénale réelle de l'immeuble",
+  "media": "BOFiP",
+  "titre": "BOI-PAT-IFI-20-30-20 - Dispositions légales spécifiques pour l'évaluation de certains actifs",
+  "url": "https://bofip.impots.gouv.fr/doctrine/BOI-PAT-IFI-20-30-20",
+  "date": "2024-06-05"
+ },
+ {
+  "affirmation": "BOFiP définition RP",
+  "valeur": "majeure partie",
+  "extrait": "réside effectivement et de manière habituelle pendant la majeure partie de l'année",
+  "media": "BOFiP",
+  "titre": "BOI-PAT-IFI-20-30-20 - Dispositions légales spécifiques pour l'évaluation de certains actifs",
+  "url": "https://bofip.impots.gouv.fr/doctrine/BOI-PAT-IFI-20-30-20",
+  "date": "2024-06-05"
+ },
+ {
+  "affirmation": "BOFiP exclusion SCI",
+  "valeur": "sociétés civiles de gestion ou d'investissement immobilier",
+  "extrait": "les titres de sociétés civiles de gestion ou d'investissement immobilier, alors même que l'immeuble détenu par la société constituerait la résidence principale du redevable",
+  "media": "BOFiP",
+  "titre": "BOI-PAT-IFI-20-30-20 - Dispositions légales spécifiques pour l'évaluation de certains actifs",
+  "url": "https://bofip.impots.gouv.fr/doctrine/BOI-PAT-IFI-20-30-20",
+  "date": "2024-06-05"
+ },
+ {
+  "affirmation": "BOFiP exclusions RS et loués",
+  "valeur": "location",
+  "extrait": "les résidences secondaires ainsi que les immeubles donnés en location ne peuvent pas bénéficier de l'abattement de 30 %",
+  "media": "BOFiP",
+  "titre": "BOI-PAT-IFI-20-30-20 - Dispositions légales spécifiques pour l'évaluation de certains actifs",
+  "url": "https://bofip.impots.gouv.fr/doctrine/BOI-PAT-IFI-20-30-20",
+  "date": "2024-06-05"
+ },
+ {
+  "affirmation": "BOFiP un seul immeuble couple",
+  "valeur": "un seul immeuble",
+  "extrait": "même dans l'hypothèse où les époux font l'objet d'impositions distinctes à l'impôt sur le revenu, un seul immeuble est susceptible de bénéficier de l'abattement de 30 %",
+  "media": "BOFiP",
+  "titre": "BOI-PAT-IFI-20-30-20 - Dispositions légales spécifiques pour l'évaluation de certains actifs",
+  "url": "https://bofip.impots.gouv.fr/doctrine/BOI-PAT-IFI-20-30-20",
+  "date": "2024-06-05"
+ },
+ {
+  "affirmation": "BOFiP démembrement",
+  "valeur": "usufruitier",
+  "extrait": "cet abattement de 30 % est applicable à celui ou ceux d'entre eux qui l'occupe à titre de résidence principale, sur la valeur de sa part dans l'immeuble (répartition entre usufruitier et nu-propriétaire)",
+  "media": "BOFiP",
+  "titre": "BOI-PAT-IFI-20-30-20 - Dispositions légales spécifiques pour l'évaluation de certains actifs",
+  "url": "https://bofip.impots.gouv.fr/doctrine/BOI-PAT-IFI-20-30-20",
+  "date": "2024-06-05"
+ },
+ {
+  "affirmation": "BOFiP art 1655 ter",
+  "valeur": "1655 ter",
+  "extrait": "Pour les parts de sociétés visées à l'article 1655 ter du CGI, les associés sont réputés propriétaires directs des logements",
+  "media": "BOFiP",
+  "titre": "BOI-PAT-IFI-20-30-20 - Dispositions légales spécifiques pour l'évaluation de certains actifs",
+  "url": "https://bofip.impots.gouv.fr/doctrine/BOI-PAT-IFI-20-30-20",
+  "date": "2024-06-05"
+ },
+ {
+  "affirmation": "Référence art. 973 CGI",
+  "valeur": "973",
+  "extrait": "Est considéré comme résidence principale, au sens du deuxième alinéa de l'article 973 du CGI, l'immeuble ou la partie d'immeuble constituant la résidence habituelle et effective du redevable",
+  "media": "BOFiP",
+  "titre": "BOI-PAT-IFI-20-30-20 - Dispositions légales spécifiques pour l'évaluation de certains actifs",
+  "url": "https://bofip.impots.gouv.fr/doctrine/BOI-PAT-IFI-20-30-20",
+  "date": "2024-06-05"
+ },
+ {
+  "affirmation": "Calcul RP après abattement",
+  "valeur": "840 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 200 000 × 0,7 = 840 000",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul patrimoine net taxable",
+  "valeur": "1 340 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "840 000 + 500 000 = 1 340 000",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul tranche 0,5 %",
+  "valeur": "2 500",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "(1 300 000 − 800 000) × 0,5 % = 2 500",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul tranche 0,7 %",
+  "valeur": "280",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "(1 340 000 − 1 300 000) × 0,7 % = 280",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul impôt brut",
+  "valeur": "2 780",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2 500 + 280 = 2 780",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul décote",
+  "valeur": "750",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "17 500 − 1,25 % × 1 340 000 = 17 500 − 16 750 = 750",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul 1,25 % de P",
+  "valeur": "16 750",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1,25 % × 1 340 000 = 16 750",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul IFI dû",
+  "valeur": "2 030",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2 780 − 750 = 2 030",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul sans abattement P",
+  "valeur": "1 700 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 200 000 + 500 000 = 1 700 000",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul sans abattement tranche",
+  "valeur": "2 800",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "(1 700 000 − 1 300 000) × 0,7 % = 2 800",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul sans abattement IFI",
+  "valeur": "5 300",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2 500 + 2 800 = 5 300",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul écart",
+  "valeur": "3 270",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "5 300 − 2 030 = 3 270",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Question direct",
+  "valeur": "1 300 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 000 000 × 0,7 + 600 000 = 700 000 + 600 000 = 1 300 000",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Question direct RP",
+  "valeur": "700 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 000 000 × 0,7 = 700 000",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Question SCI P",
+  "valeur": "1 600 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 000 000 + 600 000 = 1 600 000",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Question SCI tranche",
+  "valeur": "2 100",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "(1 600 000 − 1 300 000) × 0,7 % = 2 100",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Question SCI IFI",
+  "valeur": "4 600",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2 500 + 2 100 = 4 600",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Question studio",
+  "valeur": "600 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "studio loué 600 000",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Question RP",
+  "valeur": "1 000 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "RP 1 000 000",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Exemple RP valeur",
+  "valeur": "1 200 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "RP 1 200 000",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Exemple appartement loué",
+  "valeur": "500 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "appartement loué 500 000",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Or : anticipations hausse Fed",
+  "valeur": "25-basis-point",
+  "extrait": "firm expectations of a 25-basis-point rate hike in December",
+  "media": "Investing.com (Kedia Advisory)",
+  "titre": "Gold Falls as Hawkish Fed Signals Reinforce Bets on a December Rate Increase",
+  "url": "https://in.investing.com/news/commodities-news/gold-falls-as-hawkish-fed-signals-reinforce-bets-on-a-december-rate-increase-5724860",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Williams et Cook inflation",
+  "valeur": "Cook",
+  "extrait": "Williams and Lisa Cook highlighted persistent inflation concerns",
+  "media": "Investing.com (Kedia Advisory)",
+  "titre": "Gold Falls as Hawkish Fed Signals Reinforce Bets on a December Rate Increase",
+  "url": "https://in.investing.com/news/commodities-news/gold-falls-as-hawkish-fed-signals-reinforce-bets-on-a-december-rate-increase-5724860",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Calcul base tranche 0,7 %",
+  "valeur": "40 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 340 000 − 1 300 000 = 40 000",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Brent règlement officiel",
+  "valeur": "91,40",
+  "extrait": "Oil Prices Reportedly Rise Over 2% As Brent Settles At $91.40",
+  "media": "Forbes Middle East",
+  "titre": "Oil Prices Reportedly Rise Over 2% As Brent Settles At $91.40",
+  "url": "https://www.forbesmiddleeast.com/industry/energy/brent-crude-rises-227-to-9140-wti-gains-235-to-8205",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "Brent variation règlement",
+  "valeur": "2,27 %",
+  "extrait": "Brent crude rises 2.27% to 91.40",
+  "media": "Forbes Middle East",
+  "titre": "Oil Prices Reportedly Rise Over 2% As Brent Settles At $91.40",
+  "url": "https://www.forbesmiddleeast.com/industry/energy/brent-crude-rises-227-to-9140-wti-gains-235-to-8205",
+  "date": "2026-11-24"
+ },
+ {
+  "affirmation": "PCE mercredi dernière mesure avant réunion",
+  "valeur": "PCE",
+  "extrait": "The PCE inflation report, the final inflation print before that meeting, is due Wednesday",
+  "media": "CNBC",
+  "titre": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
+  "url": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html",
+  "date": "2026-11-24"
+ }
+]
