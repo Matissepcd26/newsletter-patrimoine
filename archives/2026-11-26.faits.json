@@ -1,0 +1,524 @@
+[
+ {
+  "affirmation": "CAC 40 clôture",
+  "valeur": "7 980,57",
+  "extrait": "CAC 40 ; 7 980,57 pts ; -0,75 % sur la séance ; clôture du 25/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "CAC 40 variation",
+  "valeur": "-0,75",
+  "extrait": "Le CAC 40 a cédé 0,75 % pour finir à 7980,57 points ; -0,75 %",
+  "media": "Zonebourse",
+  "titre": "Paris termine en baisse, entraînée par le décrochage de Wall Street",
+  "url": "https://www.zonebourse.com/actualite-bourse/paris-termine-en-baisse-entrainee-par-le-decrochage-de-wall-street-ce7851d8da88f225",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "S&P 500",
+  "valeur": "7 182,78",
+  "extrait": "S&P 500 ; 7 182,78 pts ; -0,25 % sur la séance ; clôture du 25/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "S&P 500 variation",
+  "valeur": "-0,25",
+  "extrait": "S&P 500 ; 7 182,78 pts ; -0,25 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EGSPC/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Nasdaq",
+  "valeur": "23 585,80",
+  "extrait": "Nasdaq Composite ; 23 585,80 pts ; -0,62 % sur la séance ; clôture du 25/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Nasdaq variation",
+  "valeur": "-0,62",
+  "extrait": "Nasdaq Composite ; 23 585,80 pts ; -0,62 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Nvidia",
+  "valeur": "3,9",
+  "extrait": "Nvidia: Shares fell 3.9%",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-over-2-100822079.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Nasdaq plus de 4 % en début de séance",
+  "valeur": "4",
+  "extrait": "the Nasdaq fell \"more than 4% early in the session.\"",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-over-2-100822079.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Wall Street fermée jeudi",
+  "valeur": "Thursday",
+  "extrait": "The market will be closed on Thursday and will close early",
+  "media": "Yahoo Finance (Reuters)",
+  "titre": "Nasdaq, S&P 500 end down, but well off lows as investors buy bargains",
+  "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-futures-slide-over-2-100822079.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Euro Stoxx 50",
+  "valeur": "5 894,46",
+  "extrait": "Euro Stoxx 50 ; 5 894,46 pts ; -1,82 % sur la séance ; clôture du 25/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 variation",
+  "valeur": "-1,82",
+  "extrait": "Euro Stoxx 50 ; 5 894,46 pts ; -1,82 % sur la séance",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Europe baisse, droits de douane",
+  "valeur": "14",
+  "extrait": "l'administration Trump propose de nouveaux droits de douane visant 14 grands partenaires",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe finit dans le rouge, entraînée par les pertes de Wall Street",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-rouge-entrainee-par-les-pertes-de-wall-street-aeb5d3249fe286fb9bce161a6ab42247",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "EUR/USD",
+  "valeur": "1,0935",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,0935 ; -0,26 % sur la séance ; taux du 25/11/2026",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar américain",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "EUR/USD variation",
+  "valeur": "-0,26",
+  "extrait": "1,0935 ; -0,26 % sur la séance",
+  "media": "BCE",
+  "titre": "Taux de change de référence de l'euro : dollar américain",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "OAT 10 ans",
+  "valeur": "4,73",
+  "extrait": "Nov 25, 2026 4.732 ; Nov 24, 2026 4.779 ; arrondi 4,73",
+  "media": "Investing.com",
+  "titre": "France 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "OAT variation pb",
+  "valeur": "-4,7",
+  "extrait": "4,732 - 4,779 = -0,047 soit -4,7 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Bund 10 ans",
+  "valeur": "3,22",
+  "extrait": "Nov 25, 2026 3.2188 ; Nov 24, 2026 3.2639 ; arrondi 3,22",
+  "media": "Investing.com",
+  "titre": "Germany 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Bund variation pb",
+  "valeur": "-4,5",
+  "extrait": "3,2188 - 3,2639 = -0,0451 soit -4,5 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Spread OAT-Bund",
+  "valeur": "151",
+  "extrait": "4,732 - 3,2188 = 1,5132 soit 151 pb",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "OAT 10 ans et Bund 10 ans",
+  "valeur": "10",
+  "extrait": "OAT 10 ans ; Bund 10 ans",
+  "media": "Investing.com",
+  "titre": "France 10-Year Bond Yield Historical Data",
+  "url": "https://www.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Or",
+  "valeur": "3 538,70",
+  "extrait": "Or (contrat déc. 2026) ; 3 538,70 $/once ; -0,66 % sur la séance ; cours du 25/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Or variation",
+  "valeur": "-0,66",
+  "extrait": "3 538,70 $/once ; -0,66 % ; 13 h 30",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCZ26.CMX/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "3 535,8",
+  "extrait": "U.S. gold futures for December delivery dropped 0.73% to settle at $3,535.8 ; 3 535,8 ; -0,73",
+  "media": "CNBC",
+  "titre": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
+  "url": "https://cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Brent",
+  "valeur": "94,51",
+  "extrait": "Brent (contrat janv. 2027) ; 94,51 $/baril ; +3,39 % sur la séance ; cours du 25/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Brent variation",
+  "valeur": "+3,39",
+  "extrait": "94,51 $/baril ; +3,39 % ; 14 h 30",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Brent règlement",
+  "valeur": "94,61",
+  "extrait": "Brent: settled at $94.61, up 3.5% ; 94,61 ; +3,5 ; 3",
+  "media": "CNBC",
+  "titre": "Oil prices rise after Houthis say they attacked Saudi refinery",
+  "url": "https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Houthis Ras Tanura",
+  "valeur": "Ras Tanura",
+  "extrait": "Yemen's Iran-aligned Houthis said on Wednesday that they had attacked Saudi Arabia's Ras Tanura oil refinery",
+  "media": "CNBC",
+  "titre": "Oil prices rise after Houthis say they attacked Saudi refinery",
+  "url": "https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Opep+ 29 novembre",
+  "valeur": "29",
+  "extrait": "OPEC+ ministers will hold a series of meetings on November 29 to decide on their 2027 output policy ; 29 ; 2027",
+  "media": "CNBC",
+  "titre": "Oil prices rise after Houthis say they attacked Saudi refinery",
+  "url": "https://www.cnbc.com/2026/11/25/oil-wti-brent-hormuz-middle-east.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Bitcoin",
+  "valeur": "60 384,14",
+  "extrait": "Bitcoin ; 60 384,14 $ ; +1,08 % sur la séance ; clôture du 25/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Bitcoin variation",
+  "valeur": "+1,08",
+  "extrait": "60 384,14 $ ; +1,08 % ; 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "PCE",
+  "valeur": "3,8",
+  "extrait": "a seasonally adjusted 3.8% annual inflation rate, in line with the Dow Jones consensus estimate ; 3,8",
+  "media": "CNBC",
+  "titre": "Fed's preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+  "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "PCE core",
+  "valeur": "3,3",
+  "extrait": "Excluding food and energy, core PCE was 3.3%, the Commerce Department reported Wednesday ; 3,3",
+  "media": "CNBC",
+  "titre": "Fed's preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+  "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "PIB T3 US",
+  "valeur": "4,3",
+  "extrait": "Growth was 4.3% annualized ; 4,3",
+  "media": "CNBC",
+  "titre": "Fed's preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+  "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Revenus et dépenses",
+  "valeur": "0,7",
+  "extrait": "Income rose 0.7% ; Spending rose 0.3% ; 0,7 ; 0,3",
+  "media": "CNBC",
+  "titre": "Fed's preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+  "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Chômage hebdo",
+  "valeur": "189 000",
+  "extrait": "Initial claims fell to 189,000 for the week ending Nov. 21, down 13,000, versus an expected 200,000 ; 189 000 ; 13 000 ; 200 000 ; 21",
+  "media": "CNBC",
+  "titre": "Fed's preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+  "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Fed décembre",
+  "valeur": "8",
+  "extrait": "Markets were fully pricing a quarter-point hike at the Dec. 8-9 meeting ; 8 et 9 décembre",
+  "media": "CNBC",
+  "titre": "Fed's preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+  "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Fed 2027",
+  "valeur": "2027",
+  "extrait": "For 2027, traders still priced two more increases. Odds of a third hike fell to about 1-in-3, per CME FedWatch",
+  "media": "CNBC",
+  "titre": "Fed's preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
+  "url": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "PIB allemand",
+  "valeur": "0,1",
+  "extrait": "Le PIB de l'Allemagne croît de 0,1% au T3 2026, légèrement révisé à la baisse ; estimation préliminaire de 0,2 % ; 0,2",
+  "media": "Investing.com",
+  "titre": "Le PIB de l'Allemagne croît de 0,1% au T3 2026, légèrement révisé à la baisse",
+  "url": "https://fr.investing.com/news/economic-indicators/le-pib-de-lallemagne-croit-de-01-au-t3-2026-legerement-revise-a-la-baisse-93CH-3712290",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Compte rendu BCE",
+  "valeur": "13:30",
+  "extrait": "Publication of the account of the Governing Council's 28-29 October 2026 monetary policy meeting 13:30 CET ; 13 h 30 ; 28 ; 13",
+  "media": "BCE",
+  "titre": "Weekly schedule of public speaking engagements and other activities",
+  "url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Lagarde sommet zone euro",
+  "valeur": "10:00",
+  "extrait": "Christine Lagarde: participation in the Euro Summit, Brussels, Belgium 10:00 CET ; 10 h 00 ; 10 ; 00",
+  "media": "BCE",
+  "titre": "Weekly schedule of public speaking engagements and other activities",
+  "url": "https://www.ecb.europa.eu/press/calendars/weekly/html/index.en.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Abattement retraités",
+  "valeur": "1 000",
+  "extrait": "les sénateurs l'ont abaissé « à 1.000 euros » ; Actuellement, cet abattement est plafonné à 4.439 euros ; 1 000 ; 4 439 ; 10 %",
+  "media": "Boursorama (AFP)",
+  "titre": "Budget 2027 : le Sénat renonce finalement à supprimer l'abattement fiscal des retraités, mais le rabote",
+  "url": "https://www.boursorama.com/impots/actualites/budget-2027-le-senat-renonce-finalement-a-supprimer-l-abattement-fiscal-des-retraites-mais-le-rabote-42140215da03f8196aba63c52c9894ac",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Vote retraités",
+  "valeur": "175",
+  "extrait": "l'amendement a été adopté « par 175 voix contre 161 » ; 161",
+  "media": "Boursorama (AFP)",
+  "titre": "Budget 2027 : le Sénat renonce finalement à supprimer l'abattement fiscal des retraités, mais le rabote",
+  "url": "https://www.boursorama.com/impots/actualites/budget-2027-le-senat-renonce-finalement-a-supprimer-l-abattement-fiscal-des-retraites-mais-le-rabote-42140215da03f8196aba63c52c9894ac",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Plus-values immobilières",
+  "valeur": "20",
+  "extrait": "de fixer un taux global de plus-value immobilière à 20% après deux ans de détention ; une imposition globale de 32% ; 32 ; 1er janvier 2028",
+  "media": "MoneyVox",
+  "titre": "Budget 2027 : un amendement du Sénat fait évoluer l'imposition des plus-values immobilières",
+  "url": "https://www.moneyvox.fr/impot/actualites/111405/budget-2027-un-amendement-du-senat-fait-evoluer-imposition-des-plus-values-immobilieres",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Confiance ménages",
+  "valeur": "82",
+  "extrait": "Son indicateur synthétique gagne un point, à 82 ; moyenne de longue période, fixée à 100 ; 100",
+  "media": "INSEE",
+  "titre": "En novembre 2026, la confiance des ménages reste dégradée",
+  "url": "https://www.insee.fr/fr/statistiques/9156257",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Droits de douane Chine",
+  "valeur": "20",
+  "extrait": "An exception is China, which faces a 20% rate under the new tariff policy ; 14 economies ; 14",
+  "media": "CNBC",
+  "titre": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+  "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Section 301",
+  "valeur": "301",
+  "extrait": "The overcapacity levies are being imposed under Section 301 of the Trade Act of 1974 ; 1974",
+  "media": "CNBC",
+  "titre": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
+  "url": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "INSEE prix de production",
+  "valeur": "8h45",
+  "extrait": "8h45 : Indices de prix de production et d'importation de l'industrie - octobre 2026 ; 8 h 45 ; 45",
+  "media": "INSEE",
+  "titre": "Calendrier des publications",
+  "url": "https://www.insee.fr/fr/information/5235017",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "INSEE IPC provisoire",
+  "valeur": "8h45",
+  "extrait": "Vendredi 27 novembre 2026 8h45 : Indice des prix à la consommation - résultats provisoires - novembre 2026",
+  "media": "INSEE",
+  "titre": "Calendrier des publications",
+  "url": "https://www.insee.fr/fr/information/5235017",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "AMF corrélations",
+  "valeur": "corrélations entre actions et obligations",
+  "extrait": "la hausse des corrélations entre actions et obligations qui réduit d'autant plus leur capacité de diversification ; 2026",
+  "media": "AMF",
+  "titre": "Cartographie des marchés et des risques 2026",
+  "url": "https://www.amf-france.org/sites/institutionnel/files/private/2026-07/Cartographie%202026_01_07_2026.pdf",
+  "date": "2026-07-01"
+ },
+ {
+  "affirmation": "Exemple 60/40",
+  "valeur": "60",
+  "extrait": "wA = 0,6 (60 %), wB = 0,4 (40 %), σA = 18 %, σB = 7 % ; 0,6 ; 0,4 ; 0,18 ; 0,07 ; 18 ; 7",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Premier terme",
+  "valeur": "0,011664",
+  "extrait": "(0,6 × 0,18)² = 0,011664",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Deuxième terme",
+  "valeur": "0,000784",
+  "extrait": "(0,4 × 0,07)² = 0,000784",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "rho 1",
+  "valeur": "0,006048",
+  "extrait": "2 × 0,6 × 0,4 × 1 × 0,18 × 0,07 = 0,006048 ; variance 0,018496 ; volatilité 13,6 % ; 2 ; 1",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "rho 0,3",
+  "valeur": "0,0018144",
+  "extrait": "terme croisé 0,0018144 ; variance 0,0142624 ; volatilité 11,94 % ; 0,3",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "rho -0,2",
+  "valeur": "-0,0012096",
+  "extrait": "terme croisé -0,0012096 ; variance 0,0112384 ; volatilité 10,6 % ; -0,2 ; 0,2",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Écart de volatilité",
+  "valeur": "1,34",
+  "extrait": "11,94 - 10,6 = 1,34 point",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Divers",
+  "valeur": "24",
+  "extrait": "24 h UTC ; M2 ; 10 ans ; CAC 40 ; Euro Stoxx 50 ; S&P 500 ; 2",
+  "media": "calcul",
+  "titre": "calcul",
+  "url": "calcul",
+  "date": "calcul"
+ },
+ {
+  "affirmation": "Achats refuges",
+  "valeur": "4,7",
+  "extrait": "Taux : fuite vers les obligations d'État ; le Bund à 10 ans 4,7 points de base à 3,2189 %",
+  "media": "Boursorama (Reuters)",
+  "titre": "L'Europe finit dans le rouge, entraînée par les pertes de Wall Street",
+  "url": "https://www.boursorama.com/bourse/actualites/l-europe-finit-dans-le-rouge-entrainee-par-les-pertes-de-wall-street-aeb5d3249fe286fb9bce161a6ab42247",
+  "date": "2026-11-25"
+ }
+]
