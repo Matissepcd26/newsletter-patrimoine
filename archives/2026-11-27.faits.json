@@ -1033,5 +1033,23 @@
   "titre": "Cac 40 : Alors que Wall Street célèbre Thanksgiving, le CAC 40 cède à l'euphorie et termine en hausse d'1,6%",
   "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-alors-que-wall-street-celebre-thanksgiving-le-cac-40-cede-a-l-euphorie-et-termine-en-hausse-d-16-1174500.html",
   "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Or 25/11 contrat février",
+  "valeur": "3 567,80",
+  "extrait": "Or (contrat févr. 2027) ; 3 567,80 $/once ; -0,65 % sur la séance ; cours du 25/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCG27.CMX/history",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Or variation février",
+  "valeur": "0,65",
+  "extrait": "-0,65 % sur la séance ; cours du 25/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCG27.CMX/history",
+  "date": "2026-11-25"
  }
 ]
