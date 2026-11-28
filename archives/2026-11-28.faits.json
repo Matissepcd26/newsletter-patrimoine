@@ -1,0 +1,857 @@
+[
+ {
+  "affirmation": "CAC 40 clôture vendredi",
+  "valeur": "8 156,09",
+  "extrait": "CAC 40 ; 8 156,09 pts ; +2,88 % sur la semaine ; clôture du 27/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EFCHI/history",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "CAC 40 semaine",
+  "valeur": "+2,88 %",
+  "extrait": "le CAC 40 termine en hausse ce vendredi et reprend près de 3% sur la semaine ; +0,58 % sur la séance et +2,88 % sur la semaine",
+  "media": "BFM Bourse (Tradingsat)",
+  "titre": "Cac 40 : En attendant la décision de S&P sur la note de crédit de la France, le CAC 40 termine en hausse ce vendredi et reprend près de 3% sur la semaine",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-en-attendant-la-decision-de-sp-sur-la-note-de-credit-de-la-france-le-cac-40-termine-en-hausse-ce-vendredi-et-reprend-pres-de-3-sur-la-semaine-1174568.html",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Thales hausse vendredi",
+  "valeur": "2,1 %",
+  "extrait": "Thales : environ +2,1 %, après une offre de rachat sur Lumibird",
+  "media": "BFM Bourse (Tradingsat)",
+  "titre": "Cac 40 : En attendant la décision de S&P...",
+  "url": "https://www.tradingsat.com/cac-40-FR0003500008/actualites/cac-40-en-attendant-la-decision-de-sp-sur-la-note-de-credit-de-la-france-le-cac-40-termine-en-hausse-ce-vendredi-et-reprend-pres-de-3-sur-la-semaine-1174568.html",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "S&P 500 clôture",
+  "valeur": "7 297,49",
+  "extrait": "The S&P 500 rose 114.71 points, or 1.6%, to 7,297.49. S&P 500 ; 7 297,49 pts ; +5,60 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "How major US stock indexes fared Friday 11/27/2026",
+  "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-184551517.html",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "S&P 500 semaine",
+  "valeur": "+5,60 %",
+  "extrait": "S&P 500 ; 7 297,49 pts ; +5,60 % sur la semaine ; The benchmark index notched a 5.6% gain for the week, its biggest since April of 2025",
+  "media": "Yahoo Finance",
+  "titre": "How major US stock indexes fared Friday 11/27/2026",
+  "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-184551517.html",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Nasdaq clôture",
+  "valeur": "24 129,50",
+  "extrait": "Nasdaq Composite ; 24 129,50 pts ; +6,68 % sur la semaine ; The Nasdaq composite rose 543.70 points, or 2.3%, to 24,129.50",
+  "media": "Yahoo Finance",
+  "titre": "How major US stock indexes fared Friday 11/27/2026",
+  "url": "https://finance.yahoo.com/markets/world-indices/articles/major-us-stock-indexes-fared-184551517.html",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Nasdaq semaine",
+  "valeur": "+6,68 %",
+  "extrait": "Nasdaq Composite ; 24 129,50 pts ; +6,68 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5EIXIC/history",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Euro Stoxx 50",
+  "valeur": "6 089,20",
+  "extrait": "Euro Stoxx 50 ; 6 089,20 pts ; +2,48 % sur la semaine ; clôture du 27/11/2026",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Euro Stoxx 50 semaine",
+  "valeur": "+2,48 %",
+  "extrait": "Euro Stoxx 50 ; 6 089,20 pts ; +2,48 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/%5ESTOXX50E/history",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "EUR/USD BCE",
+  "valeur": "1,0957",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,0957 ; -0,30 % sur la semaine ; taux du 27/11/2026",
+  "media": "BCE",
+  "titre": "Taux de change de référence",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "EUR/USD semaine",
+  "valeur": "-0,30 %",
+  "extrait": "EUR/USD (taux de référence BCE) ; 1,0957 ; -0,30 % sur la semaine",
+  "media": "BCE",
+  "titre": "Taux de change de référence",
+  "url": "https://www.ecb.europa.eu/stats/policy_and_exchange_rates/euro_reference_exchange_rates/html/eurofxref-graph-usd.fr.html",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture 27/11",
+  "valeur": "4,705",
+  "extrait": "27/11/2026 4,705",
+  "media": "Investing.com",
+  "titre": "France 10 ans Données Historiques sur les Obligations - Investing.com",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "OAT 10 ans arrondi",
+  "valeur": "4,71",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "arrondi de 4,705 à deux décimales : 4,71",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "OAT 10 ans clôture 20/11",
+  "valeur": "4,872",
+  "extrait": "20/11/2026 4,872",
+  "media": "Investing.com",
+  "titre": "France 10 ans Données Historiques sur les Obligations - Investing.com",
+  "url": "https://fr.investing.com/rates-bonds/france-10-year-bond-yield-historical-data",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "OAT variation semaine",
+  "valeur": "-17",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "(4,705 - 4,872) x 100 = -16,7 pb, arrondi -17 pb",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Bund 10 ans 27/11",
+  "valeur": "3,2683",
+  "extrait": "27/11/2026 3,2683",
+  "media": "Investing.com",
+  "titre": "Allemagne 10 ans Données Historiques sur les Obligations - Investing.com",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Bund arrondi",
+  "valeur": "3,27",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "arrondi de 3,2683 : 3,27",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Bund 20/11",
+  "valeur": "3,3026",
+  "extrait": "20/11/2026 3,3026",
+  "media": "Investing.com",
+  "titre": "Allemagne 10 ans Données Historiques sur les Obligations - Investing.com",
+  "url": "https://fr.investing.com/rates-bonds/germany-10-year-bond-yield-historical-data",
+  "date": "2026-11-20"
+ },
+ {
+  "affirmation": "Bund variation",
+  "valeur": "-3",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "(3,2683 - 3,3026) x 100 = -3,4 pb, arrondi -3 pb",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Spread OAT-Bund 27/11",
+  "valeur": "144",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "(4,705 - 3,2683) x 100 = 143,7 pb, environ 144",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Spread OAT-Bund 20/11",
+  "valeur": "157",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "(4,872 - 3,3026) x 100 = 156,9 pb, environ 157",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Or règlement",
+  "valeur": "3 679,90",
+  "extrait": "Or (contrat févr. 2027) ; 3 679,90 $/once ; +3,86 % sur la semaine ; cours du 27/11/2026 à 13 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCG27.CMX/history",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Or semaine",
+  "valeur": "+3,86 %",
+  "extrait": "3 679,90 $/once ; +3,86 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCG27.CMX/history",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Or contrat février 2027",
+  "valeur": "2027",
+  "extrait": "Or (contrat févr. 2027)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/GCG27.CMX/history",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Brent",
+  "valeur": "94,03",
+  "extrait": "Brent (contrat janv. 2027) ; 94,03 $/baril ; +1,72 % sur la semaine ; cours du 27/11/2026 à 14 h 30 heure de New York (règlement)",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Brent semaine",
+  "valeur": "+1,72 %",
+  "extrait": "94,03 $/baril ; +1,72 % sur la semaine",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BZF27.NYM/history",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Bitcoin",
+  "valeur": "59 858,49",
+  "extrait": "Bitcoin ; 59 858,49 $ ; +1,78 % sur la semaine ; clôture du 27/11/2026 à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Bitcoin semaine",
+  "valeur": "+1,78 %",
+  "extrait": "59 858,49 $ ; +1,78 % sur la semaine ; à 24 h UTC",
+  "media": "Yahoo Finance",
+  "titre": "Historique des cours",
+  "url": "https://finance.yahoo.com/quote/BTC-USD/history",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "OPEP+ réunion dimanche 29 novembre",
+  "valeur": "29",
+  "extrait": "La prochaine réunion ministérielle de l'OPEP+, prévue dimanche 29 novembre, intervient dans ce contexte contrasté.",
+  "media": "Idéal Investisseur",
+  "titre": "Pétrole : le Brent rebondit sur fond de tensions saoudiennes avant la réunion de l'OPEP+",
+  "url": "https://www.ideal-investisseur.fr/eco-politique/petrole-le-brent-rebondit-sur-fond-de-tensions-saoudiennes-avant-la-reunion-de-lopep-34085.html",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Brent clôture mercredi",
+  "valeur": "94,61",
+  "extrait": "Les contrats à terme sur le Brent ont clôturé mercredi à 94,61 dollars le baril, en hausse de 3,51 %.",
+  "media": "Idéal Investisseur",
+  "titre": "Pétrole : le Brent rebondit sur fond de tensions saoudiennes avant la réunion de l'OPEP+",
+  "url": "https://www.ideal-investisseur.fr/eco-politique/petrole-le-brent-rebondit-sur-fond-de-tensions-saoudiennes-avant-la-reunion-de-lopep-34085.html",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Brent hausse mercredi",
+  "valeur": "3,51 %",
+  "extrait": "en hausse de 3,51 %",
+  "media": "Idéal Investisseur",
+  "titre": "Pétrole : le Brent rebondit sur fond de tensions saoudiennes avant la réunion de l'OPEP+",
+  "url": "https://www.ideal-investisseur.fr/eco-politique/petrole-le-brent-rebondit-sur-fond-de-tensions-saoudiennes-avant-la-reunion-de-lopep-34085.html",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Houthis Ras Tanura",
+  "valeur": "Ras Tanura",
+  "extrait": "Les rebelles houthis du Yémen ont revendiqué mercredi une attaque contre la raffinerie saoudienne de Ras Tanura. Des images satellitaires examinées par Reuters montrent d'importants dégagements de fumée au-dessus de l'installation.",
+  "media": "Idéal Investisseur",
+  "titre": "Pétrole : le Brent rebondit sur fond de tensions saoudiennes avant la réunion de l'OPEP+",
+  "url": "https://www.ideal-investisseur.fr/eco-politique/petrole-le-brent-rebondit-sur-fond-de-tensions-saoudiennes-avant-la-reunion-de-lopep-34085.html",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "PIB T3 révisé",
+  "valeur": "-0,2 %",
+  "extrait": "le PIB recule légèrement (-0,2 % après 0,0 %)",
+  "media": "Insee",
+  "titre": "Comptes nationaux trimestriels au troisième trimestre 2026 Comptes de la Nation en base 2020 - Résultats détaillés",
+  "url": "https://www.insee.fr/fr/statistiques/9100803",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "PIB T3 première estimation",
+  "valeur": "-0,1 %",
+  "extrait": "Le PIB se replie légèrement au troisième trimestre 2026 (-0,1 % après 0,0 %)",
+  "media": "Insee",
+  "titre": "Comptes nationaux trimestriels au troisième trimestre 2026",
+  "url": "https://www.insee.fr/fr/statistiques/9100803",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Pouvoir d'achat",
+  "valeur": "+0,2 %",
+  "extrait": "le pouvoir d'achat des ménages rebondit (+0,2 % par unité de consommation après -0,5 %)",
+  "media": "Insee",
+  "titre": "Comptes nationaux trimestriels au troisième trimestre 2026",
+  "url": "https://www.insee.fr/fr/statistiques/9100803",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Citation Marie Leclair",
+  "valeur": "On peut dire qu'on a une récession",
+  "extrait": "« On peut dire qu'on a une récession » : le PIB recule de 0,2% au 3ème trimestre 2026 ; Marie Leclair, cheffe du département des Comptes nationaux de l'Insee",
+  "media": "MoneyVox",
+  "titre": "« On peut dire qu'on a une récession » : le PIB recule de 0,2% au 3ème trimestre 2026",
+  "url": "https://www.moneyvox.fr/votre-argent/actualites/111451/on-peut-dire-quon-a-une-recession-le-pib-recule-de-0-2-au-3eme-trimestre-2026",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Acquis de croissance",
+  "valeur": "0,1 %",
+  "extrait": "L'acquis de croissance est de 0,1 % à la fin du troisième trimestre ; prévision gouvernementale de 0,5 % ; Il faudrait 1,4 % de croissance au cours du dernier trimestre",
+  "media": "MoneyVox",
+  "titre": "« On peut dire qu'on a une récession » : le PIB recule de 0,2% au 3ème trimestre 2026",
+  "url": "https://www.moneyvox.fr/votre-argent/actualites/111451/on-peut-dire-quon-a-une-recession-le-pib-recule-de-0-2-au-3eme-trimestre-2026",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Prévision gouvernement",
+  "valeur": "0,5 %",
+  "extrait": "prévision gouvernementale de 0,5 %",
+  "media": "MoneyVox",
+  "titre": "« On peut dire qu'on a une récession »...",
+  "url": "https://www.moneyvox.fr/votre-argent/actualites/111451/on-peut-dire-quon-a-une-recession-le-pib-recule-de-0-2-au-3eme-trimestre-2026",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "S&P perspective négative",
+  "valeur": "A+",
+  "extrait": "S&P a confirmé la note de la France « à A+ mais l'a assortie d'une perspective négative » ; « abaissé la perspective de stable à négative »",
+  "media": "Boursorama",
+  "titre": "S&P assortit la note souveraine de la France d'une perspective négative",
+  "url": "https://www.boursorama.com/bourse/actualites/s-p-assortit-la-note-souveraine-de-la-france-d-une-perspective-negative-480ecf2212c42e72497c6bc0bc15ec88",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "S&P motifs",
+  "valeur": "2027",
+  "extrait": "« l'augmentation de la dette publique dans un contexte de perspectives de croissance économique modérées » ; « le risque élevé que la fragmentation politique persiste après l'élection présidentielle de 2027 »",
+  "media": "Boursorama",
+  "titre": "S&P assortit la note souveraine de la France d'une perspective négative",
+  "url": "https://www.boursorama.com/bourse/actualites/s-p-assortit-la-note-souveraine-de-la-france-d-une-perspective-negative-480ecf2212c42e72497c6bc0bc15ec88",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Lescure budget responsable",
+  "valeur": "5%",
+  "extrait": "Roland Lescure vise un déficit ramené « à 5% du PIB au plus » ; « l'absolue nécessité de doter le pays dans les meilleurs délais d'un budget responsable »",
+  "media": "Boursorama",
+  "titre": "S&P assortit la note souveraine de la France d'une perspective négative",
+  "url": "https://www.boursorama.com/bourse/actualites/s-p-assortit-la-note-souveraine-de-la-france-d-une-perspective-negative-480ecf2212c42e72497c6bc0bc15ec88",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "PLF 2027 rejet AN",
+  "valeur": "4 novembre",
+  "extrait": "4 novembre 2026 : rejet en première lecture par l'Assemblée nationale ; 19 novembre 2026 : transmission au Sénat",
+  "media": "Assemblée nationale",
+  "titre": "Projet de loi de finances pour 2027 - Dossiers législatifs",
+  "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLF_2027",
+  "date": "2026-11-19"
+ },
+ {
+  "affirmation": "Calendrier Sénat samedi",
+  "valeur": "28 novembre",
+  "extrait": "Samedi 28 novembre et, éventuellement, dimanche 29 novembre - Suite et fin de l'examen des articles de la première partie - Explications de vote sur l'ensemble de la première partie - Scrutin public ordinaire de droit",
+  "media": "Sénat",
+  "titre": "Calendrier de la discussion du projet de loi de finances pour 2027",
+  "url": "https://www.senat.fr/ordre-du-jour/files/Calendrier_budgetaire_2027.pdf",
+  "date": "2026-11-03"
+ },
+ {
+  "affirmation": "Amendement I-538 rect.",
+  "valeur": "152 500 €",
+  "extrait": "le montant : « 152 500 € » est remplacé par le montant : « 100 000 € » ; primes versées à compter du 1er janvier 2027 ; MM. Delcros, Levi et Canévet ; Adopté ; avis défavorable commission et Gouvernement",
+  "media": "Sénat",
+  "titre": "Amendement n° I-538 rect.",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-538.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Amendement 100 000 €",
+  "valeur": "100 000 €",
+  "extrait": "remplacé par le montant : « 100 000 € »",
+  "media": "Sénat",
+  "titre": "Amendement n° I-538 rect.",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-538.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Amendement numéro",
+  "valeur": "I-538",
+  "extrait": "Amendement n° I-538 rect.",
+  "media": "Sénat",
+  "titre": "Amendement n° I-538 rect.",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-538.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Rendement amendement",
+  "valeur": "400 M€",
+  "extrait": "le rendement de cette mesure serait de l'ordre de 400 M € à comportement inchangé",
+  "media": "Sénat",
+  "titre": "Amendement n° I-538 rect.",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-538.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Article 990 I",
+  "valeur": "990 I",
+  "extrait": "modifie le premier alinéa du I de l'article 990 I du code général des impôts",
+  "media": "Sénat",
+  "titre": "Amendement n° I-538 rect.",
+  "url": "https://www.senat.fr/amendements/2026-2027/155/Amdt_I-538.html",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Vote mercredi, navette, CMP",
+  "valeur": "mercredi",
+  "extrait": "Le Sénat a adopté un amendement lors de la séance du mercredi ; Malgré l'avis défavorable du gouvernement et de la commission des finances ; une commission mixte paritaire (CMP)",
+  "media": "MoneyVox",
+  "titre": "Assurance vie : le Sénat propose de réduire l'abattement de 152 500 à 100 000 euros dès janvier 2027",
+  "url": "https://www.moneyvox.fr/assurance-vie/actualites/111434/le-senat-propose-de-reduire-abattement-de-152-500-a-100-000-euros-des-janvier-2027",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Assurance-vie collecte nette octobre",
+  "valeur": "4,3 milliards",
+  "extrait": "s'établit donc à 4,3 milliards d'euros en octobre 2026 ; en baisse de 1 milliard d'euros par rapport à octobre 2025",
+  "media": "Boursorama",
+  "titre": "L'assurance vie a connu un des meilleurs mois d'octobre de son histoire",
+  "url": "https://www.boursorama.com/epargne/assurance-vie/actualites/l-assurance-vie-a-connu-un-des-meilleurs-mois-d-octobre-de-son-histoire-a0b153c608f804aaaebeea57212f6292",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Assurance-vie prestations",
+  "valeur": "12,5 milliards",
+  "extrait": "les prestations (équivalent des retraits) sont en hausse de 4 %, à 12,5 milliards d'euros",
+  "media": "Boursorama",
+  "titre": "L'assurance vie a connu un des meilleurs mois d'octobre de son histoire",
+  "url": "https://www.boursorama.com/epargne/assurance-vie/actualites/l-assurance-vie-a-connu-un-des-meilleurs-mois-d-octobre-de-son-histoire-a0b153c608f804aaaebeea57212f6292",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Assurance-vie encours",
+  "valeur": "2.168",
+  "extrait": "L'encours des contrats d'assurance vie a atteint 2.168 milliards d'euros à fin octobre 2026",
+  "media": "Boursorama",
+  "titre": "L'assurance vie a connu un des meilleurs mois d'octobre de son histoire",
+  "url": "https://www.boursorama.com/epargne/assurance-vie/actualites/l-assurance-vie-a-connu-un-des-meilleurs-mois-d-octobre-de-son-histoire-a0b153c608f804aaaebeea57212f6292",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Assurance-vie cumul cotisations",
+  "valeur": "171 milliards",
+  "extrait": "En cumul depuis début 2026, les cotisations s'élèvent à 171 milliards d'euros",
+  "media": "Boursorama",
+  "titre": "L'assurance vie a connu un des meilleurs mois d'octobre de son histoire",
+  "url": "https://www.boursorama.com/epargne/assurance-vie/actualites/l-assurance-vie-a-connu-un-des-meilleurs-mois-d-octobre-de-son-histoire-a0b153c608f804aaaebeea57212f6292",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Inflation France novembre",
+  "valeur": "2,9 %",
+  "extrait": "augmenteraient de 2,9 % en novembre 2026, après +3,4 % en octobre",
+  "media": "Insee",
+  "titre": "En novembre 2026, les prix à la consommation augmenteraient de 2,9 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9161375",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Inflation octobre",
+  "valeur": "3,4 %",
+  "extrait": "après +3,4 % en octobre",
+  "media": "Insee",
+  "titre": "En novembre 2026, les prix à la consommation augmenteraient de 2,9 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9161375",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Inflation mensuelle",
+  "valeur": "0,7 %",
+  "extrait": "se replieraient de 0,7 % en novembre 2026, après +0,4 % en octobre",
+  "media": "Insee",
+  "titre": "En novembre 2026, les prix à la consommation augmenteraient de 2,9 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9161375",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "IPCH novembre",
+  "valeur": "3,2 %",
+  "extrait": "l'indice des prix à la consommation harmonisé augmenterait de 3,2 % en novembre 2026, après +3,7 % en octobre",
+  "media": "Insee",
+  "titre": "En novembre 2026, les prix à la consommation augmenteraient de 2,9 % sur un an",
+  "url": "https://www.insee.fr/fr/statistiques/9161375",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "IPCH octobre",
+  "valeur": "3,7 %",
+  "extrait": "après +3,7 % en octobre",
+  "media": "Insee",
+  "titre": "En novembre 2026...",
+  "url": "https://www.insee.fr/fr/statistiques/9161375",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Fed fourchette octobre",
+  "valeur": "3-3/4 to 4 percent",
+  "extrait": "The Committee decided to maintain the target range for the federal funds rate at 3-3/4 to 4 percent",
+  "media": "Federal Reserve",
+  "titre": "Federal Reserve issues FOMC statement",
+  "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261028a.htm",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed fourchette chiffres",
+  "valeur": "3,75",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "3-3/4 = 3,75 ; fourchette 3,75 %-4 %",
+  "url": "calcul",
+  "date": "2026-10-28"
+ },
+ {
+  "affirmation": "Fed réunion décembre",
+  "valeur": "8-9",
+  "extrait": "December 8-9* Meeting associated with a Summary of Economic Projections",
+  "media": "Federal Reserve",
+  "titre": "The Fed - Meeting calendars and information",
+  "url": "https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm",
+  "date": "2026-11-18"
+ },
+ {
+  "affirmation": "PCE octobre",
+  "valeur": "3,8%",
+  "extrait": "L'indice des prix PCE a progressé de 3,8% sur un an en octobre ; sous-jacente à 3,3 %",
+  "media": "Investing.com",
+  "titre": "Dow Jones : séance en V et clôture au-dessus des 50 000 points avant Thanksgiving",
+  "url": "https://fr.investing.com/news/stock-market-news/dow-jones--seance-en-v-et-cloture-audessus-des-50-000-points-avant-thanksgiving-3713640",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "PCE sous-jacent",
+  "valeur": "3,3 %",
+  "extrait": "La composante sous-jacente est à 3,3 %",
+  "media": "Investing.com",
+  "titre": "Dow Jones : séance en V et clôture au-dessus des 50 000 points avant Thanksgiving",
+  "url": "https://fr.investing.com/news/stock-market-news/dow-jones--seance-en-v-et-cloture-audessus-des-50-000-points-avant-thanksgiving-3713640",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "PIB US T3",
+  "valeur": "4,3%",
+  "extrait": "La croissance du PIB américain au troisième trimestre a en outre été révisée à 4,3% en rythme annualisé ; hausse de 25 points de base en décembre « quasi certaine »",
+  "media": "Investing.com",
+  "titre": "Dow Jones : séance en V et clôture au-dessus des 50 000 points avant Thanksgiving",
+  "url": "https://fr.investing.com/news/stock-market-news/dow-jones--seance-en-v-et-cloture-audessus-des-50-000-points-avant-thanksgiving-3713640",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Fed hausse 25 pb",
+  "valeur": "25",
+  "extrait": "hausse de 25 points de base en décembre, que les marchés jugent \"quasi certaine\"",
+  "media": "Investing.com",
+  "titre": "Dow Jones : séance en V et clôture au-dessus des 50 000 points avant Thanksgiving",
+  "url": "https://fr.investing.com/news/stock-market-news/dow-jones--seance-en-v-et-cloture-audessus-des-50-000-points-avant-thanksgiving-3713640",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "BCE taux octobre (rappel)",
+  "valeur": "2,50 %",
+  "extrait": "will remain unchanged at 2.50%, 2.65% and 2.90% respectively",
+  "media": "BCE",
+  "titre": "Monetary policy decisions",
+  "url": "https://ecb.europa.eu/press/pr/date/2026/html/ecb.mp261029~9a493adf17.en.html",
+  "date": "2026-10-29"
+ },
+ {
+  "affirmation": "BCE sondage Reuters (rappel)",
+  "valeur": "2,75%",
+  "extrait": "Les 71 économistes interrogés entre le 10 et le 12 novembre s'attendaient tous à ce que la BCE relève son taux de dépôt à 2,75% en décembre",
+  "media": "Boursorama",
+  "titre": "BCE : une dernière hausse des taux prévue en décembre, mais les risques pour l'avenir s'accumulent",
+  "url": "https://www.boursorama.com/bourse/actualites/bce-une-derniere-hausse-des-taux-prevue-en-decembre-mais-les-risques-pour-l-avenir-s-accumulent-541b965ac5d62afee8162b64ce5552f4",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "BCE 71 économistes",
+  "valeur": "71",
+  "extrait": "Les 71 économistes interrogés entre le 10 et le 12 novembre",
+  "media": "Boursorama",
+  "titre": "BCE : une dernière hausse des taux prévue en décembre...",
+  "url": "https://www.boursorama.com/bourse/actualites/bce-une-derniere-hausse-des-taux-prevue-en-decembre-mais-les-risques-pour-l-avenir-s-accumulent-541b965ac5d62afee8162b64ce5552f4",
+  "date": "2026-11-12"
+ },
+ {
+  "affirmation": "Droits de douane 14 partenaires",
+  "valeur": "14",
+  "extrait": "Washington cible 14 \"partenaires commerciaux\" avec de nouveaux droits de douane ; la Malaisie est à 19 % ; le plafond négocié est de 15 %",
+  "media": "Boursorama",
+  "titre": "Washington cible 14 \"partenaires commerciaux\" avec de nouveaux droits de douane",
+  "url": "https://www.boursorama.com/bourse/actualites/washington-cible-14-partenaires-commerciaux-avec-de-nouveaux-droits-de-douane-e92959bb460aa4401b54f237632b6bba",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "UE plafond 15 %",
+  "valeur": "15 %",
+  "extrait": "le plafond négocié est de 15 %, comme pour le Japon, la Corée du Sud et Taïwan",
+  "media": "Boursorama",
+  "titre": "Washington cible 14 \"partenaires commerciaux\" avec de nouveaux droits de douane",
+  "url": "https://www.boursorama.com/bourse/actualites/washington-cible-14-partenaires-commerciaux-avec-de-nouveaux-droits-de-douane-e92959bb460aa4401b54f237632b6bba",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Chine jusqu'à 20 %, Greer, Commission",
+  "valeur": "20 %",
+  "extrait": "jusqu'à 20 % ; « Nous proposons aujourd'hui une série de droits de douane ciblés afin de répondre à ce problème de production excessive » ; « Nous contestons fermement cette idée » ; un mois après l'annonce",
+  "media": "Boursorama",
+  "titre": "Washington annonce de nouveaux droits de douane contre ses principaux partenaires commerciaux",
+  "url": "https://www.boursorama.com/actualite-economique/actualites/washington-annonce-de-nouveaux-droits-de-douane-contre-ses-principaux-partenaires-commerciaux-ed85772a8a64130c322e9503037ca0ee",
+  "date": "2026-11-25"
+ },
+ {
+  "affirmation": "Nvidia restrictions FT",
+  "valeur": "quatre pays",
+  "extrait": "les partenaires de Nvidia auraient reçu l'ordre de suspendre les livraisons de serveurs vers quatre pays d'Asie du Sud-Est (Malaisie, Singapour, Thaïlande, Indonésie) ; rapport mensuel sur l'emploi américain, attendu vendredi, précédé des enquêtes JOLTS et ADP, et des indices ISM",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Wall Street s'offre sa meilleure semaine de Thanksgiving depuis 2008",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-offre-sa-meilleure-semaine-de-thanksgiving-depuis-2008-1ea6008bc8c239f6f38ad085b531f75a",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Thales Lumibird 51,6 %",
+  "valeur": "51,6 %",
+  "extrait": "La proposition de Thales reviendrait à prendre le contrôle de 51,6 % du capital de Lumibird ; une offre à hauteur de 30,10 euros par action ; offre publique d'achat simplifiée sur les 48,4 % de capital restant, au même prix",
+  "media": "Boursorama",
+  "titre": "Thales en passe de prendre le contrôle de Lumibird, entreprise spécialisée dans le laser",
+  "url": "https://www.boursorama.com/bourse/actualites/thales-en-passe-de-prendre-le-controle-de-lumibird-entreprise-specialisee-dans-le-laser-0270cf3536f602babaeb58a151fa93da",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Thales prix 30,10",
+  "valeur": "30,10",
+  "extrait": "une offre à hauteur de 30,10 euros par action",
+  "media": "Boursorama",
+  "titre": "Thales en passe de prendre le contrôle de Lumibird, entreprise spécialisée dans le laser",
+  "url": "https://www.boursorama.com/bourse/actualites/thales-en-passe-de-prendre-le-controle-de-lumibird-entreprise-specialisee-dans-le-laser-0270cf3536f602babaeb58a151fa93da",
+  "date": "2026-11-27"
+ },
+ {
+  "affirmation": "Art. 150-0 D, 1 définition",
+  "valeur": "prix effectif de cession",
+  "extrait": "Les gains nets mentionnés au I de l'article 150-0 A sont constitués par la différence entre le prix effectif de cession des titres ou droits, net des frais et taxes acquittés par le cédant, et leur prix effectif d'acquisition par celui-ci",
+  "media": "Légifrance",
+  "titre": "Article 150-0 D - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051218045",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Art. 150-0 D, 1 ter conditions",
+  "valeur": "1er janvier 2018",
+  "extrait": "1° Les actions, parts, droits ou titres ont été acquis ou souscrits antérieurement au 1er janvier 2018 ; 2° Les gains nets ... sont imposés dans les conditions prévues au 2 de l'article 200 A ; a) 50 % ... au moins deux ans et moins de huit ans ; b) 65 % ... au moins huit ans",
+  "media": "Légifrance",
+  "titre": "Article 150-0 D - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051218045",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Art. 200 A taux 12,8 %",
+  "valeur": "12,8 %",
+  "extrait": "Le taux forfaitaire mentionné au premier alinéa du présent 1 est fixé à 12,8 % ; En vigueur depuis le 21 février 2026",
+  "media": "Légifrance",
+  "titre": "Article 200 A - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053546896",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "Art. 200 A, 2 option globale",
+  "valeur": "option globale",
+  "extrait": "sur option expresse du contribuable ; Cette option globale est exercée lors du dépôt de la déclaration prévue à l'article 170",
+  "media": "Légifrance",
+  "titre": "Article 200 A - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053546896",
+  "date": "2026-02-21"
+ },
+ {
+  "affirmation": "PFU 31,4 % impots.gouv",
+  "valeur": "31,4 %",
+  "extrait": "taux global de 31,4 %, dont 12,8 % au titre de l'impôt sur le revenu et 18,6 % au titre des prélèvements sociaux ; option globale et expresse pour le barème progressif ; case 2OP",
+  "media": "impots.gouv.fr",
+  "titre": "J'ai réalisé une plus-value mobilière, comment est-elle imposée ?",
+  "url": "https://www.impots.gouv.fr/particulier/questions/jai-realise-une-plus-value-mobiliere-comment-est-elle-imposee",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Prélèvements sociaux 18,6 %",
+  "valeur": "18,6 %",
+  "extrait": "soumise au prélèvement forfaitaire unique de 31,4 %, 12,8 % d'impôt sur le revenu et 18,6 % de prélèvements sociaux",
+  "media": "Service-public.fr",
+  "titre": "Impôt sur le revenu - Plus-values sur valeurs mobilières",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21618",
+  "date": "2026-04-15"
+ },
+ {
+  "affirmation": "Option barème ensemble et renonciation",
+  "valeur": "ensemble",
+  "extrait": "L'option s'applique à l'ensemble de vos revenus mobiliers et de vos plus-values de cessions de valeurs mobilières ; pour les revenus de 2026 et les années suivantes, vous pouvez renoncer à votre option pour le barème progressif",
+  "media": "Service-public.fr",
+  "titre": "Impôt sur le revenu - Revenus d'épargne et de placement - Revenus 2026",
+  "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34913/1_7",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Exemple : 1 000 actions à 14 €",
+  "valeur": "14 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 000 x 14 = 14 000 € (hypothèse)",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Exemple : prix de cession",
+  "valeur": "19 000",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 000 x 19 = 19 000 € (hypothèse, frais 20 €)",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Exemple : gain net",
+  "valeur": "4 980",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "19 000 - 20 - 14 000 = 4 980 €",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Exemple : IR 12,8 %",
+  "valeur": "637,44",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4 980 x 12,8 % = 637,44 €",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Exemple : PS 18,6 %",
+  "valeur": "926,28",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4 980 x 18,6 % = 926,28 €",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Exemple : total PFU",
+  "valeur": "1 563,72",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "637,44 + 926,28 = 1 563,72 € (= 4 980 x 31,4 %)",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Exemple : barème 11 %",
+  "valeur": "547,80",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "4 980 x 11 % = 547,80 € ; TMI 11 % hypothèse",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Exemple : total barème",
+  "valeur": "1 474,08",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "547,80 + 926,28 = 1 474,08 €",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Exemple : écart",
+  "valeur": "89,64",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "1 563,72 - 1 474,08 = 89,64 €",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Encours écrit à la française",
+  "valeur": "2 168",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "2.168 milliards (notation de la source) = 2 168 milliards d'euros",
+  "url": "calcul",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Exemple : année d'achat",
+  "valeur": "2021",
+  "extrait": "calcul",
+  "media": "calcul",
+  "titre": "hypothèse : titres achetés en 2021, donc après le 1er janvier 2018",
+  "url": "calcul",
+  "date": "2026-11-28"
+ },
+ {
+  "affirmation": "Article 990 I champ",
+  "valeur": "757 B",
+  "extrait": "Lorsqu'elles n'entrent pas dans le champ d'application de l'article 757 B, les sommes, rentes ou valeurs quelconques dues ... à raison du décès de l'assuré ; puis d'un abattement fixe de 152 500 €",
+  "media": "Légifrance",
+  "titre": "Article 990 I - Code général des impôts",
+  "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047288653",
+  "date": "2023-03-11"
+ },
+ {
+  "affirmation": "Amendement Blanc",
+  "valeur": "Grégory Blanc",
+  "extrait": "L'amendement de Grégory Blanc, du groupe Écologiste – Solidarité et Territoires ; Amdt_I-1048",
+  "media": "MoneyVox",
+  "titre": "Assurance vie : le Sénat propose de réduire l'abattement de 152 500 à 100 000 euros dès janvier 2027",
+  "url": "https://www.moneyvox.fr/assurance-vie/actualites/111434/le-senat-propose-de-reduire-abattement-de-152-500-a-100-000-euros-des-janvier-2027",
+  "date": "2026-11-26"
+ },
+ {
+  "affirmation": "Onze secteurs",
+  "valeur": "onze",
+  "extrait": "Les onze secteurs du S&P 500 sont dans le vert",
+  "media": "Boursorama (Zonebourse)",
+  "titre": "Wall Street s'offre sa meilleure semaine de Thanksgiving depuis 2008",
+  "url": "https://www.boursorama.com/bourse/actualites/wall-street-s-offre-sa-meilleure-semaine-de-thanksgiving-depuis-2008-1ea6008bc8c239f6f38ad085b531f75a",
+  "date": "2026-11-27"
+ }
+]
